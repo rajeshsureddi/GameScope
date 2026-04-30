@@ -4,10 +4,54 @@ document.addEventListener('DOMContentLoaded', () => {
     const claritySelect = document.getElementById('clarity-select');
     const artifactsSelect = document.getElementById('artifacts-select');
     const platformBtns = document.querySelectorAll('#platform-filters .toggle-btn');
+    const metadataVisualizationGrid = document.getElementById('metadata-visualization-grid');
+    const metadataFileLinks = document.getElementById('metadata-file-links');
 
     // State
     let allVideos = [];
     let filters = { platform: 'all', clarity: 'all', artifacts: 'all' };
+
+    const metadataImagePaths = [
+        'images/good_results_visualizations/clips_count/gamingVQA_combined_ugc_ps5_game_clip_counts_by_resolution.png',
+        'images/good_results_visualizations/clips_count/gamingVQA_game_clip_counts_by_resolution.png',
+        'images/good_results_visualizations/clips_count/gamingVQA_PS5_game_clip_counts_by_resolution.png',
+        'images/good_results_visualizations/clips_count/GamingVQA_orientation_distribution.png',
+        'images/good_results_visualizations/clips_count/GamingVQA_PS5_orientation_distribution.png',
+        'images/good_results_visualizations/clips_count/GamingVQA_PS5_resolution_distribution.png',
+        'images/good_results_visualizations/clips_count/GamingVQA_resolution_distribution.png',
+        'images/good_results_visualizations/clips_count/overall_orientation_distribution_bar.png',
+        'images/good_results_visualizations/clips_count/overall_resolution_distribution_bar.png',
+        'images/good_results_visualizations/clips_count/ps5_orientation_distribution_bar.png',
+        'images/good_results_visualizations/clips_count/ps5_resolution_distribution_bar.png',
+        'images/good_results_visualizations/score_distribution_overall.png',
+        'images/good_results_visualizations/score_distribution_PS5_train_vs_test.png',
+        'images/good_results_visualizations/score_distribution_test_only.png',
+        'images/good_results_visualizations/score_distribution_test_UGC_vs_PS5.png',
+        'images/good_results_visualizations/score_distribution_train_only.png',
+        'images/good_results_visualizations/score_distribution_train_test_combined_vertical.png',
+        'images/good_results_visualizations/score_distribution_train_UGC_vs_PS5.png',
+        'images/good_results_visualizations/score_distribution_train_vs_test.png',
+        'images/good_results_visualizations/score_distribution_UGC_train_vs_test.png'
+    ];
+
+    const metadataOtherFiles = [
+        'images/good_results_visualizations/gaming_vqa_train_conversations.json',
+        'images/good_results_visualizations/gaming_vqa_test_conversations.json',
+        'images/good_results_visualizations/train_GamingVQA.csv',
+        'images/good_results_visualizations/test_GamingVQA.csv',
+        'images/good_results_visualizations/score_distribution_overall.pdf',
+        'images/good_results_visualizations/score_distribution_PS5_train_vs_test.pdf',
+        'images/good_results_visualizations/score_distribution_test_only.pdf',
+        'images/good_results_visualizations/score_distribution_test_UGC_vs_PS5.pdf',
+        'images/good_results_visualizations/score_distribution_train_only.pdf',
+        'images/good_results_visualizations/score_distribution_train_test_combined_vertical.pdf',
+        'images/good_results_visualizations/score_distribution_train_UGC_vs_PS5.pdf',
+        'images/good_results_visualizations/score_distribution_train_vs_test.pdf',
+        'images/good_results_visualizations/score_distribution_UGC_train_vs_test.pdf',
+        'images/good_results_visualizations/clips_count/gamingVQA_combined_ugc_ps5_game_clip_counts_by_resolution.pdf',
+        'images/good_results_visualizations/clips_count/gamingVQA_game_clip_counts_by_resolution.pdf',
+        'images/good_results_visualizations/clips_count/gamingVQA_PS5_game_clip_counts_by_resolution.pdf'
+    ];
 
     // Fetch Data
     fetch('data.json')
@@ -16,10 +60,12 @@ document.addEventListener('DOMContentLoaded', () => {
             allVideos = data;
             initializeFilters(data);
             renderVideos(data);
+            renderMetadataVisualizations();
         })
         .catch(err => {
             console.error('Failed to load data.json', err);
             videoGrid.innerHTML = `<div class="error-state">Failed to load dataset. JSON not found.</div>`;
+            renderMetadataVisualizations();
         });
 
     function initializeFilters(data) {
@@ -111,6 +157,33 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
             `;
         }).join('');
+    }
+
+    function renderMetadataVisualizations() {
+        if (metadataVisualizationGrid) {
+            metadataVisualizationGrid.innerHTML = metadataImagePaths.map(path => {
+                const fileName = path.split('/').pop();
+                const folder = path.includes('/clips_count/') ? 'clips_count' : 'score_distributions';
+                return `
+                    <article class="viz-card">
+                        <a href="${path}" target="_blank" rel="noopener">
+                            <img src="${path}" alt="${fileName}" loading="lazy">
+                            <div class="viz-card-body">
+                                <h3 class="viz-card-title">${fileName}</h3>
+                                <p class="viz-card-meta">${folder}</p>
+                            </div>
+                        </a>
+                    </article>
+                `;
+            }).join('');
+        }
+
+        if (metadataFileLinks) {
+            metadataFileLinks.innerHTML = metadataOtherFiles.map(path => {
+                const fileName = path.split('/').pop();
+                return `<a class="metadata-file-link" href="${path}" target="_blank" rel="noopener">${fileName}</a>`;
+            }).join('');
+        }
     }
 
     // Auto-pause others when one plays

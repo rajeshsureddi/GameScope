@@ -245,6 +245,80 @@ body {
     /* Slight tint */
 }
 
+/* Metadata Visualizations */
+.viz-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.25rem;
+}
+
+.viz-card {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: var(--card-radius);
+    overflow: hidden;
+    transition: var(--transition);
+}
+
+.viz-card:hover {
+    border-color: var(--border-hover);
+    transform: translateY(-2px);
+}
+
+.viz-card a {
+    display: block;
+    text-decoration: none;
+}
+
+.viz-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    background: #000;
+}
+
+.viz-card-body {
+    padding: 0.9rem 1rem 1rem;
+}
+
+.viz-card-title {
+    font-size: 0.9rem;
+    color: var(--color-text-primary);
+    word-break: break-word;
+}
+
+.viz-card-meta {
+    margin-top: 0.35rem;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--color-text-dim);
+}
+
+.metadata-file-links {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.metadata-file-link {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-family: var(--font-mono);
+    padding: 0.45rem 0.8rem;
+    transition: var(--transition);
+}
+
+.metadata-file-link:hover {
+    color: var(--color-text-primary);
+    border-color: var(--border-hover);
+}
+
 
 /* Gallery */
 .controls-bar {

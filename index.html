@@ -109,7 +109,7 @@
                 <div class="container">
                     <div class="section-header">
                         <h2><i class="fa-solid fa-video"></i> Video Gallery</h2>
-                        <p>Explore samples filtered by platform, clarity, and artifact severity.</p>
+                        <p>Explore samples filtered by platform, clarity, artifact severity, and immersion level.</p>
                     </div>
 
                     <div class="controls-bar">
@@ -136,6 +136,16 @@
                             <label>Artifacts</label>
                             <div class="select-wrapper">
                                 <select id="artifacts-select">
+                                    <option value="all">All Levels</option>
+                                    <!-- Populated via JS -->
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="filter-group">
+                            <label>Immersion</label>
+                            <div class="select-wrapper">
+                                <select id="immersion-select">
                                     <option value="all">All Levels</option>
                                     <!-- Populated via JS -->
                                 </select>

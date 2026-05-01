@@ -3,15 +3,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const videoGrid = document.getElementById('video-grid');
     const claritySelect = document.getElementById('clarity-select');
     const artifactsSelect = document.getElementById('artifacts-select');
+    const immersionSelect = document.getElementById('immersion-select');
     const platformBtns = document.querySelectorAll('#platform-filters .toggle-btn');
     const metadataVisualizationGrid = document.getElementById('metadata-visualization-grid');
     const metadataFileLinks = document.getElementById('metadata-file-links');
 
     // State
     let allVideos = [];
-    let filters = { platform: 'all', clarity: 'all', artifacts: 'all' };
+    let filters = { platform: 'all', clarity: 'all', artifacts: 'all', immersion: 'all' };
 
     const metadataImagePaths = [
+        'images/good_results_visualizations/score_distribution_overall.png',
         'images/good_results_visualizations/score_distribution_train_vs_test.png'
     ];
 
@@ -50,6 +52,17 @@ document.addEventListener('DOMContentLoaded', () => {
             opt.textContent = a;
             artifactsSelect.appendChild(opt);
         });
+
+        // Unique Immersion levels
+        const immersionOrder = ['Low level of immersion', 'Moderate level of immersion', 'High level of immersion'];
+        const immersions = [...new Set(data.map(d => d.most_common_immersion))]
+            .sort((a, b) => immersionOrder.indexOf(a) - immersionOrder.indexOf(b));
+        immersions.forEach(i => {
+            const opt = document.createElement('option');
+            opt.value = i;
+            opt.textContent = i;
+            immersionSelect.appendChild(opt);
+        });
     }
 
     // Toggle Button Logic
@@ -73,11 +86,17 @@ document.addEventListener('DOMContentLoaded', () => {
         applyFilters();
     });
 
+    immersionSelect.addEventListener('change', (e) => {
+        filters.immersion = e.target.value;
+        applyFilters();
+    });
+
     function applyFilters() {
         const filtered = allVideos.filter(v => {
             if (filters.platform !== 'all' && v.user_type !== filters.platform) return false;
             if (filters.clarity !== 'all' && v.most_common_clarity !== filters.clarity) return false;
             if (filters.artifacts !== 'all' && v.most_common_artifacts !== filters.artifacts) return false;
+            if (filters.immersion !== 'all' && v.most_common_immersion !== filters.immersion) return false;
             return true;
         });
         renderVideos(filtered);
@@ -109,6 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="${platformClass}">${platformLabel}</span>
                         <span class="tag meta">${v.most_common_clarity}</span>
                         <span class="tag meta">${v.most_common_artifacts}</span>
+                        <span class="tag meta">${v.most_common_immersion}</span>
                     </div>
                     <div class="card-title" title="${v.File.split('/').pop()}">${v.content_type || 'Unknown Content'}</div>
                     <div class="card-metrics">

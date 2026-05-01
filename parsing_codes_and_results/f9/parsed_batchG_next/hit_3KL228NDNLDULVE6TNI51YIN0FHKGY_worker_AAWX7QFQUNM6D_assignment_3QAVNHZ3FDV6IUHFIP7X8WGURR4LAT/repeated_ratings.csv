@@ -1,0 +1,25 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_2300k_h264_nvenc,sample,5.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03460000002384156
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_2300k_h264_nvenc,sample,39.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.020399999976158156
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_2000k_hevc_nvenc,sample,78.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.021000000000000796
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_2000k_hevc_nvenc,sample,67.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02149999999999963
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_1300k_av1,sample,70.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015499999999999403
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_1300k_av1,sample,54.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.016399999976158597
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_6000k_hevc_nvenc,sample,3.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-5.7007999999523165
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_6000k_hevc_nvenc,sample,72.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-5.961399999976158
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_800k_hevc_nvenc,sample,61.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.9293000000715255
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_800k_hevc_nvenc,sample,59.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04860000002384268
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_5000k_h264_nvenc,sample,75.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.006800000071525147
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_5000k_h264_nvenc,sample,95.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.046600000023842014
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,96.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.057399999976158966
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,38.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11810000002384236
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,42.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.640000000000001
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-5.439399999976158
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,15.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.060799999952315886
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,37.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04910000002384152
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,47.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.436900000095367
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,38.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14679999995231618
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,40.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1216000000238413
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,69.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1267999999523166
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.875699999928474
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,79.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12979999995231672

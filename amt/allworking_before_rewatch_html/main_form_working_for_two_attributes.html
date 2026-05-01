@@ -1,0 +1,327 @@
+{% if 0 %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="bootstrap.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link
+    rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+  >
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="main_logic.js"></script>
+</head>
+<body>
+{% endif %}
+
+<div class="slidecontainer" id="traintest" width="100%" align="center">
+  <div class="center" width="100%" id="divVideo"></div>
+
+  <div class="center">
+    <div id="main-slider" class="box">
+
+      <!-- Inserted Attributes Block -->
+      <div
+        class="row"
+        style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;"
+      >
+        <div class="col-md-6">
+          <div class="category">
+            <h3>1️⃣ Clarity & Sharpness</h3>
+            <div class="checkbox-group">
+              <label>
+                <input
+                  type="radio"
+                  name="sharpness"
+                  value="Highly Sharp and Clear"
+                >
+                Highly Sharp and Clear
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="sharpness"
+                  value="Moderately Sharp and Clear"
+                >
+                Moderately Sharp and Clear
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="sharpness"
+                  value="Minimally Sharp and Clear"
+                >
+                Minimally Sharp and Clear
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="category">
+            <h3>2️⃣ Pixelation & Blockiness</h3>
+            <div class="checkbox-group">
+              <label>
+                <input
+                  type="radio"
+                  name="artifacts"
+                  value="No visible artifacts"
+                >
+                No visible artifacts
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="artifacts"
+                  value="Minor Artifacts Present"
+                >
+                Minor Artifacts Present
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="artifacts"
+                  value="Severe Artifacts Present"
+                >
+                Severe Artifacts Present
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="category">
+            <h3>3️⃣ Color Accuracy & Visibility</h3>
+            <div class="checkbox-group">
+              <label>
+                <input type="radio" name="color" value="Colors look natural">
+                Colors look natural
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="color"
+                  value="Colors look slightly off"
+                >
+                Colors look slightly off
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="color"
+                  value="Colors are very unnatural"
+                >
+                Colors are very unnatural
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="category">
+            <h3>4️⃣ Immersive Game Experience</h3>
+            <div class="checkbox-group">
+              <label>
+                <input
+                  type="radio"
+                  name="immersion"
+                  value="High level of immersion"
+                >
+                High level of immersion
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="immersion"
+                  value="Moderate level of immersion"
+                >
+                Moderate level of immersion
+              </label><br>
+              <label>
+                <input
+                  type="radio"
+                  name="immersion"
+                  value="Low level of immersion"
+                >
+                Low level of immersion
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Attributes Block -->
+
+      <div id="feedback" align="center" style="display:none"></div>
+      <div id="trial_num" style="display:none"></div>
+      <div
+        id="short_info"
+        align="center"
+        style="width: 80%; margin: 0 auto; text-align: left; display:none"
+      ></div>
+      <div id="slider_info" align="center">
+        Please drag the slider to indicate the quality you saw.<br>
+        Focus on the <b>quality</b> instead of the content.<br>
+        (The initial position of the slider is placed at random.)
+      </div>
+      <div id="short_instructions" style="display:none;"></div>
+      <br>
+
+      <div
+        class="steps"
+        style="display: flex; justify-content: space-between; width:80%; font-size:small;"
+        align="center"
+      >
+        <span style="width:19%;text-align:center;">BAD</span>
+        <span style="width:19%;text-align:center;">POOR</span>
+        <span style="width:19%;text-align:center;">FAIR</span>
+        <span style="width:19%;text-align:center;">GOOD</span>
+        <span style="width:19%;text-align:center;">EXCELLENT</span>
+      </div>
+      <input
+        type="range"
+        class="slider"
+        name="points"
+        id="points"
+        value="50"
+        min="0"
+        max="100"
+        data-show-value="false"
+        style="height:10px; width:80%;"
+        align="center"
+      >
+      <br>
+      <div
+        class="steps"
+        style="display: flex; justify-content: space-between; width:87%; font-size:small;"
+        align="center"
+      >
+        <span style="width:8%;text-align:center;">0</span>
+        <span style="width:8%;text-align:center;">10</span>
+        <span style="width:8%;text-align:center;">20</span>
+        <span style="width:8%;text-align:center;">30</span>
+        <span style="width:8%;text-align:center;">40</span>
+        <span style="width:8%;text-align:center;">50</span>
+        <span style="width:8%;text-align:center;">60</span>
+        <span style="width:8%;text-align:center;">70</span>
+        <span style="width:8%;text-align:center;">80</span>
+        <span style="width:8%;text-align:center;">90</span>
+        <span style="width:8%;text-align:center;">100</span>
+      </div>
+      <br><br><br>
+    </div>
+
+    <div
+      id="buttonA"
+      style="position:relative;"
+      title="You must move the slider before submitting!"
+      data-toggle="popover"
+      data-placement="bottom"
+      data-content="You must move the slider before submitting!"
+    >
+      <div id="submit_info" style="font-size:medium;"></div>
+      <button
+        class="btn btn-primary btn-xl nextButton"
+        id="sub_butA"
+        type="button"
+        onclick="submitAnswer()"
+        style="position:relative;"
+      >
+        Submit
+      </button>
+      <br><br>
+      <div id="report_video" style="font-size:small;">
+        <a id="report_but" data-toggle="modal" data-target="#attributes">
+          &nbsp; &#9873; Report &nbsp; &nbsp;
+        </a>
+      </div>
+    </div>
+  </div>
+  <br><br>
+</div>
+
+<!-- Modal -->
+<div
+  class="modal fade"
+  id="attributes"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="attributes"
+  aria-hidden="true"
+>
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">State your reason(s):</h5>
+        <button type="button" class="close" data-dismiss="modal">
+          <span>&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="font-size:medium;">
+        <ul style="list-style:none; padding-left:0;">
+          <li>
+            <input type="checkbox" id="still" name="still" value="still">
+            <label for="still">Still Scenes</label>
+          </li>
+          <li>
+            <input
+              type="checkbox"
+              id="broken"
+              name="broken"
+              value="broken"
+            >
+            <label for="broken">Video is broken</label>
+          </li>
+          <li>
+            <input
+              type="checkbox"
+              id="misoriented"
+              name="misoriented"
+              value="misoriented"
+            >
+            <label for="misoriented">Misoriented</label>
+          </li>
+          <li>
+            <input type="checkbox" id="obscene" name="obscene" value="obscene">
+            <label for="obscene">Obscene</label>
+          </li>
+          <li>
+            <input
+              type="checkbox"
+              id="other"
+              name="other"
+              value="other_"
+              onclick="$('#textbox').toggle()"
+            >
+            <label for="other">Other</label>
+          </li>
+        </ul>
+        <div id="textbox" style="display:none;">
+          <p>What is(are) your reason(s)?</p>
+          <input
+            id="textbox_input"
+            type="text"
+            name="otherAnswer"
+            value=""
+          >
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          class="btn btn-primary btn-xl"
+          data-dismiss="modal"
+          onclick="submitAnswer();"
+        >
+          Report
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if 0 %}
+</body>
+</html>
+{% endif %}

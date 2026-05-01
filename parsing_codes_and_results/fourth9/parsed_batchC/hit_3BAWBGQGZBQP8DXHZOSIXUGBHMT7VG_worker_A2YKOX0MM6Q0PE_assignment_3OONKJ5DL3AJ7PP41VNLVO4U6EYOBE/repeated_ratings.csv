@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/terraria_2160p_5000k_av1,sample,9.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13558999999997745
+amt_gaming_vqa_dataset/terraria_2160p_5000k_av1,sample,61.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14329000000004655
+amt_gaming_vqa_dataset/terraria_1080p_2000k_hevcnvenc,sample,29.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11608999999997671
+amt_gaming_vqa_dataset/terraria_1080p_2000k_hevcnvenc,sample,12.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11639000000002397
+amt_gaming_vqa_dataset/terraria_720p_3500k_hevcnvenc,sample,79.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09209000000009304
+amt_gaming_vqa_dataset/terraria_720p_3500k_hevcnvenc,sample,53.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.057089999999627494
+amt_gaming_vqa_dataset/terraria_720p_600k_hevcnvenc,sample,14.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09339000000002429
+amt_gaming_vqa_dataset/terraria_720p_600k_hevcnvenc,sample,77.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10139000000014065
+amt_gaming_vqa_dataset/Crossout_2160p_6000k_hevcnvenc,sample,92.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1328900000000246
+amt_gaming_vqa_dataset/Crossout_2160p_6000k_hevcnvenc,sample,64.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0919900000000009
+amt_gaming_vqa_dataset/Destiny2_1_2160p_1500k_hevcnvenc,sample,57.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08359000000009331
+amt_gaming_vqa_dataset/Destiny2_1_2160p_1500k_hevcnvenc,sample,32.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.14668999999995336

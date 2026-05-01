@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_6000k_hevc_nvenc,sample,80.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.2301330000000004
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_6000k_hevc_nvenc,sample,48.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.373633
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_10000k_h264_nvenc,sample,86.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.81730000001192
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_10000k_h264_nvenc,sample,76.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.7715
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_2000k_hevc_nvenc,sample,27.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.653100000023842
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_2000k_hevc_nvenc,sample,16.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-5.6189000000357625
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_1500k_av1,sample,40.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-4.633699999988079
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_1500k_av1,sample,39.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-4.630900000035763
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_5300k_h264_nvenc,sample,74.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-5.7706999999880795
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_5300k_h264_nvenc,sample,36.0,56.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.293799999952316
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_3500k_hevc_nvenc,sample,68.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.3345
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_3500k_hevc_nvenc,sample,9.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.016099999964236

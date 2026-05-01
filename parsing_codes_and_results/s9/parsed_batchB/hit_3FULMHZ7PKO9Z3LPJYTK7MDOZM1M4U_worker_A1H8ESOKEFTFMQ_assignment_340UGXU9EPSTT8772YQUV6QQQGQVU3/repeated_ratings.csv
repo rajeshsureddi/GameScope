@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_25000k_h264nvenc,sample,89.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10308999999962865
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_25000k_h264nvenc,sample,28.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.24851
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_8500k_h264nvenc,sample,89.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.050990000000000535
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_8500k_h264nvenc,sample,82.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.3997899999998147
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_10000k_hevcnvenc,sample,47.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0537899999998146
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_10000k_hevcnvenc,sample,82.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.348309999999813
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_1500k_hevcnvenc,sample,27.0,1.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07648999999999972
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_1500k_hevcnvenc,sample,6.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0768900000003736
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_500k_av1,sample,40.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04969000000018653
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_500k_av1,sample,25.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06739000000037265
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_1000k_h264nvenc,sample,29.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07418999999925546
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_1000k_h264nvenc,sample,56.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-3.9284100000003717

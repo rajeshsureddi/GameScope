@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Gp59gQ78XZ4_Terraria_13-55_1080p_6000k_hevc_nvenc,sample,8.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.033500000000000085
+amt_gaming_vqa_dataset/Gp59gQ78XZ4_Terraria_13-55_1080p_6000k_hevc_nvenc,sample,67.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.15000000000000036
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_10-10_360p_800k_h264_nvenc,sample,11.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.018499999999999517
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_10-10_360p_800k_h264_nvenc,sample,94.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03250000000000064
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02,sample,75.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05501300000149101
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02,sample,63.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07521300000447084
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_1500k_av1,sample,12.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016687000001489594
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_1500k_av1,sample,0.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.002587000000000117
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_5000k_av1,sample,43.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018212999997020418
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_5000k_av1,sample,48.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.6372130000044702
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09589999999850995
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09350000000000058
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,12.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06289999999851048
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,66.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0036999999955291685
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,99.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10219999999553053

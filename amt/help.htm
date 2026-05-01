@@ -1,0 +1,50 @@
+<script>
+function copyDebugInfo() {
+  var copyText = document.getElementById("helpMsg");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  // alert("Copied the text: " + copyText.value);
+  document.getElementById("helpBtn").textContent  = 'Information Copied!';
+}
+</script>
+
+<a class="btn btn-primary btn-xl" onmouseover="$('textarea#helpMsg').val(logMessages.join('\n'));" data-toggle="modal" data-target="#modalHelp" id="btnHlep">
+    Help
+</a>
+
+<!-- Modal -->
+<div class="modal fade" id="modalHelp" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Need some help?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body"  style="font-size:medium;">
+        We are sorry if you encountered any problem.
+        Please contact us at mturk.subject@gmail.com and <strong>make sure to describe what you observed and include the following debugging information</strong>:
+
+        <br>
+        <button type="button" id="helpBtn" class="btn btn-primary btn-xl" onclick="copyDebugInfo()">
+            Copy information to clipboard
+        </button>
+        <br>
+        Thank you!
+        <br>
+        <textarea rows="8" id="helpMsg" style="width:80%">
+
+        </textarea>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary btn-xl" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+ <!-- color: rgb(234, 18, 18);background-color: #EEE; -->
+<!--  -->

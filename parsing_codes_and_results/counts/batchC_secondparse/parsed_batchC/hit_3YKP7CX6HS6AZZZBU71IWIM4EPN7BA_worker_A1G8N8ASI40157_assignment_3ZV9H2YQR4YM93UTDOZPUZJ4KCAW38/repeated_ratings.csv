@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_2160p_1500k_hevcnvenc,sample,19.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07268999999972081
+amt_gaming_vqa_dataset/eFootball_2_2160p_1500k_hevcnvenc,sample,62.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05019000000018714
+amt_gaming_vqa_dataset/eFootball_2_480p_800k_hevcnvenc,sample,37.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.077690000000187
+amt_gaming_vqa_dataset/eFootball_2_480p_800k_hevcnvenc,sample,86.0,59.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07459000000009297
+amt_gaming_vqa_dataset/WWE2K24_480p_1000k_h264nvenc,sample,61.0,46.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.06609000000009324
+amt_gaming_vqa_dataset/WWE2K24_480p_1000k_h264nvenc,sample,88.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07758999999962768
+amt_gaming_vqa_dataset/WWE2K24_2160p_10000k_hevcnvenc,sample,36.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09248999999999974
+amt_gaming_vqa_dataset/WWE2K24_2160p_10000k_hevcnvenc,sample,45.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08728999999981468
+amt_gaming_vqa_dataset/Godofwar_2,sample,84.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.044199999999952055
+amt_gaming_vqa_dataset/Godofwar_2,sample,47.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",7.510899999999907
+amt_gaming_vqa_dataset/Godofwar_2_2160p_10000k_hevcnvenc,sample,35.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04919000000030316
+amt_gaming_vqa_dataset/Godofwar_2_2160p_10000k_hevcnvenc,sample,83.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.6314900000000012

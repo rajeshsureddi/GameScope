@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_6000k_hevc_nvenc,sample,0.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08270000004768363
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_6000k_hevc_nvenc,sample,79.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07450000000000045
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45,sample,68.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10830000007152485
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45,sample,58.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.1416000000238427
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3000k_av1,sample,35.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05129999995231671
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3000k_av1,sample,1.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0495000000000001
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20,sample,4.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1490669999284755
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20,sample,48.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.10556699992847562
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_1-23-40_480p_1000k_av1,sample,90.0,41.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.014200000047683403
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_1-23-40_480p_1000k_av1,sample,73.0,41.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.05589999997615891
+amt_gaming_vqa_dataset/dbzhcXv9U9E_MarioKartTour_0-08_1080p_5000k_av1,sample,90.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3006000000238416
+amt_gaming_vqa_dataset/dbzhcXv9U9E_MarioKartTour_0-08_1080p_5000k_av1,sample,24.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7843999999761575

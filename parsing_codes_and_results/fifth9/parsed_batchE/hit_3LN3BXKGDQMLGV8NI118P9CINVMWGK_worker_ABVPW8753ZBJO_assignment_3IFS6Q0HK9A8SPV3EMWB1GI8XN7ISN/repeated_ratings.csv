@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_1300k_av1,sample,35.0,55.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.03951700007152681
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_1300k_av1,sample,56.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.030616999976158965
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05,sample,1.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",16.311
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05,sample,4.0,39.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.7485999999046324
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_5000k_av1,sample,40.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.034299999952315474
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_5000k_av1,sample,12.0,38.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04269999992847495
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2300k_h264_nvenc,sample,70.0,44.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.00355799999999995
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2300k_h264_nvenc,sample,87.0,38.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.05424199995231582
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_800k_hevc_nvenc,sample,33.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.012558000000000291
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_800k_hevc_nvenc,sample,1.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01324199995231723
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_2000k_hevc_nvenc,sample,26.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.002799999952316057
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_2000k_hevc_nvenc,sample,56.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.036200000047683645

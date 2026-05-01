@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1500k_hevc_nvenc,sample,66.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.014067000035762334
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1500k_hevc_nvenc,sample,55.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.006133000011921297
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51_1080p_10000k_h264_nvenc,sample,92.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014600000023841986
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51_1080p_10000k_h264_nvenc,sample,7.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.7906999999880799
+amt_gaming_vqa_dataset/5162HItNstY_WorldofTanks_14-20,sample,50.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.014800000011920389
+amt_gaming_vqa_dataset/5162HItNstY_WorldofTanks_14-20,sample,69.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.971699999988079
+amt_gaming_vqa_dataset/R1Ed38lenw0_AngryBirds2_0-01,sample,28.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.008720999964237919
+amt_gaming_vqa_dataset/R1Ed38lenw0_AngryBirds2_0-01,sample,93.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.45082099998807834
+amt_gaming_vqa_dataset/R1Ed38lenw0_AngryBirds2_0-01_480p_1000k_av1,sample,17.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.007679000011920678
+amt_gaming_vqa_dataset/R1Ed38lenw0_AngryBirds2_0-01_480p_1000k_av1,sample,35.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0003209999880784409
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_6000k_hevc_nvenc,sample,63.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.011899999976158426
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_6000k_hevc_nvenc,sample,56.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.791800000011921

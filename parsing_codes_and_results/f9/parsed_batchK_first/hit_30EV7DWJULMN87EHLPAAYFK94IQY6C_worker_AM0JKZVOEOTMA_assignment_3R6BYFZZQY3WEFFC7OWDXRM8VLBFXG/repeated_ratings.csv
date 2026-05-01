@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_5300k_h264_nvenc,sample,2.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0057999999523161705
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_5300k_h264_nvenc,sample,61.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05920000004768333
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37_1080p_2000k_hevc_nvenc,sample,85.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0032000000476841706
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37_1080p_2000k_hevc_nvenc,sample,15.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0015000000000000568
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1500k_hevc_nvenc,sample,99.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.010099999904632284
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1500k_hevc_nvenc,sample,63.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0070999999046321705
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_1300k_av1,sample,1.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.042500000000000426
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_1300k_av1,sample,26.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03250000000000064
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_10000k_h264_nvenc,sample,96.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.9960000000000004
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_10000k_h264_nvenc,sample,18.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0013999999761580284
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_9-00_480p_1000k_h264_nvenc,sample,80.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.008200000047683176
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_9-00_480p_1000k_h264_nvenc,sample,0.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0009999999999994458

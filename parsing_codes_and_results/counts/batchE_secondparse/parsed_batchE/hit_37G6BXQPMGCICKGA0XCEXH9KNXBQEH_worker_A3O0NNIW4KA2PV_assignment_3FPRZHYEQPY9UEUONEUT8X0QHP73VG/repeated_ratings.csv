@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_800k_hevc_nvenc,sample,43.0,36.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.013099999904632398
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_800k_hevc_nvenc,sample,83.0,47.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.012099999904632952
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_1500k_av1,sample,16.0,74.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.003966999904632118
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_1500k_av1,sample,37.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0017329999046324929
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_2300k_h264_nvenc,sample,9.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.017432999904633206
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_2300k_h264_nvenc,sample,75.0,48.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.01136699980926359
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_2000k_hevc_nvenc,sample,28.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.011467000190734211
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_2000k_hevc_nvenc,sample,95.0,43.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.019733000095367714
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_1300k_av1,sample,15.0,31.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004066999809264615
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_1300k_av1,sample,31.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014533000095367399
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_10000k_h264_nvenc,sample,38.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.052833000286101495
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_10000k_h264_nvenc,sample,11.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.010132999999999726

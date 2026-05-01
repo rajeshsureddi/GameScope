@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_500k_av1,sample,45.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.1094670003814695
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_500k_av1,sample,69.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.003033000095367555
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_800k_hevc_nvenc,sample,57.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00870000028610285
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_800k_hevc_nvenc,sample,45.0,46.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.019900000095367076
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_6000k_hevc_nvenc,sample,81.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01920000028610147
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_6000k_hevc_nvenc,sample,54.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08399999999999963
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_2500k_h264_nvenc,sample,86.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01630000019073563
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_2500k_h264_nvenc,sample,88.0,40.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013599999904633009
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_500k_av1,sample,68.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013400000095368014
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_500k_av1,sample,92.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005199999809265776
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_2500k_h264_nvenc,sample,81.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03840000009536659
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_2500k_h264_nvenc,sample,72.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03109999990463308

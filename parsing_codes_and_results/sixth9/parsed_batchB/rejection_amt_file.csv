@@ -1,0 +1,16 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+39ZSFO5CBZNK2D7DL9CBSIFWYKPJUX,3WRAAIUSC9QZV40A665KV6FMYBTAXB,A2NQZ2QIHRXC8A,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3DPNQGW4MC69XKYRMKR46ACXD1464E,3WRAAIUSC9QZV40A665KV6FMYBTAXB,A3AUVNZR4RZMNW,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3PEIJLRY7KKYP117XD6D1F88UYWWXE,3CVBMEMMY17KQC2XUZBEITP29D4H7Y,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3JZQSN0I4H1LSTKMIEW995MDW5GFGD,3CVBMEMMY17KQC2XUZBEITP29D4H7Y,A3AUVNZR4RZMNW,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3IQ1VMJRZKBBHSG6TS473NPZVDDA9B,3CVBMEMMY17KQC2XUZBEITP29D4H7Y,A3QVB1ZA646NIF,row_0,0,,The scores for repeated videos are not consistent.
+3Z7EFSHGO05PB3V2GM6CPL152JDCXM,3CVBMEMMY17KQC2XUZBEITP29D4H7Y,A2NS2P9XSYBWR2,row_0,0,,The scores for repeated videos are not consistent.
+3WMINLGAM2UDFQN95CEY5DQ71Y8ACK,3TTPFEFXDJB1MCOSBP6MCFP6E2KH6Z,APC684U8U3RF3,row_0,0,,The scores for golden videos are not consistent with the true scores.
+38YMOXR4NLQL6MHBWQXN12VOXV3W6S,3TTPFEFXDJB1MCOSBP6MCFP6E2KH6Z,A17ZITDHO5KCH5,row_0,0,,Used phone or tablet
+3OHYZ19UH3WEOFKCVHNP0DKOQB6AOU,3D0LPO3EB1QDXDKLLLW4FF60PYQOYT,AVEV8X13Y4JSR,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3TVRFO09HB6IE7P8TZZBS4RSWRQXLK,3D0LPO3EB1QDXDKLLLW4FF60PYQOYT,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3ND9UOO82BT3P7KIJU3PQLDLNXPLW0,3D0LPO3EB1QDXDKLLLW4FF60PYQOYT,AFT6VDMD6VGDG,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3VAR3R6G2GS05RRXYJ3B4MET0NL8O3,3BJKPTD2R23KD4D737Q91TJQLJSRTG,AFT6VDMD6VGDG,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+37M28K1J1H40N4TFF4VKSH32RIRAJ8,3BJKPTD2R23KD4D737Q91TJQLJSRTG,A3QVB1ZA646NIF,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3CFJTT4SYKHM9RBBQJY06PMCDVE7IK,3BJKPTD2R23KD4D737Q91TJQLJSRTG,A3AUVNZR4RZMNW,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3PIWWX1FKAXBOXWJ9A8XLG6LH5BJJN,3BJKPTD2R23KD4D737Q91TJQLJSRTG,A3KAF6CU2BYVLG,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"

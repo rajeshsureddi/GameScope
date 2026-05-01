@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2,sample,20.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.036999999999999034
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_1500k_av1,sample,48.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07948999999999984
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_5000k_av1,sample,28.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.4122099999997193
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_500k_av1,sample,21.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07638999999990759
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_10000k_av1,sample,4.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.048589999999627764
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_1000k_av1,sample,30.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.801189999999721
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_5000k_av1,sample,24.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1813899999994426
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_480p_1000k_av1,sample,47.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06658999999962845
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1300k_av1,sample,87.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_3000k_av1,sample,49.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.048690000000187084
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_500k_av1,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_10000k_h264nvenc,sample,3.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.049089999999628375
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_2300k_h264nvenc,sample,94.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07518999999972031
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_5300k_h264nvenc,sample,3.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07478999999981362
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_25000k_h264nvenc,sample,59.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05009000000009323
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_5000k_h264nvenc,sample,1.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.048890000000373135
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_8500k_h264nvenc,sample,71.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05019000000018714
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_480p_1000k_h264nvenc,sample,79.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050789999999814484
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_2500k_h264nvenc,sample,71.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07428999999981478
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_5000k_h264nvenc,sample,84.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1024900000000013
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_2000k_hevcnvenc,sample,3.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10109000000009338
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_800k_hevcnvenc,sample,98.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07239000000037343
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_10000k_hevcnvenc,sample,78.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09329000000074572
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_1500k_hevcnvenc,sample,44.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.049390000000373746
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_6000k_hevcnvenc,sample,23.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07339000000037288
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_480p_800k_hevcnvenc,sample,12.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07209000000055887
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1500k_hevcnvenc,sample,13.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07428999999981478
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_3500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_600k_hevcnvenc,sample,76.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09978999999981397
+amt_gaming_vqa_dataset/Returnal_1,sample,30.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10060000000055958
+amt_gaming_vqa_dataset/Returnal_1_1080p_1500k_av1,sample,61.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.9005900000005589
+amt_gaming_vqa_dataset/Returnal_1_1080p_5000k_av1,sample,17.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08439000000037389
+amt_gaming_vqa_dataset/Returnal_1_1080p_500k_av1,sample,41.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08399000000000001
+amt_gaming_vqa_dataset/Returnal_1_2160p_10000k_av1,sample,62.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05059000000055924
+amt_gaming_vqa_dataset/Returnal_1_2160p_1000k_av1,sample,74.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12458999999962828
+amt_gaming_vqa_dataset/Returnal_1_2160p_5000k_av1,sample,25.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.309609999999626
+amt_gaming_vqa_dataset/Returnal_1_480p_1000k_av1,sample,42.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06279000000074575
+amt_gaming_vqa_dataset/Returnal_1_720p_1300k_av1,sample,55.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04928999999981443
+amt_gaming_vqa_dataset/Returnal_1_720p_3000k_av1,sample,62.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07669000000018755
+amt_gaming_vqa_dataset/Returnal_1_720p_500k_av1,sample,66.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06909000000009335
+amt_gaming_vqa_dataset/Returnal_1_1080p_10000k_h264nvenc,sample,7.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.051490000000001146
+amt_gaming_vqa_dataset/Returnal_1_1080p_2300k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Returnal_1_1080p_5300k_h264nvenc,sample,57.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08549000000000007
+amt_gaming_vqa_dataset/Returnal_1_2160p_25000k_h264nvenc,sample,21.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/Returnal_1_2160p_5000k_h264nvenc,sample,73.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12628999999981438
+amt_gaming_vqa_dataset/Returnal_1_2160p_8500k_h264nvenc,sample,16.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050789999999814484
+amt_gaming_vqa_dataset/Returnal_1_480p_1000k_h264nvenc,sample,18.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0902899999998148
+amt_gaming_vqa_dataset/Returnal_1_720p_1000k_h264nvenc,sample,93.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08199000000000112
+amt_gaming_vqa_dataset/Returnal_1_720p_2500k_h264nvenc,sample,9.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04929000000027983
+amt_gaming_vqa_dataset/Returnal_1_720p_5000k_h264nvenc,sample,40.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10669000000018691
+amt_gaming_vqa_dataset/Returnal_1_1080p_2000k_hevcnvenc,sample,74.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0797899999998144
+amt_gaming_vqa_dataset/Returnal_1_1080p_6000k_hevcnvenc,sample,2.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07928999999981379
+amt_gaming_vqa_dataset/Returnal_1_1080p_800k_hevcnvenc,sample,86.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1049900000000008
+amt_gaming_vqa_dataset/Returnal_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Returnal_1_2160p_1500k_hevcnvenc,sample,67.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09809000000009327
+amt_gaming_vqa_dataset/Returnal_1_2160p_6000k_hevcnvenc,sample,34.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05019000000018714
+amt_gaming_vqa_dataset/Returnal_1_480p_800k_hevcnvenc,sample,74.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09878999999981453
+amt_gaming_vqa_dataset/Returnal_1_720p_1500k_hevcnvenc,sample,39.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04978999999981504
+amt_gaming_vqa_dataset/Returnal_1_720p_3500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Returnal_1_720p_600k_hevcnvenc,sample,21.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07648999999999972
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions,sample,82.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11010000000009335
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_1500k_av1,sample,58.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07878999999981495
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_5000k_av1,sample,64.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08219000000018717
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_500k_av1,sample,83.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.049190000000187695
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_10000k_av1,sample,16.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05139000000037264
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_1000k_av1,sample,24.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.3279899999999998
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_5000k_av1,sample,10.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05039000000037319
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_480p_1000k_av1,sample,28.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04978999999981504
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_1300k_av1,sample,1.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06738999999944184
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_3000k_av1,sample,16.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07128999999981467
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_500k_av1,sample,16.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06459000000009318
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_10000k_h264nvenc,sample,40.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08049000000000106
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_2300k_h264nvenc,sample,26.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09248999999999974
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_5300k_h264nvenc,sample,62.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07968999999972048
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_25000k_h264nvenc,sample,79.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.050889999999441216
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_5000k_h264nvenc,sample,61.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07739000000037244
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_8500k_h264nvenc,sample,19.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09978999999981397
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_480p_1000k_h264nvenc,sample,37.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09258999999962825
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_1000k_h264nvenc,sample,17.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09019000000018629
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_2500k_h264nvenc,sample,82.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04888999999990773
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_5000k_h264nvenc,sample,96.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04969000000018653
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_2000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_6000k_hevcnvenc,sample,94.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.048889999999442324
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_1080p_800k_hevcnvenc,sample,79.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1418900000003731
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_10000k_hevcnvenc,sample,50.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05009000000009323
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_1500k_hevcnvenc,sample,7.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08559000000055939
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_6000k_hevcnvenc,sample,45.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13038999999990786
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_480p_800k_hevcnvenc,sample,39.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.050889999999441216
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_1500k_hevcnvenc,sample,17.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06869000000018666
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_3500k_hevcnvenc,sample,53.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07449000000000083
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_720p_600k_hevcnvenc,sample,80.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06838999999944129

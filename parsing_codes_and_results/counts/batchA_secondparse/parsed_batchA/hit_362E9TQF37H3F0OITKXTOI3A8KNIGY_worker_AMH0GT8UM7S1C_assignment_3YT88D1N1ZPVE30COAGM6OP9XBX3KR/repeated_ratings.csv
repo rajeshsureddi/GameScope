@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Destiny2_2_720p_3000k_av1,sample,11.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0751900000001875
+amt_gaming_vqa_dataset/Destiny2_2_720p_3000k_av1,sample,68.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08179000000074588
+amt_gaming_vqa_dataset/eFootball_1_1080p_2000k_hevcnvenc,sample,61.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05108999999962727
+amt_gaming_vqa_dataset/eFootball_1_1080p_2000k_hevcnvenc,sample,79.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11629000000074541
+amt_gaming_vqa_dataset/eFootball_1_720p_600k_hevcnvenc,sample,83.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0914900000000003
+amt_gaming_vqa_dataset/eFootball_1_720p_600k_hevcnvenc,sample,5.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09489000000037251
+amt_gaming_vqa_dataset/CatQuest_2160p_8500k_h264nvenc,sample,93.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05139000000037264
+amt_gaming_vqa_dataset/CatQuest_2160p_8500k_h264nvenc,sample,21.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12949000000000055
+amt_gaming_vqa_dataset/CatQuest_2160p_10000k_hevcnvenc,sample,12.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05078999999888367
+amt_gaming_vqa_dataset/CatQuest_2160p_10000k_hevcnvenc,sample,57.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1137900000007459
+amt_gaming_vqa_dataset/CatQuest_2160p_1500k_hevcnvenc,sample,22.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11999000000000137
+amt_gaming_vqa_dataset/CatQuest_2160p_1500k_hevcnvenc,sample,33.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11158999999962838

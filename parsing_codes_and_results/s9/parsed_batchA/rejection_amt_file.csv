@@ -1,0 +1,18 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+39DD6S19KG2TDWFVDV0SCUHJS29ZEV,3U18MJKL2KDICPJ4OEE23ZECWPSCNX,A1X0K1GC85ROW9,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."
+3907X2AHGRW74C19X27PJV6GL012P0,3U18MJKL2KDICPJ4OEE23ZECWPSCNX,A16KWRV7HCOR92,row_0,0,,The delays in video ratings are too high.
+3GNCZX4519EW9FWDAH04PDPEXQBPAG,3U18MJKL2KDICPJ4OEE23ZECWPSCNX,A333V86F5CXIE9,row_0,0,,The delays in video ratings are too high.
+3L4PIM1GRK7IHAAV3FI9XU7010SRYC,3U18MJKL2KDICPJ4OEE23ZECWPSCNX,AD0K7HC2P3OAA,row_0,0,,The delays in video ratings are too high.
+3GA6AFUKPFF4CDZ4IPDPTW9H5PV3HF,356TQKY9Y5ORX114RVH85GW36J278B,A333V86F5CXIE9,row_0,0,,The delays in video ratings are too high.
+3IRIK4HM41BCSOB6FZXMP8OL2ODC66,356TQKY9Y5ORX114RVH85GW36J278B,A1LLKRWUMCKJFP,row_0,0,,"Low standard deviation of slider ratings, the slider was not moved much."
+3KGTPGBS7OCKWH95EO6JT1TFTH4U2Z,3QXFBUZ40A78ORJIN1M77LRL2DDGU3,A1ZALFX17G0DV9,row_0,0,,The delays in video ratings are too high.
+3QFUFYSYAP65GDR2NDU80GPA38M4F7,3QXFBUZ40A78ORJIN1M77LRL2DDGU3,AW338AT1TPG6H,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3T111IHZ65H3G92NV3QTYDE9SQPR93,3QXFBUZ40A78ORJIN1M77LRL2DDGU3,A2A81MBSJDI1MI,row_0,0,,The scores for repeated videos are not consistent. | The delays in video ratings are too high.
+308Q0PEVCZ4QNAZ45GWKKLDI5T99II,3MWOYZD5XLFJLEG7EJNTYZ8TL3BON6,A1X0K1GC85ROW9,row_0,0,,Did not wear lens
+3R2PKQ87ONZ5UUIYUP0PP7J25TMMI2,3ZTE0JGGD4J0UAJGPTEFIOEHMZXCOC,AD0K7HC2P3OAA,row_0,0,,The delays in video ratings are too high.
+3OHYZ19UH3WEOFKCVHNP0DKONJEOAT,3RZS0FBRXA1IFAVH4TRU7OJ7W4TCPT,A1LGUAHF19054E,row_0,0,,"Low standard deviation of slider ratings, the slider was not moved much. | The scores for repeated videos are not consistent."
+3QY5DC2MYIB4XBLH2JLQDKN42LSUF2,3RZS0FBRXA1IFAVH4TRU7OJ7W4TCPT,AF1OK4YPM4S9P,row_0,0,,The scores for repeated videos are not consistent.
+36ZN444YUIPTUX3A75F2HB870SQOI6,3RZS0FBRXA1IFAVH4TRU7OJ7W4TCPT,A1X0K1GC85ROW9,row_0,0,,Did not wear lens
+3GS6S824THOTD7N3V7J43DHAPS6WNR,3ROUCZ9085L13ZGJFYN6DO8YBDGOOL,AW338AT1TPG6H,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3GU1KF0O59S1SP15GV00KO9KF7CBPB,3ROUCZ9085L13ZGJFYN6DO8YBDGOOL,A19JFVFPZLO013,row_0,0,,The delays in video ratings are too high.
+3Q5C1WP24DSWMH1UUJYXG6RU2W851Q,3ROUCZ9085L13ZGJFYN6DO8YBDGOOL,A1DWSHGZGK8X0K,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"

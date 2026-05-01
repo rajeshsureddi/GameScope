@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Destiny2_2_1080p_500k_av1,sample,81.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050589999994040014
+amt_gaming_vqa_dataset/Destiny2_2_1080p_500k_av1,sample,27.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.4760900000014914
+amt_gaming_vqa_dataset/Destiny2_2_2160p_1500k_hevcnvenc,sample,51.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08649000000000129
+amt_gaming_vqa_dataset/Destiny2_2_2160p_1500k_hevcnvenc,sample,6.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10419000000298162
+amt_gaming_vqa_dataset/eFootball_1_720p_3000k_av1,sample,71.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04919000000298013
+amt_gaming_vqa_dataset/eFootball_1_720p_3000k_av1,sample,56.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08978999999701998
+amt_gaming_vqa_dataset/eFootball_1_720p_500k_av1,sample,48.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07668999999552994
+amt_gaming_vqa_dataset/eFootball_1_720p_500k_av1,sample,9.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06799
+amt_gaming_vqa_dataset/eFootball_1_480p_1000k_h264nvenc,sample,88.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07758999999403926
+amt_gaming_vqa_dataset/eFootball_1_480p_1000k_h264nvenc,sample,19.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10649000000000086
+amt_gaming_vqa_dataset/CatQuest_720p_2500k_h264nvenc,sample,22.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08218999999552956
+amt_gaming_vqa_dataset/CatQuest_720p_2500k_h264nvenc,sample,50.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09338999999851083

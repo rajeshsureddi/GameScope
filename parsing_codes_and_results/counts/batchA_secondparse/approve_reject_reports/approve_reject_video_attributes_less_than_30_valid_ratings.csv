@@ -1,0 +1,14 @@
+video_name,most_common_clarity,most_common_artifacts,most_common_immersion,highly_clear_count,moderately_clear_count,minimally_clear_count,no_artifacts_count,minor_artifacts_count,severe_artifacts_count,high_immersion_count,moderate_immersion_count,low_immersion_count
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_5300k_h264nvenc,Moderately Clear,Minor Artifacts Present,Moderate level of immersion,10,18,1,9,16,4,9,18,2
+amt_gaming_vqa_dataset/skyrim_1_1080p_10000k_h264nvenc,Highly Clear,No visible artifacts,High level of immersion,16,12,1,16,11,2,16,12,1
+amt_gaming_vqa_dataset/skyrim_1_1080p_2000k_hevcnvenc,Moderately Clear,Severe Artifacts Present,Low level of immersion,3,12,11,4,11,11,4,11,11
+amt_gaming_vqa_dataset/skyrim_1_1080p_6000k_hevcnvenc,Highly Clear,No visible artifacts,High level of immersion,15,9,1,14,9,2,14,9,2
+amt_gaming_vqa_dataset/skyrim_1_1080p_800k_hevcnvenc,Minimally Clear,Severe Artifacts Present,Low level of immersion,0,5,21,0,3,23,0,4,22
+amt_gaming_vqa_dataset/skyrim_1_2160p_10000k_hevcnvenc,Highly Clear,No visible artifacts,High level of immersion,13,12,1,12,11,3,12,12,2
+amt_gaming_vqa_dataset/skyrim_1_2160p_1500k_hevcnvenc,Minimally Clear,Severe Artifacts Present,Low level of immersion,0,10,16,0,8,18,0,7,19
+amt_gaming_vqa_dataset/skyrim_1_2160p_6000k_hevcnvenc,Moderately Clear,Minor Artifacts Present,Moderate level of immersion,9,15,2,8,15,3,8,14,4
+amt_gaming_vqa_dataset/skyrim_1_2160p_8500k_h264nvenc,Minimally Clear,Severe Artifacts Present,Low level of immersion,6,11,11,6,9,13,6,10,12
+amt_gaming_vqa_dataset/skyrim_1_480p_800k_hevcnvenc,Minimally Clear,Severe Artifacts Present,Low level of immersion,0,4,22,0,3,23,0,3,23
+amt_gaming_vqa_dataset/skyrim_1_720p_1500k_hevcnvenc,Minimally Clear,Severe Artifacts Present,Low level of immersion,0,11,15,0,11,15,0,10,16
+amt_gaming_vqa_dataset/skyrim_1_720p_3500k_hevcnvenc,Moderately Clear,Minor Artifacts Present,Moderate level of immersion,10,15,1,9,14,3,10,14,2
+amt_gaming_vqa_dataset/skyrim_1_720p_600k_hevcnvenc,Minimally Clear,Severe Artifacts Present,Low level of immersion,0,0,26,0,2,24,0,2,24

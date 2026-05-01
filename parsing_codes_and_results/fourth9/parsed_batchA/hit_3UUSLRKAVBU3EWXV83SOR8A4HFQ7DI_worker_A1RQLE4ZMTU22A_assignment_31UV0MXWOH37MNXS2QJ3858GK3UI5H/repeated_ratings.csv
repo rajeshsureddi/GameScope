@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_1080p_2300k_h264nvenc,sample,64.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09449000000000041
+amt_gaming_vqa_dataset/callofdutyps5_1080p_2300k_h264nvenc,sample,28.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06569000004768455
+amt_gaming_vqa_dataset/callofdutyps5_720p_600k_hevcnvenc,sample,65.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.15659000002384182
+amt_gaming_vqa_dataset/callofdutyps5_720p_600k_hevcnvenc,sample,76.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12738999997615785
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_3000k_av1,sample,57.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.19238999997615913
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_3000k_av1,sample,52.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.15378999995231624
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_25000k_h264nvenc,sample,46.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12298999999999971
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_25000k_h264nvenc,sample,81.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.1271900000476851
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_800k_hevcnvenc,sample,83.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09099000000000146
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_800k_hevcnvenc,sample,33.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11609000002384207
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_2500k_h264nvenc,sample,94.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10488999997615878
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_2500k_h264nvenc,sample,29.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11199000000000048

@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Farcry6_1,sample,66.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",14.938399999991061
+amt_gaming_vqa_dataset/Farcry6_1_1080p_1500k_av1,sample,68.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09879000001192217
+amt_gaming_vqa_dataset/Farcry6_1_1080p_5000k_av1,sample,15.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10459000000894214
+amt_gaming_vqa_dataset/Farcry6_1_1080p_500k_av1,sample,63.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09248999999999974
+amt_gaming_vqa_dataset/Farcry6_1_2160p_10000k_av1,sample,54.0,74.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",7.8831900000029815
+amt_gaming_vqa_dataset/Farcry6_1_2160p_1000k_av1,sample,13.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.550790000011922
+amt_gaming_vqa_dataset/Farcry6_1_2160p_5000k_av1,sample,98.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.746089999994039
+amt_gaming_vqa_dataset/Farcry6_1_480p_1000k_av1,sample,36.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07239000000596185
+amt_gaming_vqa_dataset/Farcry6_1_720p_1300k_av1,sample,96.0,91.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08108999999403999
+amt_gaming_vqa_dataset/Farcry6_1_720p_3000k_av1,sample,7.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08078999999701963
+amt_gaming_vqa_dataset/Farcry6_1_720p_500k_av1,sample,51.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07239000000596185
+amt_gaming_vqa_dataset/Farcry6_1_1080p_10000k_h264nvenc,sample,49.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10769000000298057
+amt_gaming_vqa_dataset/Farcry6_1_1080p_2300k_h264nvenc,sample,64.0,40.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10158999999404017
+amt_gaming_vqa_dataset/Farcry6_1_1080p_5300k_h264nvenc,sample,92.0,87.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10039000000596054
+amt_gaming_vqa_dataset/Farcry6_1_2160p_25000k_h264nvenc,sample,57.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.111609999994039
+amt_gaming_vqa_dataset/Farcry6_1_2160p_5000k_h264nvenc,sample,12.0,8.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.70028999999702
+amt_gaming_vqa_dataset/Farcry6_1_2160p_8500k_h264nvenc,sample,43.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.7508899999910597
+amt_gaming_vqa_dataset/Farcry6_1_480p_1000k_h264nvenc,sample,40.0,38.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10149000000000008
+amt_gaming_vqa_dataset/Farcry6_1_720p_1000k_h264nvenc,sample,54.0,30.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",2.2566899999880796
+amt_gaming_vqa_dataset/Farcry6_1_720p_2500k_h264nvenc,sample,57.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09469000000298067
+amt_gaming_vqa_dataset/Farcry6_1_720p_5000k_h264nvenc,sample,26.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08489000000596114
+amt_gaming_vqa_dataset/Farcry6_1_1080p_2000k_hevcnvenc,sample,59.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08799000000000134
+amt_gaming_vqa_dataset/Farcry6_1_1080p_6000k_hevcnvenc,sample,75.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09618999998807887
+amt_gaming_vqa_dataset/Farcry6_1_1080p_800k_hevcnvenc,sample,53.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08599000000000068
+amt_gaming_vqa_dataset/Farcry6_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_1_480p_800k_hevcnvenc,sample,28.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10159000000894203
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,57.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0863900000059612
+amt_gaming_vqa_dataset/Farcry6_1_720p_3500k_hevcnvenc,sample,29.0,84.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08888999999106062
+amt_gaming_vqa_dataset/Farcry6_1_720p_600k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_1,sample,96.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",15.764
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_1500k_av1,sample,60.0,85.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10278999999701988
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_5000k_av1,sample,14.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10389000000596127
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_500k_av1,sample,27.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10738999999106014
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_10000k_av1,sample,76.0,90.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",8.560290000011923
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_1000k_av1,sample,43.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.852089999994041
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_5000k_av1,sample,28.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.5088899999910605
+amt_gaming_vqa_dataset/Faastpenguin_1_480p_1000k_av1,sample,69.0,85.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07639000000596141
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_1300k_av1,sample,41.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0827899999970203
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_3000k_av1,sample,54.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08609000000894085
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_500k_av1,sample,59.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08089000000596158
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_10000k_h264nvenc,sample,43.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10899000000000036
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_2300k_h264nvenc,sample,9.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10558999999403973
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_5300k_h264nvenc,sample,55.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10588999999106008
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_25000k_h264nvenc,sample,95.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.355790000011922
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_5000k_h264nvenc,sample,65.0,22.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",2.706789999997021
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_8500k_h264nvenc,sample,61.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.817289999997021
+amt_gaming_vqa_dataset/Faastpenguin_1_480p_1000k_h264nvenc,sample,47.0,44.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10038999999106046
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_1000k_h264nvenc,sample,30.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0914900000000003
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_2500k_h264nvenc,sample,4.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1024900000000013
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_5000k_h264nvenc,sample,59.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09358999999403927
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_2000k_hevcnvenc,sample,24.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09169000000298055
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_6000k_hevcnvenc,sample,82.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09349000000000096
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_800k_hevcnvenc,sample,50.0,30.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11148999999999987
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_1_480p_800k_hevcnvenc,sample,3.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08328999999702091
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_1500k_hevcnvenc,sample,82.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11049000000000042
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_3500k_hevcnvenc,sample,26.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08689000000596181
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_600k_hevcnvenc,sample,68.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08359000000894135
+amt_gaming_vqa_dataset/DemonsSouls,sample,12.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",16.519299999997017
+amt_gaming_vqa_dataset/DemonsSouls_1080p_1500k_av1,sample,65.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12339000000596023
+amt_gaming_vqa_dataset/DemonsSouls_1080p_5000k_av1,sample,27.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1441899999880789
+amt_gaming_vqa_dataset/DemonsSouls_1080p_500k_av1,sample,88.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12268999998807928
+amt_gaming_vqa_dataset/DemonsSouls_2160p_10000k_av1,sample,41.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",8.315890000005963
+amt_gaming_vqa_dataset/DemonsSouls_2160p_1000k_av1,sample,91.0,43.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.370990000000001
+amt_gaming_vqa_dataset/DemonsSouls_2160p_5000k_av1,sample,46.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.269190000002981
+amt_gaming_vqa_dataset/DemonsSouls_480p_1000k_av1,sample,97.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0814900000000005
+amt_gaming_vqa_dataset/DemonsSouls_720p_1300k_av1,sample,3.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09258999999403983
+amt_gaming_vqa_dataset/DemonsSouls_720p_3000k_av1,sample,65.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1098900000059615
+amt_gaming_vqa_dataset/DemonsSouls_720p_500k_av1,sample,17.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08549000000000007
+amt_gaming_vqa_dataset/DemonsSouls_1080p_10000k_h264nvenc,sample,19.0,80.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.11049000000000042
+amt_gaming_vqa_dataset/DemonsSouls_1080p_2300k_h264nvenc,sample,92.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09308999999404044
+amt_gaming_vqa_dataset/DemonsSouls_1080p_5300k_h264nvenc,sample,93.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10528999999702116
+amt_gaming_vqa_dataset/DemonsSouls_2160p_25000k_h264nvenc,sample,73.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.7113899999910593
+amt_gaming_vqa_dataset/DemonsSouls_2160p_5000k_h264nvenc,sample,91.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",2.60999
+amt_gaming_vqa_dataset/DemonsSouls_2160p_8500k_h264nvenc,sample,40.0,61.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.6387899999970212
+amt_gaming_vqa_dataset/DemonsSouls_480p_1000k_h264nvenc,sample,15.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07768999998807935
+amt_gaming_vqa_dataset/DemonsSouls_720p_1000k_h264nvenc,sample,64.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09329000001192078
+amt_gaming_vqa_dataset/DemonsSouls_720p_2500k_h264nvenc,sample,20.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09169000000298055
+amt_gaming_vqa_dataset/DemonsSouls_720p_5000k_h264nvenc,sample,84.0,93.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.09209000000894108
+amt_gaming_vqa_dataset/DemonsSouls_1080p_2000k_hevcnvenc,sample,94.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11178999999702022
+amt_gaming_vqa_dataset/DemonsSouls_1080p_6000k_hevcnvenc,sample,73.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09899000000000058
+amt_gaming_vqa_dataset/DemonsSouls_1080p_800k_hevcnvenc,sample,37.0,29.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08939000000596131
+amt_gaming_vqa_dataset/DemonsSouls_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/DemonsSouls_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/DemonsSouls_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/DemonsSouls_480p_800k_hevcnvenc,sample,9.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08708999999404021
+amt_gaming_vqa_dataset/DemonsSouls_720p_1500k_hevcnvenc,sample,0.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08308999999404065
+amt_gaming_vqa_dataset/DemonsSouls_720p_3500k_hevcnvenc,sample,6.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11288999999105975
+amt_gaming_vqa_dataset/DemonsSouls_720p_600k_hevcnvenc,sample,95.0,36.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08478999999702097

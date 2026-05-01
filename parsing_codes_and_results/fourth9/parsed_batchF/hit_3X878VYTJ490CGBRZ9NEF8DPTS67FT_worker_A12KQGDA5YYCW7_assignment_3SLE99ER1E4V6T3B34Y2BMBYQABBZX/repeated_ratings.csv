@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_1500k_hevc_nvenc,sample,68.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0011999999992546861
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_1500k_hevc_nvenc,sample,29.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00010000000149013033
+amt_gaming_vqa_dataset/y_ZMN7neUo3Fk_EuroTruckSimulator2_2-32_480p_1000k_h264_nvenc,sample,46.0,32.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07260000000148992
+amt_gaming_vqa_dataset/y_ZMN7neUo3Fk_EuroTruckSimulator2_2-32_480p_1000k_h264_nvenc,sample,33.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12159999999962778
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_3000k_av1,sample,28.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03550000000000075
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_3000k_av1,sample,50.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.006000000000000227
+amt_gaming_vqa_dataset/0oosqCBVaxY_StarCraft_28-28_1080p_500k_av1,sample,69.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01249999999999929
+amt_gaming_vqa_dataset/0oosqCBVaxY_StarCraft_28-28_1080p_500k_av1,sample,0.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005000000000000782
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_500k_av1,sample,6.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.023936999999627062
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_500k_av1,sample,83.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.014563000000372028
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_5000k_h264_nvenc,sample,18.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.011162999999999812
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_5000k_h264_nvenc,sample,81.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.5829369999996281
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09999999999999964
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,81.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10100000000000087
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,28.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08300000000000018

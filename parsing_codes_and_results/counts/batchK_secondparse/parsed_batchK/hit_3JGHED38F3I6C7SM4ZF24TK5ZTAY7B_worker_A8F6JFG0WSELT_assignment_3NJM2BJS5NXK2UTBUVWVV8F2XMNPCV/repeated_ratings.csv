@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21_1080p_500k_av1,sample,34.0,32.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02780000001192029
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21_1080p_500k_av1,sample,15.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006000000000000227
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_2-43_480p_1000k_h264_nvenc,sample,44.0,50.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.01970000004768302
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_2-43_480p_1000k_h264_nvenc,sample,23.0,26.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.5353000000119206
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00_720p_1500k_hevc_nvenc,sample,69.0,40.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.047199999988079
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00_720p_1500k_hevc_nvenc,sample,84.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.016800000011921057
+amt_gaming_vqa_dataset/E585R3AqEp8_CallofDutyMobile_0-07,sample,90.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04940000003576195
+amt_gaming_vqa_dataset/E585R3AqEp8_CallofDutyMobile_0-07,sample,64.0,50.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",29.67560000002384
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35,sample,98.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08239999997615755
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35,sample,40.0,60.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0039999999999995595
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1500k_hevc_nvenc,sample,27.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0589000000357629
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1500k_hevc_nvenc,sample,99.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.014600000023841986

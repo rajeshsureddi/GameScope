@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/iieKUq0J-XM_FIFA_6-19_480p_1000k_h264_nvenc,sample,50.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.023999999999999133
+amt_gaming_vqa_dataset/iieKUq0J-XM_FIFA_6-19_480p_1000k_h264_nvenc,sample,35.0,60.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.030799999997020322
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02,sample,28.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08801299999404044
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02,sample,97.0,78.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",3.7905129999940392
+amt_gaming_vqa_dataset/ckJ_MgQ9WBQ_RollerCoasterTycoon3_11-30,sample,97.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",3.33579999999702
+amt_gaming_vqa_dataset/ckJ_MgQ9WBQ_RollerCoasterTycoon3_11-30,sample,82.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015099999994038882
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_53-37_360p_800k_av1,sample,74.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.021400000005961317
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_53-37_360p_800k_av1,sample,69.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.013700000002980772
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_2300k_h264_nvenc,sample,29.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.026399999991058465
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_2300k_h264_nvenc,sample,21.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013299999997020251
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_5300k_h264_nvenc,sample,88.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.007399999991060113
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_5300k_h264_nvenc,sample,43.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9269999999999996

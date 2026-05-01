@@ -1,0 +1,6 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3WSELTNVSUTU17PKRY9OUNQBLG3ATM,3LG268AV4YXIOLVADC1E27JPIV1ERH,A2GPQMBH0QNJ0J,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+3F1567XTONW348NNIO1TTN44VQAQ9V,3M67TQBQR7F9U8IC3QZ6F3T4RUX9AU,A1JFGI5XJYYR3A,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."
+3ZY8KE4ITAU11F0QLP6PL5T1MIRQV9,3M67TQBQR7F9U8IC3QZ6F3T4RUX9AU,A293FPBBTTTK1K,row_0,0,,Did not wear lens
+35GMH2SV458HES1OBMPBWWAF7NSOEH,3DWGDA5PP5VBXRIFA8B9WKPYESA1VE,A1QO9CJ6KFDWQJ,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+3P1L2B7AESGVKYBGS8CF9R0ZGJROL0,3DWGDA5PP5VBXRIFA8B9WKPYESA1VE,A2I61I62R2XCST,row_0,0,,The scores are not consistent across repeated videos.

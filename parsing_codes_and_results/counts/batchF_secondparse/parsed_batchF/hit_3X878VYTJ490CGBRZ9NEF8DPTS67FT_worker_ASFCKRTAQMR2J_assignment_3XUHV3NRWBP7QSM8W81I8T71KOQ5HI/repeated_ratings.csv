@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/aAjWNgfYB-8_SubwaySurfers_0-00_1080p_6000k_hevc_nvenc,sample,40.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06280000001192043
+amt_gaming_vqa_dataset/aAjWNgfYB-8_SubwaySurfers_0-00_1080p_6000k_hevc_nvenc,sample,53.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.599799999997019
+amt_gaming_vqa_dataset/gaTwfvmMmXI_AngryBirds2_14-18,sample,50.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0046000000089403414
+amt_gaming_vqa_dataset/gaTwfvmMmXI_AngryBirds2_14-18,sample,34.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01699999999999946
+amt_gaming_vqa_dataset/8yfoGo7unhM_FIFA_1-59_720p_2500k_h264_nvenc,sample,24.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.002799999997019853
+amt_gaming_vqa_dataset/8yfoGo7unhM_FIFA_1-59_720p_2500k_h264_nvenc,sample,95.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005199999988079185
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_1000k_h264_nvenc,sample,80.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.013400000005960422
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_1000k_h264_nvenc,sample,57.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.022799999997019427
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_3500k_hevc_nvenc,sample,82.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01270000000297955
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_3500k_hevc_nvenc,sample,49.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03179999999701977
+amt_gaming_vqa_dataset/0oosqCBVaxY_StarCraft_28-28_1080p_800k_hevc_nvenc,sample,90.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.006400000005960749
+amt_gaming_vqa_dataset/0oosqCBVaxY_StarCraft_28-28_1080p_800k_hevc_nvenc,sample,35.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.025400000005960877
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,54.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08920000000298067
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,31.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0867000000029794

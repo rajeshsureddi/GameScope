@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14,sample,76.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",22.737200999809268
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14,sample,54.0,77.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",37.385501
+amt_gaming_vqa_dataset/_4l0rI3rVPE_SubwaySurfers_0-13_720p_2500k_h264_nvenc,sample,28.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.010699999809265393
+amt_gaming_vqa_dataset/_4l0rI3rVPE_SubwaySurfers_0-13_720p_2500k_h264_nvenc,sample,93.0,29.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02200000000000024
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_1000k_h264_nvenc,sample,41.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04170000028610232
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_1000k_h264_nvenc,sample,99.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05630000019073478
+amt_gaming_vqa_dataset/7-ZWlKZwV88_MarioKartTour_0-03_480p_800k_hevc_nvenc,sample,98.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01750000000000007
+amt_gaming_vqa_dataset/7-ZWlKZwV88_MarioKartTour_0-03_480p_800k_hevc_nvenc,sample,94.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0009000000953669485
+amt_gaming_vqa_dataset/1c1tO8qy68A_WorldofWarcraft_3-48_1080p_10000k_h264_nvenc,sample,52.0,79.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.008400000095367233
+amt_gaming_vqa_dataset/1c1tO8qy68A_WorldofWarcraft_3-48_1080p_10000k_h264_nvenc,sample,51.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.020299999713897066
+amt_gaming_vqa_dataset/1c1tO8qy68A_WorldofWarcraft_3-48_1080p_2300k_h264_nvenc,sample,81.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.007799999713897776
+amt_gaming_vqa_dataset/1c1tO8qy68A_WorldofWarcraft_3-48_1080p_2300k_h264_nvenc,sample,77.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0057000002861027355

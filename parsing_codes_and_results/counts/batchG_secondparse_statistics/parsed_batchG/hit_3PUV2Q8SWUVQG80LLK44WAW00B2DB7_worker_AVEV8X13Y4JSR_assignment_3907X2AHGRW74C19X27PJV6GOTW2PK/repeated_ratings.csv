@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/FX6xk1GME4M_EuroTruckSimulator2_0-00_720p_5000k_h264_nvenc,sample,38.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02355999999925551
+amt_gaming_vqa_dataset/FX6xk1GME4M_EuroTruckSimulator2_0-00_720p_5000k_h264_nvenc,sample,29.0,35.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.035639999999999006
+amt_gaming_vqa_dataset/zCk9CVvGGkg_StarCraft_6-12,sample,61.0,1.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0007999999988825834
+amt_gaming_vqa_dataset/zCk9CVvGGkg_StarCraft_6-12,sample,94.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.020600000001490315
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_5300k_h264_nvenc,sample,55.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11896699999962834
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_5300k_h264_nvenc,sample,69.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.5232670000003736
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_10000k_h264_nvenc,sample,37.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0662999999988827
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_10000k_h264_nvenc,sample,96.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.7210999999996268
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32_1080p_1500k_av1,sample,20.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.023300000000745058
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32_1080p_1500k_av1,sample,33.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02999999999999936
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_5000k_av1,sample,12.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.061899999999441846
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_5000k_av1,sample,73.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.9661999999992545

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_2160p_10000k_hevcnvenc,sample,91.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.94051
+amt_gaming_vqa_dataset/callofdutyps5_2160p_10000k_hevcnvenc,sample,32.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.1482900000007454
+amt_gaming_vqa_dataset/callofdutyps5_720p_3500k_hevcnvenc,sample,2.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07459000000149096
+amt_gaming_vqa_dataset/callofdutyps5_720p_3500k_hevcnvenc,sample,0.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08238999999850982
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_500k_av1,sample,95.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07449000000000083
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_500k_av1,sample,42.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07538999999851015
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_6000k_hevcnvenc,sample,14.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09029000000074561
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_6000k_hevcnvenc,sample,2.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.1750900000014912
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_500k_av1,sample,55.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050589999997765034
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_500k_av1,sample,84.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07389000000223511
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_av1,sample,54.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04938999999851035
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_av1,sample,34.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11649000000000065

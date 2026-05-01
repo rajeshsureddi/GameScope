@@ -1,0 +1,5 @@
+WorkerId,AssignmentId,Reasons,Rejections
+A3RT5MY10H6D1H,345LHZDEEOJ9HZ5OIOKOCBY72OYU3T,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser. | The scores for golden videos are not consistent with the true scores. | The delays in video ratings are too high.",1
+A6G80VHTBZKXM,3BXQMRHWLQPA3LDYO6P38A7D2F5MUR,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion",1
+AKH8KUW6I3COL,3TVSS0C0FSRR8KSNS35GCCN2H3OTWA,The scores for repeated videos are not consistent.,1
+AQPFTUIJ0PW2N,30IQTZXKBBX5HB0M46DSUKZ4TUW0XX/36U2A8VAHSQWU6X0DV9CWILM9YVYK6,The scores for repeated videos are not consistent.The scores for repeated videos are not consistent.,2

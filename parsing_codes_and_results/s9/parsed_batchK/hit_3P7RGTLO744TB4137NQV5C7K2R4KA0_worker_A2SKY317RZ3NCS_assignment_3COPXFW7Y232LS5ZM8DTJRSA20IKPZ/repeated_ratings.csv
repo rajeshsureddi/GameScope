@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_1080p_500k_av1,sample,79.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08179000000074588
+amt_gaming_vqa_dataset/Godofwar_1_1080p_500k_av1,sample,25.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08219000000111798
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2300k_h264nvenc,sample,67.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0768900000003736
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2300k_h264nvenc,sample,89.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07908999999962774
+amt_gaming_vqa_dataset/Godofwar_1_480p_1000k_h264nvenc,sample,91.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07768999999925619
+amt_gaming_vqa_dataset/Godofwar_1_480p_1000k_h264nvenc,sample,2.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0830899999996273
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2000k_hevcnvenc,sample,94.0,42.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.15259000000149037
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2000k_hevcnvenc,sample,30.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10618999999925549
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,36.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1048900000003723
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,94.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1195899999996275
+amt_gaming_vqa_dataset/MLBtheshow_1080p_2000k_hevcnvenc,sample,63.0,44.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11319000000111856
+amt_gaming_vqa_dataset/MLBtheshow_1080p_2000k_hevcnvenc,sample,35.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12058999999962872

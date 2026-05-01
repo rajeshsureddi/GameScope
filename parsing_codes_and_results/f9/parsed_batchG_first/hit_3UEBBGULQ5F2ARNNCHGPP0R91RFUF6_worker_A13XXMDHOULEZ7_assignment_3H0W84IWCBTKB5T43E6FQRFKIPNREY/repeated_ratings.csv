@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_1000k_h264_nvenc,sample,40.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.027300000011921455
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_1000k_h264_nvenc,sample,98.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013500000000000512
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03,sample,60.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03330000001192168
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03,sample,0.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.9435000000000002
+amt_gaming_vqa_dataset/uS1-YhWN7f4_IceAgeVillage_4-44,sample,78.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.018360000000001264
+amt_gaming_vqa_dataset/uS1-YhWN7f4_IceAgeVillage_4-44,sample,89.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.15184000004768272
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_800k_hevc_nvenc,sample,24.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03973300002384228
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_800k_hevc_nvenc,sample,26.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.024167000011921402
+amt_gaming_vqa_dataset/SYIjUBZ25mg_HalfLife2_3-28,sample,69.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.002000000000000668
+amt_gaming_vqa_dataset/SYIjUBZ25mg_HalfLife2_3-28,sample,56.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2089999999999996

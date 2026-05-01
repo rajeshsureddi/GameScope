@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cn1gXylV3CY_CallofDutyMobile_0-01_480p_1000k_h264_nvenc,sample,28.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0039000000003728275
+amt_gaming_vqa_dataset/cn1gXylV3CY_CallofDutyMobile_0-01_480p_1000k_h264_nvenc,sample,78.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04120000000018642
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_h264_nvenc,sample,69.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0035000000000007248
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_h264_nvenc,sample,40.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.019600000000558282
+amt_gaming_vqa_dataset/1D9805Q-9dw_SonicDash_0-00_480p_1000k_h264_nvenc,sample,82.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009499999999999176
+amt_gaming_vqa_dataset/1D9805Q-9dw_SonicDash_0-00_480p_1000k_h264_nvenc,sample,9.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018900000000373396
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_45-30_480p_1000k_h264_nvenc,sample,72.0,30.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006299999999813011
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_45-30_480p_1000k_h264_nvenc,sample,39.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.009800000000744546
+amt_gaming_vqa_dataset/p5rzPRQnycU_AngryBirds2_1-56,sample,48.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016900000000372728
+amt_gaming_vqa_dataset/p5rzPRQnycU_AngryBirds2_1-56,sample,27.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004900000000372273
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_6000k_hevc_nvenc,sample,19.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.004733000000372911
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_6000k_hevc_nvenc,sample,28.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.023033000000186377

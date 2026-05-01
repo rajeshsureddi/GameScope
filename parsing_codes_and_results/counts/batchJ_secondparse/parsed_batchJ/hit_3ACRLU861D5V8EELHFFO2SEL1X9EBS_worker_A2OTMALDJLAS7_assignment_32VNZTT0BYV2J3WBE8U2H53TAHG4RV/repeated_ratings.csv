@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_1000k_h264_nvenc,sample,62.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.010500000000000398
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_1000k_h264_nvenc,sample,19.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02739999997615783
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_1500k_hevc_nvenc,sample,78.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.013900000005961033
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_1500k_hevc_nvenc,sample,38.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.022199999988078645
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_600k_hevc_nvenc,sample,69.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.059599999994039976
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_600k_hevc_nvenc,sample,65.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.031899999976158
+amt_gaming_vqa_dataset/Gp59gQ78XZ4_Terraria_13-55_1080p_2300k_h264_nvenc,sample,17.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.011700000017881962
+amt_gaming_vqa_dataset/Gp59gQ78XZ4_Terraria_13-55_1080p_2300k_h264_nvenc,sample,17.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05809999999403992
+amt_gaming_vqa_dataset/F84TmQCWEJk_SubwaySurfers_0-04_480p_1000k_h264_nvenc,sample,47.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.028299999982118962
+amt_gaming_vqa_dataset/F84TmQCWEJk_SubwaySurfers_0-04_480p_1000k_h264_nvenc,sample,83.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015300000011921
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_5000k_av1,sample,59.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02159999999403972
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_5000k_av1,sample,66.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.5715000000000003

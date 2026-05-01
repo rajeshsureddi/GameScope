@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_1080p_5300k_h264nvenc,sample,74.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.7410899999996285
+amt_gaming_vqa_dataset/callofdutyps5_1080p_5300k_h264nvenc,sample,89.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07888999999990709
+amt_gaming_vqa_dataset/callofdutyps5_2160p_5000k_h264nvenc,sample,23.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-3.480110000000092
+amt_gaming_vqa_dataset/callofdutyps5_2160p_5000k_h264nvenc,sample,7.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08709000000009404
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_2300k_h264nvenc,sample,65.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08349000000000117
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_2300k_h264nvenc,sample,60.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07449000000000083
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_3000k_av1,sample,32.0,28.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0814900000000005
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_3000k_av1,sample,94.0,30.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08899000000000079
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_h264nvenc,sample,53.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10268999999972195
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_h264nvenc,sample,95.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11079000000028039
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_6000k_hevcnvenc,sample,32.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09558999999997653
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_6000k_hevcnvenc,sample,16.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0939899999999998

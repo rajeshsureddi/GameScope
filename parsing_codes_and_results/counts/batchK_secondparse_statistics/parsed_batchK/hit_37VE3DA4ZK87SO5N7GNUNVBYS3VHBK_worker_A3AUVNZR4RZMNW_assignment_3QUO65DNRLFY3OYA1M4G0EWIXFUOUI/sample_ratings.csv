@@ -1,0 +1,87 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1,sample,73.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10830000000074591
+amt_gaming_vqa_dataset/Godofwar_1_1080p_1500k_av1,sample,24.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04989000000037258
+amt_gaming_vqa_dataset/Godofwar_1_1080p_5000k_av1,sample,45.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09529000000074639
+amt_gaming_vqa_dataset/Godofwar_1_1080p_500k_av1,sample,78.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09259000000055906
+amt_gaming_vqa_dataset/Godofwar_1_2160p_10000k_av1,sample,73.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.328090000000559
+amt_gaming_vqa_dataset/Godofwar_1_2160p_1000k_av1,sample,67.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.16469000000018674
+amt_gaming_vqa_dataset/Godofwar_1_2160p_5000k_av1,sample,37.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.20388999999944168
+amt_gaming_vqa_dataset/Godofwar_1_480p_1000k_av1,sample,98.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07219000000018738
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,71.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/Godofwar_1_720p_3000k_av1,sample,62.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08638999999944197
+amt_gaming_vqa_dataset/Godofwar_1_720p_500k_av1,sample,7.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04958999999962721
+amt_gaming_vqa_dataset/Godofwar_1_1080p_10000k_h264nvenc,sample,47.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15349000000000146
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2300k_h264nvenc,sample,55.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11428999999981393
+amt_gaming_vqa_dataset/Godofwar_1_1080p_5300k_h264nvenc,sample,17.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.22328999999981392
+amt_gaming_vqa_dataset/Godofwar_1_2160p_25000k_h264nvenc,sample,86.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",7.266190000000188
+amt_gaming_vqa_dataset/Godofwar_1_2160p_5000k_h264nvenc,sample,6.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",10.632990000000001
+amt_gaming_vqa_dataset/Godofwar_1_2160p_8500k_h264nvenc,sample,19.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",6.246590000000561
+amt_gaming_vqa_dataset/Godofwar_1_480p_1000k_h264nvenc,sample,95.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10019000000018607
+amt_gaming_vqa_dataset/Godofwar_1_720p_1000k_h264nvenc,sample,23.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08469000000018667
+amt_gaming_vqa_dataset/Godofwar_1_720p_2500k_h264nvenc,sample,85.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0902899999998148
+amt_gaming_vqa_dataset/Godofwar_1_720p_5000k_h264nvenc,sample,14.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10309000000055946
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2000k_hevcnvenc,sample,87.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07969000000018767
+amt_gaming_vqa_dataset/Godofwar_1_1080p_6000k_hevcnvenc,sample,15.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0797899999998144
+amt_gaming_vqa_dataset/Godofwar_1_1080p_800k_hevcnvenc,sample,70.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08328999999981512
+amt_gaming_vqa_dataset/Godofwar_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Godofwar_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Godofwar_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Godofwar_1_480p_800k_hevcnvenc,sample,6.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.077690000000187
+amt_gaming_vqa_dataset/Godofwar_1_720p_1500k_hevcnvenc,sample,16.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08599000000000068
+amt_gaming_vqa_dataset/Godofwar_1_720p_3500k_hevcnvenc,sample,58.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08738999999944141
+amt_gaming_vqa_dataset/Godofwar_1_720p_600k_hevcnvenc,sample,95.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07458999999962757
+amt_gaming_vqa_dataset/MLBtheshow,sample,96.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12020000000018527
+amt_gaming_vqa_dataset/MLBtheshow_1080p_1500k_av1,sample,66.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10158999999962859
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5000k_av1,sample,50.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11369000000018659
+amt_gaming_vqa_dataset/MLBtheshow_1080p_500k_av1,sample,31.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08999000000000024
+amt_gaming_vqa_dataset/MLBtheshow_2160p_10000k_av1,sample,86.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.8222899999998141
+amt_gaming_vqa_dataset/MLBtheshow_2160p_1000k_av1,sample,44.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05018999999925633
+amt_gaming_vqa_dataset/MLBtheshow_2160p_5000k_av1,sample,16.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.17819000000018725
+amt_gaming_vqa_dataset/MLBtheshow_480p_1000k_av1,sample,69.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07639000000037299
+amt_gaming_vqa_dataset/MLBtheshow_720p_1300k_av1,sample,44.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08168999999925575
+amt_gaming_vqa_dataset/MLBtheshow_720p_3000k_av1,sample,59.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09139000000037356
+amt_gaming_vqa_dataset/MLBtheshow_720p_500k_av1,sample,82.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07528999999981423
+amt_gaming_vqa_dataset/MLBtheshow_1080p_10000k_h264nvenc,sample,12.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09808999999962786
+amt_gaming_vqa_dataset/MLBtheshow_1080p_2300k_h264nvenc,sample,19.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11158999999962838
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,8.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11478999999981454
+amt_gaming_vqa_dataset/MLBtheshow_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/MLBtheshow_2160p_5000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/MLBtheshow_2160p_8500k_h264nvenc,sample,60.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-9.583610000000558
+amt_gaming_vqa_dataset/MLBtheshow_480p_1000k_h264nvenc,sample,90.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08248999999999995
+amt_gaming_vqa_dataset/MLBtheshow_720p_1000k_h264nvenc,sample,80.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11389000000037264
+amt_gaming_vqa_dataset/MLBtheshow_720p_2500k_h264nvenc,sample,42.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0915899999996288
+amt_gaming_vqa_dataset/MLBtheshow_720p_5000k_h264nvenc,sample,62.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11649000000000065
+amt_gaming_vqa_dataset/MLBtheshow_1080p_2000k_hevcnvenc,sample,85.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08338999999944186
+amt_gaming_vqa_dataset/MLBtheshow_1080p_6000k_hevcnvenc,sample,92.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10139000000037335
+amt_gaming_vqa_dataset/MLBtheshow_1080p_800k_hevcnvenc,sample,37.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07749000000000095
+amt_gaming_vqa_dataset/MLBtheshow_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/MLBtheshow_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/MLBtheshow_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/MLBtheshow_480p_800k_hevcnvenc,sample,43.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08789000000037284
+amt_gaming_vqa_dataset/MLBtheshow_720p_1500k_hevcnvenc,sample,72.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0898900000003735
+amt_gaming_vqa_dataset/MLBtheshow_720p_3500k_hevcnvenc,sample,23.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04819000000018647
+amt_gaming_vqa_dataset/MLBtheshow_720p_600k_hevcnvenc,sample,62.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08109000000055921
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26,sample,73.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08249999999999957
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_1300k_av1,sample,97.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03449999999999953
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_3000k_av1,sample,4.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03929999999981426
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_500k_av1,sample,98.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009699999999254416
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_1000k_h264_nvenc,sample,81.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.47209999999962804
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_2500k_h264_nvenc,sample,8.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02320000000018574
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_5000k_h264_nvenc,sample,45.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03870000000018692
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_1500k_hevc_nvenc,sample,48.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.012000000000000455
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_3500k_hevc_nvenc,sample,61.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.014600000000559277
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_600k_hevc_nvenc,sample,9.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.022399999999441533
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00,sample,21.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.155299999999812
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_1500k_av1,sample,31.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06859999999962696
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_5000k_av1,sample,63.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05759999999962773
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_500k_av1,sample,78.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04729999999981338
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_10000k_h264_nvenc,sample,78.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2227000000001862
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_2300k_h264_nvenc,sample,2.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.17260000000055875
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_5300k_h264_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_11-50,sample,11.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.017900000000372174
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_11-50_480p_1000k_av1,sample,64.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014700000000186009
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_11-50_480p_1000k_h264_nvenc,sample,16.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02529999999981314
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_11-50_480p_800k_hevc_nvenc,sample,17.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0005000000000006111

@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_1000k_h264_nvenc,sample,21.0,18.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007600000000092422
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_1000k_h264_nvenc,sample,36.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.5231999999997203
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_2500k_h264_nvenc,sample,84.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0017000000001861082
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_2500k_h264_nvenc,sample,54.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0030000000000001137
+amt_gaming_vqa_dataset/JLxMYraKslo_DiabloIII_1-20_720p_3500k_hevc_nvenc,sample,27.0,42.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0022000000001867193
+amt_gaming_vqa_dataset/JLxMYraKslo_DiabloIII_1-20_720p_3500k_hevc_nvenc,sample,54.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.80519999999972
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_500k_av1,sample,78.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09119999999995443
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_500k_av1,sample,12.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.3852000000001858
+amt_gaming_vqa_dataset/7lQLp7kzpCM_Cyberpunk2077_23-12_1080p_5300k_h264_nvenc,sample,58.0,89.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018366999999999578
+amt_gaming_vqa_dataset/7lQLp7kzpCM_Cyberpunk2077_23-12_1080p_5300k_h264_nvenc,sample,18.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02786700000000053
+amt_gaming_vqa_dataset/y_dL35FZBzXYM_StardewValley_17-22_480p_800k_hevc_nvenc,sample,37.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.004899999999906868
+amt_gaming_vqa_dataset/y_dL35FZBzXYM_StardewValley_17-22_480p_800k_hevc_nvenc,sample,57.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.024799999999814304
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.8040000000000003
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05830000000004709
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,68.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07820000000018545

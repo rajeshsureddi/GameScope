@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/skyrim_2_2160p_6000k_hevcnvenc,sample,73.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.021509999999999252
+amt_gaming_vqa_dataset/skyrim_2_2160p_6000k_hevcnvenc,sample,14.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.7120899999940402
+amt_gaming_vqa_dataset/skyrim_2_480p_1000k_av1,sample,58.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02520999998807838
+amt_gaming_vqa_dataset/skyrim_2_480p_1000k_av1,sample,35.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-2.631109999994039
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_25000k_h264nvenc,sample,15.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.051190000002980796
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_25000k_h264nvenc,sample,4.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.7535900000089413
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_25000k_h264nvenc,sample,93.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12119000000298108
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_25000k_h264nvenc,sample,73.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.0422900000119224
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_8500k_h264nvenc,sample,0.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04919000000298013
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_8500k_h264nvenc,sample,35.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.4365900000089411
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_600k_hevcnvenc,sample,59.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07039000000596118
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_600k_hevcnvenc,sample,39.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-1.569210000002979

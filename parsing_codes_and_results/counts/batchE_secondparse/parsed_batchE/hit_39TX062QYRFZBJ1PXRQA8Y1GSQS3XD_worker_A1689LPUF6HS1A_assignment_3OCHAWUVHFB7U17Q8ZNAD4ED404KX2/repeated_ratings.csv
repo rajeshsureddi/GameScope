@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_2500k_h264_nvenc,sample,88.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.856783
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_2500k_h264_nvenc,sample,80.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-9.834783
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_600k_hevc_nvenc,sample,76.0,47.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010582999999813936
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_600k_hevc_nvenc,sample,87.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00831700000055946
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_800k_hevc_nvenc,sample,88.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.012899999999440581
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_800k_hevc_nvenc,sample,72.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.022599999999627585
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_10000k_h264_nvenc,sample,10.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.001899999999906754
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_10000k_h264_nvenc,sample,73.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.2645
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_2000k_hevc_nvenc,sample,3.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.3982000000001857
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_2000k_hevc_nvenc,sample,91.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0065999999996275704
+amt_gaming_vqa_dataset/dL5vzPLG18k_HalfLife2_29-00,sample,41.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0129999999999999
+amt_gaming_vqa_dataset/dL5vzPLG18k_HalfLife2_29-00,sample,55.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.6525999999996284

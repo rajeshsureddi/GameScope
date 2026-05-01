@@ -1,0 +1,5 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+35LDD55581VW0P8MUSL12NYFXRGMK6,3OYHVNTV6JPID8V4H6VD67RPR3BOKW,A2J237J8KM3OCS,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=66"
+39LNWE0K5LNO72N73RRBGH0WHQVUIT,3OYHVNTV6JPID8V4H6VD67RPR3BOKW,A1Q7VWUBIJOK17,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=61"
+3FQ5JJ513CF2I7TM6T01F2NF1BUKNV,3ATYLI1PSJTN2OPMZLV15SRCCEBOJX,A1Y0ABOUJUMCWW,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=65"
+3IAS3U3I16750I0ZEXPOOB1R3962BO,3NQUW096OWZQQR9G0HOWOH9FL4UL9I,A1Q7VWUBIJOK17,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=65"

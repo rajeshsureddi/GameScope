@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_500k_av1,sample,94.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07078999999981406
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_500k_av1,sample,29.0,79.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07088999999990797
+amt_gaming_vqa_dataset/Hogwartslegacy_1_720p_3000k_av1,sample,76.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07798999999999978
+amt_gaming_vqa_dataset/Hogwartslegacy_1_720p_3000k_av1,sample,91.0,74.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07879000000028036
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_2_1080p_5000k_av1,sample,98.0,77.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.09910000000009234
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_2_1080p_5000k_av1,sample,71.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11100000000000065
+amt_gaming_vqa_dataset/DragonballZkakrot_2160p_5000k_av1,sample,52.0,77.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.1673899999999069
+amt_gaming_vqa_dataset/DragonballZkakrot_2160p_5000k_av1,sample,76.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.16588999999990683
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_2500k_h264nvenc,sample,75.0,77.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0655900000000944
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_2500k_h264nvenc,sample,38.0,72.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06588999999990719
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_1500k_hevcnvenc,sample,88.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05179000000004663
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_1500k_hevcnvenc,sample,75.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05059000000009384

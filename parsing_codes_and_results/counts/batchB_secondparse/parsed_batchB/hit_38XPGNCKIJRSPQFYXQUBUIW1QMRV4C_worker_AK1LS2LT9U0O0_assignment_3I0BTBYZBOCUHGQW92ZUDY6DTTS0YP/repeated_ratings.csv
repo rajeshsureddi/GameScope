@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Deadspace_1080p_2000k_hevcnvenc,sample,41.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.049390000000373746
+amt_gaming_vqa_dataset/Deadspace_1080p_2000k_hevcnvenc,sample,93.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0881900000001874
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_2300k_h264nvenc,sample,88.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04958999999962721
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_2300k_h264nvenc,sample,96.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07499000000000144
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_8500k_h264nvenc,sample,4.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05038999999944238
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_8500k_h264nvenc,sample,93.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0914900000000003
+amt_gaming_vqa_dataset/Farcry6_2_720p_500k_av1,sample,87.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-9.170909999999907
+amt_gaming_vqa_dataset/Farcry6_2_720p_500k_av1,sample,18.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06819000000018605
+amt_gaming_vqa_dataset/Farcry6_2_1080p_800k_hevcnvenc,sample,80.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06628999999981389
+amt_gaming_vqa_dataset/Farcry6_2_1080p_800k_hevcnvenc,sample,16.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08279000000074532
+amt_gaming_vqa_dataset/Farcry6_2_720p_1500k_hevcnvenc,sample,11.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.051289999999815095
+amt_gaming_vqa_dataset/Farcry6_2_720p_1500k_hevcnvenc,sample,74.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06449000000000105

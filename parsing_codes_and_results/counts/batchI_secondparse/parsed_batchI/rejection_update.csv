@@ -1,0 +1,25 @@
+WorkerId,AssignmentId,Reasons,Rejections
+A2B21OGTDRUD0,3FTF2T8WMI98O5J9UX0ZLCMQMJQ9W4,Too many unset video ratings (30 > 24),1.0
+A1EQ8UXKOUDYT4,3O6CYIULF4S68X7CS8VQH894Z2SUW4,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=65",1.0
+A3JQVOGVJ2OAAX,3R0T90IZ2J3EPH0CRC681Z1AYDJCGZ,Too many unset video ratings (30 > 24),1.0
+A28HQQPBN2MUNR,3XUHV3NRWBP7QSM8W81I8T71LXX5H8,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=51",1.0
+A384KX8MUIJSTJ,3Z4AIRP3DX45O0L40PHS8PIEX6OX1M,Too many unset video ratings (32 > 24),1.0
+A1MCWFRCYFK1BX,30ZX6P7VGZMBI1YB2P25MZK4DLM2JW,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=51",1.0
+AP9WRGCJVLLTG,3DHE4R9ODN21RZ8AUJH2PMSOLUK2G9,The scores for golden videos are not consistent with the true scores.,1.0
+AM8EV600ZP69X,3NVC2EB66HQQY8PTSPHDFW4KW4BY3F,Too many unset video ratings (30 > 24),1.0
+A3DJ0UVMQRZ32R,3U4J9857P52CMJX5K96JK2IZGWP7BM,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=54",1.0
+A12KQGDA5YYCW7,3ZV9H2YQR4YM93UTDOZPUZJ4LW63WG,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=63",1.0
+A6G80VHTBZKXM,3DI28L7YY15WI0UN5KR0K0X7FUR1EH,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=54",1.0
+A34D1LAUUQZCRT,3E4GGUZ1UZI6TL4TKA2HNEKHRXXK2X,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=68",1.0
+A3D2P33SYYDMD,33JKGHPFZ3LX8VTPR5DHUFFJRQHNMG,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=63",1.0
+A2UHPZ0D859HJN,37ZHEEHM7ND7JOTS5GRD2JKNRMS73A,Too many unset video ratings (30 > 24),1.0
+A1ZL17KIP85OLV,3HYA4D453IAVDZCFJZBK71SCJVXF2V,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=51",1.0
+A3ME4M9A7220AE,3L4D84MIMQJFXR1TLA5C93Q61L4HJQ,"Too many unset video ratings (30 > 24) | all slider ratings are very similar, the slider moved to same range of scores. | The scores for golden videos are not consistent with the true scores.",1.0
+A1X0K1GC85ROW9,3L70J4KA07DNKITN5899PJ8PJ7PAD4,Too many unset video ratings (30 > 24),1.0
+A391SHXY5FIDY5,3NGMS9VZUC9FETOR7UQRRKM1S00FFF,Too many unset video ratings (30 > 24) | The scores for repeated videos are not consistent (4 > 3) | The scores for golden videos are not consistent with the true scores.,1.0
+A14VB364MMVGC3,3ZWFC4W1VLYCHJT0YPQL890KVN0RF9,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=51",1.0
+A3KGCURZJ02L3,30BUDKLTY4MV6IV667TCNQAOU3L5EH,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=55",1.0
+A1QA776LKNBK9C,358010RM65KLAC12731HFDPUNBCXVV,Too many unset video ratings (30 > 24),1.0
+A2FC99DDV5E9TW,3B1NLC6UHQNXJ69GWHSELZ0HYC1GPH,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=57",1.0
+A385BM7R0Z59IN,3G0WWMR1VMBOTARHJYKYBOZO4ZXNQ5,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=65",1.0
+A2OTMALDJLAS7,3MAOD8E58H1827ST5CFQ5WVH1NYXNW,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=54",1.0

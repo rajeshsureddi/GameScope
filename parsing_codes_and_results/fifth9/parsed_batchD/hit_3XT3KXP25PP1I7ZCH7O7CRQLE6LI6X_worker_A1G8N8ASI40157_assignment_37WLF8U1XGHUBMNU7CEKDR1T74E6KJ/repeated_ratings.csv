@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/ucNHzV2XrCE_FallGuys_1-55_720p_5000k_h264_nvenc,sample,60.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.004100000000093473
+amt_gaming_vqa_dataset/ucNHzV2XrCE_FallGuys_1-55_720p_5000k_h264_nvenc,sample,2.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0010999999998606569
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_500k_av1,sample,48.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.057400000000022544
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_500k_av1,sample,41.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.057699999999719864
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_2000k_hevc_nvenc,sample,44.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015000000000000568
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_2000k_hevc_nvenc,sample,28.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.008399999999907592
+amt_gaming_vqa_dataset/npHnaTnSmwg_CitiesSkylines_6-15_480p_1000k_h264_nvenc,sample,30.0,31.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007199999999953022
+amt_gaming_vqa_dataset/npHnaTnSmwg_CitiesSkylines_6-15_480p_1000k_h264_nvenc,sample,17.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.027899999999906555
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_37-00_480p_800k_hevc_nvenc,sample,43.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01740000000013886
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_37-00_480p_800k_hevc_nvenc,sample,57.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02489999999990644
+amt_gaming_vqa_dataset/1xnrkVQHoZY_MarioKartTour_1-04_1080p_5300k_h264_nvenc,sample,5.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.021400000000022956
+amt_gaming_vqa_dataset/1xnrkVQHoZY_MarioKartTour_1-04_1080p_5300k_h264_nvenc,sample,86.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03139999999990728

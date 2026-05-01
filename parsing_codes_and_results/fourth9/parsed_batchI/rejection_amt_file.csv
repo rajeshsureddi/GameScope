@@ -1,0 +1,4 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3DHE4R9ODN21RZ8AUJH2PMSOLUK2G9,3SV8KD29MUJUCC9BJF6UM5YTBJOKZS,AP9WRGCJVLLTG,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3NVC2EB66HQQY8PTSPHDFW4KW4BY3F,3SV8KD29MUJUCC9BJF6UM5YTBJOKZS,AM8EV600ZP69X,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3ZV9H2YQR4YM93UTDOZPUZJ4LW63WG,3SV8KD29MUJUCC9BJF6UM5YTBJOKZS,A12KQGDA5YYCW7,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"

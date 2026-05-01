@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_800k_hevc_nvenc,sample,13.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010998999999999981
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_800k_hevc_nvenc,sample,70.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.021001000000000047
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-46_480p_1000k_h264_nvenc,sample,14.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04890000000223438
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-46_480p_1000k_h264_nvenc,sample,25.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0318999999985099
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1500k_hevc_nvenc,sample,72.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013600000001490642
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1500k_hevc_nvenc,sample,44.0,82.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01750000000000007
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_27-04_480p_1000k_h264_nvenc,sample,72.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04380000000074524
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_27-04_480p_1000k_h264_nvenc,sample,22.0,24.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04800000000000004
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-19_480p_1000k_h264_nvenc,sample,63.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.046599999997765096
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-19_480p_1000k_h264_nvenc,sample,6.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04560000000149067
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_5300k_h264_nvenc,sample,26.0,30.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03390100000223484
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_5300k_h264_nvenc,sample,83.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04060099999776412

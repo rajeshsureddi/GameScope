@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/skyrim_2_1080p_1500k_av1,sample,41.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.55070999998808
+amt_gaming_vqa_dataset/skyrim_2_1080p_1500k_av1,sample,43.0,57.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-4.7303099999970195
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2,sample,55.0,51.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.36339999999106
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2,sample,98.0,53.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.029800000011922
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_720p_5000k_h264nvenc,sample,81.0,66.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08459000000894079
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_720p_5000k_h264nvenc,sample,90.0,73.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.205509999999999
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_10000k_hevcnvenc,sample,55.0,63.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.2059899999999999
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_10000k_hevcnvenc,sample,89.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.340509999999999
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_2300k_h264nvenc,sample,70.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.10959000000894115
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_2300k_h264nvenc,sample,59.0,67.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-4.89771000000298
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_25000k_h264nvenc,sample,74.0,61.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-9.03171000000298
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_25000k_h264nvenc,sample,91.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-9.32851

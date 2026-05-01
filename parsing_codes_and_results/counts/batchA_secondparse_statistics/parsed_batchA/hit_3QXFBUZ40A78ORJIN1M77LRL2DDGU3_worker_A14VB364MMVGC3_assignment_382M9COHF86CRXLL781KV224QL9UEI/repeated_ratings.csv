@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_2500k_h264nvenc,sample,82.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.049390000000373746
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_2500k_h264nvenc,sample,53.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06379000000027979
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_6000k_hevcnvenc,sample,30.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07948999999999984
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_6000k_hevcnvenc,sample,67.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-9.13870999999972
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_3500k_hevcnvenc,sample,30.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_3500k_hevcnvenc,sample,35.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.2792900000002803
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_1500k_av1,sample,18.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04909000000009378
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_1500k_av1,sample,58.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08248999999999995
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_5300k_h264nvenc,sample,54.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-5.788310000000046
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_5300k_h264nvenc,sample,46.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08288999999990665
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,16.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04999000000000109
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,71.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06859000000009452

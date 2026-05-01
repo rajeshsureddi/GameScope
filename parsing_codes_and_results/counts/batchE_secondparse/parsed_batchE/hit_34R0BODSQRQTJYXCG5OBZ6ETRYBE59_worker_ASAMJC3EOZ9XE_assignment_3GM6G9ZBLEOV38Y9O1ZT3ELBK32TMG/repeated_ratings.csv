@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_5000k_av1,sample,51.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02580000000074456
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_5000k_av1,sample,49.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.028799999998883052
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_10000k_h264_nvenc,sample,11.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018800000000744888
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_10000k_h264_nvenc,sample,46.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.013300000000745271
+amt_gaming_vqa_dataset/y0IsRAR6W90_WorldofWarcraft_0-12_480p_1000k_h264_nvenc,sample,87.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-9.9999999626732e-05
+amt_gaming_vqa_dataset/y0IsRAR6W90_WorldofWarcraft_0-12_480p_1000k_h264_nvenc,sample,79.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0172000000011181
+amt_gaming_vqa_dataset/CreZ1eCfJwQ_PUBGMobile_0-00_720p_3500k_hevc_nvenc,sample,76.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04480000000074469
+amt_gaming_vqa_dataset/CreZ1eCfJwQ_PUBGMobile_0-00_720p_3500k_hevc_nvenc,sample,19.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.011299999998882981
+amt_gaming_vqa_dataset/qHQWcxUi4ic_Terraria_9-20_480p_800k_hevc_nvenc,sample,91.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01280000000074466
+amt_gaming_vqa_dataset/qHQWcxUi4ic_Terraria_9-20_480p_800k_hevc_nvenc,sample,75.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.011700000001116706
+amt_gaming_vqa_dataset/llMU1DXmfuU_CallofDutyMobile_9-38,sample,65.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015699999999254644
+amt_gaming_vqa_dataset/llMU1DXmfuU_CallofDutyMobile_9-38,sample,69.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012599999999627798

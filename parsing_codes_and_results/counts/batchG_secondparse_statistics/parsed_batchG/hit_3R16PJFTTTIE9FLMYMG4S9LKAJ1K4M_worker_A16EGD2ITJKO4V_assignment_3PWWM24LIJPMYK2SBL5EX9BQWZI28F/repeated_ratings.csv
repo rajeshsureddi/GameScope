@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_5000k_av1,sample,73.0,53.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.03010000002384139
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_5000k_av1,sample,30.0,76.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",2.67590000000596
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_1500k_hevc_nvenc,sample,3.0,79.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.0009999999999994458
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_1500k_hevc_nvenc,sample,36.0,60.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.019899999976157545
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_5300k_h264_nvenc,sample,48.0,70.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.826
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_5300k_h264_nvenc,sample,62.0,73.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-4.578800000011921
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_500k_av1,sample,34.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06609999999403904
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_500k_av1,sample,22.0,91.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.020699999988078588
+amt_gaming_vqa_dataset/xy5eDPmTyw4_TheWitcher3_1-12-15,sample,64.0,71.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.00013300001192106947
+amt_gaming_vqa_dataset/xy5eDPmTyw4_TheWitcher3_1-12-15,sample,70.0,81.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",16.79993299999404
+amt_gaming_vqa_dataset/bKHTBNswpjo_DiabloIII_2-59,sample,99.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.49859999999404003
+amt_gaming_vqa_dataset/bKHTBNswpjo_DiabloIII_2-59,sample,67.0,87.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.015100000023842597

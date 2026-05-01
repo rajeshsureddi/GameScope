@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_11-55_480p_1000k_av1,sample,49.0,89.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.00418400000000041
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_11-55_480p_1000k_av1,sample,22.0,87.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",-0.018916000023841306
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21,sample,84.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.29299999999999926
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21,sample,57.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",10.780600000023842
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00,sample,20.0,45.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.035399999976158725
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00,sample,52.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.297300000011921
+amt_gaming_vqa_dataset/E585R3AqEp8_CallofDutyMobile_0-07_1080p_2000k_hevc_nvenc,sample,68.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005299999952315559
+amt_gaming_vqa_dataset/E585R3AqEp8_CallofDutyMobile_0-07_1080p_2000k_hevc_nvenc,sample,53.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00890000003576219
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1000k_h264_nvenc,sample,69.0,76.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005900000035762076
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1000k_h264_nvenc,sample,74.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.008600000023841758
+amt_gaming_vqa_dataset/AfRkzHvr2c4_CitiesSkylines_16-00,sample,92.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006100000023842256
+amt_gaming_vqa_dataset/AfRkzHvr2c4_CitiesSkylines_16-00,sample,26.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.002400000035763128

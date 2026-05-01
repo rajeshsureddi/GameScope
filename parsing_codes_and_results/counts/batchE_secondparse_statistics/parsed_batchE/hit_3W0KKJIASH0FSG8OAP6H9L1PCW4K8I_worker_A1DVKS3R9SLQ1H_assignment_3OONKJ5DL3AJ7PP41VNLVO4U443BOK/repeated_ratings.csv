@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_500k_av1,sample,75.0,44.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.013082999952315433
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_500k_av1,sample,37.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.03471700000000055
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_500k_av1,sample,60.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.031200000047682863
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_500k_av1,sample,79.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.028499999999999304
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47,sample,77.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.021357999952316575
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47,sample,66.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",8.444942
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2300k_h264_nvenc,sample,70.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.032057999999999254
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2300k_h264_nvenc,sample,16.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00484199985694822
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_800k_hevc_nvenc,sample,67.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.021899999856948682
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_800k_hevc_nvenc,sample,91.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",4.095099999904633

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_15-02_480p_800k_hevc_nvenc,sample,12.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.030800000011920403
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_15-02_480p_800k_hevc_nvenc,sample,66.0,61.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.044600000023841346
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_2300k_h264_nvenc,sample,12.0,36.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.061700000017880896
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_2300k_h264_nvenc,sample,57.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07259999999403988
+amt_gaming_vqa_dataset/yebynRz26iU_Rust_0-00_1080p_1500k_av1,sample,72.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09770000001788226
+amt_gaming_vqa_dataset/yebynRz26iU_Rust_0-00_1080p_1500k_av1,sample,54.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11100000000000065
+amt_gaming_vqa_dataset/qHQWcxUi4ic_Terraria_9-20_480p_1000k_h264_nvenc,sample,87.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.046499999999999986
+amt_gaming_vqa_dataset/qHQWcxUi4ic_Terraria_9-20_480p_1000k_h264_nvenc,sample,59.0,60.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03520000001788226
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_2-48-30_480p_800k_hevc_nvenc,sample,87.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01839999997615749
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_2-48-30_480p_800k_hevc_nvenc,sample,87.0,41.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.039700000017880654
+amt_gaming_vqa_dataset/Ad3zlJ-wNWk_PUBGMobile_0-05_1080p_1500k_av1,sample,65.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1565999999940395
+amt_gaming_vqa_dataset/Ad3zlJ-wNWk_PUBGMobile_0-05_1080p_1500k_av1,sample,55.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.15229999998211774

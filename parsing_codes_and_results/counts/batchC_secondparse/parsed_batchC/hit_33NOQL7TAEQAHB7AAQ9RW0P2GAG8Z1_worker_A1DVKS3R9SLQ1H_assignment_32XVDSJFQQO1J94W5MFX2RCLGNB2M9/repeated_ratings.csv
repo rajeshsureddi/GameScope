@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CatQuestII_720p_1300k_av1,sample,27.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11708999999403957
+amt_gaming_vqa_dataset/CatQuestII_720p_1300k_av1,sample,82.0,38.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1330899999940396
+amt_gaming_vqa_dataset/CatQuestII_2160p_5000k_h264nvenc,sample,47.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1620899999940395
+amt_gaming_vqa_dataset/CatQuestII_2160p_5000k_h264nvenc,sample,29.0,46.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.29118999998807915
+amt_gaming_vqa_dataset/Sessionskatesim_1_1080p_1500k_av1,sample,47.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1613000000119218
+amt_gaming_vqa_dataset/Sessionskatesim_1_1080p_1500k_av1,sample,71.0,54.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.17600000000000016
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_3000k_av1,sample,81.0,57.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13340000000595964
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_3000k_av1,sample,97.0,54.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1750000000000007
+amt_gaming_vqa_dataset/Sessionskatesim_1_2160p_6000k_hevcnvenc,sample,10.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3301000000238421
+amt_gaming_vqa_dataset/Sessionskatesim_1_2160p_6000k_hevcnvenc,sample,95.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2684999999999995
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_1500k_hevcnvenc,sample,78.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08670000001788125
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_1500k_hevcnvenc,sample,97.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.07769999998807897

@@ -1,0 +1,92 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35,sample,73.0,50.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",7.394500000000001
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_1500k_av1,sample,99.0,69.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.01619999980926501
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_5000k_av1,sample,90.0,80.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.01609999990463251
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_500k_av1,sample,93.0,56.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.02919999980926491
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_10000k_h264_nvenc,sample,53.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.002599999904632
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_2300k_h264_nvenc,sample,88.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0058999996185296055
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_5300k_h264_nvenc,sample,87.0,82.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.04820000028610316
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14,sample,25.0,52.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.02426699961853096
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_1300k_av1,sample,62.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.010232999904632223
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_3000k_av1,sample,35.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0026329999999994413
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_500k_av1,sample,37.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.015632999999999342
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_1000k_h264_nvenc,sample,56.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.019533000095366404
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_2500k_h264_nvenc,sample,4.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.046933000190733765
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_5000k_h264_nvenc,sample,22.0,84.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03943299971389713
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06,sample,54.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009000000000000341
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1300k_av1,sample,6.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.011199999809266004
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_3000k_av1,sample,12.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.047900000095367545
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_500k_av1,sample,71.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0039999999999995595
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1000k_h264_nvenc,sample,94.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.02209999990463274
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_2500k_h264_nvenc,sample,78.0,70.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.039199999809264696
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_5000k_h264_nvenc,sample,53.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04439999961853047
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_15-15,sample,26.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009099999904632838
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_15-15_480p_1000k_av1,sample,50.0,53.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.02549999999999919
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_15-15_480p_1000k_h264_nvenc,sample,32.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02740000009536736
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_15-15_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_4-16,sample,17.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.031800000190735034
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_4-16_480p_1000k_av1,sample,44.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.045699999809265535
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_4-16_480p_1000k_h264_nvenc,sample,40.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.0495999999046326
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_4-16_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39,sample,54.0,50.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.006133000000000166
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_1000k_av1,sample,57.0,69.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03493299971389696
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_1000k_h264_nvenc,sample,22.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.02243300019073402
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/qaLb_5zAD2o_SonicDash_8-57_360p_800k_av1,sample,20.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.015400000095366906
+amt_gaming_vqa_dataset/qaLb_5zAD2o_SonicDash_8-57_360p_800k_h264_nvenc,sample,66.0,81.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.048299999713897535
+amt_gaming_vqa_dataset/qaLb_5zAD2o_SonicDash_8-57_360p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_1000k_av1,sample,2.0,74.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.02353300009536774
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_1000k_h264_nvenc,sample,20.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.035033000095367584
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_6-36_480p_1000k_av1,sample,54.0,68.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.019599999904633236
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_6-36_480p_1000k_h264_nvenc,sample,47.0,52.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.045999999999999375
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_6-36_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_av1,sample,46.0,53.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.04349999999999987
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_h264_nvenc,sample,18.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04219999980926481
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00,sample,62.0,82.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.04730000019073444
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_1300k_av1,sample,73.0,89.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.03109999990463308
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_3000k_av1,sample,41.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.04970000028610144
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_500k_av1,sample,21.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.050700000286102664
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_1000k_h264_nvenc,sample,18.0,50.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.049800000190735716
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_2500k_h264_nvenc,sample,91.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.014599999904632455
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_5000k_h264_nvenc,sample,64.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.019699999809265734
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/l2r2yrzKm-0_MarioKartTour_0-03,sample,55.0,51.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",6.624833000000001
+amt_gaming_vqa_dataset/l2r2yrzKm-0_MarioKartTour_0-03_480p_1000k_av1,sample,48.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.03766699999999901
+amt_gaming_vqa_dataset/l2r2yrzKm-0_MarioKartTour_0-03_480p_1000k_h264_nvenc,sample,29.0,48.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.05116699999999952
+amt_gaming_vqa_dataset/l2r2yrzKm-0_MarioKartTour_0-03_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_1000k_av1,sample,46.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.016800000190734465
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_1000k_h264_nvenc,sample,11.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.042200000286102934
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_23-22_480p_1000k_av1,sample,18.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03850000000000087
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_23-22_480p_1000k_h264_nvenc,sample,3.0,50.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.027599999904632355
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_23-22_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_1000k_av1,sample,47.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.04049999999999976
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_1000k_h264_nvenc,sample,50.0,57.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.028999999999999915
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/zKxpt9ha534_Cyberpunk2077_9-22,sample,19.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.025200000286101698
+amt_gaming_vqa_dataset/7B22h8ZiZ5M_FIFA_19-00,sample,89.0,84.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0286999998092643
+amt_gaming_vqa_dataset/iQ44avzILLw_Minecraft_4-25,sample,35.0,41.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008800000190735346
+amt_gaming_vqa_dataset/bHfntU1mEzU_TheWitcher3_6-54,sample,37.0,52.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04770000028610255
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06,sample,33.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03956700009536718
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_1300k_av1,sample,50.0,53.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.050466999713897565
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_3000k_av1,sample,15.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004566999618528911
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_500k_av1,sample,96.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.041367000286101074
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_1000k_h264_nvenc,sample,36.0,68.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.041067000095367234
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_2500k_h264_nvenc,sample,92.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04096699971389661
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_5000k_h264_nvenc,sample,68.0,61.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03466699999999889
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset

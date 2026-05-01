@@ -1,0 +1,18 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_3-16_360p_800k_h264_nvenc,sample,12.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.004899999856949222
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_3-16_360p_800k_h264_nvenc,sample,74.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.019999999999999574
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_800k_hevc_nvenc,sample,78.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.034000000000000696
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_800k_hevc_nvenc,sample,83.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.011100000143050792
+amt_gaming_vqa_dataset/qHQWcxUi4ic_Terraria_1-45_480p_800k_hevc_nvenc,sample,7.0,12.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014099999904631844
+amt_gaming_vqa_dataset/qHQWcxUi4ic_Terraria_1-45_480p_800k_hevc_nvenc,sample,63.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.032999999999999474
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_2300k_h264_nvenc,sample,47.0,70.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.008700000047683787
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_2300k_h264_nvenc,sample,34.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01440000009536746
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_6000k_hevc_nvenc,sample,28.0,78.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.0415999999046317
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_6000k_hevc_nvenc,sample,40.0,9.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",19.578899999856947
+amt_gaming_vqa_dataset/vNGNQoNZ1vQ_HalfLife2_4-26_480p_1000k_h264_nvenc,sample,11.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.017432999952315953
+amt_gaming_vqa_dataset/vNGNQoNZ1vQ_HalfLife2_4-26_480p_1000k_h264_nvenc,sample,97.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08386699999999969
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,51.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15509999990463186
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,57.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14759999990463335
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,27.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1509999999999998
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,0.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1745000000000001
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,52.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11409999990463326

@@ -1,61 +1,54 @@
-# GameScope
+# MTurk template (GamingVQA)
 
-**GameScope** is a showcase of gaming video samples for visual quality assessment, featuring **PS5** (high-fidelity) and **UGC** (user-generated) content with multiple resolutions, codecs, and quality levels.
+Scripts and HTML templates for Amazon MTurk batches and the GamingVQA crowdsourcing study. This branch keeps **only** MTurk-related assets; the dataset website lives on branch `main`.
 
-- **Repo:** https://github.com/rajeshsureddi/GameScope  
-- **Live site:** https://rajeshsureddi.github.io/GameScope/
+## Layout
 
----
+- `create_hit_batches.py` — groups originals and distortions into batch CSVs under `create_hit_batches_non_overlap/` (and related output).
+- `create_hit_batches_batchsize78/` — batch-size-78 variant outputs.
+- `gen_amt_code.py` — renders AMT HTML from `amt/template.htm` using the CSV inputs below.
+- `amt/` — MTurk template markup, JS, and intros.
+- `parsing_codes_and_results/` — parsing and analysis utilities for study exports.
+- Sample inputs: `train_vids.csv`, `sample_vids.csv`, `gold_vids.csv`, `backup_test.csv`.
 
-## Features
+## Prerequisites
 
-- **Video gallery** — Browse samples with filters by platform (PS5 / UGC), clarity, and artifacts
-- **Data distribution** — Plot of clip counts by resolution
-- **Metadata** — MOS, resolution, framerate, and quality attributes per sample
-- **Responsive** — Works on desktop and mobile
+- Python 3.9+
+- `pip install pandas jinja2`
 
----
+## 1) Generate HIT batch CSVs
 
-## GitHub Pages setup
-
-1. **Create a new repository** on GitHub named `GameScope` (or any name; the URL will be `https://<username>.github.io/<repo-name>/`).
-
-2. **Push this folder** so that the **contents** of `gamescope_website` are at the **root** of the repo:
-   ```bash
-   cd /mnt/LIVELAB_NAS/rajesh/New_Gaming/gamescope_website
-   git init
-   git add .
-   git commit -m "GameScope showcase"
-   git remote add origin https://github.com/rajeshsureddi/GameScope.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-3. **Enable GitHub Pages**
-   - Repo → **Settings** → **Pages**
-   - **Source**: Deploy from a branch
-   - **Branch**: `main` (or `master`) → `/ (root)` → Save
-
-4. After a minute or two, the site will be at:
-   - **https://rajeshsureddi.github.io/GameScope/**
-
----
-
-## Repository structure
-
-```
-GameScope/
-├── index.html      # Main page
-├── styles.css      # Styles
-├── script.js       # Gallery logic
-├── data.json       # Video metadata (paths, MOS, clarity, etc.)
-├── images/
-│   └── plot.png    # Distribution plot
-├── videos/
-│   ├── ps5/        # PS5 samples
-│   └── ugc/        # UGC samples
-├── .nojekyll       # So GitHub Pages doesn’t use Jekyll
-└── README.md
+```bash
+python3 create_hit_batches.py
 ```
 
-Videos and `data.json` use **relative paths**, so they work on GitHub Pages without changes.
+Edit the constants at the top of `create_hit_batches.py` if your video roots or batch size change:
+
+- `ORIGINAL_DIR`, `DISTORTED_DIR`, `BATCH_SIZE`, `OUTPUT_DIR`, `PREFIX`
+
+Outputs include `create_hit_batches_non_overlap/grouped_original_distorted.csv`, `batch_*.csv`, and `batch_statistics.csv`.
+
+## 2) Render MTurk HTML
+
+```bash
+python3 gen_amt_code.py \
+  --env sandbox \
+  --use_github \
+  --train_csv train_vids.csv \
+  --sample_csv sample_vids.csv \
+  --gold_csv gold_vids.csv \
+  --hit_csv create_hit_batches_non_overlap/batch_1.csv \
+  --backup_csv backup_test.csv \
+  --hit_id 0
+```
+
+By default this writes `sandbox_rendered.htm` in the repo root (override with `--out_file`). Environment `--env`: `local` | `sandbox` | `lab_sandbox` | `amt`.
+
+## 3) Validate
+
+- Use `debug.html` and the rendered `*_rendered.htm` in a browser before publishing.
+- Prefer MTurk **Sandbox** for end-to-end checks.
+
+## Naming note
+
+Directories and scripts no longer include the `rajesh_` prefix; paths inside this branch are rooted at `./` wherever the legacy tree pointed at this template folder.

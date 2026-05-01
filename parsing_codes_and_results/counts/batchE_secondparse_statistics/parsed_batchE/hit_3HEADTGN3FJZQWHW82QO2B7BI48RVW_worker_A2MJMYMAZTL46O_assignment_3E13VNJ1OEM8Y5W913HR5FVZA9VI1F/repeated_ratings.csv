@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_1500k_hevc_nvenc,sample,50.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01671699999999987
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_1500k_hevc_nvenc,sample,31.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.010817000000093557
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_2000k_hevc_nvenc,sample,85.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0009999999999994458
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_2000k_hevc_nvenc,sample,16.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.00860000000055905
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_10000k_h264_nvenc,sample,84.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.019100000000092265
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_10000k_h264_nvenc,sample,87.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.8766999999997207
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,73.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0868000000002791
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08279999999981413
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,94.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09660000000009283
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,37.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08320000000018624
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,63.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09039999999990656
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,49.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08399999999999963
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,55.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.23979999999981416
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,76.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06919999999972148
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,82.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09390000000037269

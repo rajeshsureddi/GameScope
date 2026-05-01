@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2,sample,62.0,60.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04510000002384196
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2,sample,93.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.037499999999999645
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_5000k_h264nvenc,sample,96.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08828999995231612
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_5000k_h264nvenc,sample,32.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.36368999992847506
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_480p_800k_hevcnvenc,sample,74.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06389000009536794
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_480p_800k_hevcnvenc,sample,99.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07109000002384214
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_5300k_h264nvenc,sample,78.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06949000000000005
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_5300k_h264nvenc,sample,4.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09368999992847549
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_25000k_h264nvenc,sample,81.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14338999997615787
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_25000k_h264nvenc,sample,47.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.36828999995231726
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_5000k_h264nvenc,sample,94.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06828999995231655
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_5000k_h264nvenc,sample,86.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06319000004768505

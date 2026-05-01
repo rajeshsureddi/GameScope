@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_5000k_av1,sample,13.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08928999999981357
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_5000k_av1,sample,66.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.24769000000018693
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_3500k_hevcnvenc,sample,84.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07989000000037372
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_3500k_hevcnvenc,sample,87.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08058999999962779
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_5000k_av1,sample,75.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09539000000037312
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_5000k_av1,sample,91.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11448999999999998
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_1300k_av1,sample,96.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07438999999944151
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_1300k_av1,sample,7.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08549000000000007
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_10000k_hevcnvenc,sample,60.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0805900000000932
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_10000k_hevcnvenc,sample,25.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06588999999990719
+amt_gaming_vqa_dataset/GrandtheftautoV_2_480p_800k_hevcnvenc,sample,70.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07528999999981423
+amt_gaming_vqa_dataset/GrandtheftautoV_2_480p_800k_hevcnvenc,sample,61.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06688999999944123

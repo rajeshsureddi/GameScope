@@ -1,0 +1,2 @@
+video_name,most_common_clarity,most_common_artifacts,most_common_immersion,highly_clear_count,moderately_clear_count,minimally_clear_count,no_artifacts_count,minor_artifacts_count,severe_artifacts_count,high_immersion_count,moderate_immersion_count,low_immersion_count
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06,Moderately Clear,Minor Artifacts Present,Moderate level of immersion,4,16,8,5,15,8,3,15,10

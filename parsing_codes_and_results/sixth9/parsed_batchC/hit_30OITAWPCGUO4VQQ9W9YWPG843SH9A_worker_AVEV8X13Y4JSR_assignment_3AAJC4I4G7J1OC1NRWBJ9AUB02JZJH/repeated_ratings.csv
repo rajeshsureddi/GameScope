@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_1080p_10000k_h264nvenc,sample,44.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1111900000011179
+amt_gaming_vqa_dataset/eFootball_2_1080p_10000k_h264nvenc,sample,7.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12939000000037382
+amt_gaming_vqa_dataset/eFootball_2_2160p_6000k_hevcnvenc,sample,55.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07789000000037305
+amt_gaming_vqa_dataset/eFootball_2_2160p_6000k_hevcnvenc,sample,77.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.057089999999627494
+amt_gaming_vqa_dataset/eFootball_2_720p_1500k_hevcnvenc,sample,52.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0768900000003736
+amt_gaming_vqa_dataset/eFootball_2_720p_1500k_hevcnvenc,sample,30.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.18708999999962828
+amt_gaming_vqa_dataset/eFootball_2_720p_3500k_hevcnvenc,sample,76.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08379000000074477
+amt_gaming_vqa_dataset/eFootball_2_720p_3500k_hevcnvenc,sample,33.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08679000000074488
+amt_gaming_vqa_dataset/Godofwar_2_1080p_1500k_av1,sample,82.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08728999999888387
+amt_gaming_vqa_dataset/Godofwar_2_1080p_1500k_av1,sample,90.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07279000000074554

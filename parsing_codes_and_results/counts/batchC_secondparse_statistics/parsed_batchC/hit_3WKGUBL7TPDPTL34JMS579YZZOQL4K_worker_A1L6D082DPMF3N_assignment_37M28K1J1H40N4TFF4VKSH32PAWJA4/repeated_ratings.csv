@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Ghostoftsushima_2_720p_1500k_hevcnvenc,sample,83.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10848999999999975
+amt_gaming_vqa_dataset/Ghostoftsushima_2_720p_1500k_hevcnvenc,sample,70.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.11519000004768465
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_1080p_5300k_h264nvenc,sample,95.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10428999995231614
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_1080p_5300k_h264nvenc,sample,35.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1143899998569502
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_2160p_1500k_hevcnvenc,sample,86.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0796900000476839
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_2160p_1500k_hevcnvenc,sample,62.0,34.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1255899999046335
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_2160p_25000k_h264nvenc,sample,66.0,74.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13609000014305117
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_2160p_25000k_h264nvenc,sample,57.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11839000009536882
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_2160p_1500k_hevcnvenc,sample,17.0,40.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12069000004768426
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_2160p_1500k_hevcnvenc,sample,11.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08508999990463373
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,23.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2222000000476836
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,77.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.22389999985694864
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,56.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.21950000000000003
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,82.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.20298999999999978

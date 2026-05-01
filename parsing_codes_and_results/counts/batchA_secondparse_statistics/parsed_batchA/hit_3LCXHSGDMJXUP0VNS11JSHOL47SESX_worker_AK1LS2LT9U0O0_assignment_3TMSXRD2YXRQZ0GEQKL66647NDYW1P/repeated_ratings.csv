@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Destiny2_2_2160p_6000k_hevcnvenc,sample,44.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/Destiny2_2_2160p_6000k_hevcnvenc,sample,69.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.395190000000186
+amt_gaming_vqa_dataset/eFootball_1,sample,58.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08339999999944148
+amt_gaming_vqa_dataset/eFootball_1,sample,2.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06879999999981301
+amt_gaming_vqa_dataset/eFootball_1_1080p_1500k_av1,sample,71.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/eFootball_1_1080p_1500k_av1,sample,5.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07238999999944262
+amt_gaming_vqa_dataset/eFootball_1_480p_1000k_h264nvenc,sample,64.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06449000000000105
+amt_gaming_vqa_dataset/eFootball_1_480p_1000k_h264nvenc,sample,89.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08509000000055877
+amt_gaming_vqa_dataset/eFootball_1_720p_2500k_h264nvenc,sample,89.0,42.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050990000000000535
+amt_gaming_vqa_dataset/eFootball_1_720p_2500k_h264nvenc,sample,63.0,46.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08159000000055983
+amt_gaming_vqa_dataset/eFootball_1_2160p_10000k_hevcnvenc,sample,67.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04728999999981376
+amt_gaming_vqa_dataset/eFootball_1_2160p_10000k_hevcnvenc,sample,2.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.1814900000000002

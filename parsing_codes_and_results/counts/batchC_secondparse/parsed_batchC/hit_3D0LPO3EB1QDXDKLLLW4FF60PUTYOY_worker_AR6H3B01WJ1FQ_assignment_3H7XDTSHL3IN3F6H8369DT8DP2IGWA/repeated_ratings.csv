@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Returnal_2_2160p_5000k_h264nvenc,sample,13.0,75.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.24709000000055958
+amt_gaming_vqa_dataset/Returnal_2_2160p_5000k_h264nvenc,sample,48.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.2139900000000008
+amt_gaming_vqa_dataset/Returnal_2_720p_2500k_h264nvenc,sample,9.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.061889999999442225
+amt_gaming_vqa_dataset/Returnal_2_720p_2500k_h264nvenc,sample,36.0,83.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06168999999925617
+amt_gaming_vqa_dataset/Returnal_2_2160p_10000k_hevcnvenc,sample,85.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05039000000037319
+amt_gaming_vqa_dataset/Returnal_2_2160p_10000k_hevcnvenc,sample,90.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.051289999999815095
+amt_gaming_vqa_dataset/Returnal_2_720p_600k_hevcnvenc,sample,76.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04958999999962721
+amt_gaming_vqa_dataset/Returnal_2_720p_600k_hevcnvenc,sample,8.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.051289999999815095
+amt_gaming_vqa_dataset/Doom_720p_600k_hevcnvenc,sample,59.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04628999999981431
+amt_gaming_vqa_dataset/Doom_720p_600k_hevcnvenc,sample,43.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04628999999981431
+amt_gaming_vqa_dataset/Astroysplayroom_2_2160p_6000k_hevcnvenc,sample,64.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050690000000185975
+amt_gaming_vqa_dataset/Astroysplayroom_2_2160p_6000k_hevcnvenc,sample,53.0,56.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050789999999814484

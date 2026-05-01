@@ -1,0 +1,3 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3F1567XTONW348NNIO1TTN44VJHQ9O,3TL87MO8DCGZR10T33OOYDVQO2PLFA,A1Y0ABOUJUMCWW,row_0,0,,Too many unset video ratings (15 > 10)
+3TMSXRD2YXRQZ0GEQKL66647L7KW1X,3TL87MO8DCGZR10T33OOYDVQO2PLFA,AZNIEFUIVB2H0,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=21"

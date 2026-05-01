@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_1080p_500k_av1,sample,35.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07069000000298153
+amt_gaming_vqa_dataset/eFootball_2_1080p_500k_av1,sample,62.0,22.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06589000000596101
+amt_gaming_vqa_dataset/eFootball_2_1080p_10000k_h264nvenc,sample,77.0,59.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.06699000000000055
+amt_gaming_vqa_dataset/eFootball_2_1080p_10000k_h264nvenc,sample,81.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06549000000000049
+amt_gaming_vqa_dataset/eFootball_2_720p_3500k_hevcnvenc,sample,61.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06588999999851097
+amt_gaming_vqa_dataset/eFootball_2_720p_3500k_hevcnvenc,sample,64.0,34.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06968999999553027
+amt_gaming_vqa_dataset/WWE2K24_1080p_500k_av1,sample,41.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06819000000298026
+amt_gaming_vqa_dataset/WWE2K24_1080p_500k_av1,sample,69.0,15.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.05859000000894099
+amt_gaming_vqa_dataset/WWE2K24_720p_1300k_av1,sample,40.0,34.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06498999999999988
+amt_gaming_vqa_dataset/WWE2K24_720p_1300k_av1,sample,41.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0620900000014899
+amt_gaming_vqa_dataset/Godofwar_2_1080p_2300k_h264nvenc,sample,96.0,17.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06549000000000049
+amt_gaming_vqa_dataset/Godofwar_2_1080p_2300k_h264nvenc,sample,24.0,22.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.06699000000000055

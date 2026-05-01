@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19,sample,58.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0041999999992548
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19,sample,25.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0035000000000007248
+amt_gaming_vqa_dataset/w9YXHg_3VXg_Terraria_2-07_720p_2500k_h264_nvenc,sample,61.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.018542999998508947
+amt_gaming_vqa_dataset/w9YXHg_3VXg_Terraria_2-07_720p_2500k_h264_nvenc,sample,63.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.019043000002234578
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10,sample,7.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06989999999851015
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10,sample,4.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06600000000000072
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_5300k_h264_nvenc,sample,49.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.020500000000000185
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_5300k_h264_nvenc,sample,76.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06799999999999962
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_800k_hevc_nvenc,sample,27.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0040999999977646695
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_800k_hevc_nvenc,sample,22.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0009999999999994458
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-28_480p_1000k_av1,sample,92.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009499999999999176
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-28_480p_1000k_av1,sample,58.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.015399999998509273

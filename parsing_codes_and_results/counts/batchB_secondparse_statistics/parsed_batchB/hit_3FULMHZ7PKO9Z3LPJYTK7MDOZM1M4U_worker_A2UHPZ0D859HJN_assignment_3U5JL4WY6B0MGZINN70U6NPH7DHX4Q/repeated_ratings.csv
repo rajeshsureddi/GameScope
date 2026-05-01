@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1,sample,2.0,82.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",15.405100000001488
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1,sample,13.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",15.529399999998509
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_500k_av1,sample,34.0,63.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06218999999552999
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_500k_av1,sample,41.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06288999999851086
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_3500k_hevcnvenc,sample,72.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05269000000298085
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_3500k_hevcnvenc,sample,33.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.051389999998511016
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_500k_av1,sample,86.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07549000000000028
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_500k_av1,sample,23.0,43.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07588999999851076
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_2000k_hevcnvenc,sample,19.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.9259099999985096
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_2000k_hevcnvenc,sample,2.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.051189999995530755
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_6000k_hevcnvenc,sample,86.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.051390000005961056
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_6000k_hevcnvenc,sample,9.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05188999999850985

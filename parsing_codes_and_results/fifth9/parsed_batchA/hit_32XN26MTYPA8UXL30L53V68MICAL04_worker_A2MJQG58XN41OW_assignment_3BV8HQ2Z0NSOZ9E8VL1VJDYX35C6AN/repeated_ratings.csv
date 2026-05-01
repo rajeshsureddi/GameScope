@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Daysgone_1_480p_1000k_h264nvenc,sample,78.0,80.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.05818999999995356
+amt_gaming_vqa_dataset/Daysgone_1_480p_1000k_h264nvenc,sample,12.0,76.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.1786899999999534
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,97.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07549000000000028
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,31.0,83.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07919000000018706
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_2500k_h264nvenc,sample,10.0,74.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06549000000000049
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_2500k_h264nvenc,sample,4.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06519000000018771
+amt_gaming_vqa_dataset/DeceiveInc_1080p_500k_av1,sample,75.0,73.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.0776899999999543
+amt_gaming_vqa_dataset/DeceiveInc_1080p_500k_av1,sample,94.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07749000000000095
+amt_gaming_vqa_dataset/DeceiveInc_2160p_5000k_av1,sample,51.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.15849000000000046
+amt_gaming_vqa_dataset/DeceiveInc_2160p_5000k_av1,sample,61.0,77.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.15999000000000052
+amt_gaming_vqa_dataset/DeceiveInc_1080p_10000k_h264nvenc,sample,21.0,79.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08068999999995441
+amt_gaming_vqa_dataset/DeceiveInc_1080p_10000k_h264nvenc,sample,42.0,77.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08199000000000112

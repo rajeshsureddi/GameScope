@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_1000k_h264_nvenc,sample,57.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012300000011920886
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_1000k_h264_nvenc,sample,19.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.006000000000000227
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_2500k_h264_nvenc,sample,71.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01309999999403999
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_2500k_h264_nvenc,sample,13.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022699999988079256
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_1500k_hevc_nvenc,sample,11.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022900000005959598
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_1500k_hevc_nvenc,sample,3.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0015000000000000568
+amt_gaming_vqa_dataset/NFMrcGpbAFw_IceAgeVillage_9-00_720p_3500k_hevc_nvenc,sample,33.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0007110000119219251
+amt_gaming_vqa_dataset/NFMrcGpbAFw_IceAgeVillage_9-00_720p_3500k_hevc_nvenc,sample,13.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0478109999761589
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_500k_av1,sample,3.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.021000000000000796
+amt_gaming_vqa_dataset/2FQ9qkN74MQ_FIFA_7-14_1080p_500k_av1,sample,41.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.026299999982118294
+amt_gaming_vqa_dataset/CreZ1eCfJwQ_PUBGMobile_0-00,sample,43.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018600000023841545
+amt_gaming_vqa_dataset/CreZ1eCfJwQ_PUBGMobile_0-00,sample,36.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02340000000596021

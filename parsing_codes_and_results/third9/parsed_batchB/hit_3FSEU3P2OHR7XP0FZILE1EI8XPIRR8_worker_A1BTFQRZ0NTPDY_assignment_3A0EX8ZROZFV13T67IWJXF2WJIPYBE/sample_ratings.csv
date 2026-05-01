@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Deadspace,sample,52.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.5674000000003705
+amt_gaming_vqa_dataset/Deadspace_1080p_1500k_av1,sample,47.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07419000000018627
+amt_gaming_vqa_dataset/Deadspace_1080p_5000k_av1,sample,72.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07059000000055882
+amt_gaming_vqa_dataset/Deadspace_1080p_500k_av1,sample,32.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09778999999981508
+amt_gaming_vqa_dataset/Deadspace_2160p_10000k_av1,sample,86.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1678899999994421
+amt_gaming_vqa_dataset/Deadspace_2160p_1000k_av1,sample,56.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12728999999981383
+amt_gaming_vqa_dataset/Deadspace_2160p_5000k_av1,sample,62.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.17358999999962776
+amt_gaming_vqa_dataset/Deadspace_480p_1000k_av1,sample,66.0,41.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06299000000000099
+amt_gaming_vqa_dataset/Deadspace_720p_1300k_av1,sample,12.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0663899999994424
+amt_gaming_vqa_dataset/Deadspace_720p_3000k_av1,sample,21.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.078990000000001
+amt_gaming_vqa_dataset/Deadspace_720p_500k_av1,sample,37.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08769000000018679
+amt_gaming_vqa_dataset/Deadspace_1080p_10000k_h264nvenc,sample,41.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12389000000037242
+amt_gaming_vqa_dataset/Deadspace_1080p_2300k_h264nvenc,sample,0.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09908999999962731
+amt_gaming_vqa_dataset/Deadspace_1080p_5300k_h264nvenc,sample,95.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09719000000018774
+amt_gaming_vqa_dataset/Deadspace_2160p_25000k_h264nvenc,sample,20.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.5206099999996265
+amt_gaming_vqa_dataset/Deadspace_2160p_5000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Deadspace_2160p_8500k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Deadspace_480p_1000k_h264nvenc,sample,88.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05158999999962788
+amt_gaming_vqa_dataset/Deadspace_720p_1000k_h264nvenc,sample,87.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11139000000037313
+amt_gaming_vqa_dataset/Deadspace_720p_2500k_h264nvenc,sample,57.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10478999999981475
+amt_gaming_vqa_dataset/Deadspace_720p_5000k_h264nvenc,sample,96.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08119000000018772
+amt_gaming_vqa_dataset/Deadspace_1080p_2000k_hevcnvenc,sample,30.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.051090000000559854
+amt_gaming_vqa_dataset/Deadspace_1080p_6000k_hevcnvenc,sample,59.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10938999999944166
+amt_gaming_vqa_dataset/Deadspace_1080p_800k_hevcnvenc,sample,76.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07958999999962835
+amt_gaming_vqa_dataset/Deadspace_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Deadspace_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Deadspace_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Deadspace_480p_800k_hevcnvenc,sample,60.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08109000000055921
+amt_gaming_vqa_dataset/Deadspace_720p_1500k_hevcnvenc,sample,23.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07719000000018639
+amt_gaming_vqa_dataset/Deadspace_720p_3500k_hevcnvenc,sample,18.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08969000000018745
+amt_gaming_vqa_dataset/Deadspace_720p_600k_hevcnvenc,sample,45.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07119000000018616
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1,sample,95.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.4388999999994425
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_1500k_av1,sample,76.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08569000000018612
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_5000k_av1,sample,82.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0918900000003724
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_500k_av1,sample,80.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08239000000037322
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_10000k_av1,sample,66.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.16938999999944215
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_1000k_av1,sample,35.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1410900000005597
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_5000k_av1,sample,99.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14008999999962768
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_480p_1000k_av1,sample,5.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06738999999944184
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_1300k_av1,sample,71.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07668999999925497
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_3000k_av1,sample,0.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0809899999999999
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_500k_av1,sample,82.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07169000000018677
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_10000k_h264nvenc,sample,80.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13119000000018666
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_2300k_h264nvenc,sample,38.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10199000000000069
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_5300k_h264nvenc,sample,57.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11328999999981448
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_5000k_h264nvenc,sample,76.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.498009999999999
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_8500k_h264nvenc,sample,53.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.831990000000001
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_480p_1000k_h264nvenc,sample,4.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10118999999925471
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_1000k_h264nvenc,sample,3.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08369000000018723
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_2500k_h264nvenc,sample,73.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1036900000001868
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_5000k_h264nvenc,sample,56.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08378999999981396
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_2000k_hevcnvenc,sample,1.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07458999999962757
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_6000k_hevcnvenc,sample,59.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0914900000000003
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_1080p_800k_hevcnvenc,sample,12.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07389000000037349
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_480p_800k_hevcnvenc,sample,64.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2965900000005597
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_1500k_hevcnvenc,sample,80.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07419000000018627
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_3500k_hevcnvenc,sample,74.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0772899999998149
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_600k_hevcnvenc,sample,85.0,44.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07999000000000045
+amt_gaming_vqa_dataset/Farcry6_2,sample,88.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.905799999999813
+amt_gaming_vqa_dataset/Farcry6_2_1080p_1500k_av1,sample,49.0,81.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08278999999981451
+amt_gaming_vqa_dataset/Farcry6_2_1080p_5000k_av1,sample,55.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08478999999981518
+amt_gaming_vqa_dataset/Farcry6_2_1080p_500k_av1,sample,51.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07749000000000095
+amt_gaming_vqa_dataset/Farcry6_2_2160p_10000k_av1,sample,85.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.6190899999996287
+amt_gaming_vqa_dataset/Farcry6_2_2160p_1000k_av1,sample,52.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1560899999996277
+amt_gaming_vqa_dataset/Farcry6_2_2160p_5000k_av1,sample,73.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18778999999981494
+amt_gaming_vqa_dataset/Farcry6_2_480p_1000k_av1,sample,89.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07078999999981406
+amt_gaming_vqa_dataset/Farcry6_2_720p_1300k_av1,sample,86.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07449000000000083
+amt_gaming_vqa_dataset/Farcry6_2_720p_3000k_av1,sample,26.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09728999999981447
+amt_gaming_vqa_dataset/Farcry6_2_720p_500k_av1,sample,13.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0684900000000006
+amt_gaming_vqa_dataset/Farcry6_2_1080p_10000k_h264nvenc,sample,97.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13068999999925524
+amt_gaming_vqa_dataset/Farcry6_2_1080p_2300k_h264nvenc,sample,55.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.14988999999944141
+amt_gaming_vqa_dataset/Farcry6_2_1080p_5300k_h264nvenc,sample,14.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1266900000001865
+amt_gaming_vqa_dataset/Farcry6_2_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_2_2160p_5000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_2_2160p_8500k_h264nvenc,sample,91.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.440710000000186
+amt_gaming_vqa_dataset/Farcry6_2_480p_1000k_h264nvenc,sample,12.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11469000000018603
+amt_gaming_vqa_dataset/Farcry6_2_720p_1000k_h264nvenc,sample,97.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08349000000000117
+amt_gaming_vqa_dataset/Farcry6_2_720p_2500k_h264nvenc,sample,40.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10229000000074606
+amt_gaming_vqa_dataset/Farcry6_2_720p_5000k_h264nvenc,sample,52.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10559000000055896
+amt_gaming_vqa_dataset/Farcry6_2_1080p_2000k_hevcnvenc,sample,58.0,52.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09099000000000146
+amt_gaming_vqa_dataset/Farcry6_2_1080p_6000k_hevcnvenc,sample,48.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08219000000018717
+amt_gaming_vqa_dataset/Farcry6_2_1080p_800k_hevcnvenc,sample,16.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06528999999981444
+amt_gaming_vqa_dataset/Farcry6_2_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_2_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_2_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Farcry6_2_480p_800k_hevcnvenc,sample,9.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0822899999998139
+amt_gaming_vqa_dataset/Farcry6_2_720p_1500k_hevcnvenc,sample,69.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07838999999944107
+amt_gaming_vqa_dataset/Farcry6_2_720p_3500k_hevcnvenc,sample,62.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07678999999981428
+amt_gaming_vqa_dataset/Farcry6_2_720p_600k_hevcnvenc,sample,83.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0835899999996279

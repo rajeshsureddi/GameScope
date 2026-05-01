@@ -1,0 +1,15 @@
+WorkerId,AssignmentId,Reasons,Rejections
+AM8EV600ZP69X,3I02618YBRXGOOABGMHVPE185CQPUI,Too many unset video ratings (30 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+A1AXP3SCV8SPM,30BXRYBRQVO13B1SS9ORYTKE4ZXHW6,Too many unset video ratings (30 > 24),1.0
+A2S834OHCORO1W,33CKWXB74ABXYZ0BTWWLDGEDRXV11V,Too many unset video ratings (30 > 24),1.0
+A2P8V9PAWGNXVM,35GCEFQ6JWFQ3YZYOBJWT3DM2UHZ31,Too many unset video ratings (30 > 24),1.0
+A2N6SUG2FS534I,3CCZ6YKWSYAEBM4PYWDQVC9D1OG59G,Too many unset video ratings (30 > 24),1.0
+A3V3F4X6GH6VPV,3LS2AMNW66H6BVRTKDKBQDZTSKGQOL,Too many unset video ratings (30 > 24),1.0
+A3KGCURZJ02L3,3QXNC7EIQ9MFGFIO1Q7EEHDMKF9901,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=51",1.0
+A10FCQ7R6OGXF8,340UGXU9EPSTT8772YQUV6QQRS8VUA,"Too many unset video ratings (30 > 24) | all slider ratings are very similar, the slider moved to same range of scores.",1.0
+A1JFGI5XJYYR3A,3AQF3RZ56Z9JV0VG61NNXE9O0CU6FN,Too many unset video ratings (30 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+ABNTQ9OXGOJP0,3LEP4MGT47RS3SYFBM95KUSV20TBD6,Too many unset video ratings (30 > 24),1.0
+A3EQPQ7EZFKB0R,3NGI5ARFUKW0FRJDEY7BECWBU8V1PJ,Too many unset video ratings (30 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+A1Q7VWUBIJOK17,33TIN5LC1V1CDAE99YIN6976UOF9YJ,"The scores for golden videos are not consistent with the true scores. | Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=59",1.0
+ABVPW8753ZBJO,340UGXU9EPSTT8772YQUV6QQU7PUVN,The scores for golden videos are not consistent with the true scores.,1.0
+A2IK3H6MQ1QV6E,3RGU30DZU1Z1P524C7LP18Y2LIPMJF,Too many unset video ratings (30 > 24),1.0

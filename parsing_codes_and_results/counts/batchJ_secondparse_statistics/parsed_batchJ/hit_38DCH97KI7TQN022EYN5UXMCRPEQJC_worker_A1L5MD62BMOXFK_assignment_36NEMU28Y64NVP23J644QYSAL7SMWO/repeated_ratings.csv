@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_hZ9kvYq0ubA_Terraria_18-22_480p_1000k_h264_nvenc,sample,7.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04529899999702103
+amt_gaming_vqa_dataset/y_hZ9kvYq0ubA_Terraria_18-22_480p_1000k_h264_nvenc,sample,58.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.019200999988077783
+amt_gaming_vqa_dataset/y_hZ9kvYq0ubA_Terraria_18-22_480p_800k_hevc_nvenc,sample,66.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03889899999106028
+amt_gaming_vqa_dataset/y_hZ9kvYq0ubA_Terraria_18-22_480p_800k_hevc_nvenc,sample,1.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.014301000011920806
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_500k_av1,sample,40.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02559999999403928
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_500k_av1,sample,90.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.042500000000000426
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_10-10_360p_800k_av1,sample,27.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.024399999991059573
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_10-10_360p_800k_av1,sample,88.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01510000000894074
+amt_gaming_vqa_dataset/MDkWLlirCMI_SuperMarioRun_0-16_480p_1000k_h264_nvenc,sample,91.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-5.475840999997019
+amt_gaming_vqa_dataset/MDkWLlirCMI_SuperMarioRun_0-16_480p_1000k_h264_nvenc,sample,15.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03135900000596159
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_53-37_360p_800k_h264_nvenc,sample,74.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007500000000000284
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_53-37_360p_800k_h264_nvenc,sample,64.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03159999999403951
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,23.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4598999999910589
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,87.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1108999999910587
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,73.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09779999999702049

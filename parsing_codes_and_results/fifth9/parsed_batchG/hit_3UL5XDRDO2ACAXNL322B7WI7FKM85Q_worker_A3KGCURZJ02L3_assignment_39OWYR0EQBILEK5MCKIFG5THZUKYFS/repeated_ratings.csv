@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_800k_hevc_nvenc,sample,54.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_800k_hevc_nvenc,sample,19.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006000000000000227
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_3500k_hevc_nvenc,sample,43.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-2.1195999999940396
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_3500k_hevc_nvenc,sample,28.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.99420000000298
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_13-23_480p_800k_hevc_nvenc,sample,92.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02219999999553046
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_13-23_480p_800k_hevc_nvenc,sample,91.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0037000000029809854
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_800k_hevc_nvenc,sample,78.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.004799999997020521
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_800k_hevc_nvenc,sample,41.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00019999999553022008
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_2000k_hevc_nvenc,sample,65.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0007000000029808717
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_2000k_hevc_nvenc,sample,62.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018000000000000682
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_800k_hevc_nvenc,sample,15.0,48.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0037000000029809854
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_800k_hevc_nvenc,sample,43.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.002900000005960024

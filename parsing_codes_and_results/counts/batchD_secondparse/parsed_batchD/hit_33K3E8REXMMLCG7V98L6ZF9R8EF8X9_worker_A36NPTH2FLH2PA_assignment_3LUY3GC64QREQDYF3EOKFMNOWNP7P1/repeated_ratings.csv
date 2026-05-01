@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_3000k_av1,sample,80.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.56198800000298
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_3000k_av1,sample,85.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.7082880000000005
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_500k_av1,sample,97.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.165288
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_500k_av1,sample,51.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.68858799999702
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_2500k_h264_nvenc,sample,28.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.436288
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_2500k_h264_nvenc,sample,36.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.59048800000298
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_5300k_h264_nvenc,sample,23.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.26629999999702
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_5300k_h264_nvenc,sample,7.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.246600000008941
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_2000k_hevc_nvenc,sample,38.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.803
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_2000k_hevc_nvenc,sample,41.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.689899999991059
+amt_gaming_vqa_dataset/gDUjQdGW1-4_Gardenscapes_1-37_1080p_5300k_h264_nvenc,sample,73.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-4.0287000000029805
+amt_gaming_vqa_dataset/gDUjQdGW1-4_Gardenscapes_1-37_1080p_5300k_h264_nvenc,sample,50.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.659200000002981

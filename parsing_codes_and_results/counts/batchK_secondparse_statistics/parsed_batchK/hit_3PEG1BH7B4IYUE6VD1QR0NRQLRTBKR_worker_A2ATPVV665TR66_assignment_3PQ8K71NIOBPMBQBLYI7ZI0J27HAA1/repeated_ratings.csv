@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_2300k_h264_nvenc,sample,42.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01950000000000074
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_2300k_h264_nvenc,sample,79.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2668999999910593
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18,sample,18.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05209999999403969
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18,sample,80.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05810000000894
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_2500k_h264_nvenc,sample,29.0,46.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005099999994039095
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_2500k_h264_nvenc,sample,65.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02770000000298012
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_2300k_h264_nvenc,sample,25.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.020500000000000185
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_2300k_h264_nvenc,sample,40.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.031000000000000583
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_6000k_hevc_nvenc,sample,67.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.19879999999701958
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_6000k_hevc_nvenc,sample,93.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9703999999910593
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,11.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05370000000297992
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,4.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10299999999999976
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,7.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11489999999106004
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,55.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11910000000893994

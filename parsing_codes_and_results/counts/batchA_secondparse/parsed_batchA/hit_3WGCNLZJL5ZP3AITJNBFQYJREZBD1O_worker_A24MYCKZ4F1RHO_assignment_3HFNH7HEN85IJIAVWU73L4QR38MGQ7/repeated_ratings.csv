@@ -1,0 +1,14 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_2160p_5000k_av1,sample,0.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.6373899999761594
+amt_gaming_vqa_dataset/callofdutyps5_2160p_5000k_av1,sample,4.0,82.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",1.7525899999046324
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_1300k_av1,sample,44.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06899000000000122
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_1300k_av1,sample,30.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07118999992847463
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_1000k_h264nvenc,sample,86.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08349000000000117
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_1000k_h264nvenc,sample,96.0,65.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07869000004768445
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_2500k_h264nvenc,sample,8.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07709000002384236
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_2500k_h264nvenc,sample,26.0,67.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.08629000007152676
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,76.0,82.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.28550000000000075
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,34.0,87.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.30049999999999955
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,2.0,81.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.2902999999523157
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,61.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.29569999992847507
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,98.0,64.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.10969999992847512

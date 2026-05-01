@@ -1,0 +1,2 @@
+video_name,most_common_clarity,most_common_artifacts,most_common_immersion,highly_clear_count,moderately_clear_count,minimally_clear_count,no_artifacts_count,minor_artifacts_count,severe_artifacts_count,high_immersion_count,moderate_immersion_count,low_immersion_count
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08,Highly Clear,No visible artifacts,High level of immersion,16,8,2,13,7,6,14,6,6

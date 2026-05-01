@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_6000k_hevc_nvenc,sample,47.0,43.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04689999997615857
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_6000k_hevc_nvenc,sample,45.0,44.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.0920999999642369
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_3500k_hevc_nvenc,sample,3.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0811119999761587
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_3500k_hevc_nvenc,sample,46.0,42.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.018487999988078485
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_10000k_h264_nvenc,sample,12.0,73.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.014799999952316512
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_10000k_h264_nvenc,sample,46.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07270000004768384
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00,sample,50.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05696700001192134
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00,sample,88.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.48236699998807886
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_5-14_480p_800k_hevc_nvenc,sample,54.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07519999998807947
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_5-14_480p_800k_hevc_nvenc,sample,65.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05450000000000088
+amt_gaming_vqa_dataset/p5rzPRQnycU_AngryBirds2_1-03,sample,39.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008332999988079237
+amt_gaming_vqa_dataset/p5rzPRQnycU_AngryBirds2_1-03,sample,40.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009433000011920711

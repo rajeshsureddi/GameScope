@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,33.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04828999999981498
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,54.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_500k_av1,sample,44.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04978999999981504
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_500k_av1,sample,94.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09589000000037373
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_25000k_h264nvenc,sample,49.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1045899999996287
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_25000k_h264nvenc,sample,1.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0927899999998143
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_6000k_hevcnvenc,sample,71.0,88.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.048789999999813816
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_6000k_hevcnvenc,sample,38.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.2605899999996275
+amt_gaming_vqa_dataset/DeceiveInc_1080p_2300k_h264nvenc,sample,37.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.948710000000186
+amt_gaming_vqa_dataset/DeceiveInc_1080p_2300k_h264nvenc,sample,62.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.52149
+amt_gaming_vqa_dataset/DeceiveInc_1080p_5300k_h264nvenc,sample,20.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05039000000037319
+amt_gaming_vqa_dataset/DeceiveInc_1080p_5300k_h264nvenc,sample,70.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.083789999999814

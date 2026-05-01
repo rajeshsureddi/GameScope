@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_10000k_h264_nvenc,sample,3.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01830000000027887
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_10000k_h264_nvenc,sample,94.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.00020000000018605135
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1000k_h264_nvenc,sample,28.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.017466999999813382
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1000k_h264_nvenc,sample,13.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03623299999944152
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_3500k_hevc_nvenc,sample,98.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.008132999999814317
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_3500k_hevc_nvenc,sample,54.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0023670000001860814
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_1-16_360p_600k_hevc_nvenc,sample,68.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.003299999999812897
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_1-16_360p_600k_hevc_nvenc,sample,63.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006399999999441519
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_2300k_h264_nvenc,sample,43.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.024700000000185796
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_2300k_h264_nvenc,sample,78.0,29.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024900000000371847
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_2500k_h264_nvenc,sample,77.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.825600000000559
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_2500k_h264_nvenc,sample,8.0,2.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05679999999981433

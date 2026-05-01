@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_15-02_480p_1000k_h264_nvenc,sample,48.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03599999999999959
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_15-02_480p_1000k_h264_nvenc,sample,72.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.020899999856949236
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_5000k_h264_nvenc,sample,10.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02810000014305203
+amt_gaming_vqa_dataset/JQE8saholDA_GarrysMod_1-00_720p_5000k_h264_nvenc,sample,3.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.1765000000000008
+amt_gaming_vqa_dataset/y0IsRAR6W90_WorldofWarcraft_0-12_480p_800k_hevc_nvenc,sample,12.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.036700000047684256
+amt_gaming_vqa_dataset/y0IsRAR6W90_WorldofWarcraft_0-12_480p_800k_hevc_nvenc,sample,91.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.2883999998569493
+amt_gaming_vqa_dataset/yebynRz26iU_Rust_0-00,sample,27.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",21.838700000047687
+amt_gaming_vqa_dataset/yebynRz26iU_Rust_0-00,sample,0.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",40.61
+amt_gaming_vqa_dataset/yebynRz26iU_Rust_0-00_1080p_500k_av1,sample,62.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11740000009536722
+amt_gaming_vqa_dataset/yebynRz26iU_Rust_0-00_1080p_500k_av1,sample,48.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.3134999999999994
+amt_gaming_vqa_dataset/Ad3zlJ-wNWk_PUBGMobile_0-05,sample,82.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",8.872600000143052
+amt_gaming_vqa_dataset/Ad3zlJ-wNWk_PUBGMobile_0-05,sample,99.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",20.673200000047682

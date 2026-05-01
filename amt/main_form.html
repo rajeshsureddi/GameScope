@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    /* ── Circular thumb for all range inputs ── */
+    /* Or use input.circular-thumb instead of input[type=range] to limit scope */
+
+    input[type=range] {
+      -webkit-appearance: none;
+      width: 100%;
+      margin: 1em 0;
+    }
+
+    /* TRACK */
+    input[type=range]::-webkit-slider-runnable-track {
+      height: 6px;
+      border-radius: 3px;
+      background: #ddd;
+    }
+    input[type=range]::-moz-range-track {
+      height: 6px;
+      border-radius: 3px;
+      background: #ddd;
+    }
+
+    /* THUMB */
+    input[type=range]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      margin-top: -5px; /* (thumb-height − track-height)/2 */
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #007bff;
+      cursor: pointer;
+      border: none;
+    }
+    input[type=range]::-moz-range-thumb {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #007bff;
+      cursor: pointer;
+      border: none;
+    }
+
+    /* FOCUS OUTLINE (optional) */
+    input[type=range]:focus {
+      outline: none;
+    }
+    input[type=range]:focus::-webkit-slider-thumb {
+      box-shadow: 0 0 0 3px rgba(0,123,255,0.3);
+    }
+    input[type=range]:focus::-moz-range-thumb {
+      box-shadow: 0 0 0 3px rgba(0,123,255,0.3);
+    }
+  </style>
+  <link rel="stylesheet" href="amt.css">
+  <script src="main_logic.js" defer></script>
+</head>
+<body>
+
+<div class="slidecontainer" id="traintest" style="width:100%; text-align:center;">
+  <div id="divVideo" class="center" style="width:100%"></div>
+
+  <div id="main-slider" class="box" style="padding:8px;">
+
+<!-- Single Row with Three Columns -->
+<div class="row" style="margin:4px 0;">
+    <div class="col-xs-4" style="padding:2px 1px;">
+      <div class="category">
+        <h4 style="font-size:14px; margin:2px 0;">1️⃣ Clarity <a href="#" onclick="openAttributePage('sharpness'); return false;" class="learn-more">Learn More</a></h4>
+        <div class="checkbox-group" style="margin-left:4px;">
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="sharpness" value="Highly Clear">
+            Highly Clear
+          </label>
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="sharpness" value="Moderately Clear">
+            Moderately Clear
+          </label>
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="sharpness" value="Minimally Clear">
+            Minimally Clear
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-4" style="padding:2px 1px;">
+      <div class="category">
+        <h4 style="font-size:14px; margin:2px 0;">2️⃣ Pixelation &amp; Blockiness <a href="#" onclick="openAttributePage('artifacts'); return false;" class="learn-more">Learn More</a></h4>
+        <div class="checkbox-group" style="margin-left:4px;">
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="artifacts" value="No visible artifacts">
+            No visible artifacts
+          </label>
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="artifacts" value="Minor Artifacts Present">
+            Minor Artifacts Present
+          </label>
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="artifacts" value="Severe Artifacts Present">
+            Severe Artifacts Present
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-4" style="padding:2px 1px;">
+      <div class="category">
+        <h4 style="font-size:14px; margin:2px 0;">3️⃣ Immersive Game Experience <a href="#" onclick="openAttributePage('immersion'); return false;" class="learn-more">Learn More</a></h4>
+        <div class="checkbox-group" style="margin-left:4px;">
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="immersion" value="High level of immersion">
+            High level of immersion
+          </label>
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="immersion" value="Moderate level of immersion">
+            Moderate level of immersion
+          </label>
+          <label style="display:block; font-size:12px; font-weight:normal; line-height:1.2;">
+            <input type="radio" name="immersion" value="Low level of immersion">
+            Low level of immersion
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Re-watch button in separate row -->
+  <div class="row" style="margin:15px 0;">
+    <div class="col-xs-12" style="text-align:right;">
+      <button
+        id="rewatchButton"
+        type="button"
+        class="btn btn-secondary"
+      >
+        Re-watch
+      </button>
+    </div>
+  </div>
+
+  <div id="feedback" align="center" style="display:none"></div>
+  <div id="trial_num" style="display:none"></div>
+  <div id="short_info" align="center" style="width:80%;margin:0 auto;text-align:left;display:none"></div>
+  <div id="slider_info" align="center" style="font-size: 0.9em;margin-top:20px;">
+    Please drag the slider to indicate the overall quality you saw.<br>
+    Focus on the <b>quality</b> instead of the content.<br>
+    (The initial position of the slider is placed at random.)
+  </div>
+  <div id="short_instructions" style="display:none;"></div>
+  <br>
+
+  <div class="steps" style="display:flex;justify-content:space-between;width:80%;font-size:small;margin:0 auto;" align="center">
+    <span style="width:19%;text-align:center;">BAD</span>
+    <span style="width:19%;text-align:center;">POOR</span>
+    <span style="width:19%;text-align:center;">FAIR</span>
+    <span style="width:19%;text-align:center;">GOOD</span>
+    <span style="width:19%;text-align:center;">EXCELLENT</span>
+  </div>
+  <div style="width:80%;margin:0 auto;position:relative;">
+    <input type="range" class="slider" name="points" id="points" value="50" min="0" max="100" style="height:10px;width:calc(100% - 20px);margin:0 10px;" align="center">
+  </div>
+  <br>
+  <div class="steps" style="display:flex;justify-content:space-between;width:80%;font-size:small;margin:0 auto;" align="center">
+    <span style="width:9.09%;text-align:center;">0</span>
+    <span style="width:9.09%;text-align:center;">10</span>
+    <span style="width:9.09%;text-align:center;">20</span>
+    <span style="width:9.09%;text-align:center;">30</span>
+    <span style="width:9.09%;text-align:center;">40</span>
+    <span style="width:9.09%;text-align:center;">50</span>
+    <span style="width:9.09%;text-align:center;">60</span>
+    <span style="width:9.09%;text-align:center;">70</span>
+    <span style="width:9.09%;text-align:center;">80</span>
+    <span style="width:9.09%;text-align:center;">90</span>
+    <span style="width:9.09%;text-align:center;">100</span>
+  </div>
+  <br><br><br>
+  </div>
+
+  <div id="buttonA" style="position:relative;" title="You must move the slider before submitting!" data-toggle="popover" data-placement="bottom" data-content="You must move the slider before submitting!">
+    <div id="submit_info" style="font-size:medium;"></div>
+    <button class="btn btn-primary btn-xl nextButton" id="sub_butA" type="button" onclick="submitAnswer()" style="position:relative;">
+      Submit
+    </button>
+    <br><br>
+    <div id="report_video" style="font-size:small;">
+      <a id="report_but" data-toggle="modal" data-target="#attributes">
+        &nbsp; &#9873; Report &nbsp;&nbsp;
+      </a>
+    </div>
+  </div>
+</div>
+<br><br>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="attributes" tabindex="-1" role="dialog" aria-labelledby="attributes" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title">State your reason(s):</h5>
+      <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
+    </div>
+    <div class="modal-body" style="font-size:medium;">
+      <ul style="list-style:none;padding-left:0;">
+        <li><input type="checkbox" id="still" name="still" value="still"><label for="still">Still Scenes</label></li>
+        <li><input type="checkbox" id="broken" name="broken" value="broken"><label for="broken">Video is broken</label></li>
+        <li><input type="checkbox" id="misoriented" name="misoriented" value="misoriented"><label for="misoriented">Misoriented</label></li>
+        <li><input type="checkbox" id="obscene" name="obscene" value="obscene"><label for="obscene">Obscene</label></li>
+        <li><input type="checkbox" id="other" name="other" value="other_" onclick="$('#textbox').toggle()"><label for="other">Other</label></li>
+      </ul>
+      <div id="textbox" style="display:none;">
+        <p>What is(are) your reason(s)?</p>
+        <input id="textbox_input" type="text" name="otherAnswer" value="">
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-primary btn-xl" data-dismiss="modal" onclick="submitAnswer();">Report</button>
+    </div>
+  </div>
+</div>
+</div>

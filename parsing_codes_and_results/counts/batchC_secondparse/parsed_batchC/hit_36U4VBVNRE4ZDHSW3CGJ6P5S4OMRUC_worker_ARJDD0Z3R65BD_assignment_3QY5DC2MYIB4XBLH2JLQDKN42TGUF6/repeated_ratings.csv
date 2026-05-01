@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CatQuestII_2160p_1500k_hevcnvenc,sample,55.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07379000001192182
+amt_gaming_vqa_dataset/CatQuestII_2160p_1500k_hevcnvenc,sample,95.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08759000002384276
+amt_gaming_vqa_dataset/Sessionskatesim_1_1080p_500k_av1,sample,91.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08469999998807864
+amt_gaming_vqa_dataset/Sessionskatesim_1_1080p_500k_av1,sample,76.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0874000000357622
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_500k_av1,sample,28.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10330000001192019
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_500k_av1,sample,9.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09569999998807965
+amt_gaming_vqa_dataset/Sessionskatesim_1_480p_800k_hevcnvenc,sample,50.0,29.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0813999999761581
+amt_gaming_vqa_dataset/Sessionskatesim_1_480p_800k_hevcnvenc,sample,73.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07980000001192167
+amt_gaming_vqa_dataset/Fallout4_1_2160p_10000k_av1,sample,32.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07679000001192193
+amt_gaming_vqa_dataset/Fallout4_1_2160p_10000k_av1,sample,75.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9341899999880798
+amt_gaming_vqa_dataset/Fallout4_1_1080p_2000k_hevcnvenc,sample,45.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06949000000000005
+amt_gaming_vqa_dataset/Fallout4_1_1080p_2000k_hevcnvenc,sample,16.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08489000003576308

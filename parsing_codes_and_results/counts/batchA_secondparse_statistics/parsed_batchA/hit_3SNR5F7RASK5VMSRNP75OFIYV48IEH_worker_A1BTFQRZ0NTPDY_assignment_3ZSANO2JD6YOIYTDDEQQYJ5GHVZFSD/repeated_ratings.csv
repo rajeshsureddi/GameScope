@@ -1,0 +1,26 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Daysgone_1_1080p_10000k_h264nvenc,sample,37.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.051189999999255775
+amt_gaming_vqa_dataset/Daysgone_1_1080p_10000k_h264nvenc,sample,41.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13879000000074626
+amt_gaming_vqa_dataset/Daysgone_1_720p_600k_hevcnvenc,sample,73.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06899000000000122
+amt_gaming_vqa_dataset/Daysgone_1_720p_600k_hevcnvenc,sample,93.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07199000000000133
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,98.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07779000000074632
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,19.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08088999999850977
+amt_gaming_vqa_dataset/DeceiveInc_720p_1300k_av1,sample,36.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4044900000000009
+amt_gaming_vqa_dataset/DeceiveInc_720p_1300k_av1,sample,61.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07388999999851009
+amt_gaming_vqa_dataset/DeceiveInc_1080p_6000k_hevcnvenc,sample,95.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9389900000000004
+amt_gaming_vqa_dataset/DeceiveInc_1080p_6000k_hevcnvenc,sample,48.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.1402900000007463
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,68.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10599999999999987
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08509999999962758
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,80.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1027999999988829
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,14.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10870000000111801
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06450000000000067
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,87.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12609999999962795
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,57.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08699999999999974
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,36.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.18619999999925518
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,70.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9558000000007443
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2507999999988826
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,77.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.6895000000000007
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,37.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.086399999998509
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,38.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09780000000074551
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,55.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1560999999977657
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,83.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08239999999850944

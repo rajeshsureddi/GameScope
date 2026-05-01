@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_5300k_h264_nvenc,sample,19.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004699999999255411
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_5300k_h264_nvenc,sample,7.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0608000000007447
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_2000k_hevc_nvenc,sample,23.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.011699999999255084
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_2000k_hevc_nvenc,sample,42.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0024999999999995026
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_11-30_480p_800k_hevc_nvenc,sample,18.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011966999999627248
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_11-30_480p_800k_hevc_nvenc,sample,31.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011966999999627248
+amt_gaming_vqa_dataset/R1Ed38lenw0_AngryBirds2_0-01,sample,72.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009620999999999214
+amt_gaming_vqa_dataset/R1Ed38lenw0_AngryBirds2_0-01,sample,70.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.011321000002979531
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_2300k_h264_nvenc,sample,32.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09659999999776403
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_2300k_h264_nvenc,sample,61.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07959999999776457
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_2500k_h264_nvenc,sample,61.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04519999999925517
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_2500k_h264_nvenc,sample,18.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09540000000223436

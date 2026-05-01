@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pixelation & Blockiness Attribute</title>
+    <link rel="stylesheet" href="../bootstrap.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        .video-container {
+            margin: 30px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .video-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        .video-description {
+            margin: 15px 0;
+            color: #666;
+            line-height: 1.5;
+        }
+        video {
+            width: 100%;
+            max-height: 70vh;
+            object-fit: contain;
+            display: block;
+            margin: auto;
+            border-radius: 4px;
+        }
+        p {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Understanding Pixelation & Blockiness</h2>
+        <p>This attribute measures the presence of compression artifacts and blocky patterns in the video. Please watch the following examples to understand the different levels:</p>
+
+        <div class="video-container">
+            <div class="video-title">No visible artifacts - Example 1</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/pixel_blockiness/y_6wR3l2xR6rY_SonicDash_3-13_2160p_20000k_h264nvenc_good_1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                This example shows a video with no visible compression artifacts. The image appears smooth and natural without any blocky patterns.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">No visible artifacts - Example 2</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/pixel_blockiness/y_75vBBJ_1n0s_FallGuys_6-36_2160p_20000k_h264nvenc_good_2.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                Another example of a video with no visible compression artifacts, demonstrating smooth and natural image quality.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Minor Artifacts Present - Example 1</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/pixel_blockiness/y_6wR3l2xR6rY_SonicDash_3-13_2160p_4000k_h264nvenc_medium_1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                This example shows some minor compression artifacts. You may notice slight blockiness in areas with high motion or detail.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Minor Artifacts Present - Example 2</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/pixel_blockiness/y_75vBBJ_1n0s_FallGuys_6-36_1080p_7000k_h264nvenc_medium_2.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                Another example showing minor compression artifacts, particularly noticeable during fast-paced scenes.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Severe Artifacts Present - Example 1</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/pixel_blockiness/y_6wR3l2xR6rY_SonicDash_3-13_360p_400k_h264nvenc_worst_1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                This example shows severe compression artifacts. The video appears heavily pixelated with obvious blocky patterns throughout.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Severe Artifacts Present - Example 2</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/pixel_blockiness/y_75vBBJ_1n0s_FallGuys_6-36_360p_400k_h264nvenc_worst_2.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                Another example of severe compression artifacts, showing significant pixelation and blockiness across the entire video.
+            </div>
+        </div>
+    </div>
+</body>
+</html> 

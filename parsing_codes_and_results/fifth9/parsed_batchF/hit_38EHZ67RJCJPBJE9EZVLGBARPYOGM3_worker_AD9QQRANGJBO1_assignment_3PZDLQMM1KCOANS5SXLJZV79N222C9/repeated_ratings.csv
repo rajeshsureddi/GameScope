@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_35-00_720p_3500k_hevc_nvenc,sample,19.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01729999999981402
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_35-00_720p_3500k_hevc_nvenc,sample,65.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0021000000000928054
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1300k_av1,sample,25.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.010032999999905812
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1300k_av1,sample,95.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.018532999999907318
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_3000k_av1,sample,40.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.022833000000069603
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_3000k_av1,sample,1.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0007330000000926873
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1500k_hevc_nvenc,sample,33.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-9.11843299999993
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1500k_hevc_nvenc,sample,18.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007267000000023671
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_800k_hevc_nvenc,sample,90.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.021000000000000796
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_800k_hevc_nvenc,sample,21.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0990000000000002
+amt_gaming_vqa_dataset/BdmIY7ieD0s_TheWitcher3_38-08_1080p_6000k_hevc_nvenc,sample,69.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.05003299999995292
+amt_gaming_vqa_dataset/BdmIY7ieD0s_TheWitcher3_38-08_1080p_6000k_hevc_nvenc,sample,9.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.010467000000046411

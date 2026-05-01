@@ -1,0 +1,4 @@
+video_name,most_common_clarity,most_common_artifacts,most_common_immersion,highly_clear_count,moderately_clear_count,minimally_clear_count,no_artifacts_count,minor_artifacts_count,severe_artifacts_count,high_immersion_count,moderate_immersion_count,low_immersion_count
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_2160p_25000k_h264nvenc,Highly Clear,Minor Artifacts Present,High level of immersion,14,11,4,13,14,2,13,12,4
+amt_gaming_vqa_dataset/Undefeated_2160p_25000k_h264nvenc,Highly Clear,No visible artifacts,Moderate level of immersion,16,12,1,14,12,3,13,15,1
+amt_gaming_vqa_dataset/thelogomovie2_2160p_10000k_hevcnvenc,Highly Clear,No visible artifacts,Moderate level of immersion,19,8,2,15,11,3,13,13,3

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_500k_av1,sample,84.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03360100000893951
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_500k_av1,sample,59.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05950099999999914
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_2000k_hevc_nvenc,sample,18.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.57079899999702
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_2000k_hevc_nvenc,sample,26.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.27180099999701923
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-46_480p_1000k_h264_nvenc,sample,45.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.023099999994039777
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-46_480p_1000k_h264_nvenc,sample,73.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10449999999999982
+amt_gaming_vqa_dataset/7-ZWlKZwV88_MarioKartTour_0-03_480p_1000k_h264_nvenc,sample,12.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01510000000894074
+amt_gaming_vqa_dataset/7-ZWlKZwV88_MarioKartTour_0-03_480p_1000k_h264_nvenc,sample,45.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005699999988079796
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53_720p_1300k_av1,sample,34.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0009999999999994458
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53_720p_1300k_av1,sample,52.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.041700000002979465
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53_720p_500k_av1,sample,65.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005599999994039706
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53_720p_500k_av1,sample,43.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0010999999940395355

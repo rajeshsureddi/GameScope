@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_1000k_av1,sample,82.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013699999999721157
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_1000k_av1,sample,24.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0023000000002788568
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-33_480p_1000k_h264_nvenc,sample,54.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016100000000093928
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-33_480p_1000k_h264_nvenc,sample,5.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0495000000000001
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-33_480p_800k_hevc_nvenc,sample,80.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.021400000000140196
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-33_480p_800k_hevc_nvenc,sample,89.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.029399999999906612
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_1500k_av1,sample,57.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10860000000009329
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_1500k_av1,sample,63.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1103000000002794
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_2300k_h264_nvenc,sample,20.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01169999999972049
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_2300k_h264_nvenc,sample,54.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02069999999972083

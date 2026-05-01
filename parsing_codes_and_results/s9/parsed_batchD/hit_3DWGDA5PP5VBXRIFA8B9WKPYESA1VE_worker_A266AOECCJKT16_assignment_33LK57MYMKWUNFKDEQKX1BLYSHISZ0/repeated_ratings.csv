@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/JLxMYraKslo_DiabloIII_1-20_720p_500k_av1,sample,81.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0022999999998134513
+amt_gaming_vqa_dataset/JLxMYraKslo_DiabloIII_1-20_720p_500k_av1,sample,11.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0001000000000921375
+amt_gaming_vqa_dataset/-gaIr67PWrA_StarCraft_2-30_1080p_800k_hevc_nvenc,sample,0.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005699999999952965
+amt_gaming_vqa_dataset/-gaIr67PWrA_StarCraft_2-30_1080p_800k_hevc_nvenc,sample,0.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01059999999962713
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04_720p_3000k_av1,sample,64.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015000000000000568
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04_720p_3000k_av1,sample,50.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024199999999721555
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_800k_hevc_nvenc,sample,36.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.044500000000001094
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_800k_hevc_nvenc,sample,77.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1132999999998141
+amt_gaming_vqa_dataset/7lQLp7kzpCM_Cyberpunk2077_23-12,sample,53.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.037566999999953055
+amt_gaming_vqa_dataset/7lQLp7kzpCM_Cyberpunk2077_23-12,sample,86.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0436670000002799
+amt_gaming_vqa_dataset/q3tpAbcMA_s_TheWitcher3_19-30_480p_800k_hevc_nvenc,sample,30.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012899999999907763
+amt_gaming_vqa_dataset/q3tpAbcMA_s_TheWitcher3_19-30_480p_800k_hevc_nvenc,sample,48.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0021000000000928054

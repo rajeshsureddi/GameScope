@@ -1,0 +1,8 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+31T4R4OBPJ7VWOPBY92EVMOHZN47CL,306W7JMRZOPEZD4U4CTOAIIZPK58BW,AZBJ3AH4LMJW9,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3634BBTX1FLZOKQH82WCUHZTBI3FI0,306W7JMRZOPEZD4U4CTOAIIZPK58BW,A3BHOWZ8A7Z2ZU,row_0,0,,"Did not wear lens | Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3LWJHTCVD3DC5IE0LA1L3JQF2T0FQL,306W7JMRZOPEZD4U4CTOAIIZPK58BW,A8FDO3RM1NQLE,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+30IQTZXKBBX5HB0M46DSUKZ4TTJX0F,3RWSQDNYMZDDR9QXHSLQ30Q6RMAFF2,A3DS9DP2JE8I4Z,row_0,0,,Used phone or tablet
+3EF8EXOTUSM4TGGFJL2RHGAZNNHJ1N,3RWSQDNYMZDDR9QXHSLQ30Q6RMAFF2,A8FDO3RM1NQLE,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3OE22WJIH9F1O0BQGZWKPJRICGGUQ0,3RWSQDNYMZDDR9QXHSLQ30Q6RMAFF2,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3I02618YBRXGOOABGMHVPE187KUUP9,3K1H3NEY8BQM7P8W16WIXLNXGOUDGO,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.

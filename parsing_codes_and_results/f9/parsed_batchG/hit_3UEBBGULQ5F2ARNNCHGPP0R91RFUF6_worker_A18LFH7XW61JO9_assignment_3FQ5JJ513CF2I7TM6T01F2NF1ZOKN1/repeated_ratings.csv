@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/FX6xk1GME4M_EuroTruckSimulator2_0-00_720p_600k_hevc_nvenc,sample,76.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005440000004469425
+amt_gaming_vqa_dataset/FX6xk1GME4M_EuroTruckSimulator2_0-00_720p_600k_hevc_nvenc,sample,83.0,59.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.8113400000029802
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_800k_hevc_nvenc,sample,38.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.1437670000059601
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_800k_hevc_nvenc,sample,79.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.012766999998509831
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30_1080p_6000k_hevc_nvenc,sample,16.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.034000000000000696
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30_1080p_6000k_hevc_nvenc,sample,58.0,52.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.10380000000447076
+amt_gaming_vqa_dataset/SYIjUBZ25mg_HalfLife2_3-28,sample,76.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005499999999999616
+amt_gaming_vqa_dataset/SYIjUBZ25mg_HalfLife2_3-28,sample,73.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",6.168500000000002
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,87.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",3.715
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,53.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08529999999701943

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_1500k_av1,sample,27.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-5.701009999999999
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_1500k_av1,sample,41.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.899810000011921
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_10000k_h264nvenc,sample,36.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.1692099999880785
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_10000k_h264nvenc,sample,66.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.16681000001192
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_800k_hevcnvenc,sample,56.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.0049099999761575
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_800k_hevcnvenc,sample,14.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-5.380610000023841
+amt_gaming_vqa_dataset/DragonballZkakrot_1080p_10000k_h264nvenc,sample,67.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.286609999964236
+amt_gaming_vqa_dataset/DragonballZkakrot_1080p_10000k_h264nvenc,sample,22.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.55551
+amt_gaming_vqa_dataset/DragonballZkakrot_480p_1000k_h264nvenc,sample,60.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.461110000023842
+amt_gaming_vqa_dataset/DragonballZkakrot_480p_1000k_h264nvenc,sample,22.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.65131000001192
+amt_gaming_vqa_dataset/DragonballZkakrot_1080p_800k_hevcnvenc,sample,68.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.642610000023842
+amt_gaming_vqa_dataset/DragonballZkakrot_1080p_800k_hevcnvenc,sample,12.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.60651

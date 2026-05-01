@@ -1,0 +1,21 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3000k_av1,sample,9.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.034400000095367034
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3000k_av1,sample,70.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.14520000004768363
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_1500k_av1,sample,87.0,59.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.03836700000000093
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_1500k_av1,sample,74.0,76.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.025866999999999862
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_5300k_h264_nvenc,sample,35.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06536700000000017
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_5300k_h264_nvenc,sample,44.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04336699999999993
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25_1080p_2300k_h264_nvenc,sample,40.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04960000002384213
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25_1080p_2300k_h264_nvenc,sample,55.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07780000007152488
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_27-18_360p_800k_av1,sample,96.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.093100000023842
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_27-18_360p_800k_av1,sample,55.0,63.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.052299999952316156
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,61.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06389999997615803
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,13.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05799999999999983
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18739999997615797
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,90.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15429999995231647
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1622000000476831
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,18.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14079999995231596
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,94.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1586000000238421
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,66.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.16760000002384245
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,48.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.16389999997615767
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,69.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.22839999997615834

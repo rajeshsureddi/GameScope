@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,80.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01279999999701964
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,28.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0015000000000000568
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_2500k_h264_nvenc,sample,0.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.017899999998510552
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_2500k_h264_nvenc,sample,82.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0012999999970197962
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49,sample,45.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.021100000001490926
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49,sample,84.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.017899999998510552
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2000k_hevc_nvenc,sample,11.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005200000002981042
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2000k_hevc_nvenc,sample,49.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_1000k_h264_nvenc,sample,49.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0008999999985093154
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_1000k_h264_nvenc,sample,86.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022299999997020592
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_800k_hevc_nvenc,sample,41.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.002300000004471059
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_800k_hevc_nvenc,sample,22.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00039999999851048074

@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_1500k_av1,sample,1.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06550000000000011
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_1500k_av1,sample,3.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1631000000000924
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_500k_av1,sample,58.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.060600000000034626
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_500k_av1,sample,68.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08490000000013964
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37_1080p_10000k_h264_nvenc,sample,52.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.17600000000000016
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37_1080p_10000k_h264_nvenc,sample,27.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03089999999990667
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37_1080p_2000k_hevc_nvenc,sample,44.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02729999999998789
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37_1080p_2000k_hevc_nvenc,sample,86.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03180000000004668
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_5000k_h264_nvenc,sample,76.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.03270000000001083
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_5000k_h264_nvenc,sample,90.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05760000000009313
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_2500k_h264_nvenc,sample,41.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",9.999999985943475e-05
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_2500k_h264_nvenc,sample,42.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01719999999995281
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,31.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09269999999995271
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,16.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.104299999999931
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,39.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11130000000004614

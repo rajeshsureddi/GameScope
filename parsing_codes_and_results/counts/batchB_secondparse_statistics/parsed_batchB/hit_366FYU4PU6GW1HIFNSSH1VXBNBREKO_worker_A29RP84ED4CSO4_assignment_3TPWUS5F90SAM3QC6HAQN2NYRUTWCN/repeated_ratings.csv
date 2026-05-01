@@ -1,0 +1,22 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/skyrim_2_1080p_500k_av1,sample,59.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.0028100001907347405
+amt_gaming_vqa_dataset/skyrim_2_1080p_500k_av1,sample,3.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.004590000381471171
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_1080p_6000k_hevcnvenc,sample,48.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.05608999942779569
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_1080p_6000k_hevcnvenc,sample,34.0,61.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06119000076293979
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_1500k_av1,sample,50.0,74.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09009000038147086
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_1500k_av1,sample,82.0,75.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.0948899996185304
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_2300k_h264nvenc,sample,47.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08128999923706104
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_2300k_h264nvenc,sample,54.0,80.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-8.006609999427795
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_2000k_hevcnvenc,sample,59.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.07648999999999972
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_2000k_hevcnvenc,sample,86.0,69.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.060290000190734716
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,0.0,70.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.0024999999999995026
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,78.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0020999994277950407
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,35.0,76.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.00889999961852972
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,1.0,85.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.002800000190735119
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,87.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-4.337299999237061
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,3.0,79.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.002800000190735119
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,5.0,80.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.007099999427795822
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,45.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.004300000190735176
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,92.0,69.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0015000000000000568
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,29.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.005300000190734622
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,9.0,81.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.0025999994277956517

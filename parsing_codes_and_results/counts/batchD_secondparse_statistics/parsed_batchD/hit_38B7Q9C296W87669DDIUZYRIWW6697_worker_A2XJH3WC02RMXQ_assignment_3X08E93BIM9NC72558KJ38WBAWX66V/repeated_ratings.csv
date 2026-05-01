@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_2000k_hevc_nvenc,sample,99.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.002798999952316805
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_2000k_hevc_nvenc,sample,40.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0008009999523164169
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_43-10_360p_800k_av1,sample,78.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.008299999952315673
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_43-10_360p_800k_av1,sample,12.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014600000023841986
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53,sample,80.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.32279999995231634
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53,sample,91.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.369200000047684
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53_720p_5000k_h264_nvenc,sample,40.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005499999999999616
+amt_gaming_vqa_dataset/0qFjruW6BjE_WarRobots_1-53_720p_5000k_h264_nvenc,sample,16.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01879999995231607
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_800k_hevc_nvenc,sample,39.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006399000095367313
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_800k_hevc_nvenc,sample,28.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007400999976157507
+amt_gaming_vqa_dataset/1c1tO8qy68A_WorldofWarcraft_3-48_1080p_6000k_hevc_nvenc,sample,33.0,92.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.015200000047682849
+amt_gaming_vqa_dataset/1c1tO8qy68A_WorldofWarcraft_3-48_1080p_6000k_hevc_nvenc,sample,4.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.006999999999999673

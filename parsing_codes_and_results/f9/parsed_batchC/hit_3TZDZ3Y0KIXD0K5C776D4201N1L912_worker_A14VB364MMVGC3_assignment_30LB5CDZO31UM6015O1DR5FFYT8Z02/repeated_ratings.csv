@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_1080p_1500k_av1,sample,45.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09668999999925632
+amt_gaming_vqa_dataset/eFootball_2_1080p_1500k_av1,sample,56.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12049000000000021
+amt_gaming_vqa_dataset/eFootball_2_1080p_2000k_hevcnvenc,sample,5.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07418999999925546
+amt_gaming_vqa_dataset/eFootball_2_1080p_2000k_hevcnvenc,sample,27.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0894900000000014
+amt_gaming_vqa_dataset/eFootball_2_2160p_6000k_hevcnvenc,sample,55.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07099000000000011
+amt_gaming_vqa_dataset/eFootball_2_2160p_6000k_hevcnvenc,sample,95.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.3581899999992562
+amt_gaming_vqa_dataset/WWE2K24_1080p_10000k_h264nvenc,sample,56.0,82.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07559000000149041
+amt_gaming_vqa_dataset/WWE2K24_1080p_10000k_h264nvenc,sample,32.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.6780900000014913
+amt_gaming_vqa_dataset/WWE2K24_2160p_25000k_h264nvenc,sample,17.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08418999999925525
+amt_gaming_vqa_dataset/WWE2K24_2160p_25000k_h264nvenc,sample,25.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.059290000000745025
+amt_gaming_vqa_dataset/WWE2K24_1080p_2000k_hevcnvenc,sample,70.0,33.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05858999999776593
+amt_gaming_vqa_dataset/WWE2K24_1080p_2000k_hevcnvenc,sample,22.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0830900000014907

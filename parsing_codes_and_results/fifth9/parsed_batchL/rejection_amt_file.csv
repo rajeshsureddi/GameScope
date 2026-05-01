@@ -1,0 +1,5 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3137ONMDL7WTMFKQN3C3RN1DHJOGEA,34R3P23QIISZGR3Y27JQA9OJ2VZWHJ,AZ1DD8SXABVY1,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3AMYWKA6Z2DD1D89546DK8I2R7G6OR,34R3P23QIISZGR3Y27JQA9OJ2VZWHJ,A1G1W9YIHATY4R,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3WMINLGAM2UDFQN95CEY5DQ7YCIACJ,34R3P23QIISZGR3Y27JQA9OJ2VZWHJ,A2SKY317RZ3NCS,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3YW4XOSQLHCD7WR9VK65OIJA1IX1UA,34R3P23QIISZGR3Y27JQA9OJ2VZWHJ,AL76RQMDB7YKY,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."

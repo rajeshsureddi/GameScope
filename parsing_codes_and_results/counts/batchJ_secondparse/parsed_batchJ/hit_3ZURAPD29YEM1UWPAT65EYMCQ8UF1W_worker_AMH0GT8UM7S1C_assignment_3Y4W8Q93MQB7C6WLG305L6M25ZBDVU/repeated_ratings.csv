@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00,sample,27.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0016000000238420853
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00,sample,65.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.9191000000238425
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_800k_hevc_nvenc,sample,88.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05409999990463277
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_800k_hevc_nvenc,sample,52.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07069999992847364
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_500k_av1,sample,99.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.012487000095367407
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_500k_av1,sample,11.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.024613000047683187
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_10000k_h264_nvenc,sample,58.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.009986999976158373
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_10000k_h264_nvenc,sample,98.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.6513129999761578
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38,sample,17.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.34500000000000064
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38,sample,63.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",4.1386000000238425

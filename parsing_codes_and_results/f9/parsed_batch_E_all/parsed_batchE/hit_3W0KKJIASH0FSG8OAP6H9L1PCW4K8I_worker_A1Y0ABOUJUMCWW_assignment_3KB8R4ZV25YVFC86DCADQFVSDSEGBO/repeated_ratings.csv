@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_1000k_h264_nvenc,sample,71.0,61.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.00468300000595967
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_1000k_h264_nvenc,sample,98.0,59.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.06151699999701954
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_3500k_hevc_nvenc,sample,69.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.004582999997019499
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_3500k_hevc_nvenc,sample,70.0,61.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.009917000002980458
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2000k_hevc_nvenc,sample,23.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0014420000000008315
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2000k_hevc_nvenc,sample,66.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.002758000002980765
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_500k_av1,sample,90.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10729999999701967
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_500k_av1,sample,26.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.18470000000298015
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_6000k_hevc_nvenc,sample,72.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.00879999999702008
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_6000k_hevc_nvenc,sample,83.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.018600000008941464
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_10000k_h264_nvenc,sample,32.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.002799999997019853
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_10000k_h264_nvenc,sample,42.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02170000000297989
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,96.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15980000001192174
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,70.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11279999999701928
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10089999999105892
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,5.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09859999999403968

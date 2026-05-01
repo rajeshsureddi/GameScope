@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_5000k_h264nvenc,sample,72.0,60.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",18.45239000009537
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_5000k_h264nvenc,sample,20.0,64.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.12369000004768438
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_2500k_h264nvenc,sample,64.0,51.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10749000000000031
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_2500k_h264nvenc,sample,83.0,56.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08399000000000001
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_800k_hevcnvenc,sample,63.0,52.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11099000000000103
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_800k_hevcnvenc,sample,2.0,59.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08269000004768401
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1500k_hevcnvenc,sample,79.0,61.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09489000009536852
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1500k_hevcnvenc,sample,36.0,64.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10909000002384239
+amt_gaming_vqa_dataset/skyrim_1_2160p_1500k_hevcnvenc,sample,59.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.2769900000000014
+amt_gaming_vqa_dataset/skyrim_1_2160p_1500k_hevcnvenc,sample,43.0,65.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.25609000002384263
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,4.0,61.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.20250000000000057
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,87.0,62.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.17099999999999937
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,10.0,61.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.19359999990463272
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,25.0,62.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.18900000000000006
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,60.0,69.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.2494999999999994
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,54.0,68.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.2746000000238418

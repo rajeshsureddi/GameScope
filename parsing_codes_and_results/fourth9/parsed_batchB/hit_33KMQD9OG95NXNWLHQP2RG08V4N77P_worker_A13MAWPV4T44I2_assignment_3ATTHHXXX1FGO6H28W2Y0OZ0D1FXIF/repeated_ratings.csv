@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_1000k_h264nvenc,sample,39.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.9816899998092659
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_1000k_h264nvenc,sample,2.0,59.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.06409000038147106
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_800k_hevcnvenc,sample,94.0,58.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.9344900000000003
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_800k_hevcnvenc,sample,49.0,63.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.06108999942779647
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_10000k_hevcnvenc,sample,19.0,60.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.6791899998092656
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_10000k_hevcnvenc,sample,64.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.3648899996185317
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_500k_av1,sample,45.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.7205900003814705
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_500k_av1,sample,89.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.8928900005722049
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_500k_av1,sample,20.0,28.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.7086899998092662
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_500k_av1,sample,42.0,68.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.7897900001907363
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_6000k_hevcnvenc,sample,28.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.8104899999999997
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_6000k_hevcnvenc,sample,33.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.8276899998092659

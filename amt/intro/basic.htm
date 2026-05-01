@@ -1,0 +1,129 @@
+<!-- <h1><strong>SUBJECTIVE QULAITY ASSESMENT OF VIDEOS</strong></h1> -->
+<!-- <h2>INSTRUCTIONS</h2> -->
+<h2 class="display-4">Subjective Quality Assessment of Gaming Videos</h2>
+<!-- <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p> -->
+
+<div id="skip_instruction" class="alert alert-warning" role="alert">
+
+  Please read these instructions carefully.
+  You will take a quiz at the end!
+  <b>You can only participate if you are using a laptop or an equivalent desktop setup.</b>
+  <b>PHONES AND TABLETS ARE NOT ALLOWED.</b>
+  We will be publishing this study continuously in several batches.
+  If you find this task interesting, participate in as many <b>HITs as you are qualified for</b>. 
+  You can skip the instructions and take the quiz <button type="button" onclick="console.log('instruction skipped!'); next('quiz')">here</button> 
+  if you have done this before.
+</div>
+
+<div class="alert alert-danger" role="alert">
+  <strong>Moving forward you accept our <a href="https://docs.google.com/document/d/1vN6DCJUKDH28F-3QJrohsp1C-t43lE22/edit?usp=sharing" target="_blank">terms and conditions</a>.</strong>
+</div>
+
+{% if help %}
+<div class="alert alert-danger" role="alert">
+  <strong>Check out the bottom left corner!</strong>
+  If you encounter any error, please click "Help" and follow the steps.
+  If you didn't see or forgot to see the video, please click "I didn't see the video" to load another video.
+</div>
+{% endif %}
+
+<!-- don't delete it, it shows the zoom information  -->
+<div id='alert-msg'>
+</div>
+
+<!-- <div class="alert alert-secondary" >
+    <hr class="my-4">
+    <p class="lead">INSTRUCTIONS</p>
+    <hr class="my-4">
+</div> -->
+<!-- <p>It uses utility classes for typography and spacing to space content out within the larger container.</p> -->
+
+<div class="w-responsive mx-auto mb-5">
+<!-- <div class="alert alert-primary" role="alert"> -->
+  <p>
+    In this study, you will rate the quality of many videos.
+    <br> Your quality ratings should reflect the <b>Quality</b> of the videos, but <b>NOT</b> what the video is about. In other words, decide how badly the video is distorted compared to its "ideal appearance", if at all. 
+    <br> It is <b>NOT</b> important if the videographer did a poor job positioning people or objects in the video scene, or if you don't think the scene is "interesting". In other words, the aesthetics and contents are not important, but the video quality is.
+    <br> Here are a few example videos along with their quality opinions: <b>Bad</b>, <b>Poor</b>, <b>Fair</b>, <b>Good</b>, and <b>Excellent</b>.
+  </p>
+</div>
+
+<!-- explain bad videos? remove examples? -->
+<font size="4">
+<table border="0" align="center" id='demo-table'>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>BAD</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/basic/y_EQ25DFLTq3M_Cyberpunk2077_9-56_360p_200k_h264nvenc_bad.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>POOR</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/basic/HorizonZeroDawn-002_poor.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>FAIR</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/basic/GTA-015_fair.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>GOOD</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/basic/y_upjjObZ950Y_DiabloIII_31-32_2160p_20000k_h264nvenc_good.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>EXCELLENT</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/amt_intro/intro_examples/basic/y_EQ25DFLTq3M_Cyberpunk2077_13-23_Excellent.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+</table>
+</font>
+
+<div class="alert alert-warning" role="alert">
+  You may proceed to the next page when the "Next" button appears.
+</div>

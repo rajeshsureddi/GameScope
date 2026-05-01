@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_14-06,sample,78.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.009899999976157758
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_14-06,sample,49.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.7398000000715257
+amt_gaming_vqa_dataset/L_15gc5EV8I_FIFA_29-34,sample,22.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0009000000953669485
+amt_gaming_vqa_dataset/L_15gc5EV8I_FIFA_29-34,sample,46.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01699999999999946
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_0-41,sample,78.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008299999952315673
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_0-41,sample,27.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.8693999999761584
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14,sample,50.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.003100000023842142
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14,sample,52.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.960899999976158
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_3-20_1080p_2300k_h264_nvenc,sample,97.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.013532999976158422
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_3-20_1080p_2300k_h264_nvenc,sample,68.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.008267000095367294
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_6-17_720p_1000k_h264_nvenc,sample,22.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.006809999952315238
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_6-17_720p_1000k_h264_nvenc,sample,47.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.008689999928474634

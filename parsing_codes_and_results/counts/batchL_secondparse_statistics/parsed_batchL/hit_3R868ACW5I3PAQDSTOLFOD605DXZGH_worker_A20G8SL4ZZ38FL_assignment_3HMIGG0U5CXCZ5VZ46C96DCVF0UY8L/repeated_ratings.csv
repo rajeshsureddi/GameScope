@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1300k_av1,sample,52.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.008199999988079298
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1300k_av1,sample,40.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00459999999404026
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,59.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0024999999999995026
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,19.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009900000005959697
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1500k_hevc_nvenc,sample,49.0,2.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01960000002384099
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1500k_hevc_nvenc,sample,97.0,30.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04570000001788088
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_600k_hevc_nvenc,sample,44.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.016099999994040104
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_600k_hevc_nvenc,sample,12.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015300000011921
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_1500k_av1,sample,58.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02379999998211879
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_1500k_av1,sample,4.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018099999994038996
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_800k_hevc_nvenc,sample,93.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022400000005960763
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_800k_hevc_nvenc,sample,71.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07949999999999946

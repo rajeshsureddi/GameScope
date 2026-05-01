@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_3000k_av1,sample,0.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009583000000745301
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_3000k_av1,sample,22.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0298170000014899
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2000k_hevc_nvenc,sample,51.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04904200000149039
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2000k_hevc_nvenc,sample,70.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04114199999925461
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08,sample,40.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.045999999999999375
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08,sample,95.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",3.0575999999996277
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_6000k_hevc_nvenc,sample,65.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.028900000000373183
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_6000k_hevc_nvenc,sample,38.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.6777000000011171
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_800k_hevc_nvenc,sample,14.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005499999999999616
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_800k_hevc_nvenc,sample,79.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.046699999999255226
+amt_gaming_vqa_dataset/SKOeKcz32xM_MarioKartTour_9-13,sample,2.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0
+amt_gaming_vqa_dataset/SKOeKcz32xM_MarioKartTour_9-13,sample,92.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-1.8234999999999992

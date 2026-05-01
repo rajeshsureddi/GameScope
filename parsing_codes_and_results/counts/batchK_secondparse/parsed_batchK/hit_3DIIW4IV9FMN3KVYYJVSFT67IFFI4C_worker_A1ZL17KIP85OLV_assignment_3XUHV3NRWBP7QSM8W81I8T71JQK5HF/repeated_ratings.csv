@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_500k_av1,sample,40.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0034000000003722164
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_500k_av1,sample,53.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0030999999996268457
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11,sample,94.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006099999999626959
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11,sample,43.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.7695000000000007
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_500k_av1,sample,30.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.008099999999627627
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_500k_av1,sample,30.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005400000000372884
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_2500k_h264_nvenc,sample,66.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014200000001117985
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_2500k_h264_nvenc,sample,10.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.020799999998882157
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_1500k_av1,sample,26.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.009400000000372444
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_1500k_av1,sample,69.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01529999999888254
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_800k_hevc_nvenc,sample,75.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.013999999999999346
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_800k_hevc_nvenc,sample,22.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.009899999998509657

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05,sample,63.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.8661000000238417
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05,sample,74.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08270000004768363
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_10000k_h264_nvenc,sample,61.0,71.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.030399999976157943
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_10000k_h264_nvenc,sample,85.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04759999990463193
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37,sample,94.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",47.3195
+amt_gaming_vqa_dataset/WazvxcDjQsA_PUBGMobile_14-37,sample,80.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-3.7474999999999996
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1500k_hevc_nvenc,sample,12.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0035000000000007248
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1500k_hevc_nvenc,sample,59.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0009000000953669485
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_600k_hevc_nvenc,sample,41.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015399999976157375
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_600k_hevc_nvenc,sample,84.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.025699999928473716
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_500k_av1,sample,95.0,42.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0015000000000000568
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_500k_av1,sample,6.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.029300000071526

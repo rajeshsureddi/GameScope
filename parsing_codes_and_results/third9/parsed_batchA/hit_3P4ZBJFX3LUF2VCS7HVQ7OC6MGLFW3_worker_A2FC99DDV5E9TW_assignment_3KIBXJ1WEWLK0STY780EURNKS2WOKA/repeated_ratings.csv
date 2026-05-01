@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_500k_av1,sample,19.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05838999999851069
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_500k_av1,sample,5.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06938999999850992
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_6000k_hevcnvenc,sample,46.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07368999999925485
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_6000k_hevcnvenc,sample,73.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10879000000074512
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,71.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07349999999999923
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,85.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10490000000037192
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_500k_av1,sample,87.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08429000000074538
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_500k_av1,sample,92.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1179900000000007
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_10000k_h264nvenc,sample,3.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05239000000037386
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_10000k_h264nvenc,sample,17.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0982900000007465
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,65.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1137900000007459
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,65.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.42349000000000103
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,57.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18459999999962662
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,13.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08409999999962814
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,77.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11500000000000021

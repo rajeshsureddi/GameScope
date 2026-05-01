@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CatQuestII_1080p_5000k_av1,sample,30.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11298999999999992
+amt_gaming_vqa_dataset/CatQuestII_1080p_5000k_av1,sample,80.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11358999999404062
+amt_gaming_vqa_dataset/CatQuestII_1080p_2300k_h264nvenc,sample,37.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10858999999403984
+amt_gaming_vqa_dataset/CatQuestII_1080p_2300k_h264nvenc,sample,35.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11049000000000042
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_500k_av1,sample,57.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10999999999999943
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_500k_av1,sample,82.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09800000000000075
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_2500k_h264nvenc,sample,24.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08359999999403911
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_2500k_h264nvenc,sample,10.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10029999998211814
+amt_gaming_vqa_dataset/Fallout4_1_720p_2500k_h264nvenc,sample,20.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09019000001788235
+amt_gaming_vqa_dataset/Fallout4_1_720p_2500k_h264nvenc,sample,66.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1205899999940403
+amt_gaming_vqa_dataset/Fallout4_1_1080p_6000k_hevcnvenc,sample,25.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07558999999404037
+amt_gaming_vqa_dataset/Fallout4_1_1080p_6000k_hevcnvenc,sample,42.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07958999999403993

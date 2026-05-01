@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<!-- saved from url=(0205)https://workersandbox.mturkcontent.com/dynamic/hit?assignmentId=3LRKMWOKB7KOA6RN9WZTB6P7BLI2ZT&hitId=34KYK9TV2TBJAN8B6UTVRMZSGJ6SB2&workerId=AULLUJZEZ6Q2T&turkSubmitTo=https%3A%2F%2Fworkersandbox.mturk.com -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>HIT</title><script type="text/javascript" src="./externalHIT_v1.js.download"></script></head><body><form name="mturk_form" method="post" id="mturk_form" action="https://workersandbox.mturk.com/mturk/externalSubmit"><input type="hidden" value="3LRKMWOKB7KOA6RN9WZTB6P7BLI2ZT" name="assignmentId" id="assignmentId">
+
+	
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+		<link href="./bootstrap.min.css" rel="stylesheet">
+		<script src="./jquery-1.11.2.min.js.download"></script>
+		<script src="./jquery-ui.min.js.download"></script>
+		<script src="./image-picker.min.js.download"></script>
+
+		<style>
+			#submitButton {
+  visibility:hidden;
+}
+#divRejected {
+  display: none;
+}
+table, th, tr, td {
+    border: none;
+}
+body {
+     margin: 0px 50px;
+     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+     font-size: 14pt;
+}
+ h3 {
+}
+
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_center-vertical2 */
+.container {
+  height: 200px;
+  position: relative;
+  /* border: 3px solid green; */
+}
+
+#divVideo {
+  min-height: 12em;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* https://stackoverflow.com/questions/19461521/how-to-center-an-element-horizontally-and-vertically */
+.center {
+  margin: 0  auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+ /* li div {
+     display: table-cell;
+     vertical-align: middle;
+} */
+
+#reasons ul {
+     text-align: left;
+}
+ #long_info {
+}
+ #couhes {
+     color: #777;
+     font-style: italic;
+     margin: 20px 0px;
+     font-size: 12pt;
+}
+ #start_button, #continue_button {
+     width:300px;
+     height:80px;
+     font-size:30px;
+     border: 2px solid #AAA;
+     border-radius: 25px;
+     background-color: #EEE;
+}
+ #start_button:hover {
+     border: 2px solid #999;
+     background-color: #CCC;
+}
+ button, #submit_button {
+     width:200px;
+     height:50px;
+     font-size:24px;
+     border: 1px solid #CCC;
+     border-radius: 10px;
+     background-color: #008CBA;
+	   color: white;
+}
+ button:hover {
+     border: 1px solid #AAA;
+     background-color: #CCC;
+}
+/* background-color: #EEE; */
+#submit_info, #phase_info {
+     margin: 20px 0px 0px 0px;
+     font-size:16px;
+     color:#777;
+     font-style:italic;
+}
+#feedback {
+}
+ #experiment_start {
+     font-size: 20px;
+}
+ #slidecontainer{
+     height:100px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 70%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #56a3f1;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #56a3f1;
+  cursor: pointer;
+}
+
+ table.demo_imgs {
+     text-align: center;
+     font-size: 12pt;
+     margin-top: 20px;
+}
+ table.demo_imgs td {
+     padding: 2px 10px 0px 10px;
+}
+
+.survey {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+			#long_info, #divSurvey {
+  margin: 0;
+  padding: 0;
+  /* padding-top: 20px;
+  padding-bottom: 50px; */
+}
+
+.box {
+  padding: 20px;
+  position: relative;
+  margin: 40px auto;
+  border-radius: 2px;
+  width: 720px;
+  background: #efefef;
+  font-family: Arial, sans-serif;
+}
+
+.box::before,
+.box::after {
+  content: '';
+  position: absolute;
+  bottom: 10px;
+  width: 40%;
+  height: 10px;
+  box-shadow: 0 5px 14px rgba(0,0,0,.7);
+  z-index: -1;
+  transition: all .3s ease-in-out;
+  background: #efefef;
+}
+
+.box::before {
+  left: 15px;
+  transform: skew(-5deg) rotate(-5deg);
+}
+
+.box::after {
+  right: 15px;
+  transform: skew(5deg) rotate(5deg);
+}
+
+.box:hover::before,
+.box:hover::after {
+  box-shadow: 0 2px 14px rgba(0,0,0,.4);
+}
+
+.box:hover::before {
+  left: 5px;
+}
+
+.box:hover::after {
+  right: 5px;
+}
+    </style>
+    <!-- <script src="//uniqueturker.myleott.com/lib.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+//////////// example
+// opt.ut_id = 'unset'; % set this using http://uniqueturker.myleott.com/
+// (function(){
+//     var ut_id = "";
+//     if (UTWorkerLimitReached(ut_id)) {
+//         document.getElementById('mturk_form').style.display = 'none';
+//         document.getElementsByTagName('body')[0].innerHTML = "You have already completed the maximum number of HITs allowed by this requester. Please click 'Return HIT'.";
+//     }
+// })();
+</script> -->
+
+    <script type="text/javascript">
+      // from http://stackoverflow.com/questions/15589764/how-to-hide-the-link-to-an-external-web-page-in-a-hit-before-workers-accept-the
+var t = {};
+var p = {};
+// var base_url = 'https://s3.us-east-2.amazonaws.com/livefbdb/';
+var base_url = 'https://sandboxtestvideos.s3.us-east-2.amazonaws.com/';
+var first_trial = true;
+var num_correct = 0;
+var backupIndex = 0; // assume we have enough backup videos
+
+var phase = "pre_train"
+var train_delay = 0;
+function assert(x, msg) { if (!x) { throw("Assertion failed: " + msg); } }
+function now() { return (new Date()).getTime() / 1000.; }
+
+
+var elem = document.documentElement;
+function openFullscreen() {
+	if (elem.requestFullscreen) {
+		elem.requestFullscreen();
+	} else if (elem.mozRequestFullScreen) { /* Firefox */
+		elem.mozRequestFullScreen();
+	} else if (elem.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+		elem.webkitRequestFullscreen();
+	} else if (elem.msRequestFullscreen) { /* IE/Edge */
+		elem.msRequestFullscreen();
+	}
+}
+
+document.onfullscreenchange = function () {
+	if( window.innerHeight != screen.height) {
+		alert('Browser is not in fullscreen. Please revert back.');
+		openFullscreen();
+    // browser is fullscreen
+	}
+}
+
+
+
+function init() {
+		$('#main-slider').css({top: '-1000px'});
+		$('#survey_box').hide();
+		$('#instrution_box').show();
+
+    $(window).bind('resize', function() {
+        setBodyHeight();
+    });
+    makeExperiment();
+    // for debugging
+    $('input').each(function(){console.log(this.id + ':' + this.name + '=' + this.value)});
+
+    $('#imageA').hide();
+    $('#buttonA').hide();
+
+    $("#submitButton").hide(); // not working on AMT anymore, why?
+
+    if (p.is_assigned) {
+        $('#nextButton').removeAttr('disabled');
+        $('#nextButton').html('Start!');
+    }
+
+		$('input[type="radio"]').click(function(){
+      validSurvey();
+    });
+
+  //   $(document).keyup(function(e) {
+  //      if (e.key === "Escape") { // escape key maps to keycode `27`
+  //         // <DO YOUR WORK HERE>
+  //
+  //   			alert('Browser is in not in fullscreen');
+	// 				openFullscreen();
+  //
+  //     }
+  // };);
+}
+
+$.extend({
+  getUrlVars: function(){
+    // From http://code.google.com/p/js-uri/source/browse/trunk/lib/URI.js
+    var parser = /^(?:([^:\/?\#]+):)?(?:\/\/([^\/?\#]*))?([^?\#]*)(?:\?([^\#]*))?(?:\#(.*))?/;
+    var result = window.location.href.match(parser);
+    var scheme    = result[1] || null;
+    var authority = result[2] || null;
+    var path      = result[3] || null;
+    var query     = result[4] || null;
+    var fragment  = result[5] || null
+    if (query === null || query === undefined) {
+      return {};
+    }
+    var vars = [], hash;
+    var hashes = query.split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+      hash = hashes[i].split('=');
+      vars.push(hash[0]);
+      vars[hash[0]] = hash[1];
+    }
+    return vars;
+  },
+  getUrlVar: function(name){
+    return $.getUrlVars()[name];
+  }
+});
+$(document).ready(init);
+
+function setBodyHeight() {
+  var wh = $(window).height();
+  $('body').height(wh); // body height = window height
+}
+
+// function shuffle(array) {
+//   array.sort(() => Math.random() - 0.5);
+// }
+// https://javascript.info/task/shuffle
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function showLoaded() {
+	console.log('loaded')
+	console.log(this.name)
+}
+
+function makeExperiment() {
+		backups = []
+		
+		backups.push('samples1/bad-2');
+		backups.push('samples1/poor');
+		backups.push('samples1/fair');
+		backups.push('samples1/good');
+		backups.push('samples/excellent');
+
+    rand_num=[];
+
+    p.im_num = 0;
+    p.items = [];
+    p.initialized = false;
+    p.is_assigned = ($.getUrlVar('assignmentId') != 'ASSIGNMENT_ID_NOT_AVAILABLE');
+    p.practice_intro_shown = false;
+    p.experiment_intro_shown = false;
+    p.total_num_ims = 7;
+
+    // generate training items
+    t.im_num = 0;
+    t.items = [];
+    t.initialized = false;
+    t.is_assigned = ($.getUrlVar('assignmentId') != 'ASSIGNMENT_ID_NOT_AVAILABLE');
+    t.practice_intro_shown = false;
+    t.experiment_intro_shown = false;
+    t.total_num_ims = 3;
+
+
+    
+		var v = document.createElement('video');
+		v.name = 'training/1';
+		v.src = base_url + 'training/1.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = showLoaded;
+		v.load();
+		t.items.push(v);
+		var v = document.createElement('video');
+		v.name = 'training/2';
+		v.src = base_url + 'training/2.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = showLoaded;
+		v.load();
+		t.items.push(v);
+		var v = document.createElement('video');
+		v.name = 'training/3';
+		v.src = base_url + 'training/3.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = showLoaded;
+		v.load();
+		t.items.push(v);
+
+		// caching the videos
+		// cannot set onended onloadeddata when creating it
+    
+		var v = document.createElement('video');
+		v.name = 'Testing/6';
+		v.src = base_url + 'Testing/6.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = function() {console.log("loaded video Testing/6");};
+		// v.onprogress = function() {console.log("Downloading video Testing/6");};
+		v.addEventListener('error', function() {
+        console.log('Error when loading video Testing/6');
+				this.src =  base_url + backups[backupIndex] + '.mp4';
+				this.name =  backups[backupIndex];
+				backupIndex++;
+				this.load();
+    });
+		v.oncanplay = function() {console.log("oncanplay video Testing/6");};
+		v.oncanplay = function() {console.log("oncanplay video Testing/6");};
+		v.oncanplaythrough  = function() {console.log("oncanplaythrough video Testing/6");};
+		v.load();
+		p.items.push(v);
+		var v = document.createElement('video');
+		v.name = 'Testing/7';
+		v.src = base_url + 'Testing/7.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = function() {console.log("loaded video Testing/7");};
+		// v.onprogress = function() {console.log("Downloading video Testing/7");};
+		v.addEventListener('error', function() {
+        console.log('Error when loading video Testing/7');
+				this.src =  base_url + backups[backupIndex] + '.mp4';
+				this.name =  backups[backupIndex];
+				backupIndex++;
+				this.load();
+    });
+		v.oncanplay = function() {console.log("oncanplay video Testing/7");};
+		v.oncanplay = function() {console.log("oncanplay video Testing/7");};
+		v.oncanplaythrough  = function() {console.log("oncanplaythrough video Testing/7");};
+		v.load();
+		p.items.push(v);
+		var v = document.createElement('video');
+		v.name = 'Testing/8';
+		v.src = base_url + 'Testing/8.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = function() {console.log("loaded video Testing/8");};
+		// v.onprogress = function() {console.log("Downloading video Testing/8");};
+		v.addEventListener('error', function() {
+        console.log('Error when loading video Testing/8');
+				this.src =  base_url + backups[backupIndex] + '.mp4';
+				this.name =  backups[backupIndex];
+				backupIndex++;
+				this.load();
+    });
+		v.oncanplay = function() {console.log("oncanplay video Testing/8");};
+		v.oncanplay = function() {console.log("oncanplay video Testing/8");};
+		v.oncanplaythrough  = function() {console.log("oncanplaythrough video Testing/8");};
+		v.load();
+		p.items.push(v);
+		var v = document.createElement('video');
+		v.name = 'Testing/9';
+		v.src = base_url + 'Testing/9.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = function() {console.log("loaded video Testing/9");};
+		// v.onprogress = function() {console.log("Downloading video Testing/9");};
+		v.addEventListener('error', function() {
+        console.log('Error when loading video Testing/9');
+				this.src =  base_url + backups[backupIndex] + '.mp4';
+				this.name =  backups[backupIndex];
+				backupIndex++;
+				this.load();
+    });
+		v.oncanplay = function() {console.log("oncanplay video Testing/9");};
+		v.oncanplay = function() {console.log("oncanplay video Testing/9");};
+		v.oncanplaythrough  = function() {console.log("oncanplaythrough video Testing/9");};
+		v.load();
+		p.items.push(v);
+		var v = document.createElement('video');
+		v.name = 'Testing/10';
+		v.src = base_url + 'Testing/10.mp4';
+		    // type: 'video/mp4'
+		    // controls: false
+		v.onloadeddata = function() {console.log("loaded video Testing/10");};
+		// v.onprogress = function() {console.log("Downloading video Testing/10");};
+		v.addEventListener('error', function() {
+        console.log('Error when loading video Testing/10');
+				this.src =  base_url + backups[backupIndex] + '.mp4';
+				this.name =  backups[backupIndex];
+				backupIndex++;
+				this.load();
+    });
+		v.oncanplay = function() {console.log("oncanplay video Testing/10");};
+		v.oncanplay = function() {console.log("oncanplay video Testing/10");};
+		v.oncanplaythrough  = function() {console.log("oncanplaythrough video Testing/10");};
+		v.load();
+		p.items.push(v);
+		// append object
+
+    // randomly select repeat videos
+		// https://stackoverflow.com/a/2380113
+		var arr = [];
+    while(arr.length < 1){
+      var r = Math.floor(Math.random() * 5 );
+      if(arr.indexOf(r) === -1){
+        p.items.push(p.items[r])
+        arr.push(r);
+      }
+    }
+		// add backup videos to make it enough number
+		// fix a number of backup videos
+		// create a folder
+
+		// assume gloden videos are always playable
+    
+		var v = document.createElement('video');
+		v.name = 'Golden/1';
+		v.src = base_url + 'Golden/1.mp4';
+    // type: 'video/mp4'
+    // controls: false
+		v.onloadeddata = function() {console.log("loaded video Golden/1");};
+		// v.onprogress = function() {console.log("Downloading video Golden/1");};
+		v.oncanplay = function() {console.log("oncanplay video Golden/1");};
+		v.oncanplaythrough  = function() {console.log("oncanplaythrough video Golden/1");};
+		v.load();
+		p.items.push(v);
+
+		// random assign id
+    // shuffle enough times to make golden image evenly distributed
+    shuffle(p.items);
+    shuffle(p.items);
+    shuffle(p.items);
+		p.items[0].load();
+  // https://stackoverflow.com/a/2380113
+  return this;
+}
+
+
+function instruction() {
+	$('#instrution_box').show();
+	$('#survey_box').hide();
+	$('#main-slider').animate({top: '-1000px'});
+}
+
+function pre_train() {
+	if (p == null) return;
+	$('#instrution_box').hide();
+	$('#survey_box').hide();
+	$('#main-slider').animate({top: '-1000px'});
+	// next_large_img_instruction();
+	
+		openFullscreen();
+	
+	var screenH = window.screen.height;
+	var screenW = window.screen.width;
+	$("#screenSize").val(screenH+"/"+screenW);
+	$('#phase_info').html("You are entering the training session. Click to Continue.");
+	$('#nextButton').html('Continue');
+	$('#divNextButton').show();
+}
+
+function pre_test() {
+	$('#instrution_box').hide();
+	$('#survey_box').hide();
+	$('#main-slider').animate({top: '-1000px'});
+	$('#phase_info').html("You are entering the testing session. Click to Continue.");
+	$('#divNextButton').show();
+}
+
+// combine train and test function
+function run(vids) {
+	$('#instrution_box').hide();
+	$('#survey_box').hide();
+	// make sure all videos are .mp4 lower case
+	// record
+	if (phase == 'test')  {
+		var x = document.getElementById("selection"+(vids.im_num+1)).name; // selection start with 1
+		console.log(x + '-->' + vids.items[vids.im_num].name);
+		$("#selection"+(vids.im_num+1)).attr('name', vids.items[vids.im_num].name);
+	}
+	// show video
+	var t0 = performance.now();
+	document.getElementById("divVideo").appendChild(vids.items[vids.im_num]);
+	vids.items[vids.im_num].play();
+	var dur = vids.items[vids.im_num].duration;
+	console.log(dur);
+	vids.items[vids.im_num].onended = function() {
+		var t1 = performance.now();
+		var delay =  ((t1 - t0)/1000) - dur;
+		train_delay += delay;
+		sessionStorage['delay'] = delay;
+		console.log("Time taken: " + (t1 - t0)/1000);
+		console.log("Train Delay: " + train_delay);
+		this.remove();
+		$('#main-slider').animate({top: '0px'}, 'fast');
+		$('#attributes').hide();
+		$('#report_video').hide();
+		$('#points').change(function(){$('#buttonA').show(); $('#sub_butA').prop('disabled', false);});
+		$('#points').change(function(){$('#report_video').show();});
+	}
+
+	if (phase == 'train')  {
+		if (train_delay > 3 || train_delay < -1){
+			Rejected('You did not satisfy the requirements for this study. Please return the HIT.');
+		}
+		// train_delay =
+	}
+
+	$('#submit_info').html('[' + phase + '] ' + (vids.im_num+1) + " out of " + (vids.total_num_ims));
+	// $('#short_instructions').html("Please drag the slider to indicate the quality you see.");
+	// init ui
+	$('#divNextButton').hide();
+	// prepare UI
+	// $('#imageA').show()
+	// $('#imageA').load()
+	var init_val = Math.floor(Math.random() * 100);
+	sessionStorage['initialVal'] = init_val;
+
+	document.getElementById('points').value = init_val;
+	document.getElementById('inappropriate').checked = false;
+	document.getElementById('corrupt').checked = false;
+	document.getElementById('other').checked = false;
+	$('#textbox').hide();
+	document.getElementById("textbox_input").value = "";
+	$('#short_instructions').show();
+	$('#buttonA').hide();
+}
+
+function survey() {
+	$('#instrution_box').hide();
+	$('#survey_box').show();
+	$('#short_instructions').detach();
+	$('#divNextButton').show();
+	// $('#nextButton').addAttr("disabled");
+	$('#nextButton').html('Done!');
+	$('#phase_info').html("Please fill out the survey. Thank you!");
+	$('#nextButton').prop("disabled", true);
+}
+
+function done() {
+	// configuration and thanks
+	alert('Well done! Click the submit button');
+	$('#survey_box').animate({right: '-100%'});
+	$('#divNextButton').hide();
+	$("#submitButton").show();
+	$("#submitButton").css("visibility", "visible");
+}
+
+function rejected(msg) {
+	// show the rejection page
+	$('#submitButton').remove();
+	// record information?
+	$('#divRejected').show();
+	$('#reasonRejected').html(msg);
+	$('#survey_box').animate({right: '-100%'});
+	$('#divNextButton').hide();
+}
+
+function validSurvey() {
+	// https://stackoverflow.com/questions/6920606/jquery-how-to-check-if-all-radio-buttons-in-a-div-are-selected
+	// $('[name=age]:checked').val() === undefined;
+		var empty = $('#divSurvey:not(:has(:radio:checked))')
+		$('#nextButton').prop("disabled", empty.length > 0);
+}
+
+function next(_phase=phase) {
+	phase = _phase
+	console.log('[' + phase + ']');
+	
+		if( window.innerHeight != screen.height) {
+			openFullscreen();
+		}
+	
+
+  // update phase
+  switch (phase) {
+		case 'instruction':
+			instruction();
+			phase = 'pre_train';
+			break;
+		case 'pre_train':
+			pre_train();
+			phase = 'train';
+			break;
+		case 'train':
+			run(t);
+			t.im_num=t.im_num+1;
+			if (t.im_num == t.total_num_ims) { phase = 'pre_test'; }
+			break;
+		case 'pre_test':
+			pre_test();
+			phase = 'test';
+			break;
+    case 'test':
+			if ( p.items[p.im_num].readyState === 4 ) {
+				// only enter test when video is loaded
+			  run(p);
+				p.im_num=p.im_num+1;
+			} else {
+				console.log('video is not ready');
+			}
+			if (p.im_num == p.total_num_ims) { phase = 'survey'; }
+			else {
+				if ( p.items[p.im_num].readyState === 4 ) {
+					console.log('Next video is already loaded' + p.items[p.im_num].name);
+				} else {
+					p.items[p.im_num].load();
+					console.log('Next video is not ready: ' + p.items[p.im_num].name + ':' + p.items[p.im_num+1].readyState);
+				}
+			}
+			break;
+		case 'survey':
+			survey();
+			// show next only when all fields are filled in
+			phase = 'done';
+			break;
+		case 'done':
+			done();
+			break;
+		case 'rejected':
+			break;
+    default:
+      break;
+  }
+}
+
+function submitAnswer() {
+		$('#main-slider').animate({top: '-1000px'});
+		$('#buttonA').hide();
+
+    var final_val = document.getElementById("points").value
+    var init_val = sessionStorage['initialVal'] || 'defaultValue';
+		var delay = sessionStorage['delay'] || 'defaultValue';
+    var var2 = [];
+		var var3 = null;
+    if(document.getElementById("inappropriate").checked){
+      var2.push("  inappropriate  ");
+    }
+    if(document.getElementById("corrupt").checked){
+      var2.push("  corrupt  ");
+    }
+		if(document.getElementById("other").checked){
+	    var2.push("  other_");
+	    var3 = document.getElementById("textbox_input").value;
+	    var2.push(var3)
+    }
+
+    // selection
+    selected = $("#selection"+(p.im_num)) // be carefull +1 -1
+    selected.val(init_val+"/"+final_val+"/" + var2 + "/" + delay);
+    console.log( selected.attr('name') + ' ---> ' + selected.val() );
+    $('#sub_butA').attr("disabled",true);
+    next();
+}
+			var nVer = navigator.appVersion;
+var nAgt = navigator.userAgent;
+var browserName  = navigator.appName;
+var fullVersion  = ''+parseFloat(navigator.appVersion);
+var majorVersion = parseInt(navigator.appVersion,10);
+var nameOffset,verOffset,ix;
+
+// In Opera, the true version is after "Opera" or after "Version"
+if ((verOffset=nAgt.indexOf("Opera"))!=-1) {
+ browserName = "Opera";
+ fullVersion = nAgt.substring(verOffset+6);
+ if ((verOffset=nAgt.indexOf("Version"))!=-1)
+   fullVersion = nAgt.substring(verOffset+8);
+}
+// In MSIE, the true version is after "MSIE" in userAgent
+else if ((verOffset=nAgt.indexOf("MSIE"))!=-1) {
+ browserName = "Microsoft Internet Explorer";
+ fullVersion = nAgt.substring(verOffset+5);
+}
+// In Chrome, the true version is after "Chrome"
+else if ((verOffset=nAgt.indexOf("Chrome"))!=-1) {
+ browserName = "Chrome";
+ fullVersion = nAgt.substring(verOffset+7);
+}
+// In Safari, the true version is after "Safari" or after "Version"
+else if ((verOffset=nAgt.indexOf("Safari"))!=-1) {
+ browserName = "Safari";
+ fullVersion = nAgt.substring(verOffset+7);
+ if ((verOffset=nAgt.indexOf("Version"))!=-1)
+   fullVersion = nAgt.substring(verOffset+8);
+}
+// In Firefox, the true version is after "Firefox"
+else if ((verOffset=nAgt.indexOf("Firefox"))!=-1) {
+ browserName = "Firefox";
+ fullVersion = nAgt.substring(verOffset+8);
+}
+// In most other browsers, "name/version" is at the end of userAgent
+else if ( (nameOffset=nAgt.lastIndexOf(' ')+1) <
+          (verOffset=nAgt.lastIndexOf('/')) )
+{
+ browserName = nAgt.substring(nameOffset,verOffset);
+ fullVersion = nAgt.substring(verOffset+1);
+ if (browserName.toLowerCase()==browserName.toUpperCase()) {
+  browserName = navigator.appName;
+ }
+}
+// trim the fullVersion string at semicolon/space if present
+if ((ix=fullVersion.indexOf(";"))!=-1)
+   fullVersion=fullVersion.substring(0,ix);
+if ((ix=fullVersion.indexOf(" "))!=-1)
+   fullVersion=fullVersion.substring(0,ix);
+
+majorVersion = parseInt(''+fullVersion,10);
+if (isNaN(majorVersion)) {
+ fullVersion  = ''+parseFloat(navigator.appVersion);
+ majorVersion = parseInt(navigator.appVersion,10);
+}
+
+var OSName="Unknown OS";
+if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+
+$("#systemInfo").val(''
+ +'Browser name  = '+browserName+'/'
+ +'Full version  = '+fullVersion+'/'
+ +'Major version = '+majorVersion+'/'
+ +'navigator.appName = '+navigator.appName+'/'
+ +'navigator.userAgent = '+navigator.userAgent+'/'
+ +'Your OS: '+OSName);
+
+ // console.log(''
+ //  +'Browser name  = '+browserName+'/'
+ //  +'Full version  = '+fullVersion+'/'
+ //  +'Major version = '+majorVersion+'/'
+ //  +'navigator.appName = '+navigator.appName+'/'
+ //  +'navigator.userAgent = '+navigator.userAgent+'/'
+ //  +'Your OS: '+OSName);
+    </script>
+  
+  
+
+    <!-- buttions -->
+		 <!-- Please Read the Instructions before Move on! -->
+<!-- buttons_large_img_train - train_instruction -->
+
+<!-- buttons_start -  startExperiment -->
+<!-- Please accept HIT to start -->
+    <!-- <div id="done" align = "center" style = "display:none">
+        Thank you! You have completed the experiment.<br><br><div id="score"></div>
+    <div><textarea id="comments" name="comments" rows="3" cols="31">Comments?</textarea></div><br><br>
+    Please click the submit button below to finish.
+    </div> -->
+
+		
+
+			<div class="survey form-group">
+				<div id="instrution_box" class="box" style="width:70%;">
+					<h1><strong>SUBJECTIVE QULAITY ASSESMENT OF VIDEOS</strong></h1>
+
+
+<div class="alert alert-primary" role="alert">
+  <b>Important Note:</b> The following task is based on Video Quality Assessment. This task is created for testing purpose only.
+  It contains 7 videos that you have to rate. Please rate carefully. Do not press "Enter" before submitting. Otherwise, your work will
+be rejected.
+</div>
+
+<h2>INSTRUCTIONS</h2>
+
+<div class="alert alert-primary" role="alert">
+  The objective of this study is to get your opinion on the quality of videos that we show you.<br> <br>
+  <strong>Given a video of a certain scene, your quality rating should be based on how well <em>you</em> believe the presented video quality compares to an ideal, or best possible video of the same content. Note that a video need not follow photographic or cinematographic composition rules to be of high quality. For example, a well-composed but grainy, blurry or juddery video would likely be of low quality, while a very high quality video might be taken that excludes your friend's head or is not aesthetically pleasing. Thus we do not care if the videographer did a poor job positioning people or objects in the video scene, but we do care if the quality of the video is good or not. Examples of the quality opinions you might give (a few are shown below) are - bad, poor, fair, good, and excellent, or anything in-between these.  </strong>
+  <br> <br>
+  <font size="medium">
+  <table border="1" align="center">
+    <tbody><tr>
+        <td>
+            </td><th><em>BAD</em>
+            </th>
+        
+        <td>
+            <p align="center">
+                <video width="500" height="240" muted="" autoplay="" loop="">
+                    <source src="https://sandboxtestvideos.s3.us-east-2.amazonaws.com/samples1/bad.mp4" type="video/mp4">
+                </video>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            </td><th><em>POOR</em>
+            </th>
+        
+        <td>
+            <p align="center">
+                <video width="500" height="240" muted="" autoplay="" loop="">
+                    <source src="https://sandboxtestvideos.s3.us-east-2.amazonaws.com/samples1/poor.mp4" type="video/mp4">
+                </video>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            </td><th><em>FAIR</em>
+            </th>
+        
+        <td>
+            <p align="center">
+                <video width="500" height="240" muted="" autoplay="" loop="">
+                    <source src="https://sandboxtestvideos.s3.us-east-2.amazonaws.com/samples1/fair.mp4" type="video/mp4">
+                </video>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            </td><th><em>GOOD</em>
+            </th>
+        
+        <td>
+            <p align="center">
+                <video width="500" height="240" muted="" autoplay="" loop="">
+                    <source src="https://sandboxtestvideos.s3.us-east-2.amazonaws.com/samples1/good.mp4" type="video/mp4">
+                </video>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            </td><th><em>EXCELLENT</em>
+            </th>
+        
+        <td>
+            <p align="center">
+                <video width="500" height="240" muted="" autoplay="" loop="">
+                    <source src="https://sandboxtestvideos.s3.us-east-2.amazonaws.com/samples1/excellent.mp4" type="video/mp4">
+                </video>
+            </p>
+        </td>
+    </tr>
+  </tbody></table>
+  </font>
+</div>
+
+<h3><strong>The following steps describe how to rate a video:</strong></h3>
+<br>
+<ol>
+    <li>After each video has been played, a rating will appear, calibrated on a continuous scale from BAD to EXCELLENT. Five pointers marked "Bad", "Poor", "Fair", "Good", "Excellent" will be placed at equal intervals along the line to guide
+        you. The interface is as shown in the figure on your right.</li>
+    <li>Rate the video by moving the marker of the rating bar to the score (position) you think best represents the quality of the image. NOTE THAT YOU MAY MOVE THE MARKER ANYWHERE ON THE SLIDER, NOT NECESSARILY AT THE 5 POINTERS (BAD-EXCELLENT). </li>
+    <li>You can drag the cursor on the scale and its final position will be considered as your response once you click ‘Submit’. </li>
+    <li>For every video we display, we have intentionally placed the marker at a random initial position. </li>
+    <li>You will not be able to submit your rating and proceed to the next video unless you have moved the cursor. </li>
+    <li>Below the rating scale, you will have the option to report the video in case you fell the content has nudity, violenece or inappropriate in any way. You can check the corresponding boxes to do so. This is not mandatory and you can proceed to the next video in case
+        there is nothing to report. </li>
+</ol>
+
+<div class="alert alert-secondary" id="rating_instructions" align="center">
+
+  <img src="./slider_demo.png" alt="Rating Interface" width="600" height="400">
+</div>
+
+<div class="alert alert-secondary">
+  <h3>Training and Testing Phases:</h3>
+  The study has been divided into two phases - <b>training phase</b> and <b>testing phase</b>. The first few videos that you will see should help you acquaint yourself with the rating procedure and the range of qualities of the videos. You'll be informed when this training phase is over and then you will move on to the testing phase.
+  <h3>Additional Instructions:</h3>
+  <ul>
+  	<li> If the video is large, be careful and gentle when scrolling to the left as it might cause the return to previous webpage.</li>
+  	<!--- <li> At the bottom of the screen, you will have the option to report in case any video is unplayable, or if the content is inappropriate. You can check the corresponding boxes to do so. This is not mandatory and you can proceed to the next video in case there is nothing to report.</li> --->
+  	<li> Please close any other tab or window open in your browser while participating in this study. Also, set your browser window to 100% zoom for the entire duration of the study.</li>
+  	<li> Please close all other applications that may be running on your device which may affect the browser performance.</li>
+  	<li> Please move your chair to a comfortable viewing distance from where you can clearly see the displayed videos.</li>
+  	<li> If you normally wear corrective lenses to view a monitor at this distance, please use them during the study, as abnormal vision will affect your perception of the video quality.</li>
+  	<li> Please switch off your mobile phone or other devices that might disturb or distract you during the experiment. Please ensure consistent network connectivity and an uninterrupted working environment. The session is continuous and cannot be paused.</li>
+  	<li> At the end of the study, you will be asked to fill in some pertinent survey questions which are integral to it. </li>
+  </ul>
+  <!--- <h4>IMPORTANT NOTE: You will be allowed to participate in the study once per day. Please do not try to participate more than once/day, since you will not receive credit/payment if you do. Of course, you can again participate on the following days</h4> --->
+  <h4> IMPORTANT NOTE: If for some reason the video does not load, please return the HIT and contact us but DO NOT REFRESH the page</h4>
+  <strong> Again, it is import to focus only on the video quality when you rate the videos. Do not rate the videos according to the content.</strong>
+</div>
+				</div>
+			</div>
+
+		<div id="divSurvey" class="survey form-group">
+				<div id="survey_box" class="box" style="width: 60%; display: none;">
+					<!-- Holds the final questions that we wish to ask in the end-->
+<p style="font-size:30px">Almost Done! </p>
+<h2>Please answer the survey questions below:</h2>
+<br>
+<p>Do you like taking/viewing a lot of videos?</p>
+<label><input type="radio" name="tp" value="Yes"> Yes</label><br>
+<label><input type="radio" name="tp" value="No"> No</label><br>
+<label><input type="radio" name="tp" value="dontcare"> Sometimes. Not a lot though!</label><br>
+<br>
+<p>Does the quality of videos that you come across either on the web/elsewhere bother you?</p>
+<label><input type="radio" name="qp" value="Yes"> Yes</label><br>
+<label><input type="radio" name="qp" value="No"> No</label><br>
+<label><input type="radio" name="qp" value="dontcare"> I don't really care!</label><br>
+<label><input type="radio" name="qp" value="dontknow"> Aren't all videos of same quality?</label><br>
+<br>
+<p>What device do you use for capturing videos most often?</p>
+<label><input type="radio" name="dev" value="Mobile devices"> Mobile devices ( Iphone/Android devices) </label><br>
+<label><input type="radio" name="dev" value="DSLR"> A high-end DSLR camera </label><br>
+<label><input type="radio" name="dev" value="DigiCam"> A decent Digital Camera</label><br>
+<br>
+<p>Which display device (monitor) are you using to view the videos and perform this task?</p>
+<label><input type="radio" name="display" value="Phone"> Phone Screen </label><br>
+<label><input type="radio" name="display" value="Tablet"> Tablet Screen </label><br>
+<label><input type="radio" name="display" value="Desktop"> Desktop Monitor </label><br>
+<label><input type="radio" name="display" value="Laptop"> Laptop Screen </label><br>
+<label><input type="radio" name="display" value="HDTV"> HDTV screen</label><br>
+<label><input type="radio" name="display" value="Retina"> Retina Display</label><br>
+<br>
+<p>Your Gender</p>
+<label><input type="radio" name="gender" value="Male"> Male</label><br>
+<label><input type="radio" name="gender" value="Female"> Female</label><br>
+<br>
+<p>Your Age</p>
+<label><input type="radio" name="age" value="&lt;20"> less than 20</label><br>
+<label><input type="radio" name="age" value="20-30"> 20-30</label><br>
+<label><input type="radio" name="age" value="30-40"> 30-40</label><br>
+<label><input type="radio" name="age" value="&gt;40"> Above 40</label><br>
+<br>
+<p>Do you wear corrective lenses?</p>
+<label><input type="radio" name="lens" value="Yes"> Yes</label><br>
+<label><input type="radio" name="lens" value="No"> No</label><br>
+<br>
+<p>If the answer to the above question is yes, are you wearing your corrective lenses now?</p>
+<label><input type="radio" name="wearlens" value="Yes"> Yes</label><br>
+<label><input type="radio" name="wearlens" value="No"> No</label><br>
+<br>
+<p>Approximately how far are you sitting away from your screen?</p>
+<label><input type="radio" name="dist" value="&lt;15">  less than 15 inches away</label><br>
+<label><input type="radio" name="dist" value="15-30"> Between 15-30 inches</label><br>
+<label><input type="radio" name="dist" value="&gt;30"> Greater than 30 inches away</label><br>
+<br>
+<p>Do you have any additional comments for us?</p>
+<textarea name="comments" rows="5" cols="30"></textarea>
+<br>
+				</div>
+		</div>
+
+		<div id="images_div" width="100%" align="center">
+    <div id="imageA_div" style="display:inline-block; border:0px solid black;">
+        <div class="slidecontainer">
+          <!-- style="position:relative; width:100%" align="center" -->
+            <div class="center" id="divVideo">
+              <br>
+            </div>
+          <div class="center">
+          <div id="main-slider" class="box" style="top: -1000px;">
+            <div id="feedback" align="center" style="display:none"></div>
+            <div id="trial_num" style="display:none"></div>
+            <div id="short_info" align="center" style="width: 80%; margin: 0 auto; text-align: left; display:none"></div>
+        		<div id="slider_info" align="center">
+              Please drag the slider to indicate the quality you saw.
+              <br> Focus on the <b>quality</b> instead of the content.
+              <br> (Note that the initial position of the slider is placed at random.
+            </div>
+            <div id="short_instructions" style="display:none;"></div>
+            <br>
+            <input type="range" class="slider" name="points" id="points" value="50" min="0" max="100" data-show-value="false" style="position:relative; width:422px; height:10px" align="center">
+            <div class="steps" style="position:relative;" align="center">
+                <span style="display:inline-block;width: 100px;text-align:center;">
+                   |<br>Bad
+                </span>
+                            <span style="display:inline-block;width: 100px;text-align:center;">
+                   |<br>Poor
+                </span>
+                            <span style="display:inline-block;width: 100px;text-align:center;">
+                   |<br>Fair
+                </span>
+                            <span style="display:inline-block;width: 100px;text-align:center;">
+                   |<br>Good
+                </span>
+                            <span style="display:inline-block;width: 100px;text-align:center;">
+                   |<br>Excellent
+                </span>
+                <br>
+                <br>
+                <br>
+                <div id="report_video">
+                  <!-- <p  style="font-size:12pt"><nobr>Do you want to report the video?</nobr></p> -->
+                  <div id="buttonRep" style="position:relative; top: 10px; width:70px; height:30px" title="Report!">
+                    <!-- disabled=true  -->
+                    <button id="report_but" type="button" onclick="$(&#39;#attributes&#39;).show()" style="position:relative; width:100%; height:100%; font-size:9pt; color: rgb(234, 18, 18);background-color: #EEE;">
+                        ⚑ Report
+                    </button>
+                  </div>
+                </div>
+
+                <div id="attributes" style="position:relative; width:100%;" align="center">
+                  <br>
+                    <div id="reasons" style="position:relative;" align="center">
+                      <p>State your reason(s):</p>
+                        <ul style="list-style-type:none; position:relative; width:310px;" align="center">
+                            <li>
+                                <input type="checkbox" id="inappropriate" name="inappropriate" value="inappropriate">
+                                <label for="inappropriate">Pornographic Content</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="corrupt" name="corrupt" value="corrupt">
+                                <label for="corrupt">Violent Content</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="other" name="other" value="other" onclick="$(&#39;#textbox&#39;).toggle()">
+                                <label for="other">Other</label>
+                 		       </li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="textbox" style="display: none; position:relative; top: 5px" align="center">
+        		      <p>What is(are) your reason(s)? </p>
+        		      <input id="textbox_input" type="text" name="otherAnswer" value=""><br>
+      		      </div>
+            </div>
+        </div>
+
+        <div id="buttonA" style="position: relative; top: 10px; width: 200px; height: 50px; display: none;" title="You must move the slider before submitting!">
+          <!-- disabled=true  -->
+            <div id="submit_info"></div>
+            <button id="sub_butA" type="button" onclick="submitAnswer()" style="position:relative; width:100%; height:100%; font-size:14pt; font-weight:bold">
+                Submit
+              </button>
+        </div>
+
+        </div>
+        <br>
+        <br>
+
+        </div>
+
+
+        <br>
+
+    </div>
+</div>
+		<!-- invisible image div may block the button click!!! -->
+
+		<!-- phase -->
+		<div id="divNextButton" class="container" align="center">
+			 <!-- disabled=true -->
+				 <div id="phase_info"></div>
+				 <button class="center" id="nextButton" type="button" onclick="next()">Start!</button>
+				 <div id="not_assigned" align="left" style="display:none">
+					 <p>Please accept the HIT to begin!</p>
+				 </div>
+		 </div>
+
+
+
+		<div id="divRejected" class="survey form-group">
+			<div class="box"> <h1> Sorry!</h1>
+You are not able to procceed because:
+<p id="reasonRejected"></p> </div>
+		</div>
+
+
+
+		<!-- disabled=true  -->
+		<!-- <div id="submitSurveyButton" style="position:relative; top: 10px; width:275px; height:75px" title="Fill survey before submitting!">
+				<button id="sub_butB" type="button" onclick="" style="position:relative; width:100%; height:100%; font-size:16pt; font-weight:bold">
+						SUBMIT
+				</button>
+		</div> -->
+
+    <!-- hidden input to record the results  -->
+		<input type="hidden" name="screenSize" id="screenSize" value="unset">
+		<input type="hidden" name="systemInfo" id="systemInfo" value="unset">
+		
+    <input type="hidden" name="selection1" id="selection1" value="unset">
+    <input type="hidden" name="selection2" id="selection2" value="unset">
+    <input type="hidden" name="selection3" id="selection3" value="unset">
+    <input type="hidden" name="selection4" id="selection4" value="unset">
+    <input type="hidden" name="selection5" id="selection5" value="unset">
+    <input type="hidden" name="selection6" id="selection6" value="unset">
+    <input type="hidden" name="selection7" id="selection7" value="unset">
+  
+<p class="text-center"><input type="submit" id="submitButton" class="btn btn-primary" value="Submit" style="display: none;"></p></form><script language="Javascript">turkSetAssignmentID();</script></body></html>

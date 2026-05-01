@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05,sample,23.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",11.444200000017883
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05,sample,7.0,81.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",6.544099999994039
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08,sample,98.0,70.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",2.0438000000119203
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08,sample,52.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.8973000000119207
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_10000k_h264_nvenc,sample,27.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.028900000005959825
+amt_gaming_vqa_dataset/HrBdHxZdcrs_TheSims3_12-08_1080p_10000k_h264_nvenc,sample,10.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.023599999994040388
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_500k_av1,sample,38.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006900000005959583
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_500k_av1,sample,11.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006599999994039152
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_6000k_hevc_nvenc,sample,11.0,86.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.004699999988078574
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_6000k_hevc_nvenc,sample,87.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.052900000005960734
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_13-00_360p_800k_av1,sample,74.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013400000005960422
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_13-00_360p_800k_av1,sample,52.0,66.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01029999998211828

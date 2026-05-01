@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Returnal_2_1080p_2000k_hevcnvenc,sample,24.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06899000000000122
+amt_gaming_vqa_dataset/Returnal_2_1080p_2000k_hevcnvenc,sample,80.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07199000000000133
+amt_gaming_vqa_dataset/Doom_720p_500k_av1,sample,84.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07249000000000017
+amt_gaming_vqa_dataset/Doom_720p_500k_av1,sample,23.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0785899999996289
+amt_gaming_vqa_dataset/Doom_1080p_5300k_h264nvenc,sample,60.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07378999999981417
+amt_gaming_vqa_dataset/Doom_1080p_5300k_h264nvenc,sample,64.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.923490000000001
+amt_gaming_vqa_dataset/Doom_2160p_8500k_h264nvenc,sample,18.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.18639000000037242
+amt_gaming_vqa_dataset/Doom_2160p_8500k_h264nvenc,sample,33.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.6762900000002805
+amt_gaming_vqa_dataset/Doom_1080p_800k_hevcnvenc,sample,57.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.059290000000046916
+amt_gaming_vqa_dataset/Doom_1080p_800k_hevcnvenc,sample,14.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07779000000004643
+amt_gaming_vqa_dataset/Doom_480p_800k_hevcnvenc,sample,95.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06988999999990675
+amt_gaming_vqa_dataset/Doom_480p_800k_hevcnvenc,sample,6.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07499000000000144

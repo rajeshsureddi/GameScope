@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_16-31_480p_1000k_h264_nvenc,sample,73.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.019999000000000322
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_16-31_480p_1000k_h264_nvenc,sample,30.0,61.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.015799000190735768
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_500k_av1,sample,31.0,26.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0024000000953670053
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_500k_av1,sample,24.0,31.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.026799999952316966
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_1500k_hevc_nvenc,sample,98.0,56.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.037600000143051204
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_1500k_hevc_nvenc,sample,38.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02160000014305119
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3500k_hevc_nvenc,sample,18.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024400000095367247
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3500k_hevc_nvenc,sample,95.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03420000004768298
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_600k_hevc_nvenc,sample,41.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022500000000000853
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_600k_hevc_nvenc,sample,17.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.023100000143051247
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_2-14_480p_1000k_h264_nvenc,sample,5.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015099999904633066
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_2-14_480p_1000k_h264_nvenc,sample,43.0,13.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06459999990463317

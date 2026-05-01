@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_2500k_h264nvenc,sample,30.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09088999999851133
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_2500k_h264nvenc,sample,66.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09588999999851033
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_6000k_hevcnvenc,sample,68.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08279000000074532
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_6000k_hevcnvenc,sample,67.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.8684900000000013
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_500k_av1,sample,2.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07538999999851015
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_500k_av1,sample,73.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09299000000000035
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1000k_av1,sample,29.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.7938900000022358
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1000k_av1,sample,65.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4870900000014906
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1500k_hevcnvenc,sample,58.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07809000000148991
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1500k_hevcnvenc,sample,98.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08999000000000024
+amt_gaming_vqa_dataset/skyrim_1_720p_1000k_h264nvenc,sample,32.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.028189999999256088
+amt_gaming_vqa_dataset/skyrim_1_720p_1000k_h264nvenc,sample,49.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0031100000014898654

@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/o8qnrNPXqEs_AngryBirds2_3-23_1080p_10000k_h264_nvenc,sample,63.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0009230000000002292
+amt_gaming_vqa_dataset/o8qnrNPXqEs_AngryBirds2_3-23_1080p_10000k_h264_nvenc,sample,70.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.024423000000000528
+amt_gaming_vqa_dataset/YXKn8BJn8Vs_FIFA_23-39,sample,28.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.004300000011921767
+amt_gaming_vqa_dataset/YXKn8BJn8Vs_FIFA_23-39,sample,63.0,38.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.0022000000178810097
+amt_gaming_vqa_dataset/YXKn8BJn8Vs_FIFA_23-39_480p_1000k_h264_nvenc,sample,67.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.022800000011921284
+amt_gaming_vqa_dataset/YXKn8BJn8Vs_FIFA_23-39_480p_1000k_h264_nvenc,sample,73.0,37.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.002900000005960024
+amt_gaming_vqa_dataset/JLxMYraKslo_DiabloIII_1-20_720p_1300k_av1,sample,56.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006400000005960749
+amt_gaming_vqa_dataset/JLxMYraKslo_DiabloIII_1-20_720p_1300k_av1,sample,28.0,25.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.016500000000000625
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_5300k_h264_nvenc,sample,40.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0045000000000001705
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_5300k_h264_nvenc,sample,60.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.26500000000000057
+amt_gaming_vqa_dataset/nG9ECOw4dNg_PUBGMobile_0-03,sample,6.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.008200000017881237
+amt_gaming_vqa_dataset/nG9ECOw4dNg_PUBGMobile_0-03,sample,42.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",3.622700000017881
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,19.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.23720000001788222
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,71.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.1566999999880796

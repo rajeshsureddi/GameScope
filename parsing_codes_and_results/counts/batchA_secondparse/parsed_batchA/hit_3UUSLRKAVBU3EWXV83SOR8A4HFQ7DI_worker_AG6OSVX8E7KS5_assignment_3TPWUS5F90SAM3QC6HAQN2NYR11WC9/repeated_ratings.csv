@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_720p_5000k_h264nvenc,sample,11.0,73.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10058999999962737
+amt_gaming_vqa_dataset/callofdutyps5_720p_5000k_h264nvenc,sample,83.0,62.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1032899999998147
+amt_gaming_vqa_dataset/callofdutyps5_1080p_6000k_hevcnvenc,sample,60.0,75.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/callofdutyps5_1080p_6000k_hevcnvenc,sample,45.0,69.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.097810000000744
+amt_gaming_vqa_dataset/callofdutyps5_720p_600k_hevcnvenc,sample,78.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08369000000018723
+amt_gaming_vqa_dataset/callofdutyps5_720p_600k_hevcnvenc,sample,1.0,64.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0814900000000005
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_1000k_av1,sample,63.0,50.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.13359000000055943
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_1000k_av1,sample,29.0,60.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09119000000018751
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_av1,sample,8.0,64.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.10719000000018752
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_av1,sample,39.0,58.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.5285899999996282
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_6000k_hevcnvenc,sample,24.0,69.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2639899999999997
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_6000k_hevcnvenc,sample,16.0,64.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.12359000000055964

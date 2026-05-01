@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_800k_hevcnvenc,sample,34.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.049590000023842506
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_800k_hevcnvenc,sample,11.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0626900000178825
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_3500k_hevcnvenc,sample,92.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05039000000596161
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_3500k_hevcnvenc,sample,37.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05138999997615912
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_10000k_h264nvenc,sample,37.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06608999999403942
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_10000k_h264nvenc,sample,80.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.214190000017881
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_5300k_h264nvenc,sample,76.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06549000000000049
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_5300k_h264nvenc,sample,41.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08108999999403999
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_1500k_hevcnvenc,sample,43.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06989000000596057
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_1500k_hevcnvenc,sample,88.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06958999999404014
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_800k_hevcnvenc,sample,16.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08168999998807891
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_800k_hevcnvenc,sample,86.0,1.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07209000002384158
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,19.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08330000001192062
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,87.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06159999999403887
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,1.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0835000000000008

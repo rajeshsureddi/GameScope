@@ -1,0 +1,198 @@
+<!-- Quiz questions to check if subjects have read the instructions-->
+<script type="text/javascript">
+{% include 'js/shuffle.js' %}
+$(document).ready(function(){
+    $( '.Q1 label' ).shuffle();
+    $( '.Q2 label' ).shuffle();
+    $( '.Q3 label' ).shuffle();
+    $( '.Q4 label' ).shuffle();
+    $( '.Q5 label' ).shuffle();
+    $( '.Q6 label' ).shuffle();
+  });
+  function checkQuiz(){
+    var num_corr = 0;
+    var wr_ans = 0;
+    var ans1 = $("input[name='q1']:checked").val();
+    if(ans1=='b'){
+      num_corr+=1;
+    }else{
+      wr_ans = 1;
+    }
+    var ans2 = $("input[name='q2']:checked").val();
+    if(ans2=='a'){
+      num_corr+=1;
+    }else{
+      wr_ans = 2;
+    }
+    var ans3 = $("input[name='q3']:checked").val();
+    if(ans3=='b'){
+      num_corr+=1;
+    }else{
+      wr_ans = 3;
+    }
+    var ans4 = [];
+    $.each($("input[name='q4']:checked"), function(){
+        ans4.push($(this).val());
+    });
+    // ans4_c = 0;
+    // if(ans4.includes('a')){ans4_c+=1};
+    // if(ans4.includes('b')){ans4_c+=1};
+    // if(ans4.includes('d')){ans4_c+=1};
+    // if(ans4_c==3){
+    //   num_corr+=1;
+    // }
+    if(ans4.includes('a') && ans4.includes('b') && !ans4.includes('c') && ans4.includes('d') && !ans4.includes('e')){
+      num_corr+=1;
+    }else{
+      wr_ans = 4;
+    }
+    // alert("My choices are: " + ans4.length);
+    var ans5 = $("input[name='q5']:checked").val();
+    if(ans5=='c'){
+      num_corr+=1;
+    }else{
+      wr_ans = 5;
+    }
+    var ans6 = $("input[name='q6']:checked").val();
+    if(ans6=='a'){
+      num_corr+=1;
+    }else{
+      wr_ans = 6;
+    }
+
+    if(!ans1 || !ans2 || !ans3 || !ans4.length || !ans5 || !ans6){
+      alert('Please answer all before submitting!');
+    }
+
+    if(ans1 && ans2 && ans3 && ans4.length && ans5 && ans6){
+      if(num_corr == 5){
+        // alert('You have passed!');
+        if(wr_ans==1){
+          $("input[name='q1'][value='b']").closest('label').css("color", 'green');
+          $("input[name='q1']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==2){
+          $("input[name='q2'][value='a']").closest('label').css("color", 'green');
+          $("input[name='q2']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==3){
+          $("input[name='q3'][value='b']").closest('label').css("color", 'green');
+          $("input[name='q3']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==4){
+          $("input[name='q4'][value='a']").closest('label').css("color", 'green');
+          $("input[name='q4'][value='b']").closest('label').css("color", 'green');
+          $("input[name='q4'][value='d']").closest('label').css("color", 'green');
+          if(ans4.includes('c')){
+            $("input[name='q4'][value='c']").closest('label').css("color", 'red');
+          }
+          if(ans4.includes('e')){
+            $("input[name='q4'][value='e']").closest('label').css("color", 'red');
+          }
+        }
+        if(wr_ans==5){
+          $("input[name='q5'][value='c']").closest('label').css("color", 'green');
+          $("input[name='q5']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==6){
+          $("input[name='q6'][value='a']").closest('label').css("color", 'green');
+          $("input[name='q6']:checked").closest('label').css("color", 'red');
+        }
+
+        $('#quizSubmit').hide();
+        $('#quizNext5').show();
+      }else if (num_corr == 6) {
+        $('#quizSubmit').hide();
+        $('#quizNext6').show();
+      }else{
+        $('input[name=q1]').attr('checked',false);
+        $('input[name=q2]').attr('checked',false);
+        $('input[name=q3]').attr('checked',false);
+        $('input[name=q4]').attr('checked',false);
+        $('input[name=q5]').attr('checked',false);
+        $('input[name=q6]').attr('checked',false);
+        $('#quiz').hide();
+
+        console.log('quiz failed!');
+        $('#skip_instruction').html('Oops, you have failed the quiz. You have been redirected to the instructions. Please read through them and you will be able to attempt the quiz again.');
+
+        next('instruction');
+        $('html,body').scrollTop(0); // jump to top
+        console.log('Redirected to instruction!');
+      }
+    }
+  }
+</script>
+
+<div id="quiz" style="width:100%" >
+  <section class="py-5 grey lighten-4">
+    <div class="container my-auto">
+
+<div class="alert alert-secondary" >
+<p class="lead">QUIZ TIME!<p>
+<h2>The following quiz is to test your diligence and sincerity. Please choose the appropriate options: </h2>
+<br>
+<p><b>Q1. Where can you find the rating slider?</b></p>
+<div class="Q1">
+<label><input type="radio" name="q1" value="a"> Below a video while it is playing</label><br>
+<label><input type="radio" name="q1" value="b"> On the next page after the video has stopped playing</label><br>
+<label><input type="radio" name="q1" value="c"> Top of the video while it is playing</label><br>
+</div>
+<br>
+<div class="Q2">
+<p><b>Q2. How do you rate a video using the slider?</b></p>
+<label><input type="radio" name="q2" value="a"> Drag the cursor along the rating scale to the appropriate position</label><br>
+<label><input type="radio" name="q2" value="b"> Click on the five reference positions shown above the scale</label><br>
+<label><input type="radio" name="q2" value="c"> Enter the rating value in the box below the scale</label><br>
+</div>
+<br>
+<div class="Q3">
+<p><b>Q3. You are evaluating each video based on its:</b></p>
+<label><input type="radio" name="q3" value="a"> Content (what is in the video)</label><br>
+<label><input type="radio" name="q3" value="b"> Quality (how good the video looks)</label><br>
+<label><input type="radio" name="q3" value="c"> Aesthetics (how good the video scene is framed)</label><br>
+</div>
+<br>
+<div class="Q4">
+<p><b>Q4. Which of the following conditions are essential for this study? (Select all that apply)</b></p>
+<label><input type="checkbox" name="q4" value="a"> Close all other browser tabs</label><br>
+<label><input type="checkbox" name="q4" value="b"> Set the browser zoom to 100%</label><br>
+<label><input type="checkbox" name="q4" value="c"> Switch off the lights</label><br>
+<label><input type="checkbox" name="q4" value="d"> Close any other applications running on your device</label><br>
+<label><input type="checkbox" name="q4" value="e"> Connect your device to a speaker</label><br>
+</div>
+<br>
+<div class="Q5">
+<p><b>Q5. How should you rate the text attributes during this study?</b></p>
+<label><input type="radio" name="q5" value="a"> By guessing based on your own understanding</label><br>
+<label><input type="radio" name="q5" value="b"> Based on what looks good or feels right to you</label><br>
+<label><input type="radio" name="q5" value="c"> By clicking "Learn More" at each attribute to understand it before rating</label><br>
+</div>
+<br>
+<div class="Q6">
+<p><b>Q6. What should you do if you normally wear corrective lens?</b></p>
+<label><input type="radio" name="q6" value="a"> Wear it during the study, as not using it might affect your perception of quality</label><br>
+<label><input type="radio" name="q6" value="b"> Don't wear it since we are measuring "naked" vision</label><br>
+<label><input type="radio" name="q6" value="c"> It does not matter for this study</label><br>
+</div>
+<br>
+</div>
+<!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
+
+<div align="center" id = "quizSubmit" >
+  <button type="button" class="btn btn-primary btn-xl nextButton" onclick="checkQuiz()">Submit</button>
+</div>
+
+<div align="center" id = "quizNext6" style="display:none">
+  <p>You have passed! Click 'Next' to proceed with the study</p>
+  <button type="button" class="btn btn-primary btn-xl nextButton" onclick="next()">Next</button>
+</div>
+
+<div align="center" id = "quizNext5" style="display:none">
+  <p>You have passed but you made one mistake. Check the correct answer (shown in green) and then click 'Next' to proceed with the study</p>
+  <button type="button" class="btn btn-primary btn-xl nextButton" onclick="next()">Next</button>
+</div>
+
+</div>
+</section>
+</div>

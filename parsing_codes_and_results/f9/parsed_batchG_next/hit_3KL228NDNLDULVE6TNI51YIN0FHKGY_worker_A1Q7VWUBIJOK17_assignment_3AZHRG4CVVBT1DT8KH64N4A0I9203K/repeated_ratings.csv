@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_5000k_h264_nvenc,sample,13.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01829999995231546
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_5000k_h264_nvenc,sample,12.0,30.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.9551000001430516
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_2000k_hevc_nvenc,sample,9.0,71.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.004899999856949222
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_2000k_hevc_nvenc,sample,24.0,78.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.06569999980926511
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_800k_hevc_nvenc,sample,63.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01760000014305163
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_800k_hevc_nvenc,sample,81.0,64.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.05579999995231688
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30,sample,81.0,3.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",85.785
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30,sample,35.0,6.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",141.65989999985695
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_2-55_360p_800k_av1,sample,25.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.011799999952316398
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_2-55_360p_800k_av1,sample,93.0,81.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",1.7445000000000004
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,42.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13100000000000023
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,76.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11950000000000038
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3445999999046325
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,95.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.38079999995231617

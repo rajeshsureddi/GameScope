@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Daysgone_1,sample,58.0,81.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",26.48530000000447
+amt_gaming_vqa_dataset/Daysgone_1_1080p_1500k_av1,sample,26.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10259000000149143
+amt_gaming_vqa_dataset/Daysgone_1_1080p_5000k_av1,sample,89.0,87.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.11388999999851102
+amt_gaming_vqa_dataset/Daysgone_1_1080p_500k_av1,sample,58.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09738999999851039
+amt_gaming_vqa_dataset/Daysgone_1_2160p_10000k_av1,sample,24.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",10.231590000001491
+amt_gaming_vqa_dataset/Daysgone_1_2160p_1000k_av1,sample,74.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",4.048490000000001
+amt_gaming_vqa_dataset/Daysgone_1_2160p_5000k_av1,sample,92.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",7.808690000002981
+amt_gaming_vqa_dataset/Daysgone_1_480p_1000k_av1,sample,62.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07628999999702124
+amt_gaming_vqa_dataset/Daysgone_1_720p_1300k_av1,sample,67.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08428999999702036
+amt_gaming_vqa_dataset/Daysgone_1_720p_3000k_av1,sample,17.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.43179000000447054
+amt_gaming_vqa_dataset/Daysgone_1_720p_500k_av1,sample,17.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08019000000298071
+amt_gaming_vqa_dataset/Daysgone_1_1080p_10000k_h264nvenc,sample,81.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10408999999403967
+amt_gaming_vqa_dataset/Daysgone_1_1080p_2300k_h264nvenc,sample,34.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10558999999403973
+amt_gaming_vqa_dataset/Daysgone_1_1080p_5300k_h264nvenc,sample,46.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10528999999702116
+amt_gaming_vqa_dataset/Daysgone_1_2160p_25000k_h264nvenc,sample,90.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.00559000000149
+amt_gaming_vqa_dataset/Daysgone_1_2160p_5000k_h264nvenc,sample,25.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",2.645990000000001
+amt_gaming_vqa_dataset/Daysgone_1_2160p_8500k_h264nvenc,sample,65.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.3415900000014904
+amt_gaming_vqa_dataset/Daysgone_1_480p_1000k_h264nvenc,sample,53.0,22.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13029000000447155
+amt_gaming_vqa_dataset/Daysgone_1_720p_1000k_h264nvenc,sample,63.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.2144900000000014
+amt_gaming_vqa_dataset/Daysgone_1_720p_2500k_h264nvenc,sample,89.0,38.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10659000000149099
+amt_gaming_vqa_dataset/Daysgone_1_720p_5000k_h264nvenc,sample,68.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08679000000447168
+amt_gaming_vqa_dataset/Daysgone_1_1080p_2000k_hevcnvenc,sample,40.0,39.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09018999999553046
+amt_gaming_vqa_dataset/Daysgone_1_1080p_6000k_hevcnvenc,sample,75.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09978999999701976
+amt_gaming_vqa_dataset/Daysgone_1_1080p_800k_hevcnvenc,sample,47.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08729000000447051
+amt_gaming_vqa_dataset/Daysgone_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Daysgone_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Daysgone_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Daysgone_1_480p_800k_hevcnvenc,sample,17.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07349000000000139
+amt_gaming_vqa_dataset/Daysgone_1_720p_1500k_hevcnvenc,sample,50.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08439000000596053
+amt_gaming_vqa_dataset/Daysgone_1_720p_3500k_hevcnvenc,sample,78.0,85.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08919000000298105
+amt_gaming_vqa_dataset/Daysgone_1_720p_600k_hevcnvenc,sample,25.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.14869000000298094
+amt_gaming_vqa_dataset/Genshinimpact_1,sample,30.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",15.461300000004469
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_1500k_av1,sample,53.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10239000000596121
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_5000k_av1,sample,11.0,70.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11259000000149122
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_500k_av1,sample,28.0,38.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12088999999851069
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_10000k_av1,sample,88.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.740590000001491
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_1000k_av1,sample,57.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.59709000000149
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_5000k_av1,sample,3.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.52728999999702
+amt_gaming_vqa_dataset/Genshinimpact_1_480p_1000k_av1,sample,84.0,41.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07609000000149102
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_1300k_av1,sample,72.0,75.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06678999999702029
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_3000k_av1,sample,45.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09338999999851083
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_500k_av1,sample,92.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1006900000029809
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_10000k_h264nvenc,sample,4.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10459000000149032
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_2300k_h264nvenc,sample,5.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10588999999851012
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_5300k_h264nvenc,sample,57.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0827899999970203
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_25000k_h264nvenc,sample,60.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.83688999999851
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_5000k_h264nvenc,sample,20.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",2.5748899999985113
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_8500k_h264nvenc,sample,96.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.64788999999851
+amt_gaming_vqa_dataset/Genshinimpact_1_480p_1000k_h264nvenc,sample,25.0,36.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08778999999702108
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_1000k_h264nvenc,sample,51.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09619000000298072
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_2500k_h264nvenc,sample,38.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09738999999851039
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_5000k_h264nvenc,sample,65.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0936899999955294
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_2000k_hevcnvenc,sample,98.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0945899999940405
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_6000k_hevcnvenc,sample,37.0,82.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1539900000000003
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_800k_hevcnvenc,sample,69.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.11038999999851029
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_1_480p_800k_hevcnvenc,sample,93.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08578999999702042
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_1500k_hevcnvenc,sample,91.0,36.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09588999999851033
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_3500k_hevcnvenc,sample,1.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09049000000000085
+amt_gaming_vqa_dataset/Genshinimpact_1_720p_600k_hevcnvenc,sample,39.0,41.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08759000000149086
+amt_gaming_vqa_dataset/DeceiveInc,sample,70.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",21.579300000004473
+amt_gaming_vqa_dataset/DeceiveInc_1080p_1500k_av1,sample,57.0,87.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12049000000000021
+amt_gaming_vqa_dataset/DeceiveInc_1080p_5000k_av1,sample,5.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10688999999851134
+amt_gaming_vqa_dataset/DeceiveInc_1080p_500k_av1,sample,85.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09449000000000041
+amt_gaming_vqa_dataset/DeceiveInc_2160p_10000k_av1,sample,34.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",7.04328999999702
+amt_gaming_vqa_dataset/DeceiveInc_2160p_1000k_av1,sample,58.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.051190000002981
+amt_gaming_vqa_dataset/DeceiveInc_2160p_5000k_av1,sample,16.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.63199
+amt_gaming_vqa_dataset/DeceiveInc_480p_1000k_av1,sample,86.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07268999999553039
+amt_gaming_vqa_dataset/DeceiveInc_720p_1300k_av1,sample,46.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08388999999850988
+amt_gaming_vqa_dataset/DeceiveInc_720p_3000k_av1,sample,80.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0901900000029805
+amt_gaming_vqa_dataset/DeceiveInc_720p_500k_av1,sample,10.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08049000000000106
+amt_gaming_vqa_dataset/DeceiveInc_1080p_10000k_h264nvenc,sample,6.0,94.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.10428999999701993
+amt_gaming_vqa_dataset/DeceiveInc_1080p_2300k_h264nvenc,sample,53.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.1044900000000002
+amt_gaming_vqa_dataset/DeceiveInc_1080p_5300k_h264nvenc,sample,37.0,83.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10309000000149027
+amt_gaming_vqa_dataset/DeceiveInc_2160p_25000k_h264nvenc,sample,29.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.8837900000044705
+amt_gaming_vqa_dataset/DeceiveInc_2160p_5000k_h264nvenc,sample,49.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",2.6229899999999997
+amt_gaming_vqa_dataset/DeceiveInc_2160p_8500k_h264nvenc,sample,14.0,40.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.876789999997021
+amt_gaming_vqa_dataset/DeceiveInc_480p_1000k_h264nvenc,sample,90.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09778999999702087
+amt_gaming_vqa_dataset/DeceiveInc_720p_1000k_h264nvenc,sample,68.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09559000000148998
+amt_gaming_vqa_dataset/DeceiveInc_720p_2500k_h264nvenc,sample,26.0,79.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0939899999999998
+amt_gaming_vqa_dataset/DeceiveInc_720p_5000k_h264nvenc,sample,65.0,82.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0936899999955294
+amt_gaming_vqa_dataset/DeceiveInc_1080p_2000k_hevcnvenc,sample,60.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0914900000000003
+amt_gaming_vqa_dataset/DeceiveInc_1080p_6000k_hevcnvenc,sample,28.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09588999999851033
+amt_gaming_vqa_dataset/DeceiveInc_1080p_800k_hevcnvenc,sample,20.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08609000000149081
+amt_gaming_vqa_dataset/DeceiveInc_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/DeceiveInc_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/DeceiveInc_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/DeceiveInc_480p_800k_hevcnvenc,sample,70.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09059000000149098
+amt_gaming_vqa_dataset/DeceiveInc_720p_1500k_hevcnvenc,sample,94.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08778999999702108
+amt_gaming_vqa_dataset/DeceiveInc_720p_3500k_hevcnvenc,sample,26.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09119000000297994
+amt_gaming_vqa_dataset/DeceiveInc_720p_600k_hevcnvenc,sample,88.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.11809000000149084

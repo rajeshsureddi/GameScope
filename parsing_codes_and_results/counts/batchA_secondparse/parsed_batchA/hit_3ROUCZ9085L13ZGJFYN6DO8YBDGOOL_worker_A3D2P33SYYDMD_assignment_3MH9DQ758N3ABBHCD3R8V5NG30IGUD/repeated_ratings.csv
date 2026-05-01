@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GrandtheftautoV_1_2160p_5000k_av1,sample,26.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.9897100000178805
+amt_gaming_vqa_dataset/GrandtheftautoV_1_2160p_5000k_av1,sample,63.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.500109999994039
+amt_gaming_vqa_dataset/GrandtheftautoV_1_2160p_1500k_hevcnvenc,sample,21.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.06370999998808
+amt_gaming_vqa_dataset/GrandtheftautoV_1_2160p_1500k_hevcnvenc,sample,2.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.460709999988078
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_1500k_av1,sample,46.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.6700099999999996
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_1500k_av1,sample,88.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.118710000017881
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_800k_hevcnvenc,sample,96.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.10301
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_800k_hevcnvenc,sample,24.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.128609999994039
+amt_gaming_vqa_dataset/Worldofwarships_1_2160p_10000k_hevcnvenc,sample,96.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.051809999982119
+amt_gaming_vqa_dataset/Worldofwarships_1_2160p_10000k_hevcnvenc,sample,44.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.42631000001192
+amt_gaming_vqa_dataset/Afterus_480p_800k_hevcnvenc,sample,3.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.350610000023842
+amt_gaming_vqa_dataset/Afterus_480p_800k_hevcnvenc,sample,90.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-6.90260999999404

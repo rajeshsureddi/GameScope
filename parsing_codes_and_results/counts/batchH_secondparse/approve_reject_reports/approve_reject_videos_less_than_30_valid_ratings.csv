@@ -1,0 +1,4 @@
+video_name,total_ratings_count,valid_ratings_count,unset_count,final_rate1,final_rate2,final_rate3,final_rate4,final_rate5,final_rate6,final_rate7,final_rate8,final_rate9,final_rate10,final_rate11,final_rate12,final_rate13,final_rate14,final_rate15,final_rate16,final_rate17,final_rate18,final_rate19,final_rate20,final_rate21,final_rate22,final_rate23,final_rate24,final_rate25,final_rate26,final_rate27,final_rate28,final_rate29,final_rate30,final_rate31
+amt_gaming_vqa_dataset/y_ZMN7neUo3Fk_EuroTruckSimulator2_13-50_480p_1000k_h264_nvenc,31,29,2,56,26,36,37,72,unset,37,60,55,74,30,28,13,unset,25,19,64,85,50,53,53,82,50,55,45,29,71,72,56,17,41
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-58,31,29,2,9,9,17,15,0,unset,9,31,14,71,18,0,3,51,8,0,8,23,35,9,12,7,unset,11,13,6,6,39,8,19,8
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14,31,29,2,91,55,82,82,50,77,75,90,29,97,69,32,unset,67,75,82,46,75,54,8,59,59,unset,80,91,48,45,40,69,66,69

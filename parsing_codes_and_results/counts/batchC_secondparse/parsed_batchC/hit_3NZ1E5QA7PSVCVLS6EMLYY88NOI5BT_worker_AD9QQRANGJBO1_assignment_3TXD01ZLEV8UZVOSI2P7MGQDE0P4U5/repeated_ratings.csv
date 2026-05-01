@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/WWE2K24_720p_1300k_av1,sample,71.0,76.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07129000000074548
+amt_gaming_vqa_dataset/WWE2K24_720p_1300k_av1,sample,68.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07499000000000144
+amt_gaming_vqa_dataset/WWE2K24_2160p_8500k_h264nvenc,sample,60.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.13318999999925474
+amt_gaming_vqa_dataset/WWE2K24_2160p_8500k_h264nvenc,sample,17.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09968999999925465
+amt_gaming_vqa_dataset/WWE2K24_2160p_1500k_hevcnvenc,sample,13.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10329000000074551
+amt_gaming_vqa_dataset/WWE2K24_2160p_1500k_hevcnvenc,sample,75.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06488999999850975
+amt_gaming_vqa_dataset/WWE2K24_480p_800k_hevcnvenc,sample,74.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04468999999925494
+amt_gaming_vqa_dataset/WWE2K24_480p_800k_hevcnvenc,sample,82.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07499000000000144
+amt_gaming_vqa_dataset/WWE2K24_720p_3500k_hevcnvenc,sample,97.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10699000000000147
+amt_gaming_vqa_dataset/WWE2K24_720p_3500k_hevcnvenc,sample,16.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08879000000074555
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,74.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07820000000297966
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,81.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08879999999702015
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,32.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0931000000014901
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,98.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0776000000014907
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07909999999776396

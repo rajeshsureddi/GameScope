@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Returnal_2_2160p_1000k_av1,sample,92.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5639900000000004
+amt_gaming_vqa_dataset/Returnal_2_2160p_1000k_av1,sample,59.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.660290000011921
+amt_gaming_vqa_dataset/Doom_1080p_5000k_av1,sample,82.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10868999998807993
+amt_gaming_vqa_dataset/Doom_1080p_5000k_av1,sample,30.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12639000000596035
+amt_gaming_vqa_dataset/Doom_2160p_8500k_h264nvenc,sample,11.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.17528999998211958
+amt_gaming_vqa_dataset/Doom_2160p_8500k_h264nvenc,sample,15.0,38.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09929000001192101
+amt_gaming_vqa_dataset/Doom_2160p_10000k_hevcnvenc,sample,81.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08288999997615853
+amt_gaming_vqa_dataset/Doom_2160p_10000k_hevcnvenc,sample,89.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.18879000001192203
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_500k_av1,sample,47.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10308999999404023
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_500k_av1,sample,94.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11408999999403946
+amt_gaming_vqa_dataset/Astroysplayroom_2_720p_3000k_av1,sample,35.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10858999999403984
+amt_gaming_vqa_dataset/Astroysplayroom_2_720p_3000k_av1,sample,96.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11768999998808027
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,43.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1086000000238414
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,76.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10030000001192008

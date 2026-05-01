@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_600k_hevc_nvenc,sample,57.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01261700000037358
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_600k_hevc_nvenc,sample,51.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013416999999256163
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_2300k_h264_nvenc,sample,28.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01269999999925453
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_2300k_h264_nvenc,sample,32.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.019000000000000128
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_2300k_h264_nvenc,sample,48.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07429999999888182
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_2300k_h264_nvenc,sample,40.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05599999999999916
+amt_gaming_vqa_dataset/M7Pz595vcs8_MarioKartTour_0-02_720p_1000k_h264_nvenc,sample,25.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.028999999999999915
+amt_gaming_vqa_dataset/M7Pz595vcs8_MarioKartTour_0-02_720p_1000k_h264_nvenc,sample,4.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06230000000074476
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_2300k_h264_nvenc,sample,99.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.009099999999627073
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_2300k_h264_nvenc,sample,65.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0239000000003724
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32,sample,31.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.029399999998510395
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32,sample,39.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04140000000037247

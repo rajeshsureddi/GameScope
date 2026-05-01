@@ -1,0 +1,10 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3AWETUDCATJ5T1HH9EQJX9FBJLIZIL,3ICOHX7EO22UORBBJZIZIBI296IE01,A10MZ295BEPUAG,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+32M8BPYGBKD52KMCJM2UC2Z58VKIGB,3AA88CN99FUU7MZ6NT4B8YPR5GSYK5,A29NZ7VWC1JGU9,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."
+382M9COHF86CRXLL781KV224PAWUEI,3AA88CN99FUU7MZ6NT4B8YPR5GSYK5,A4M2H0ONHCMC,row_0,0,,The scores are not consistent across repeated videos.
+3MD9PLUKL95X72S86U3B2HBS5K8NZL,3AA88CN99FUU7MZ6NT4B8YPR5GSYK5,A3N9HNU9SOX3CC,row_0,0,,"Used phone or tablet | Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3RANCT1ZW68EKU91XHZUUUWJMDJUBI,3AA88CN99FUU7MZ6NT4B8YPR5GSYK5,A3FAGQU5JVU4HX,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+3RXPCZQMRG2U2EQEBFHOK3IJRT9G1H,3AA88CN99FUU7MZ6NT4B8YPR5GSYK5,AZTAPCOD2Y512,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+3T111IHZ65H3G92NV3QTYDE9REF9RM,3AA88CN99FUU7MZ6NT4B8YPR5GSYK5,A1UVGRTH55TZLH,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."
+339ANSOTSWTA46IV9DN9AURYFC1IKE,3SBNLSTU7KWMY631RYK7IS33R10DZZ,A13J2AT95G7OTF,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."
+3HWRJOOEUWTWCKTHI36KG1KG4D7SEW,3SBNLSTU7KWMY631RYK7IS33R10DZZ,A1PLBQ3LANDLOE,row_0,0,,The scores for golden videos are not consistent with the true scores.

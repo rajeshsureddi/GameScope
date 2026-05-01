@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_500k_av1,sample,48.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0009000000022343357
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_500k_av1,sample,60.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00020000000298026066
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_1500k_av1,sample,89.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005766999998510158
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_1500k_av1,sample,9.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.012566999999254591
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_500k_av1,sample,55.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.027832999999255037
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_500k_av1,sample,20.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.012067000002980777
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1000k_h264_nvenc,sample,32.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04969999999925534
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1000k_h264_nvenc,sample,36.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02580000000074456
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_10000k_h264_nvenc,sample,22.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.14349999999999952
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_10000k_h264_nvenc,sample,19.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.35839999999850924
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_1000k_h264_nvenc,sample,41.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05400000000000027
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_1000k_h264_nvenc,sample,23.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.010400000002235288
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,46.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10339999999851024
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,5.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09429999999701977
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,65.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.050300000000744305

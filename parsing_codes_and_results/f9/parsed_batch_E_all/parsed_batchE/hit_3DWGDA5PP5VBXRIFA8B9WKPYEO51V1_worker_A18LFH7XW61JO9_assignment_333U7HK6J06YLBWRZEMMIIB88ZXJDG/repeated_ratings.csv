@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_17-25_480p_800k_hevc_nvenc,sample,24.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.017899999976158654
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_17-25_480p_800k_hevc_nvenc,sample,80.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006000000000000227
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_500k_av1,sample,63.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.427100000023842
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_500k_av1,sample,56.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02389999997615888
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_10000k_h264_nvenc,sample,49.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0196329999999989
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_10000k_h264_nvenc,sample,39.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.2680670000476848
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_1300k_av1,sample,24.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02836700000000114
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_1300k_av1,sample,8.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.007633000000000223
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_2300k_h264_nvenc,sample,75.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.00906700004768446
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_2300k_h264_nvenc,sample,5.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.0057330000238415835
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_4-25_360p_600k_hevc_nvenc,sample,39.0,30.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.013199999928474426
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_4-25_360p_600k_hevc_nvenc,sample,96.0,29.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0006000000238426395

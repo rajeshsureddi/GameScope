@@ -1,0 +1,8 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3C6FJU71UHKAX22C79DE25UK9GMYUC,3DW3BNF1H79T8R209TKOBUC6S8NV8J,A3DJ0UVMQRZ32R,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3X4JMASXDD0Y48XLZALA5N8C8KB0BB,3DW3BNF1H79T8R209TKOBUC6S8NV8J,AH0NG7PISCRNQ,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+32SCWG5HJ8VVMDKAK4JS98NS2Q4P6C,32TMVRKDHDPUEEJLPXJ124CTFOR84L,ABKYJJD0ZK291,row_0,0,,The scores for repeated videos are not consistent.
+3TE22NPXQ23VIXUD3WYP9CSJF3144E,32TMVRKDHDPUEEJLPXJ124CTFOR84L,A34CR7V78JGBIO,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+34MAJL3QQVEA01B93IT6Z70D12P34A,3Z33IC0JDQDTMWLAELQ2BQ7HCE5V98,A3DJ0UVMQRZ32R,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3KKG4CDWL9PWF30PKRUGQK3Z1V149W,3Z33IC0JDQDTMWLAELQ2BQ7HCE5V98,A1TRCGTBFJO7UQ,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3WAKVUDHVN7RII6BK0NEPSAN5JM7UX,3Z33IC0JDQDTMWLAELQ2BQ7HCE5V98,AT5SRP5JN4KXN,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"

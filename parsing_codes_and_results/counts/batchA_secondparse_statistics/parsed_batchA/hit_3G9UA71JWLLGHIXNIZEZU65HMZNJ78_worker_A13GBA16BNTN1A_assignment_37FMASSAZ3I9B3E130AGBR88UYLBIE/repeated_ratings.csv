@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Destiny2_2_720p_1300k_av1,sample,88.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10259000000149143
+amt_gaming_vqa_dataset/Destiny2_2_720p_1300k_av1,sample,32.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07569000000298054
+amt_gaming_vqa_dataset/Destiny2_2_720p_500k_av1,sample,73.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07738999999851082
+amt_gaming_vqa_dataset/Destiny2_2_720p_500k_av1,sample,38.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07599000000000089
+amt_gaming_vqa_dataset/Destiny2_2_720p_3500k_hevcnvenc,sample,96.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06468999999552949
+amt_gaming_vqa_dataset/Destiny2_2_720p_3500k_hevcnvenc,sample,84.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08468999999553084
+amt_gaming_vqa_dataset/eFootball_1,sample,88.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.052800000004470604
+amt_gaming_vqa_dataset/eFootball_1,sample,35.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07710000000149009
+amt_gaming_vqa_dataset/eFootball_1_720p_2500k_h264nvenc,sample,54.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06438999999851092
+amt_gaming_vqa_dataset/eFootball_1_720p_2500k_h264nvenc,sample,39.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07078999999701985
+amt_gaming_vqa_dataset/CatQuest_2160p_6000k_hevcnvenc,sample,35.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06729000000447094
+amt_gaming_vqa_dataset/CatQuest_2160p_6000k_hevcnvenc,sample,23.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",13.060990000000002

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28,sample,96.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1492999999998137
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28,sample,11.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.17479999999981288
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28_1080p_1500k_av1,sample,37.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013999999999999346
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28_1080p_1500k_av1,sample,2.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.023299999999814247
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_10000k_h264_nvenc,sample,52.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.018666999999814138
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_10000k_h264_nvenc,sample,27.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011966999999627248
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_5300k_h264_nvenc,sample,15.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.028567000000187193
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_5300k_h264_nvenc,sample,20.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04456700000018721
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_2300k_h264_nvenc,sample,98.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06229999999981395
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_2300k_h264_nvenc,sample,89.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03809999999962699
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_800k_hevc_nvenc,sample,64.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0022999999998134513
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_800k_hevc_nvenc,sample,37.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0579000000003731

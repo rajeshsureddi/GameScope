@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_500k_av1,sample,43.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.030800000011920403
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_500k_av1,sample,41.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07680000001192155
+amt_gaming_vqa_dataset/Gzm8h8Y48E8_Myst_31-12_1080p_800k_hevc_nvenc,sample,67.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.001700000017882175
+amt_gaming_vqa_dataset/Gzm8h8Y48E8_Myst_31-12_1080p_800k_hevc_nvenc,sample,90.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-2.958100000023842
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_2000k_hevc_nvenc,sample,94.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.002366999999999564
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_2000k_hevc_nvenc,sample,98.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02163299999999957
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_6000k_hevc_nvenc,sample,81.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.010132999999999726
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_6000k_hevc_nvenc,sample,38.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.00913300000000028
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_5000k_av1,sample,46.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08790000000596088
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_5000k_av1,sample,85.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09340000000596049
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_6000k_hevc_nvenc,sample,49.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.015499999999999403
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_6000k_hevc_nvenc,sample,84.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.6266999999880785

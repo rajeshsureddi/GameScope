@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_500k_av1,sample,82.0,49.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.05689999999851025
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_500k_av1,sample,86.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.058999999999999275
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_800k_hevc_nvenc,sample,79.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0048000000044705615
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_800k_hevc_nvenc,sample,18.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.009799999997019526
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1300k_av1,sample,14.0,69.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0041999999955297795
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1300k_av1,sample,98.0,49.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.012300000004470846
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_3000k_av1,sample,73.0,70.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.007500000000000284
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_3000k_av1,sample,67.0,69.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.4556000000014908
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_1-11,sample,45.0,22.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",-0.03210000000149016
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_1-11,sample,26.0,30.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",1.8739000000059605
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_3500k_hevc_nvenc,sample,67.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.010799999997018972
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_3500k_hevc_nvenc,sample,93.0,30.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",1.48260000000149

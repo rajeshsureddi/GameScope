@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-58,sample,76.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.010100000001489917
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-58,sample,27.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013300000000745271
+amt_gaming_vqa_dataset/w2zj8Xc9qAc_TheSims3_7-22_480p_800k_hevc_nvenc,sample,9.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022999999999999687
+amt_gaming_vqa_dataset/w2zj8Xc9qAc_TheSims3_7-22_480p_800k_hevc_nvenc,sample,77.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00879999999702008
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_3-20_1080p_500k_av1,sample,75.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0031670000007455457
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_3-20_1080p_500k_av1,sample,61.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0012669999985099878
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_3-20_1080p_800k_hevc_nvenc,sample,77.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1497669999985103
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_3-20_1080p_800k_hevc_nvenc,sample,5.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09136699999999998
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_2-13_480p_1000k_h264_nvenc,sample,24.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.02570000000297945
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_2-13_480p_1000k_h264_nvenc,sample,24.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.012199999999255695
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_6-17_720p_500k_av1,sample,40.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02791000000223498
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_6-17_720p_500k_av1,sample,99.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.011709999999254705

@@ -1,0 +1,32 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51,sample,68.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03589999997615756
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1300k_av1,sample,19.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.018800000011921725
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_3000k_av1,sample,93.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03819999998807866
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,74.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.013800000011920943
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1000k_h264_nvenc,sample,2.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02559999996423734
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_2500k_h264_nvenc,sample,66.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01950000000000074
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_5000k_h264_nvenc,sample,51.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.018199999988079085
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1500k_hevc_nvenc,sample,92.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.04089999997615834
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_3500k_hevc_nvenc,sample,70.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.048500000000000654
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_600k_hevc_nvenc,sample,92.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03219999998807843
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49,sample,25.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-6.660100000023842
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49_480p_1000k_av1,sample,61.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.028599999964237455
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49_480p_1000k_h264_nvenc,sample,90.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09140000003576354
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49_480p_800k_hevc_nvenc,sample,20.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00849999999999973
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_1500k_av1,sample,74.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03710000002384106
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_5000k_av1,sample,50.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.011699999988078247
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_500k_av1,sample,97.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_10000k_h264_nvenc,sample,0.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03380000001192052
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2300k_h264_nvenc,sample,12.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015100000023842597
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_5300k_h264_nvenc,sample,23.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04059999996423791
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2000k_hevc_nvenc,sample,61.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08540000003576331
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_6000k_hevc_nvenc,sample,48.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015199999988078972
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_800k_hevc_nvenc,sample,78.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03030000001192157
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_1000k_av1,sample,61.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.028999999999999915
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_1000k_h264_nvenc,sample,32.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005699999988079796
+amt_gaming_vqa_dataset/y_5tz8uqo0dJA_Terraria_1-31-21_480p_800k_hevc_nvenc,sample,77.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.031800000011921625
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,37.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005257000000000289
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03_480p_1000k_av1,sample,22.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.013343000023841256
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03_480p_1000k_h264_nvenc,sample,89.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0016429999761573555
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03_480p_800k_hevc_nvenc,sample,42.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009242999999999668

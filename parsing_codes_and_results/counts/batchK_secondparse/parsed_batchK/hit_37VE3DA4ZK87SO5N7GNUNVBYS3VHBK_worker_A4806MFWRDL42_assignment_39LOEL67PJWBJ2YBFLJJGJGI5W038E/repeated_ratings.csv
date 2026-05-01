@@ -1,0 +1,19 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,70.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09379000001192139
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,0.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11538999997615917
+amt_gaming_vqa_dataset/Godofwar_1_720p_500k_av1,sample,82.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08799000000000134
+amt_gaming_vqa_dataset/Godofwar_1_720p_500k_av1,sample,7.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09539000000596154
+amt_gaming_vqa_dataset/Godofwar_1_2160p_10000k_hevcnvenc,sample,78.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08138999997615848
+amt_gaming_vqa_dataset/Godofwar_1_2160p_10000k_hevcnvenc,sample,72.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11679000001192108
+amt_gaming_vqa_dataset/Godofwar_1_720p_600k_hevcnvenc,sample,3.0,36.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07758999999403926
+amt_gaming_vqa_dataset/Godofwar_1_720p_600k_hevcnvenc,sample,62.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12118999998807922
+amt_gaming_vqa_dataset/MLBtheshow_720p_1300k_av1,sample,33.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09698999999999991
+amt_gaming_vqa_dataset/MLBtheshow_720p_1300k_av1,sample,96.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08868999998808036
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,50.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08208999999403943
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,64.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1375900000238417
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12329999998211782
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,19.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.20120000001788085
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,89.0,86.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.1020999999940404
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,71.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.22069999998807965
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,32.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12430000001192099
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,1.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1903000000119217

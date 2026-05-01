@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CatQuestII,sample,21.0,82.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",15.54840000000037
+amt_gaming_vqa_dataset/CatQuestII,sample,4.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",15.440800000000745
+amt_gaming_vqa_dataset/Sessionskatesim_1,sample,72.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",20.181399999999442
+amt_gaming_vqa_dataset/Sessionskatesim_1,sample,90.0,64.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",20.095900000000373
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_500k_av1,sample,32.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08830000000074456
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_500k_av1,sample,51.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08649999999999913
+amt_gaming_vqa_dataset/Sessionskatesim_1_2160p_25000k_h264nvenc,sample,50.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.2591999999992556
+amt_gaming_vqa_dataset/Sessionskatesim_1_2160p_25000k_h264nvenc,sample,36.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.26369999999925575
+amt_gaming_vqa_dataset/Sessionskatesim_1_1080p_6000k_hevcnvenc,sample,92.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.061500000000000554
+amt_gaming_vqa_dataset/Sessionskatesim_1_1080p_6000k_hevcnvenc,sample,3.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.24200000000000088
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_600k_hevcnvenc,sample,83.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06309999999962734
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_600k_hevcnvenc,sample,80.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06719999999925541

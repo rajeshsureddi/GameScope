@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_av1,sample,2.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.00849999999999973
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_av1,sample,70.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01739999999850994
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_1500k_av1,sample,45.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.025066999999255657
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_1500k_av1,sample,28.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.007767000000372448
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_800k_hevc_nvenc,sample,36.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0047670000003723345
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_1-37_1080p_800k_hevc_nvenc,sample,82.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02286699999999975
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_500k_av1,sample,44.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01543299999888248
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_500k_av1,sample,5.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.023033000000372894
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_500k_av1,sample,37.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.001832999999255236
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_500k_av1,sample,47.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.009966999999628356
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_4-25_360p_600k_hevc_nvenc,sample,83.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05979999999888186
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_4-25_360p_600k_hevc_nvenc,sample,0.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.3895999999996267

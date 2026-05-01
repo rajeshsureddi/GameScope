@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_1_1080p_500k_av1,sample,48.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.473309999997019
+amt_gaming_vqa_dataset/eFootball_1_1080p_500k_av1,sample,65.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.110009999999999
+amt_gaming_vqa_dataset/CatQuest_720p_1300k_av1,sample,13.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.469909999991058
+amt_gaming_vqa_dataset/CatQuest_720p_1300k_av1,sample,4.0,35.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.51151
+amt_gaming_vqa_dataset/CatQuest_2160p_8500k_h264nvenc,sample,17.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-2.200809999997019
+amt_gaming_vqa_dataset/CatQuest_2160p_8500k_h264nvenc,sample,87.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.19930999999702
+amt_gaming_vqa_dataset/CatQuest_1080p_800k_hevcnvenc,sample,64.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.636009999999999
+amt_gaming_vqa_dataset/CatQuest_1080p_800k_hevcnvenc,sample,81.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.42701
+amt_gaming_vqa_dataset/CatQuest_2160p_10000k_hevcnvenc,sample,58.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.5466900000029806
+amt_gaming_vqa_dataset/CatQuest_2160p_10000k_hevcnvenc,sample,51.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.5028899999910603
+amt_gaming_vqa_dataset/CatQuest_480p_800k_hevcnvenc,sample,95.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.864309999997019
+amt_gaming_vqa_dataset/CatQuest_480p_800k_hevcnvenc,sample,49.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.90511000000894

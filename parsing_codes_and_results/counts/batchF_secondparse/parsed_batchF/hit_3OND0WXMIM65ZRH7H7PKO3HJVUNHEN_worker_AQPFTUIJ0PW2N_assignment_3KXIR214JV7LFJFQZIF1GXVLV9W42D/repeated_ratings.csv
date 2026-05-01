@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_1500k_av1,sample,65.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.041466999994039355
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_1500k_av1,sample,39.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.026367000000000473
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_500k_av1,sample,4.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.030166999997019772
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_500k_av1,sample,38.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-3.81553300000596
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_2300k_h264_nvenc,sample,39.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01856700000297984
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_2300k_h264_nvenc,sample,91.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03186700000000009
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1300k_av1,sample,24.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.004700000002980431
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1300k_av1,sample,55.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03049999999999997
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_5000k_h264_nvenc,sample,47.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.00889999999106017
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_5000k_h264_nvenc,sample,0.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01080000001192083
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_3500k_hevc_nvenc,sample,7.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016200000002980275
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_3500k_hevc_nvenc,sample,96.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0002999999970203504
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,88.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12030000001192143
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,17.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.23370000000297964
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,85.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11050000000000004
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,5.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0965000000000007

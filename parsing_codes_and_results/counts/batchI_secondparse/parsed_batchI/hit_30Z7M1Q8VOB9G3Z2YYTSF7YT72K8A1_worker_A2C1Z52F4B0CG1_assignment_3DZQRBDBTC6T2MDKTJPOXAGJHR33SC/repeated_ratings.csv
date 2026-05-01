@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06,sample,29.0,59.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",44.407967000023845
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06,sample,9.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.4314669999940399
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_500k_av1,sample,11.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.007042999976157205
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_500k_av1,sample,78.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016043000005959485
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_2000k_hevc_nvenc,sample,63.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.004099999994039649
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_2000k_hevc_nvenc,sample,62.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007500000000000284
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_800k_hevc_nvenc,sample,91.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0017999999821185497
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_800k_hevc_nvenc,sample,66.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.017300000011921668
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_18-30_480p_1000k_h264_nvenc,sample,92.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0005999999940389245
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_18-30_480p_1000k_h264_nvenc,sample,81.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.020299999982118067
+amt_gaming_vqa_dataset/VdxZYjnx6Xw_StardewValley_25-58,sample,7.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.004099999994039649
+amt_gaming_vqa_dataset/VdxZYjnx6Xw_StardewValley_25-58,sample,98.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.00639999997615881

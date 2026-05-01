@@ -1,0 +1,3 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+340UGXU9EPSTT8772YQUV6QQU7PUVN,3JTPR5MT0I3W5YPMCRZEX1RYAODK5Q,ABVPW8753ZBJO,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3RGU30DZU1Z1P524C7LP18Y2LIPMJF,3JTPR5MT0I3W5YPMCRZEX1RYAODK5Q,A2IK3H6MQ1QV6E,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."

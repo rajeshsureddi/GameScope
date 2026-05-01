@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1,sample,8.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12020000000111786
+amt_gaming_vqa_dataset/Marvelspiderman_1,sample,67.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.3605999999996268
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_1000k_h264nvenc,sample,42.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10088999999851112
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_1000k_h264nvenc,sample,90.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07618999999925613
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_5300k_h264nvenc,sample,18.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0898900000003735
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_5300k_h264nvenc,sample,89.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2953900000003724
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_10000k_hevcnvenc,sample,41.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12448999999999977
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_10000k_hevcnvenc,sample,4.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.9557900000007464
+amt_gaming_vqa_dataset/skyrim_1_2160p_1000k_av1,sample,81.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.22139000000037257
+amt_gaming_vqa_dataset/skyrim_1_2160p_1000k_av1,sample,92.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.8909900000000004
+amt_gaming_vqa_dataset/skyrim_1_720p_500k_av1,sample,41.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03218999999925565
+amt_gaming_vqa_dataset/skyrim_1_720p_500k_av1,sample,49.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0032099999992549755

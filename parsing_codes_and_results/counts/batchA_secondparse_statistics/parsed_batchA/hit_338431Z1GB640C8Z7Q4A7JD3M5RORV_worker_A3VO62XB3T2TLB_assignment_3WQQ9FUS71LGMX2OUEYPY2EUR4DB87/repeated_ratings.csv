@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GrandtheftautoV_1,sample,79.0,67.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.08790000003576282
+amt_gaming_vqa_dataset/GrandtheftautoV_1,sample,86.0,68.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.11839999997615891
+amt_gaming_vqa_dataset/GrandtheftautoV_1_2160p_1000k_av1,sample,33.0,36.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.15068999998807975
+amt_gaming_vqa_dataset/GrandtheftautoV_1_2160p_1000k_av1,sample,38.0,61.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.13768999998807985
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_2300k_h264nvenc,sample,84.0,57.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.12339000003576395
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_2300k_h264nvenc,sample,72.0,57.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.12609000002384185
+amt_gaming_vqa_dataset/Worldofwarships_1_2160p_1500k_hevcnvenc,sample,29.0,46.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.1133899999761585
+amt_gaming_vqa_dataset/Worldofwarships_1_2160p_1500k_hevcnvenc,sample,50.0,45.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.13168999998807962
+amt_gaming_vqa_dataset/Worldofwarships_1_720p_1500k_hevcnvenc,sample,47.0,56.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-3.469110000023841
+amt_gaming_vqa_dataset/Worldofwarships_1_720p_1500k_hevcnvenc,sample,18.0,59.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.09718999998808009
+amt_gaming_vqa_dataset/Afterus_1080p_500k_av1,sample,66.0,41.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.0980899999642375
+amt_gaming_vqa_dataset/Afterus_1080p_500k_av1,sample,83.0,42.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.13258999996423704

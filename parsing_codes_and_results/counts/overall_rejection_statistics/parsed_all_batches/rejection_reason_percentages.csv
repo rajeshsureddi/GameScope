@@ -1,0 +1,13 @@
+Rejection_Reason,Count,Percentage_of_Rejections,Percentage_of_Total_Submissions
+Too many videos rated with same pattern:,376,37.3,14.02
+Too many unset video ratings,248,24.6,9.25
+multiple_reasons,224,22.22,8.36
+The scores for golden videos are not consistent with the true scores.,84,8.33,3.13
+The scores for repeated videos are not consistent (4 > 3),26,2.58,0.97
+The delays in video ratings are too high,19,1.88,0.71
+"all slider ratings are very similar, the slider moved to same range of scores.",12,1.19,0.45
+Used phone or tablet,7,0.69,0.26
+The scores for repeated videos are not consistent (5 > 3),6,0.6,0.22
+Did not wear lens,5,0.5,0.19
+"Low standard deviation of slider ratings, the slider was not moved much.",1,0.1,0.04
+TOTAL,1008,100.0,37.6

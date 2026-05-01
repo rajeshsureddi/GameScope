@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Undefeated_2160p_10000k_av1,sample,35.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.4913900000022355
+amt_gaming_vqa_dataset/Undefeated_2160p_10000k_av1,sample,87.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.7891899999992553
+amt_gaming_vqa_dataset/Undefeated_720p_3500k_hevcnvenc,sample,74.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05418999999925589
+amt_gaming_vqa_dataset/Undefeated_720p_3500k_hevcnvenc,sample,56.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07349000000000139
+amt_gaming_vqa_dataset/thelogomovie2_2160p_10000k_av1,sample,60.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.5764899999999997
+amt_gaming_vqa_dataset/thelogomovie2_2160p_10000k_av1,sample,18.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.5261899999992554
+amt_gaming_vqa_dataset/thelogomovie2_1080p_2000k_hevcnvenc,sample,10.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07078999999701985
+amt_gaming_vqa_dataset/thelogomovie2_1080p_2000k_hevcnvenc,sample,31.0,72.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06299000000000099
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_720p_1300k_av1,sample,82.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07829000000074515
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_720p_1300k_av1,sample,96.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08939000000223629
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_2160p_8500k_h264nvenc,sample,29.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.059289999997020004
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_2160p_8500k_h264nvenc,sample,72.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.20039000000223517

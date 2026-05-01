@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,4.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005000000000000782
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_500k_av1,sample,95.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0035000000000007248
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1500k_hevc_nvenc,sample,47.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.004100000000093473
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_1500k_hevc_nvenc,sample,89.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.002000000000000668
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_500k_av1,sample,47.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.030599999999626704
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_500k_av1,sample,21.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.016900000000372728
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_5300k_h264_nvenc,sample,51.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.004899999999906868
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_5300k_h264_nvenc,sample,41.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05140000000037226
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_6000k_hevc_nvenc,sample,98.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.013500000000000512
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_6000k_hevc_nvenc,sample,92.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0007000000001866624
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,57.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.020556999999815417
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,86.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02485699999962776
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,35.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.3840000000000003
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,86.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09210000000055807

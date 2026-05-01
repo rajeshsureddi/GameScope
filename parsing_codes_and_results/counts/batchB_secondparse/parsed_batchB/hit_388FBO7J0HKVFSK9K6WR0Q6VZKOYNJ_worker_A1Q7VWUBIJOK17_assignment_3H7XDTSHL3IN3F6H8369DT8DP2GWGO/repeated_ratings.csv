@@ -1,0 +1,14 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_5000k_h264nvenc,sample,6.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.6044900000000002
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_5000k_h264nvenc,sample,87.0,29.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5987900001907356
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_8500k_h264nvenc,sample,14.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.7865899999046331
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_8500k_h264nvenc,sample,71.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4268899998569502
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_1500k_hevcnvenc,sample,44.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08519000004768351
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_1500k_hevcnvenc,sample,77.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.32249000000000017
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_10000k_hevcnvenc,sample,74.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10939000009536848
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_10000k_hevcnvenc,sample,84.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.19808999990463327
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_500k_av1,sample,78.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13558999990463327
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_500k_av1,sample,64.0,39.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2287899999523173
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,34.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12790000009536762
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,56.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.21570000004768453
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13029999995231556

@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/terraria,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_1080p_1500k_av1,sample,69.0,70.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08809000000009348
+amt_gaming_vqa_dataset/terraria_1080p_5000k_av1,sample,5.0,62.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0768900000003736
+amt_gaming_vqa_dataset/terraria_1080p_500k_av1,sample,71.0,87.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08178999999981507
+amt_gaming_vqa_dataset/terraria_2160p_10000k_av1,sample,99.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",16.78738999999944
+amt_gaming_vqa_dataset/terraria_2160p_1000k_av1,sample,55.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.3854900000000008
+amt_gaming_vqa_dataset/terraria_2160p_5000k_av1,sample,39.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",1.570789999999814
+amt_gaming_vqa_dataset/terraria_480p_1000k_av1,sample,40.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06619000000018715
+amt_gaming_vqa_dataset/terraria_720p_1300k_av1,sample,26.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.06378999999981438
+amt_gaming_vqa_dataset/terraria_720p_3000k_av1,sample,92.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.07299000000000078
+amt_gaming_vqa_dataset/terraria_720p_500k_av1,sample,75.0,75.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07158999999962745
+amt_gaming_vqa_dataset/terraria_1080p_10000k_h264nvenc,sample,51.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.17989000000037336
+amt_gaming_vqa_dataset/terraria_1080p_2300k_h264nvenc,sample,55.0,81.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08508999999962796
+amt_gaming_vqa_dataset/terraria_1080p_5300k_h264nvenc,sample,95.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08508999999962796
+amt_gaming_vqa_dataset/terraria_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_2160p_5000k_h264nvenc,sample,13.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",5.702190000000186
+amt_gaming_vqa_dataset/terraria_2160p_8500k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_480p_1000k_h264nvenc,sample,64.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.2374900000000011
+amt_gaming_vqa_dataset/terraria_720p_1000k_h264nvenc,sample,97.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.06328999999981377
+amt_gaming_vqa_dataset/terraria_720p_2500k_h264nvenc,sample,19.0,54.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08578999999981463
+amt_gaming_vqa_dataset/terraria_720p_5000k_h264nvenc,sample,2.0,53.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08559000000009398
+amt_gaming_vqa_dataset/terraria_1080p_2000k_hevcnvenc,sample,7.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08628999999981346
+amt_gaming_vqa_dataset/terraria_1080p_6000k_hevcnvenc,sample,78.0,72.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08929000000004628
+amt_gaming_vqa_dataset/terraria_1080p_800k_hevcnvenc,sample,15.0,49.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08219000000018717
+amt_gaming_vqa_dataset/terraria_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_480p_800k_hevcnvenc,sample,2.0,55.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0818900000001399
+amt_gaming_vqa_dataset/terraria_720p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/terraria_720p_3500k_hevcnvenc,sample,49.0,59.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08319000000018661
+amt_gaming_vqa_dataset/terraria_720p_600k_hevcnvenc,sample,62.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08028999999981501
+amt_gaming_vqa_dataset/Crossout,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Crossout_1080p_1500k_av1,sample,15.0,59.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.0772900000002803
+amt_gaming_vqa_dataset/Crossout_1080p_5000k_av1,sample,44.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10008999999962853
+amt_gaming_vqa_dataset/Crossout_1080p_500k_av1,sample,75.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06988999999990675
+amt_gaming_vqa_dataset/Crossout_2160p_10000k_av1,sample,11.0,42.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",1.535789999999814
+amt_gaming_vqa_dataset/Crossout_2160p_1000k_av1,sample,58.0,68.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.17679000000004663
+amt_gaming_vqa_dataset/Crossout_2160p_5000k_av1,sample,53.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2663899999999071
+amt_gaming_vqa_dataset/Crossout_480p_1000k_av1,sample,89.0,83.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07059000000055882
+amt_gaming_vqa_dataset/Crossout_720p_1300k_av1,sample,58.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1028900000003734
+amt_gaming_vqa_dataset/Crossout_720p_3000k_av1,sample,79.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08839000000037345
+amt_gaming_vqa_dataset/Crossout_720p_500k_av1,sample,74.0,76.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.266490000000001
+amt_gaming_vqa_dataset/Crossout_1080p_10000k_h264nvenc,sample,77.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09678999999981386
+amt_gaming_vqa_dataset/Crossout_1080p_2300k_h264nvenc,sample,51.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08159000000055983
+amt_gaming_vqa_dataset/Crossout_1080p_5300k_h264nvenc,sample,29.0,93.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08608999999962741
+amt_gaming_vqa_dataset/Crossout_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Crossout_2160p_5000k_h264nvenc,sample,32.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",5.699289999999815
+amt_gaming_vqa_dataset/Crossout_2160p_8500k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Crossout_480p_1000k_h264nvenc,sample,36.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08879000000028014
+amt_gaming_vqa_dataset/Crossout_720p_1000k_h264nvenc,sample,44.0,40.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08618999999995403
+amt_gaming_vqa_dataset/Crossout_720p_2500k_h264nvenc,sample,21.0,75.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08868999999995353
+amt_gaming_vqa_dataset/Crossout_720p_5000k_h264nvenc,sample,84.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08649000000000129
+amt_gaming_vqa_dataset/Crossout_1080p_2000k_hevcnvenc,sample,20.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08678999999981407
+amt_gaming_vqa_dataset/Crossout_1080p_6000k_hevcnvenc,sample,8.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1045899999996287
+amt_gaming_vqa_dataset/Crossout_1080p_800k_hevcnvenc,sample,12.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08599000000000068
+amt_gaming_vqa_dataset/Crossout_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Crossout_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Crossout_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Crossout_480p_800k_hevcnvenc,sample,67.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.7330899999996277
+amt_gaming_vqa_dataset/Crossout_720p_1500k_hevcnvenc,sample,65.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.1924900000000012
+amt_gaming_vqa_dataset/Crossout_720p_3500k_hevcnvenc,sample,47.0,74.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08858999999962869
+amt_gaming_vqa_dataset/Crossout_720p_600k_hevcnvenc,sample,0.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06929000000074481
+amt_gaming_vqa_dataset/Destiny2_1,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Destiny2_1_1080p_1500k_av1,sample,39.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07798999999999978
+amt_gaming_vqa_dataset/Destiny2_1_1080p_5000k_av1,sample,58.0,96.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.15559000000055967
+amt_gaming_vqa_dataset/Destiny2_1_1080p_500k_av1,sample,1.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08309000000009448
+amt_gaming_vqa_dataset/Destiny2_1_2160p_10000k_av1,sample,16.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",8.90799
+amt_gaming_vqa_dataset/Destiny2_1_2160p_1000k_av1,sample,38.0,81.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.15049000000000134
+amt_gaming_vqa_dataset/Destiny2_1_2160p_5000k_av1,sample,93.0,91.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",5.62899
+amt_gaming_vqa_dataset/Destiny2_1_480p_1000k_av1,sample,53.0,83.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.06579000000004775
+amt_gaming_vqa_dataset/Destiny2_1_720p_1300k_av1,sample,0.0,80.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07668999999925497
+amt_gaming_vqa_dataset/Destiny2_1_720p_3000k_av1,sample,51.0,84.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09659000000009321
+amt_gaming_vqa_dataset/Destiny2_1_720p_500k_av1,sample,91.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.070589999999628
+amt_gaming_vqa_dataset/Destiny2_1_1080p_10000k_h264nvenc,sample,90.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09159000000055961
+amt_gaming_vqa_dataset/Destiny2_1_1080p_2300k_h264nvenc,sample,33.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0948899999994417
+amt_gaming_vqa_dataset/Destiny2_1_1080p_5300k_h264nvenc,sample,48.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.029890000000373
+amt_gaming_vqa_dataset/Destiny2_1_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Destiny2_1_2160p_5000k_h264nvenc,sample,93.0,43.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",5.8067900000007455
+amt_gaming_vqa_dataset/Destiny2_1_2160p_8500k_h264nvenc,sample,78.0,61.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",5.458490000000001
+amt_gaming_vqa_dataset/Destiny2_1_480p_1000k_h264nvenc,sample,2.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08858999999962869
+amt_gaming_vqa_dataset/Destiny2_1_720p_1000k_h264nvenc,sample,24.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/Destiny2_1_720p_2500k_h264nvenc,sample,21.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06488999999990774
+amt_gaming_vqa_dataset/Destiny2_1_720p_5000k_h264nvenc,sample,60.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.7121900000001862
+amt_gaming_vqa_dataset/Destiny2_1_1080p_2000k_hevcnvenc,sample,20.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08559000000055939
+amt_gaming_vqa_dataset/Destiny2_1_1080p_6000k_hevcnvenc,sample,92.0,89.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",8.091690000000186
+amt_gaming_vqa_dataset/Destiny2_1_1080p_800k_hevcnvenc,sample,34.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07849000000000039
+amt_gaming_vqa_dataset/Destiny2_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Destiny2_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Destiny2_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Destiny2_1_480p_800k_hevcnvenc,sample,84.0,85.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07979000000074521
+amt_gaming_vqa_dataset/Destiny2_1_720p_1500k_hevcnvenc,sample,72.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07549000000000028
+amt_gaming_vqa_dataset/Destiny2_1_720p_3500k_hevcnvenc,sample,90.0,92.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08488999999990732
+amt_gaming_vqa_dataset/Destiny2_1_720p_600k_hevcnvenc,sample,18.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0717899999998135

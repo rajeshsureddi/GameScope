@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Returnal_2_720p_3000k_av1,sample,74.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06979000000004731
+amt_gaming_vqa_dataset/Returnal_2_720p_3000k_av1,sample,54.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07559000000009419
+amt_gaming_vqa_dataset/Doom_1080p_5300k_h264nvenc,sample,80.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11199000000000048
+amt_gaming_vqa_dataset/Doom_1080p_5300k_h264nvenc,sample,47.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0809899999999999
+amt_gaming_vqa_dataset/Doom_1080p_6000k_hevcnvenc,sample,21.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06048999999999971
+amt_gaming_vqa_dataset/Doom_1080p_6000k_hevcnvenc,sample,18.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.116689999999954
+amt_gaming_vqa_dataset/Doom_2160p_10000k_hevcnvenc,sample,79.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09609000000009438
+amt_gaming_vqa_dataset/Doom_2160p_10000k_hevcnvenc,sample,89.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05729000000028073
+amt_gaming_vqa_dataset/Astroysplayroom_2_480p_1000k_h264nvenc,sample,14.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10759000000009422
+amt_gaming_vqa_dataset/Astroysplayroom_2_480p_1000k_h264nvenc,sample,18.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10689000000014026
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_2000k_hevcnvenc,sample,59.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06718999999983843
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_2000k_hevcnvenc,sample,6.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12339000000014089
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2213999999999068
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0628999999999067

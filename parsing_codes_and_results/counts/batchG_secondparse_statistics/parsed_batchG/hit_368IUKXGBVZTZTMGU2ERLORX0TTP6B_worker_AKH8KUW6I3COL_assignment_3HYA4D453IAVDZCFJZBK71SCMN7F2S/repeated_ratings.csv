@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_3500k_hevc_nvenc,sample,40.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01719999999995281
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_3500k_hevc_nvenc,sample,69.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010199999999720433
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_5300k_h264_nvenc,sample,26.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01459999999962669
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_5300k_h264_nvenc,sample,98.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02280000000027904
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_6000k_hevc_nvenc,sample,96.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01659999999986006
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_6000k_hevc_nvenc,sample,97.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.613200000000186
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30_1080p_6000k_hevc_nvenc,sample,65.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0024999999999995026
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30_1080p_6000k_hevc_nvenc,sample,81.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0058000000002795815
+amt_gaming_vqa_dataset/0JehGz8WBEs_MarioKartTour_0-00_1080p_5300k_h264_nvenc,sample,96.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04189999999990768
+amt_gaming_vqa_dataset/0JehGz8WBEs_MarioKartTour_0-00_1080p_5300k_h264_nvenc,sample,89.0,28.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13329999999981368
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,38.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.4184999999999999
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08909999999985985
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1023000000000458
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08900000000000041
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,74.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09110000000009322
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,92.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09070000000018652

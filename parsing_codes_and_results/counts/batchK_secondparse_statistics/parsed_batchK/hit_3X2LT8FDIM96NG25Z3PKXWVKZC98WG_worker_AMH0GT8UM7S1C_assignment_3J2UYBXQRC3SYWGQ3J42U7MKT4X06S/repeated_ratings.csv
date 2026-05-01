@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_600k_hevc_nvenc,sample,61.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.046533000001117486
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_600k_hevc_nvenc,sample,13.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04393300000149125
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51_1080p_800k_hevc_nvenc,sample,93.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.024900000000371847
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51_1080p_800k_hevc_nvenc,sample,32.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012099999999627187
+amt_gaming_vqa_dataset/y_6wR3l2xR6rY_SonicDash_3-42_480p_800k_hevc_nvenc,sample,3.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005300000000744376
+amt_gaming_vqa_dataset/y_6wR3l2xR6rY_SonicDash_3-42_480p_800k_hevc_nvenc,sample,20.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01740000000037334
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_500k_av1,sample,41.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0008000000007442054
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_500k_av1,sample,34.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0855999999996282
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_2300k_h264_nvenc,sample,28.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0022000000011175302
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_2300k_h264_nvenc,sample,42.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03430000000074429
+amt_gaming_vqa_dataset/gaTwfvmMmXI_AngryBirds2_6-41_480p_800k_hevc_nvenc,sample,61.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0013000000007448165
+amt_gaming_vqa_dataset/gaTwfvmMmXI_AngryBirds2_6-41_480p_800k_hevc_nvenc,sample,15.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.016799999998882598

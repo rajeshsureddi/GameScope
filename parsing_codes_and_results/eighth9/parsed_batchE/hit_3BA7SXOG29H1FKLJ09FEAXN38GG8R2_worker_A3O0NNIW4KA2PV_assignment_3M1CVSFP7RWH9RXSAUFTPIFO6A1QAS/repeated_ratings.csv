@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41,sample,58.0,32.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05231699990463312
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41,sample,23.0,32.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06291700028610236
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05,sample,14.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.5837000002861021
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05,sample,40.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",5.440599999904633
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_5300k_h264_nvenc,sample,51.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0015419999046333288
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_5300k_h264_nvenc,sample,72.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004858000190735012
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_800k_hevc_nvenc,sample,41.0,33.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.006141999809265997
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_800k_hevc_nvenc,sample,46.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.026041999904633073
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_5300k_h264_nvenc,sample,71.0,29.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0390999999046322
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_5300k_h264_nvenc,sample,5.0,9.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03369999980926508
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32,sample,92.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015899999618529392
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32,sample,97.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.014800000190735574

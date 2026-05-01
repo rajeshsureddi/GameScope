@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21_1080p_5300k_h264_nvenc,sample,2.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.327399999991059
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21_1080p_5300k_h264_nvenc,sample,79.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.643
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_2-43_480p_800k_hevc_nvenc,sample,24.0,35.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.489
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_2-43_480p_800k_hevc_nvenc,sample,25.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.041200000002981
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00_720p_600k_hevc_nvenc,sample,68.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.97840000000596
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00_720p_600k_hevc_nvenc,sample,48.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.10289999999106
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1300k_av1,sample,88.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.08079999999702
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1300k_av1,sample,74.0,38.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.34
+amt_gaming_vqa_dataset/sq0GCRT4zLQ_TheWitcher3_3-06_720p_2500k_h264_nvenc,sample,49.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022367000000000914
+amt_gaming_vqa_dataset/sq0GCRT4zLQ_TheWitcher3_3-06_720p_2500k_h264_nvenc,sample,87.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.02333300000298
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_600k_hevc_nvenc,sample,60.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.37229999999702
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_600k_hevc_nvenc,sample,47.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.41570000000298

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_5000k_av1,sample,86.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015100999999626552
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_5000k_av1,sample,98.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.9608010000007443
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_800k_hevc_nvenc,sample,30.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02009899999962883
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_800k_hevc_nvenc,sample,0.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010499000000001146
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_1000k_av1,sample,6.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004799999998882143
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_1000k_av1,sample,91.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004400000000371662
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_5300k_h264_nvenc,sample,90.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.016598999999628106
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_5300k_h264_nvenc,sample,66.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03240100000037138
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_6000k_hevc_nvenc,sample,73.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.024699000001117355
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_6000k_hevc_nvenc,sample,67.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.9877009999992552
+amt_gaming_vqa_dataset/YsJElS64kYA_WorldofWarcraft_27-04_720p_1000k_h264_nvenc,sample,34.0,2.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01249999999999929
+amt_gaming_vqa_dataset/YsJElS64kYA_WorldofWarcraft_27-04_720p_1000k_h264_nvenc,sample,91.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03840000000037236

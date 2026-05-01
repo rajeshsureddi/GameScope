@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Farcry6_1_720p_1000k_h264nvenc,sample,52.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09139000000037356
+amt_gaming_vqa_dataset/Farcry6_1_720p_1000k_h264nvenc,sample,1.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.078990000000001
+amt_gaming_vqa_dataset/Farcry6_1_720p_5000k_h264nvenc,sample,99.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06489000000037315
+amt_gaming_vqa_dataset/Farcry6_1_720p_5000k_h264nvenc,sample,51.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07099000000000011
+amt_gaming_vqa_dataset/Farcry6_1_1080p_800k_hevcnvenc,sample,49.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0516900000001872
+amt_gaming_vqa_dataset/Farcry6_1_1080p_800k_hevcnvenc,sample,44.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07388999999944268
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,78.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07049000000000127
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,23.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06508999999962839
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_2300k_h264nvenc,sample,68.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04928999999981443
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_2300k_h264nvenc,sample,98.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08178999999888248
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_8500k_h264nvenc,sample,6.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07169000000018677
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_8500k_h264nvenc,sample,61.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08749000000000073

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_35-00_720p_600k_hevc_nvenc,sample,81.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.014699999928474483
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_35-00_720p_600k_hevc_nvenc,sample,23.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00639999997615881
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_58-40_480p_1000k_h264_nvenc,sample,67.0,36.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.016900000095366963
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_58-40_480p_1000k_h264_nvenc,sample,77.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.020100000023841602
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_2000k_hevc_nvenc,sample,48.0,59.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01890000009536763
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_2000k_hevc_nvenc,sample,57.0,51.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.037399999976157616
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00_1080p_2300k_h264_nvenc,sample,93.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.01249999999999929
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00_1080p_2300k_h264_nvenc,sample,73.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015000000000000568
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_11-52,sample,4.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.021900000095367744
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_11-52,sample,2.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.026999999999999247
+amt_gaming_vqa_dataset/F84TmQCWEJk_SubwaySurfers_0-14,sample,43.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014600000023841986
+amt_gaming_vqa_dataset/F84TmQCWEJk_SubwaySurfers_0-14,sample,34.0,33.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.014599999904632455

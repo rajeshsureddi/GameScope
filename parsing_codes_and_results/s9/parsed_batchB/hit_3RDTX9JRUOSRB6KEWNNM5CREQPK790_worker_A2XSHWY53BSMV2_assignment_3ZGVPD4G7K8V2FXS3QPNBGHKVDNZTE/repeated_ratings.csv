@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Undefeated_2160p_25000k_h264nvenc,sample,4.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10609000000149038
+amt_gaming_vqa_dataset/Undefeated_2160p_25000k_h264nvenc,sample,72.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1296900000011174
+amt_gaming_vqa_dataset/Undefeated_2160p_5000k_h264nvenc,sample,91.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.18158999999962866
+amt_gaming_vqa_dataset/Undefeated_2160p_5000k_h264nvenc,sample,90.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12149000000000143
+amt_gaming_vqa_dataset/Undefeated_2160p_6000k_hevcnvenc,sample,97.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06958999999962856
+amt_gaming_vqa_dataset/Undefeated_2160p_6000k_hevcnvenc,sample,60.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2480899999996282
+amt_gaming_vqa_dataset/Undefeated_720p_1500k_hevcnvenc,sample,67.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10168999999925532
+amt_gaming_vqa_dataset/Undefeated_720p_1500k_hevcnvenc,sample,44.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1045899999996287
+amt_gaming_vqa_dataset/thelogomovie2_1080p_5300k_h264nvenc,sample,39.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10569000000111828
+amt_gaming_vqa_dataset/thelogomovie2_1080p_5300k_h264nvenc,sample,21.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07359000000149152
+amt_gaming_vqa_dataset/thelogomovie2_1080p_6000k_hevcnvenc,sample,45.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08539000000037333
+amt_gaming_vqa_dataset/thelogomovie2_1080p_6000k_hevcnvenc,sample,49.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2694900000000011

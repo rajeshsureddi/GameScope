@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_720p_2500k_h264nvenc,sample,35.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11618999999925528
+amt_gaming_vqa_dataset/callofdutyps5_720p_2500k_h264nvenc,sample,99.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08209000000149125
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_6000k_hevcnvenc,sample,19.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09488999999851089
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_6000k_hevcnvenc,sample,17.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.1446899999992564
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_6000k_hevcnvenc,sample,79.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13399000000000072
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_6000k_hevcnvenc,sample,63.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.2048899999985103
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_500k_av1,sample,1.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08369000000298144
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_500k_av1,sample,41.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.655290000000745
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_h264nvenc,sample,7.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04768999999925505
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_h264nvenc,sample,82.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11919000000298041
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_1500k_hevcnvenc,sample,49.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05018999999925633
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_1500k_hevcnvenc,sample,10.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10899000000000036

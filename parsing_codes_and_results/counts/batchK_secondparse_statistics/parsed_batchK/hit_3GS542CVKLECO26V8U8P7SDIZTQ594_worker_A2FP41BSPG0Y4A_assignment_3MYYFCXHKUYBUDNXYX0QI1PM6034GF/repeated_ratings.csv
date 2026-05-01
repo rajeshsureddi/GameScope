@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_1080p_1500k_av1,sample,4.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13279000007152675
+amt_gaming_vqa_dataset/Godofwar_1_1080p_1500k_av1,sample,65.0,48.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12438999997615952
+amt_gaming_vqa_dataset/Godofwar_1_2160p_8500k_h264nvenc,sample,19.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09828999995231769
+amt_gaming_vqa_dataset/Godofwar_1_2160p_8500k_h264nvenc,sample,34.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.28809000002384266
+amt_gaming_vqa_dataset/Godofwar_1_1080p_800k_hevcnvenc,sample,66.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07978999995231639
+amt_gaming_vqa_dataset/Godofwar_1_1080p_800k_hevcnvenc,sample,64.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05059000002384195
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_500k_av1,sample,1.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11929999995231633
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_500k_av1,sample,59.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06929999995231562
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_800k_hevc_nvenc,sample,67.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01960000002384099
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_800k_hevc_nvenc,sample,96.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.003899999976157531
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_11-50_480p_800k_hevc_nvenc,sample,65.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0024999999999995026
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_11-50_480p_800k_hevc_nvenc,sample,64.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.020599999904632682

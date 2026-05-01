@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GrandtheftautoV_1_480p_1000k_av1,sample,31.0,50.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10568999992847417
+amt_gaming_vqa_dataset/GrandtheftautoV_1_480p_1000k_av1,sample,16.0,54.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.0718899999761593
+amt_gaming_vqa_dataset/GrandtheftautoV_1_720p_600k_hevcnvenc,sample,3.0,62.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.049190000047683924
+amt_gaming_vqa_dataset/GrandtheftautoV_1_720p_600k_hevcnvenc,sample,59.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05079000007152601
+amt_gaming_vqa_dataset/Worldofwarships_1_2160p_5000k_av1,sample,37.0,45.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",1.4172900000715263
+amt_gaming_vqa_dataset/Worldofwarships_1_2160p_5000k_av1,sample,86.0,35.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.6495900000238422
+amt_gaming_vqa_dataset/Afterus_2160p_10000k_av1,sample,59.0,68.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",3.339789999952316
+amt_gaming_vqa_dataset/Afterus_2160p_10000k_av1,sample,3.0,48.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.595590000023842
+amt_gaming_vqa_dataset/Afterus_720p_2500k_h264nvenc,sample,42.0,57.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.06299000000000099
+amt_gaming_vqa_dataset/Afterus_720p_2500k_h264nvenc,sample,71.0,37.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.06578999995231705
+amt_gaming_vqa_dataset/Afterus_1080p_800k_hevcnvenc,sample,38.0,57.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.056089999904633814
+amt_gaming_vqa_dataset/Afterus_1080p_800k_hevcnvenc,sample,18.0,62.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06059000002384174

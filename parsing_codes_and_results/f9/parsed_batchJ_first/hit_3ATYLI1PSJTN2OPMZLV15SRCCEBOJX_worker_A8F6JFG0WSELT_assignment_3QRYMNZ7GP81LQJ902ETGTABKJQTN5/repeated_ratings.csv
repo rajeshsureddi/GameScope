@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_14-12_480p_800k_hevc_nvenc,sample,87.0,50.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04269999999925567
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_14-12_480p_800k_hevc_nvenc,sample,20.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.03049999999999997
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25,sample,42.0,34.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",27.389300000000745
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25,sample,16.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",20.13360000000149
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25_1080p_2300k_h264_nvenc,sample,22.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.020100000001489704
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25_1080p_2300k_h264_nvenc,sample,87.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.009300000000745712
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25_1080p_6000k_hevc_nvenc,sample,9.0,84.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.6705999999977657
+amt_gaming_vqa_dataset/cFbJA_I2FX0_StardewValley_12-25_1080p_6000k_hevc_nvenc,sample,26.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.2023000000007436
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_27-18_360p_800k_av1,sample,82.0,78.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.010100000001489917
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_27-18_360p_800k_av1,sample,21.0,49.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.021000000000000796
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_27-18_360p_600k_hevc_nvenc,sample,12.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.022100000001490372
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_27-18_360p_600k_hevc_nvenc,sample,12.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.029199999999255155
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,6.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2076000000014897
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,80.0,87.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.2595999999977643
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,12.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.3963000000007444

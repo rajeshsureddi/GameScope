@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_5300k_h264_nvenc,sample,48.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.019999999999999574
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_5300k_h264_nvenc,sample,48.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.015599999994039493
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01,sample,13.0,46.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.017200000017881578
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01,sample,53.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0030999999940402034
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1300k_av1,sample,22.0,44.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03393300002384336
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1300k_av1,sample,91.0,63.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.020333000000000823
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_500k_av1,sample,75.0,29.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.017133000011922306
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_500k_av1,sample,30.0,33.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01543300002384207
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1000k_h264_nvenc,sample,60.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005167000000000144
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1000k_h264_nvenc,sample,32.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.039932999994039875
+amt_gaming_vqa_dataset/tyAqDUG_75Q_Myst_2-20_480p_1000k_av1,sample,54.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.00629999998211872
+amt_gaming_vqa_dataset/tyAqDUG_75Q_Myst_2-20_480p_1000k_av1,sample,83.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0004000000059605213

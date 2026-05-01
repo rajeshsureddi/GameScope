@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="https://getbootstrap.com/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.3/components/spinners/">
+
+  <style>
+  .stop {
+ animation-name: none !important;
+ -webkit-animation-name: none !important;
+}
+  </style>
+</head>
+<body>
+
+
+
+<button class="btn btn-primary" type="button">
+  <span class="d-none spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+  Click me...
+</button>
+
+</body>
+
+<script>
+$(() => {
+  $('button').on('click', e => {
+    let spinner = $(e.currentTarget).find('span')
+    spinner.removeClass('d-none')
+    setTimeout(_ => spinner.addClass('d-none'), 2000)
+  })
+})
+</script>
+</html>

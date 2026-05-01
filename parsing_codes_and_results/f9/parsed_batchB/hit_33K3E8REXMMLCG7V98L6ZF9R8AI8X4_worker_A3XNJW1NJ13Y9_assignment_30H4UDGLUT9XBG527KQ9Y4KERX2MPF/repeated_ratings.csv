@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/JakandDaxter_1080p_500k_av1,sample,62.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0939000000059611
+amt_gaming_vqa_dataset/JakandDaxter_1080p_500k_av1,sample,98.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0884999999999998
+amt_gaming_vqa_dataset/JakandDaxter_1080p_2300k_h264nvenc,sample,7.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0962000000178822
+amt_gaming_vqa_dataset/JakandDaxter_1080p_2300k_h264nvenc,sample,28.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.17029999998211842
+amt_gaming_vqa_dataset/JakandDaxter_720p_3500k_hevcnvenc,sample,29.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.046499999999999986
+amt_gaming_vqa_dataset/JakandDaxter_720p_3500k_hevcnvenc,sample,36.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06040000000596102
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_1500k_hevcnvenc,sample,46.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05179000001192158
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_1500k_hevcnvenc,sample,30.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.036090000023841995
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_1000k_h264nvenc,sample,33.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06809000002384202
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_1000k_h264nvenc,sample,95.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07058999999403959
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_3500k_hevcnvenc,sample,17.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05399000000000065
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_3500k_hevcnvenc,sample,23.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06339000000596151

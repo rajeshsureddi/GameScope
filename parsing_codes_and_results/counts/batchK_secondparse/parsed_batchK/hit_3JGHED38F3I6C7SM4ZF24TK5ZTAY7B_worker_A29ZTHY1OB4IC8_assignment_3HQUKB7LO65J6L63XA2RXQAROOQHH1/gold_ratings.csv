@@ -1,0 +1,5 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_intro/intro_examples/gold/DOTA-005,gold,44.0,2.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005899999976158199
+amt_intro/intro_examples/gold/NBA-011,gold,64.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016408999976158967
+amt_intro/intro_examples/gold/RDR-052,gold,98.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.009166999999999703
+amt_intro/intro_examples/gold/Sekiro-008,gold,81.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0014330000238427232

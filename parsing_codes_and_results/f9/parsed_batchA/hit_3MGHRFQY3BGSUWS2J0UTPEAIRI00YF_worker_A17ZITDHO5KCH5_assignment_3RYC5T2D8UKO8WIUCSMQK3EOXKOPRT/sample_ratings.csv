@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1,sample,0.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",2.3729999999999993
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_1500k_av1,sample,54.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.7279900000000001
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_5000k_av1,sample,86.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2269900000000007
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_500k_av1,sample,7.0,25.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.5969899999999999
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_10000k_av1,sample,5.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",11.39299
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_1000k_av1,sample,98.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.1839900000000014
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_5000k_av1,sample,24.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",9.173990000000002
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_1000k_av1,sample,1.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.2719900000000006
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_1300k_av1,sample,21.0,28.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.45799000000000056
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_3000k_av1,sample,58.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.7469900000000003
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,97.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.24999000000000038
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_10000k_h264nvenc,sample,22.0,36.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.7579900000000013
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_2300k_h264nvenc,sample,0.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.7819900000000004
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_5300k_h264nvenc,sample,44.0,46.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",1.0279900000000008
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_25000k_h264nvenc,sample,34.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",7.053990000000001
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_5000k_h264nvenc,sample,27.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.49399
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_8500k_h264nvenc,sample,46.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",3.9739900000000006
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_1000k_h264nvenc,sample,16.0,23.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.8779900000000005
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_1000k_h264nvenc,sample,83.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.6209900000000008
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_2500k_h264nvenc,sample,6.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4039900000000003
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_5000k_h264nvenc,sample,90.0,81.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.41899000000000086
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_2000k_hevcnvenc,sample,11.0,47.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.4409900000000011
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_6000k_hevcnvenc,sample,5.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.3319900000000011
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_800k_hevcnvenc,sample,47.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.19999000000000144
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_10000k_hevcnvenc,sample,29.0,44.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11899000000000015
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_1500k_hevcnvenc,sample,50.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.18599000000000032
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_6000k_hevcnvenc,sample,74.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.5929900000000004
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_800k_hevcnvenc,sample,56.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13399000000000072
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_1500k_hevcnvenc,sample,20.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1569900000000004
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_3500k_hevcnvenc,sample,79.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.059990000000000876
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_600k_hevcnvenc,sample,26.0,37.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.4009900000000002
+amt_gaming_vqa_dataset/Marvelspiderman_2,sample,83.0,81.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",3.130000000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_1500k_av1,sample,16.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.78599
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_5000k_av1,sample,47.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.8579900000000009
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_500k_av1,sample,30.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5579900000000002
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_10000k_av1,sample,26.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",10.900990000000002
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1000k_av1,sample,34.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.67399
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_5000k_av1,sample,46.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",7.999990000000002
+amt_gaming_vqa_dataset/Marvelspiderman_2_480p_1000k_av1,sample,42.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5389900000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_1300k_av1,sample,85.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.5139899999999997
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_3000k_av1,sample,33.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.639990000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_500k_av1,sample,25.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.3709900000000008
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_10000k_h264nvenc,sample,10.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.7989899999999999
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_2300k_h264nvenc,sample,46.0,55.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.6029900000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_5300k_h264nvenc,sample,12.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.3939900000000005
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_25000k_h264nvenc,sample,29.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",5.40099
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_5000k_h264nvenc,sample,9.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.2289900000000014
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_8500k_h264nvenc,sample,39.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.614990000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_480p_1000k_h264nvenc,sample,41.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.37199000000000026
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_1000k_h264nvenc,sample,26.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4479900000000008
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_2500k_h264nvenc,sample,9.0,29.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.9919900000000013
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_5000k_h264nvenc,sample,9.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.655990000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_2000k_hevcnvenc,sample,18.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.1779900000000012
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_6000k_hevcnvenc,sample,83.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.36099000000000103
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_800k_hevcnvenc,sample,50.0,48.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.16098999999999997
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_10000k_hevcnvenc,sample,37.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.1959900000000001
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_1500k_hevcnvenc,sample,0.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.19999000000000144
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_6000k_hevcnvenc,sample,56.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.34599000000000046
+amt_gaming_vqa_dataset/Marvelspiderman_2_480p_800k_hevcnvenc,sample,60.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.31799
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_1500k_hevcnvenc,sample,63.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.21099000000000068
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_3500k_hevcnvenc,sample,15.0,32.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.15599000000000096
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_600k_hevcnvenc,sample,56.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.25999000000000017
+amt_gaming_vqa_dataset/skyrim_1,sample,43.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",14.687000999999999
+amt_gaming_vqa_dataset/skyrim_1_1080p_10000k_h264nvenc,sample,42.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11999000000000137
+amt_gaming_vqa_dataset/skyrim_1_1080p_2300k_h264nvenc,sample,49.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.16098999999999997
+amt_gaming_vqa_dataset/skyrim_1_1080p_5300k_h264nvenc,sample,67.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1179900000000007
+amt_gaming_vqa_dataset/skyrim_1_2160p_25000k_h264nvenc,sample,61.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.7689900000000005
+amt_gaming_vqa_dataset/skyrim_1_2160p_5000k_h264nvenc,sample,41.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.9779900000000001
+amt_gaming_vqa_dataset/skyrim_1_2160p_8500k_h264nvenc,sample,14.0,31.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",2.0539900000000006
+amt_gaming_vqa_dataset/skyrim_1_480p_1000k_h264nvenc,sample,69.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.042990000000001416
+amt_gaming_vqa_dataset/skyrim_1_720p_1000k_h264nvenc,sample,68.0,70.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12598999999999982
+amt_gaming_vqa_dataset/skyrim_1_720p_2500k_h264nvenc,sample,93.0,82.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.13399000000000072
+amt_gaming_vqa_dataset/skyrim_1_720p_5000k_h264nvenc,sample,50.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/skyrim_1_1080p_2000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_1080p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_1080p_800k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_480p_800k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_720p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_720p_3500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_720p_600k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/skyrim_1_1080p_1500k_av1,sample,22.0,81.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.3209900000000001
+amt_gaming_vqa_dataset/skyrim_1_1080p_5000k_av1,sample,47.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.42599000000000053
+amt_gaming_vqa_dataset/skyrim_1_1080p_500k_av1,sample,7.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4509900000000009
+amt_gaming_vqa_dataset/skyrim_1_2160p_10000k_av1,sample,65.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",10.089990000000002
+amt_gaming_vqa_dataset/skyrim_1_2160p_1000k_av1,sample,64.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.963990000000001
+amt_gaming_vqa_dataset/skyrim_1_2160p_5000k_av1,sample,46.0,77.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",7.66099
+amt_gaming_vqa_dataset/skyrim_1_480p_1000k_av1,sample,50.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.13999000000000095
+amt_gaming_vqa_dataset/skyrim_1_720p_1300k_av1,sample,70.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.20799000000000056
+amt_gaming_vqa_dataset/skyrim_1_720p_3000k_av1,sample,83.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10399000000000136
+amt_gaming_vqa_dataset/skyrim_1_720p_500k_av1,sample,3.0,30.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.19699000000000133

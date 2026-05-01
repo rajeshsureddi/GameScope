@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32,sample,36.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009087999998882879
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32,sample,74.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",3.140711999999999
+amt_gaming_vqa_dataset/gDUjQdGW1-4_Gardenscapes_1-37_1080p_2000k_hevc_nvenc,sample,98.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.006899999998509543
+amt_gaming_vqa_dataset/gDUjQdGW1-4_Gardenscapes_1-37_1080p_2000k_hevc_nvenc,sample,69.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03130000000074418
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_1500k_av1,sample,23.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00849999999999973
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_1500k_av1,sample,34.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022599999999627585
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_800k_hevc_nvenc,sample,91.0,32.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.015000000000000568
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_800k_hevc_nvenc,sample,65.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03890000000037297
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,70.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0884999999999998
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,99.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09590000000037335
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,41.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0965000000000007
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,93.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09129999999888305
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,94.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0956000000014896
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,72.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10200000000000031

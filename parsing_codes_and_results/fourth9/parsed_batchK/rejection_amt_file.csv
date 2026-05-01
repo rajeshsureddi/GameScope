@@ -1,0 +1,3 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+34S9DKFK8UGX2CI3A81SOA2Q1LMYNF,3B286OTIT48Y0KVLP2QJ4X77N9HJAR,A1JDPMVFB8HNMH,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3JRJSWSMR8CSS382SO5J8TC4ESDE3N,3B286OTIT48Y0KVLP2QJ4X77N9HJAR,A2H1UFKV8FSTV2,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"

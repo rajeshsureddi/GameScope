@@ -1,0 +1,67 @@
+<script type="text/javascript">
+  // function next_instruction(selector) {
+  //   $(this).hide();
+  //   $(selector).show();
+  // }
+  // $('#basicNext').hide();
+  {% if not debug %}
+  setTimeout(function() {$('#basicNext').show();},22500);
+  function buttonDelay(x,y){
+    setTimeout(function() {$(y).show();},x);
+  }
+  {% else %}
+  $(document).ready(function(){
+    $('#basicNext').show();
+  });
+  function buttonDelay(x,y){
+    $(y).show();
+  }
+  {% endif %}
+</script>
+
+<div id="instruction" style="width:100%" >
+  <section class="py-5 grey lighten-4" id="basic">
+    <div class="container my-auto">
+      {% include 'intro/basic.htm' %}
+      <div align="center" id="basicNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#basic').hide();$('#howto').show();buttonDelay(30000,'#howtoNext')">Next</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="howto" style="display:none">
+    <div class="container my-auto">
+      {% include 'intro/howto.htm' %}
+      <div align="center" id="howtoNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#howto').hide();$('#phases').show();buttonDelay(10000,'#phasesNext')">Next</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="phases" style="display:none">
+    <div class="container my-auto">
+      {% include 'intro/phases.htm' %}
+      <div align="center" id="phasesNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#phases').hide();$('#notes').show();buttonDelay(30000,'#notesNext')">Next</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="notes" style="display:none">
+    <div class="container my-auto">
+      {% include 'intro/notes.htm' %}
+      <div align="center" id="notesNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#notes').hide();$('#ethics').show();buttonDelay(30000,'#ethicsNext')">Next</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="ethics" style="display:none">
+    <div class="container my-auto">
+      {% include 'intro/ethics.htm' %}
+      <div align="center" id="ethicsNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#ethics').hide();next();">Next</button>
+      </div>
+    </div>
+  </section>
+</div>

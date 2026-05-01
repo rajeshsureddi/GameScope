@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/_D6-LFea-Tc_PUBGMobile_16-23,sample,49.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.3688000000007445
+amt_gaming_vqa_dataset/_D6-LFea-Tc_PUBGMobile_16-23,sample,82.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-9.522800000000744
+amt_gaming_vqa_dataset/9Rc3Zpn491M_Terraria_3-49_720p_600k_hevc_nvenc,sample,91.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014042999998508776
+amt_gaming_vqa_dataset/9Rc3Zpn491M_Terraria_3-49_720p_600k_hevc_nvenc,sample,73.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013357000000000951
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-36_480p_1000k_h264_nvenc,sample,83.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0003000000007453707
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-36_480p_1000k_h264_nvenc,sample,41.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004699999999255411
+amt_gaming_vqa_dataset/cvGOodnd-S8_StarCraft_13-46_1080p_2000k_hevc_nvenc,sample,82.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0039999999999995595
+amt_gaming_vqa_dataset/cvGOodnd-S8_StarCraft_13-46_1080p_2000k_hevc_nvenc,sample,68.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.003600000001490855
+amt_gaming_vqa_dataset/S-r23tTygqY_EuroTruckSimulator2_14-36,sample,12.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016100000001490145
+amt_gaming_vqa_dataset/S-r23tTygqY_EuroTruckSimulator2_14-36,sample,10.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.582800000000745
+amt_gaming_vqa_dataset/S-r23tTygqY_EuroTruckSimulator2_14-36_720p_1500k_hevc_nvenc,sample,78.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010100000001489917
+amt_gaming_vqa_dataset/S-r23tTygqY_EuroTruckSimulator2_14-36_720p_1500k_hevc_nvenc,sample,53.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0041999999992548

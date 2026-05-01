@@ -1,0 +1,19 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/v86eGfgYN4g_WarRobots_2-05_1080p_2300k_h264_nvenc,sample,86.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.002100000008940839
+amt_gaming_vqa_dataset/v86eGfgYN4g_WarRobots_2-05_1080p_2300k_h264_nvenc,sample,3.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.023099999994039777
+amt_gaming_vqa_dataset/HiLctOW-3bU_CitiesSkylines_18-02_720p_600k_hevc_nvenc,sample,43.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.027499999999999858
+amt_gaming_vqa_dataset/HiLctOW-3bU_CitiesSkylines_18-02_720p_600k_hevc_nvenc,sample,7.0,61.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011800000011920275
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1300k_av1,sample,17.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006333000002980427
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1300k_av1,sample,52.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.022066999988078706
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00_1080p_1500k_av1,sample,71.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05130000001192059
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00_1080p_1500k_av1,sample,61.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1349999999999998
+amt_gaming_vqa_dataset/BdmIY7ieD0s_TheWitcher3_38-08_1080p_500k_av1,sample,6.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.008067000005960168
+amt_gaming_vqa_dataset/BdmIY7ieD0s_TheWitcher3_38-08_1080p_500k_av1,sample,51.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.025966999997018902
+amt_gaming_vqa_dataset/BdmIY7ieD0s_TheWitcher3_38-08_1080p_6000k_hevc_nvenc,sample,29.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.9733670000029804
+amt_gaming_vqa_dataset/BdmIY7ieD0s_TheWitcher3_38-08_1080p_6000k_hevc_nvenc,sample,56.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.3222670000089405
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,66.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.42220000000298086
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,77.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4367000000029808
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4220000000000006
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,96.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3917999999970192
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,86.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4002000000029806
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13400000000000034

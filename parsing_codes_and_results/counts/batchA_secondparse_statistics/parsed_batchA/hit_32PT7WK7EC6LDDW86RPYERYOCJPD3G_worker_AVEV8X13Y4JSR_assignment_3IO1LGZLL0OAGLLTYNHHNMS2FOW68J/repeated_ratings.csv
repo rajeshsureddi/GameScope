@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_10000k_hevcnvenc,sample,92.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1455899999996273
+amt_gaming_vqa_dataset/Marvelspiderman_1_2160p_10000k_hevcnvenc,sample,58.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.055590000000560025
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_500k_av1,sample,40.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.99001
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_500k_av1,sample,88.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10228999999981347
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_10000k_hevcnvenc,sample,69.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08869000000018623
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_10000k_hevcnvenc,sample,99.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.2609900000000014
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_6000k_hevcnvenc,sample,77.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1582899999998144
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_6000k_hevcnvenc,sample,31.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.0698899999994413
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_600k_hevcnvenc,sample,49.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05249000000000059
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_600k_hevcnvenc,sample,40.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07158999999962745
+amt_gaming_vqa_dataset/skyrim_1_480p_1000k_av1,sample,96.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0323899999994417
+amt_gaming_vqa_dataset/skyrim_1_480p_1000k_av1,sample,27.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.023290000000745437

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28_1080p_2000k_hevc_nvenc,sample,43.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04519999998807833
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28_1080p_2000k_hevc_nvenc,sample,42.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.020099999994039663
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_2300k_h264_nvenc,sample,5.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.054667000011921374
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_2300k_h264_nvenc,sample,14.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01476700000596054
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_5300k_h264_nvenc,sample,52.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.037366999999999706
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_5300k_h264_nvenc,sample,89.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012267000005961037
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_1000k_h264_nvenc,sample,55.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.007142999999999233
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_1000k_h264_nvenc,sample,68.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0281569999821194
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_1000k_h264_nvenc,sample,45.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.017300000011921668
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_1000k_h264_nvenc,sample,3.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-1.9414000000059612
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_34-57_480p_1000k_av1,sample,78.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014300000011921554
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_34-57_480p_1000k_av1,sample,29.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0018000000119204884

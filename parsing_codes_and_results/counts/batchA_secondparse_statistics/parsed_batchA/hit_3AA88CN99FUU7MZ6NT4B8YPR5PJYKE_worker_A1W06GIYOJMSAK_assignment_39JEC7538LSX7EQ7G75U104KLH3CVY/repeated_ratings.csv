@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Farcry6_1_1080p_2000k_hevcnvenc,sample,91.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.078990000000001
+amt_gaming_vqa_dataset/Farcry6_1_1080p_2000k_hevcnvenc,sample,25.0,87.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.12019000004768365
+amt_gaming_vqa_dataset/Farcry6_1_2160p_1500k_hevcnvenc,sample,76.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.23209000014305126
+amt_gaming_vqa_dataset/Farcry6_1_2160p_1500k_hevcnvenc,sample,12.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1018900000953682
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_1300k_av1,sample,7.0,80.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.09248999999999974
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_1300k_av1,sample,81.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10058999990463313
+amt_gaming_vqa_dataset/DemonsSouls_2160p_5000k_h264nvenc,sample,13.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.13279000019073628
+amt_gaming_vqa_dataset/DemonsSouls_2160p_5000k_h264nvenc,sample,16.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.18559000014305127
+amt_gaming_vqa_dataset/DemonsSouls_720p_5000k_h264nvenc,sample,5.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08478999995231717
+amt_gaming_vqa_dataset/DemonsSouls_720p_5000k_h264nvenc,sample,64.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08059000014305262
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,99.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12170000004768333
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,17.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10699999999999932
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,50.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10239999985694936
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,13.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12729999995231545

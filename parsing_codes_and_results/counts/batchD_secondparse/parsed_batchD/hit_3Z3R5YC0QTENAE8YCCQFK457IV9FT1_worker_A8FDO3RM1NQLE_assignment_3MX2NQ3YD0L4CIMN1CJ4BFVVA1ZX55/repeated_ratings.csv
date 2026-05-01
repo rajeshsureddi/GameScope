@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/o8qnrNPXqEs_AngryBirds2_3-23,sample,63.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.0789770000953673
+amt_gaming_vqa_dataset/o8qnrNPXqEs_AngryBirds2_3-23,sample,21.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-9.125477000095367
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_1500k_hevc_nvenc,sample,1.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.79010000014305
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_1500k_hevc_nvenc,sample,75.0,33.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.891200000047684
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_3500k_hevc_nvenc,sample,22.0,33.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.725600000143051
+amt_gaming_vqa_dataset/1mKdKffD3Ic_DiabloIII_7-20_720p_3500k_hevc_nvenc,sample,93.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.962200000047684
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04,sample,12.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",7.049300000190735
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04,sample,48.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-9.014700000047684
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_5000k_av1,sample,15.0,38.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.8060999999046325
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_5000k_av1,sample,25.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.465799999952316
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_2300k_h264_nvenc,sample,82.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.048799999952315
+amt_gaming_vqa_dataset/9W42PDFAVyY_FIFA_0-16_1080p_2300k_h264_nvenc,sample,87.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.509200000047684

@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/JakandDaxter_720p_500k_av1,sample,90.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0788999999994413
+amt_gaming_vqa_dataset/JakandDaxter_720p_500k_av1,sample,38.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08889999999944109
+amt_gaming_vqa_dataset/JakandDaxter_720p_1000k_h264nvenc,sample,7.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11170000000018554
+amt_gaming_vqa_dataset/JakandDaxter_720p_1000k_h264nvenc,sample,68.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08840000000037307
+amt_gaming_vqa_dataset/JakandDaxter_2160p_10000k_hevcnvenc,sample,97.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09279999999981392
+amt_gaming_vqa_dataset/JakandDaxter_2160p_10000k_hevcnvenc,sample,99.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1265999999996268
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_25000k_h264nvenc,sample,8.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11509000000055991
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_25000k_h264nvenc,sample,8.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.8749900000000004
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_1080p_800k_hevcnvenc,sample,65.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04819000000018647
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_1080p_800k_hevcnvenc,sample,29.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08418999999925525
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_1080p_10000k_h264nvenc,sample,80.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0751900000001875
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_1080p_10000k_h264nvenc,sample,0.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0755900000005596
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,99.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08889999999944109
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,79.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1594000000003728

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_500k_av1,sample,84.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08279000000074532
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_500k_av1,sample,72.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08399000000000001
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_5300k_h264nvenc,sample,41.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11738999999850996
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_5300k_h264nvenc,sample,56.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10518999999925605
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1500k_hevcnvenc,sample,86.0,57.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08268999999925519
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1500k_hevcnvenc,sample,54.0,38.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.12279000000074625
+amt_gaming_vqa_dataset/Daysgone_2_720p_1300k_av1,sample,55.0,69.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.0666999999992548
+amt_gaming_vqa_dataset/Daysgone_2_720p_1300k_av1,sample,27.0,58.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07740000000223546
+amt_gaming_vqa_dataset/Daysgone_2_1080p_2300k_h264nvenc,sample,5.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11800000000000033
+amt_gaming_vqa_dataset/Daysgone_2_1080p_2300k_h264nvenc,sample,32.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11809999999776544
+amt_gaming_vqa_dataset/Daysgone_2_2160p_10000k_hevcnvenc,sample,61.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2340999999977651
+amt_gaming_vqa_dataset/Daysgone_2_2160p_10000k_hevcnvenc,sample,33.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10980000000074419

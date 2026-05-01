@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_1500k_av1,sample,34.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10068999999925587
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_1500k_av1,sample,66.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09698999999999991
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_500k_av1,sample,60.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06969000000111869
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_500k_av1,sample,82.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07149000000000072
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_2300k_h264nvenc,sample,18.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08209000000149125
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_2300k_h264nvenc,sample,79.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05438999999851113
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_5000k_h264nvenc,sample,73.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1468900000003739
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_5000k_h264nvenc,sample,51.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.054790000000744854
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_6000k_hevcnvenc,sample,85.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0721899999992548
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_6000k_hevcnvenc,sample,76.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07118999999925535
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_3500k_hevcnvenc,sample,60.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06708999999962728
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_3500k_hevcnvenc,sample,90.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07299000000000078

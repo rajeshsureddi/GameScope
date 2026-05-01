@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_35-30_480p_1000k_h264_nvenc,sample,93.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07318399999999947
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_35-30_480p_1000k_h264_nvenc,sample,29.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.022283999994039405
+amt_gaming_vqa_dataset/Gzm8h8Y48E8_Myst_31-12_1080p_2000k_hevc_nvenc,sample,53.0,70.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.0002999999821184929
+amt_gaming_vqa_dataset/Gzm8h8Y48E8_Myst_31-12_1080p_2000k_hevc_nvenc,sample,80.0,66.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.007599999994040374
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_14-12_480p_800k_hevc_nvenc,sample,24.0,70.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.0006999999880790142
+amt_gaming_vqa_dataset/y_EQ25DFLTq3M_Cyberpunk2077_14-12_480p_800k_hevc_nvenc,sample,94.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005099999994039095
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_1-23-40_480p_1000k_h264_nvenc,sample,2.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004900000005960692
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_1-23-40_480p_1000k_h264_nvenc,sample,85.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.0030999999940402034
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_500k_av1,sample,28.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.010600000023842426
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_500k_av1,sample,48.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.033599999994040175
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_800k_hevc_nvenc,sample,40.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.004099999994039649
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02_1080p_800k_hevc_nvenc,sample,63.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.029700000017880868

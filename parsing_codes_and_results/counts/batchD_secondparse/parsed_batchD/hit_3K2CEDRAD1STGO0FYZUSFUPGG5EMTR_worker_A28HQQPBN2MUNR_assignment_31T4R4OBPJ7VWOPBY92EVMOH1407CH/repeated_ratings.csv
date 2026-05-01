@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_500k_av1,sample,56.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11969999999552883
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_500k_av1,sample,48.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.14570000000298045
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_6000k_hevc_nvenc,sample,72.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.027600000001489988
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_6000k_hevc_nvenc,sample,4.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.008199999995529339
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-28_480p_800k_hevc_nvenc,sample,67.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0021999999955291116
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-28_480p_800k_hevc_nvenc,sample,43.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0017999999970204072
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_1-53_360p_800k_av1,sample,27.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005299999997019356
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_1-53_360p_800k_av1,sample,82.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.019999999999999574
+amt_gaming_vqa_dataset/1xnrkVQHoZY_MarioKartTour_1-04_1080p_1500k_av1,sample,3.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.059399999998509756
+amt_gaming_vqa_dataset/1xnrkVQHoZY_MarioKartTour_1-04_1080p_1500k_av1,sample,29.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0389999999999997
+amt_gaming_vqa_dataset/iKegRxLtAHk_PUBGMobile_0-00_720p_600k_hevc_nvenc,sample,57.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004799999997020521
+amt_gaming_vqa_dataset/iKegRxLtAHk_PUBGMobile_0-00_720p_600k_hevc_nvenc,sample,35.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.018100000001490812

@@ -1,0 +1,3 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+37W3JXSD7XZNP6RH29SFKTFHTCYWY5,3O0M2G5VDWTUSJ2VUPPF2074ZNX49G,A25JTS3S9OD0KP,row_0,0,,The scores for repeated videos are not consistent (5 > 3)
+3WOKGM4L8S7IN2MU3FQWB78BEYD0OR,3O0M2G5VDWTUSJ2VUPPF2074ZNX49G,A30TJER6AVBL34,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."

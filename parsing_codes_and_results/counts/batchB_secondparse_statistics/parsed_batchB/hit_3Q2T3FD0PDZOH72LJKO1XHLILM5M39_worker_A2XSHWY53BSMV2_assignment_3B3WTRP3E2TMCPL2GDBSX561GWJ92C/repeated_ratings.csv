@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/skyrim_2_480p_1000k_h264nvenc,sample,75.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.018289999999813844
+amt_gaming_vqa_dataset/skyrim_2_480p_1000k_h264nvenc,sample,0.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0020100000000002893
+amt_gaming_vqa_dataset/skyrim_2_720p_2500k_h264nvenc,sample,90.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.008590000000559428
+amt_gaming_vqa_dataset/skyrim_2_720p_2500k_h264nvenc,sample,50.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006610000000558003
+amt_gaming_vqa_dataset/skyrim_2_720p_5000k_h264nvenc,sample,31.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.014389999999441017
+amt_gaming_vqa_dataset/skyrim_2_720p_5000k_h264nvenc,sample,65.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-1.5801099999996264
+amt_gaming_vqa_dataset/skyrim_2_2160p_1500k_hevcnvenc,sample,31.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01280999999981347
+amt_gaming_vqa_dataset/skyrim_2_2160p_1500k_hevcnvenc,sample,76.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.016490000000001004
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_5000k_h264nvenc,sample,54.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11448999999999998
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_5000k_h264nvenc,sample,53.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.397789999999814
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_6000k_hevcnvenc,sample,5.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08238999999944241
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_6000k_hevcnvenc,sample,63.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05709000000056008

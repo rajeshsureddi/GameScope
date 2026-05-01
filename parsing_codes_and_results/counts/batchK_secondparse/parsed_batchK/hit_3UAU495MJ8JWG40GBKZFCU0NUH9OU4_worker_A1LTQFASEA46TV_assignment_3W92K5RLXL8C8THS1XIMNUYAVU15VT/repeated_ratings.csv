@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_1080p_5300k_h264nvenc,sample,56.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1072900000119219
+amt_gaming_vqa_dataset/Godofwar_1_1080p_5300k_h264nvenc,sample,69.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.0078900000357631
+amt_gaming_vqa_dataset/Godofwar_1_480p_800k_hevcnvenc,sample,40.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07138999997615869
+amt_gaming_vqa_dataset/Godofwar_1_480p_800k_hevcnvenc,sample,60.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10278999995231608
+amt_gaming_vqa_dataset/MLBtheshow_2160p_8500k_h264nvenc,sample,94.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.17938999997615923
+amt_gaming_vqa_dataset/MLBtheshow_2160p_8500k_h264nvenc,sample,89.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11899000000000015
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26,sample,25.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01340000003576236
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26,sample,74.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014699999988080137
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_1000k_h264_nvenc,sample,24.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.27339999997615827
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_1000k_h264_nvenc,sample,45.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014600000023841986
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_2000k_hevc_nvenc,sample,37.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03200000000000003
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_2000k_hevc_nvenc,sample,95.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.774000000000001
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,65.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08450000000000024
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,86.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08780000001192079
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,31.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05119999998807856

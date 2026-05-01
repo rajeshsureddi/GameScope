@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_6000k_hevcnvenc,sample,32.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08719000004768418
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_6000k_hevcnvenc,sample,66.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.9292900000119211
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,67.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.22330000001192118
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,65.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.3011999999880786
+amt_gaming_vqa_dataset/Daysgone_2_480p_1000k_h264nvenc,sample,51.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.3751999999880784
+amt_gaming_vqa_dataset/Daysgone_2_480p_1000k_h264nvenc,sample,66.0,45.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.09580000001192168
+amt_gaming_vqa_dataset/Daysgone_2_720p_5000k_h264nvenc,sample,27.0,43.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10530000001192086
+amt_gaming_vqa_dataset/Daysgone_2_720p_5000k_h264nvenc,sample,9.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09930000001192063
+amt_gaming_vqa_dataset/Daysgone_2_1080p_800k_hevcnvenc,sample,88.0,54.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08810000002384122
+amt_gaming_vqa_dataset/Daysgone_2_1080p_800k_hevcnvenc,sample,57.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.09309999996423635
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,12.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1049900000000008
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,36.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.26698999999999984

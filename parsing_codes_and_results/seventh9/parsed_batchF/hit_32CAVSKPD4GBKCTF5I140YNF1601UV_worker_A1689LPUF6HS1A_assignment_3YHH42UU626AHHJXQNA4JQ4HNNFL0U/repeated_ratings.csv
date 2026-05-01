@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/aAjWNgfYB-8_SubwaySurfers_0-00,sample,18.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.4392000000029803
+amt_gaming_vqa_dataset/aAjWNgfYB-8_SubwaySurfers_0-00,sample,54.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-4.473300000000745
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3000k_av1,sample,98.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.8695
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3000k_av1,sample,26.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.135
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_500k_av1,sample,75.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.013500000000000512
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_500k_av1,sample,25.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0003000000007453707
+amt_gaming_vqa_dataset/8yfoGo7unhM_FIFA_1-59_720p_600k_hevc_nvenc,sample,32.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0017999999970204072
+amt_gaming_vqa_dataset/8yfoGo7unhM_FIFA_1-59_720p_600k_hevc_nvenc,sample,10.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006000000000000227
+amt_gaming_vqa_dataset/CVYN93MJDCE_Valheim_29-19,sample,84.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00410000000148969
+amt_gaming_vqa_dataset/CVYN93MJDCE_Valheim_29-19,sample,85.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005499999999999616
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_600k_hevc_nvenc,sample,32.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.009637000000745743
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_600k_hevc_nvenc,sample,70.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.019163000000000707

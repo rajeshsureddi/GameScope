@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_35-00_720p_3500k_hevc_nvenc,sample,57.0,17.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00769999992847481
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_35-00_720p_3500k_hevc_nvenc,sample,85.0,19.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01489999997615854
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_58-40_480p_800k_hevc_nvenc,sample,71.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.00720000004768373
+amt_gaming_vqa_dataset/y_5ksFZIlktBY_Minecraft_58-40_480p_800k_hevc_nvenc,sample,22.0,30.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.009200000047684398
+amt_gaming_vqa_dataset/AfRkzHvr2c4_CitiesSkylines_8-19,sample,41.0,10.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.008799999952316284
+amt_gaming_vqa_dataset/AfRkzHvr2c4_CitiesSkylines_8-19,sample,61.0,11.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.153899999976158
+amt_gaming_vqa_dataset/v86eGfgYN4g_WarRobots_2-05_1080p_1500k_av1,sample,98.0,29.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01039999997615837
+amt_gaming_vqa_dataset/v86eGfgYN4g_WarRobots_2-05_1080p_1500k_av1,sample,50.0,29.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.009199999928474867
+amt_gaming_vqa_dataset/HiLctOW-3bU_CitiesSkylines_18-02_720p_5000k_h264_nvenc,sample,23.0,9.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.004099999904632057
+amt_gaming_vqa_dataset/HiLctOW-3bU_CitiesSkylines_18-02_720p_5000k_h264_nvenc,sample,34.0,44.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-1.9019999999999992
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00_1080p_10000k_h264_nvenc,sample,28.0,20.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.010800000071524707
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00_1080p_10000k_h264_nvenc,sample,43.0,33.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.007899999976158867

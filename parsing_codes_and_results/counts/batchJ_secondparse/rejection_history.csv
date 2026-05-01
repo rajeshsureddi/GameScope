@@ -1,0 +1,59 @@
+WorkerId,AssignmentId,Reasons,Rejections
+A36NPTH2FLH2PA,3S06PH7KTIVRQUGN9PGGEIFMGVDD1E,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=53",1.0
+A6G80VHTBZKXM,3SKRO2GZ8SIZ40MX1623IVAC0POK1I,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=56",1.0
+AKH8KUW6I3COL,3QY5DC2MYIB4XBLH2JLQDKN43R6FUE,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=52",1.0
+A1TRCGTBFJO7UQ,3NL0RFNU16EGWZJGOOL5GTHFFPMK4I,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=52",1.0
+AGLY8ZUKMZODY,3E4GGUZ1UZI6TL4TKA2HNEKHSV2K2Z,"Too many unset video ratings (31 > 24) | all slider ratings are very similar, the slider moved to same range of scores.",1.0
+A1KAYSB7LMX4FN,3XIQGXAUN3ZJZM06P5Y19Z9RZX6X7A,Too many unset video ratings (31 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+AXZJKFM3BSX5Y,304SM51WBUVY5HHX8C4UFTEV3V1BSI,Too many unset video ratings (30 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+A13QHI6P2C910K,3UXUOQ9OL5O739SDEV6NPRYTYB1A7L,Too many unset video ratings (30 > 24),1.0
+A1L5MD62BMOXFK,3HQUKB7LO65J6L63XA2RXQARPXGHHA,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=52",1.0
+AYIQ5FWAKFHA0,3PMBY0YE3YUZA7D4D60Y9IFNTXUC97,The scores for golden videos are not consistent with the true scores.,1.0
+A2G95587OYD83D,3HUTX6F6WLEPJCP8I2UAUV1QC0U2OJ,Too many unset video ratings (31 > 24),1.0
+ACHM2SO6R1SPZ,3SKEMFQB0UWHF06I0RBIX5XKEVUK82,Too many unset video ratings (31 > 24),1.0
+AX8D3L76H0JR7,3I7DHKZYHERNCWV21IDI58VO35BF5J,Too many unset video ratings (31 > 24) | The scores for repeated videos are not consistent (4 > 3) | The scores for golden videos are not consistent with the true scores.,1.0
+A34Z9LMI089LMT,3STRJBFXPNI0DKY63PMDO1T7SM6TKJ,Too many unset video ratings (31 > 24),1.0
+AR6H3B01WJ1FQ,3MRNMEIQXWX4G1KR2ZYZYXO0E0LDLL,Too many unset video ratings (31 > 24),1.0
+A2IN5WQVM31V4D,3XUHV3NRWBP7QSM8W81I8T71MBHH5X,The scores for golden videos are not consistent with the true scores.,1.0
+A3H3Z5V2V1461R,33PPUNGG4ZWIM0K0Z1KSB1G288IZRQ,Too many unset video ratings (31 > 24),1.0
+A2Q8W9EV4RRC0O,31Z0PCVWVB6CI5RMKVX4KWOLM1QT7V,Too many unset video ratings (31 > 24),1.0
+ASAMJC3EOZ9XE,39ZSFO5CBZNK2D7DL9CBSIFWWDNUJQ,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=61",1.0
+AMH0GT8UM7S1C,3Z7VU45IQP8UTVLJ175D5AYP4DF1ZT,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=57",1.0
+AQTP7NEWCUGIX,3AQF3RZ56Z9JV0VG61NNXE9O3NG6FY,Too many unset video ratings (31 > 24),1.0
+A1RTMB1V9GK7HM,3FUI0JHJQOPPI5S534ONP287NZJ339,Too many unset video ratings (30 > 24),1.0
+ABNTQ9OXGOJP0,3R0T90IZ2J3EPH0CRC681Z1AX53GC6,Too many unset video ratings (31 > 24),1.0
+A2MJQG58XN41OW,3MHW492WXR4AG02YTWZ84W9WECJVM8,Too many unset video ratings (31 > 24),1.0
+A36HN50WA7RGAZ,35BLDD71JXOAF71H8LP2CY55SYKVZ7,Too many unset video ratings (31 > 24),1.0
+A3V3F4X6GH6VPV,3TY7ZAOG66BZXB1F5NY34QR2VBTK0I,Too many unset video ratings (31 > 24),1.0
+A2H1UFKV8FSTV2,3IGI0VL65YBL8YE14LSUMJ4ONB5NOB,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=57",1.0
+A1JDPMVFB8HNMH,3SEPORI8XEQQNJYJXQY6GBRS8S7ZA7,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=56",1.0
+A2MAGMY4JMDD3V,35LDD55581VW0P8MUSL12NYF0NBKMU,Used phone or tablet,1.0
+A1ZL17KIP85OLV,3KOPY89HNZT03JUU6PGA59PWIFVJ3S,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=57",1.0
+A1XSBLCCC1OWQ1,3AAPLD8UD389BUXYX4JGB9DF03DTHM,Too many unset video ratings (31 > 24),1.0
+A2ZM1X4W5OBSRW,30JNVC0OS0BWJE56G0PL642SFGXHQI,Too many unset video ratings (31 > 24),1.0
+A2XSHWY53BSMV2,3OS46CRSM6Q8RXH66GSRF0CANUC6VG,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=54",1.0
+A2TW985PTHOP3A,3EJJQNKUAIWWVFK6TFELBUCXCJ8RH1,Too many unset video ratings (31 > 24),1.0
+A3IYWGIWOCNTZZ,33M4IA01R7STH5KLYJW7EG0RZS8XRI,"Too many unset video ratings (30 > 24) | all slider ratings are very similar, the slider moved to same range of scores. | The scores for golden videos are not consistent with the true scores.",1.0
+A32N0XWTTJ5P8Y,3EO896NRBNM520SOL4M1NMTUDVHTJR,Too many unset video ratings (30 > 24),1.0
+A1Y0ABOUJUMCWW,3FQ5JJ513CF2I7TM6T01F2NF1BUKNV,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=65",1.0
+A52BF5BI5VPTZ,39PAAFCOEDRETVSI2T0KQA4O752VT1,Too many unset video ratings (30 > 24),1.0
+A3BX8KC42AB9VQ,3X4MXAO0C7FES5FVOE0LCXMKQQJRW0,Too many unset video ratings (31 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+AILRY9ICTXN4B,3UJ1CZ6I08GWG10O72DHC7E3TB95ST,Too many unset video ratings (31 > 24),1.0
+A8FDO3RM1NQLE,3RXCAC0YJIGCDEAZA0Q3ZD5R915G8Z,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=52",1.0
+A1G1W9YIHATY4R,382M9COHF86CRXLL781KV224TDKEU0,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=57",1.0
+ACI8PUCF5OPDC,3WYGZ5XF4N6ZYKLREPHNEWXLT9ZSKF,Too many unset video ratings (30 > 24),1.0
+A2EFQ053GL6MLK,37QW5D2ZS7DF3JJQ50KKOROUXCPS8L,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=53",1.0
+AK84D0JFR31KS,3K5TEWLKHM2OKHC78H1GC32FWRMVIQ,Too many unset video ratings (31 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+AF1OK4YPM4S9P,3KWTYT088RU9CO5YNTGG0L0805BL5G,Too many unset video ratings (31 > 24),1.0
+A10FCQ7R6OGXF8,3QECW5O0L8SXV1D3W2I7MCAPUEW5TU,Too many unset video ratings (31 > 24) | The scores for golden videos are not consistent with the true scores.,1.0
+AQPFTUIJ0PW2N,30IQTZXKBBX5HB0M46DSUKZ4TUW0XX,The scores for repeated videos are not consistent (5 > 3),1.0
+A3KGCURZJ02L3,3E1QT0TDGG0Q95GU0OQ6KPI7M388I6/3OVHNO1VFXSOLQ1VH0P86CZYT77DZE,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=56Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion with count=54",2.0
+A38WTWM6YX9KHF,3V5Q80FXJOI0XNWMZ4AI6S3FG9F234/3RWE2M8QX8105HMI20QJWI86ONBN00,Too many unset video ratings (31 > 24)Too many unset video ratings (30 > 24),2.0
+A2DLHL9JJ9EPNA,3C2NJ6JBL1871RPWHNUXF61LLPUN2R/34Z02EIMJJ4Y0UR2ZWCV5HEYD7LT0Z,Too many unset video ratings (32 > 24)Too many unset video ratings (30 > 24) | The scores for golden videos are not consistent with the true scores.,2.0
+A3D2P33SYYDMD,3CTOC39K4YHI42VH81J0IQ1CNIMJ74/3WYGZ5XF4N6ZYKLREPHNEWXLPKUKSK,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=64Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=51",2.0
+A2J237J8KM3OCS,35LDD55581VW0P8MUSL12NYFXRGMK6/3IXEICO7ATATE5DH1LSCEIOPPKMT6Y,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=66The scores for repeated videos are not consistent (4 > 3)",2.0
+A1Q7VWUBIJOK17,39LNWE0K5LNO72N73RRBGH0WHQVUIT/3IAS3U3I16750I0ZEXPOOB1R3962BO,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=61Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion with count=65",2.0
+A3DJ0UVMQRZ32R,35BLDD71JXOAF71H8LP2CY55THSVZI/3I0BTBYZBOCUHGQW92ZUDY6DTS3Y0W,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=54Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=61",2.0
+A1X0K1GC85ROW9,3I3WADAZAHVHI98V0LW8S242V7Q5OL/3ND9UOO82BT3P7KIJU3PQLDLK04WLT,"Too many unset video ratings (31 > 24) | all slider ratings are very similar, the slider moved to same range of scores.Too many unset video ratings (31 > 24)",2.0
+AFRA8WYVL1DJ7,3SLE99ER1E4V6T3B34Y2BMBYQASZB2/38BQUHLAANRFQGT1SKDU94FOI56OMR,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=62Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion with count=56",2.0
+A30TJER6AVBL34,3NGI5ARFUKW0FRJDEY7BECWBTVBP1W/3JRJSWSMR8CSS382SO5J8TC4D7ZE32,Too many unset video ratings (31 > 24)Too many unset video ratings (30 > 24),2.0

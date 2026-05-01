@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Faastpenguin_2,sample,21.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.048300000004470434
+amt_gaming_vqa_dataset/Faastpenguin_2,sample,73.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4342999999970196
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_500k_av1,sample,47.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09188999999851077
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_500k_av1,sample,59.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.6974900000000002
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_800k_hevcnvenc,sample,46.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0705900000014914
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_800k_hevcnvenc,sample,98.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12499000000000038
+amt_gaming_vqa_dataset/Ghostoftsushima_1,sample,34.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05820000000298009
+amt_gaming_vqa_dataset/Ghostoftsushima_1,sample,66.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.5767000000029796
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_2300k_h264nvenc,sample,69.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.053189999995529647
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_2300k_h264nvenc,sample,64.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.190890000005961
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_5000k_h264nvenc,sample,7.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06878999999702096
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_5000k_h264nvenc,sample,49.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06468999999552949

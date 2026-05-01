@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_10000k_h264_nvenc,sample,40.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005099999999627514
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_10000k_h264_nvenc,sample,7.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1417999999988826
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1300k_av1,sample,84.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04919999999925473
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1300k_av1,sample,48.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.030200000001118
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39,sample,71.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.008966999999627134
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39,sample,17.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.007766999998510826
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_1000k_h264_nvenc,sample,50.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015067000001117492
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_1000k_h264_nvenc,sample,30.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0037329999996273955
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_800k_hevc_nvenc,sample,96.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00923300000149041
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_800k_hevc_nvenc,sample,85.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.020933000000745494
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_1000k_h264_nvenc,sample,70.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",3.2999999255878265e-05
+amt_gaming_vqa_dataset/VZdrzpg-Iok_Valheim_1-34-06_720p_1000k_h264_nvenc,sample,23.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05943299999962903

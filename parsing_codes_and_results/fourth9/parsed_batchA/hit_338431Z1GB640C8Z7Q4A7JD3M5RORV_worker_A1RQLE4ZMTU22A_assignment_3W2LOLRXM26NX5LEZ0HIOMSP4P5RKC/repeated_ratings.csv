@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GrandtheftautoV_1_480p_1000k_h264nvenc,sample,48.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0939899999999998
+amt_gaming_vqa_dataset/GrandtheftautoV_1_480p_1000k_h264nvenc,sample,54.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10788999997615889
+amt_gaming_vqa_dataset/GrandtheftautoV_1_1080p_6000k_hevcnvenc,sample,21.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08449000000000062
+amt_gaming_vqa_dataset/GrandtheftautoV_1_1080p_6000k_hevcnvenc,sample,48.0,66.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09749000000000052
+amt_gaming_vqa_dataset/Worldofwarships_1_720p_2500k_h264nvenc,sample,91.0,47.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0750900000238417
+amt_gaming_vqa_dataset/Worldofwarships_1_720p_2500k_h264nvenc,sample,87.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.12489000009536788
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_2000k_hevcnvenc,sample,49.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08969000004768368
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_2000k_hevcnvenc,sample,33.0,43.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09128999995231624
+amt_gaming_vqa_dataset/Worldofwarships_1_720p_3500k_hevcnvenc,sample,24.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10359000002384278
+amt_gaming_vqa_dataset/Worldofwarships_1_720p_3500k_hevcnvenc,sample,28.0,48.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.16929000007152695
+amt_gaming_vqa_dataset/Afterus_2160p_25000k_h264nvenc,sample,44.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0977900000715266
+amt_gaming_vqa_dataset/Afterus_2160p_25000k_h264nvenc,sample,61.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09209000002384293

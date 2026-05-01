@@ -1,0 +1,14 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/-gaIr67PWrA_StarCraft_2-30,sample,14.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.154600000001491
+amt_gaming_vqa_dataset/-gaIr67PWrA_StarCraft_2-30,sample,9.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",7.7758999999985114
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04_720p_1300k_av1,sample,3.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0171999999992547
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04_720p_1300k_av1,sample,21.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005900000002235117
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04_720p_3000k_av1,sample,13.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.003699999999255965
+amt_gaming_vqa_dataset/uZ5ql6qCs7c_WorldofTanks_0-04_720p_3000k_av1,sample,63.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0006000000014907414
+amt_gaming_vqa_dataset/q3tpAbcMA_s_TheWitcher3_19-30,sample,56.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02170000000297989
+amt_gaming_vqa_dataset/q3tpAbcMA_s_TheWitcher3_19-30,sample,1.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",7.909199999999254
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,55.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08439999999851011
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,20.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10830000000074591
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,61.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08869999999925504
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,36.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08969999999925449
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,28.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11999999999999922

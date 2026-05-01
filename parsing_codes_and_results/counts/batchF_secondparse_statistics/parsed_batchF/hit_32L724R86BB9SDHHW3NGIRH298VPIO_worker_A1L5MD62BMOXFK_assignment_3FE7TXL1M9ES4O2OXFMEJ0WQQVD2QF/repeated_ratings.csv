@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35,sample,83.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.910900000000023
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35,sample,67.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.72619999999972
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1000k_h264_nvenc,sample,43.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01409999999997602
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1000k_h264_nvenc,sample,93.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.9604999999999997
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_15-15_480p_800k_hevc_nvenc,sample,99.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03250000000000064
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_15-15_480p_800k_hevc_nvenc,sample,43.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.6724999999999994
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_800k_hevc_nvenc,sample,91.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.026932999999813134
+amt_gaming_vqa_dataset/mEPr4AZNtZU_TheWitcher3_6-39_480p_800k_hevc_nvenc,sample,24.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.012133000000000393
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_av1,sample,31.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01029999999992981
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_av1,sample,40.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.2987999999998134
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_800k_hevc_nvenc,sample,58.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.008899999999906427
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_800k_hevc_nvenc,sample,28.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005299999999813565

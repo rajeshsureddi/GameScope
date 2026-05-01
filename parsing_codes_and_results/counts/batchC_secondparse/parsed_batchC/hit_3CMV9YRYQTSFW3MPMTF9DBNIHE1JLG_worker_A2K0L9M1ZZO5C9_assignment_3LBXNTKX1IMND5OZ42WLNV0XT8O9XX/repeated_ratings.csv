@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Sessionskatesim_2_1080p_10000k_h264nvenc,sample,37.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.10889000000596027
+amt_gaming_vqa_dataset/Sessionskatesim_2_1080p_10000k_h264nvenc,sample,77.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09698999999999991
+amt_gaming_vqa_dataset/Sessionskatesim_2_720p_600k_hevcnvenc,sample,45.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07158999999404081
+amt_gaming_vqa_dataset/Sessionskatesim_2_720p_600k_hevcnvenc,sample,48.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09499000000000102
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2,sample,28.0,50.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.06919999998807924
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2,sample,95.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11859999999403925
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_1080p_5300k_h264nvenc,sample,70.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09530000001192107
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_1080p_5300k_h264nvenc,sample,32.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15229999998211774
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_720p_2500k_h264nvenc,sample,96.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09360000002384261
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_720p_2500k_h264nvenc,sample,82.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10549999999999926
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_720p_600k_hevcnvenc,sample,97.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09090000000596099
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_720p_600k_hevcnvenc,sample,77.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0956000000238415

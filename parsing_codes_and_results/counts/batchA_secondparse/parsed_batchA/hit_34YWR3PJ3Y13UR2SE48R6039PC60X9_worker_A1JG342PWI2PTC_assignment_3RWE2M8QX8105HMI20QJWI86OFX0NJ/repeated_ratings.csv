@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Farcry6_1_1080p_2300k_h264nvenc,sample,62.0,40.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09599000000000046
+amt_gaming_vqa_dataset/Farcry6_1_1080p_2300k_h264nvenc,sample,78.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.1848900000059608
+amt_gaming_vqa_dataset/Farcry6_1_2160p_6000k_hevcnvenc,sample,53.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09658999999403939
+amt_gaming_vqa_dataset/Farcry6_1_2160p_6000k_hevcnvenc,sample,64.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.17398999999999987
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_10000k_h264nvenc,sample,42.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1041900000178817
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_10000k_h264nvenc,sample,91.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.8138900000059603
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_5300k_h264nvenc,sample,49.0,64.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_5300k_h264nvenc,sample,81.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09698999999999991
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_2000k_hevcnvenc,sample,73.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08868999998808036
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_2000k_hevcnvenc,sample,27.0,43.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.10309000002384217
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_3500k_hevcnvenc,sample,79.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08739000000596064
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_3500k_hevcnvenc,sample,96.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09518999998807942

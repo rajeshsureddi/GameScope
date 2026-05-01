@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_1080p_10000k_h264nvenc,sample,79.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0700899999996274
+amt_gaming_vqa_dataset/eFootball_2_1080p_10000k_h264nvenc,sample,44.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10008999999962853
+amt_gaming_vqa_dataset/eFootball_2_480p_800k_hevcnvenc,sample,12.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04918999999925511
+amt_gaming_vqa_dataset/eFootball_2_480p_800k_hevcnvenc,sample,24.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08218999999925636
+amt_gaming_vqa_dataset/WWE2K24_720p_3500k_hevcnvenc,sample,69.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04708999999962771
+amt_gaming_vqa_dataset/WWE2K24_720p_3500k_hevcnvenc,sample,72.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07618999999925613
+amt_gaming_vqa_dataset/Godofwar_2_1080p_10000k_h264nvenc,sample,48.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06899000000000122
+amt_gaming_vqa_dataset/Godofwar_2_1080p_10000k_h264nvenc,sample,22.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.388809999998882
+amt_gaming_vqa_dataset/Godofwar_2_1080p_2300k_h264nvenc,sample,54.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05069000000111856
+amt_gaming_vqa_dataset/Godofwar_2_1080p_2300k_h264nvenc,sample,20.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06218999999925501
+amt_gaming_vqa_dataset/Godofwar_2_1080p_800k_hevcnvenc,sample,25.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05008999999962782
+amt_gaming_vqa_dataset/Godofwar_2_1080p_800k_hevcnvenc,sample,74.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06688999999851042

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/2YwKJ3x3Nq8_IceAgeVillage_1-24_720p_1000k_h264_nvenc,sample,6.0,80.0,"['Minimally Clear', 'No visible artifacts', 'High level of immersion', '']",-0.007633000000000223
+amt_gaming_vqa_dataset/2YwKJ3x3Nq8_IceAgeVillage_1-24_720p_1000k_h264_nvenc,sample,49.0,68.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.005433000011921152
+amt_gaming_vqa_dataset/IhboAPRR9FM_CallofDutyMobile_0-15_720p_1000k_h264_nvenc,sample,93.0,66.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.060100000023842526
+amt_gaming_vqa_dataset/IhboAPRR9FM_CallofDutyMobile_0-15_720p_1000k_h264_nvenc,sample,75.0,61.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.002699999988079682
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_3000k_av1,sample,65.0,54.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.11086700000000071
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_3000k_av1,sample,35.0,69.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02836700000000114
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_1300k_av1,sample,39.0,59.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02356399998807923
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_1300k_av1,sample,24.0,63.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.020235999964237195
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_5000k_h264_nvenc,sample,21.0,65.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.024164000011920095
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_5000k_h264_nvenc,sample,5.0,31.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.09893600001192127
+amt_gaming_vqa_dataset/ntaUAdkKZbM_RollerCoasterTycoon3_0-44_1080p_800k_hevc_nvenc,sample,48.0,64.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07969999998807964
+amt_gaming_vqa_dataset/ntaUAdkKZbM_RollerCoasterTycoon3_0-44_1080p_800k_hevc_nvenc,sample,61.0,77.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.09129999995231586

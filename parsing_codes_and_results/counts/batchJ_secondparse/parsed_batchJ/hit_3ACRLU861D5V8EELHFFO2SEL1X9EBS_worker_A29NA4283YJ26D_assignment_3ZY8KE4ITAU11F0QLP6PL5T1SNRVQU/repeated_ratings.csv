@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_1300k_av1,sample,72.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.007900000095368398
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_1300k_av1,sample,81.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009999999999999787
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_2000k_hevc_nvenc,sample,6.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0009999999999994458
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_2000k_hevc_nvenc,sample,1.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4417000000476836
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_10000k_h264_nvenc,sample,37.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005212999952316721
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_10000k_h264_nvenc,sample,26.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7453130000953685
+amt_gaming_vqa_dataset/ckJ_MgQ9WBQ_RollerCoasterTycoon3_11-30,sample,90.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007600000023842313
+amt_gaming_vqa_dataset/ckJ_MgQ9WBQ_RollerCoasterTycoon3_11-30,sample,68.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.28809999990463275
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_3500k_hevc_nvenc,sample,22.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.052299999952316156
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_3500k_hevc_nvenc,sample,7.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.8215000000000003
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_600k_hevc_nvenc,sample,26.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.020399999976158156
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_600k_hevc_nvenc,sample,89.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.08030000007152616

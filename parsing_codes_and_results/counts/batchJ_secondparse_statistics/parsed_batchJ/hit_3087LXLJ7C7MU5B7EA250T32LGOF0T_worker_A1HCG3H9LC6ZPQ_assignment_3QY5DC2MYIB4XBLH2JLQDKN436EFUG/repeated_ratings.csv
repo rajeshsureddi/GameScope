@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00,sample,84.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.003100000001490244
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00,sample,38.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.132400000002235
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_1500k_av1,sample,65.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.010800000000745769
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_1500k_av1,sample,44.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06759999999776412
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_5000k_h264_nvenc,sample,16.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006400000002235728
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_5000k_h264_nvenc,sample,47.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013800000000745882
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3500k_hevc_nvenc,sample,16.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005399999998509486
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3500k_hevc_nvenc,sample,28.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.041699999999254445
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20,sample,20.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.056867000000000445
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20,sample,15.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06646700000148975
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_5300k_h264_nvenc,sample,69.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.018632999999999456
+amt_gaming_vqa_dataset/9S7bbE2UWQA_EuroTruckSimulator2_5-20_1080p_5300k_h264_nvenc,sample,13.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.6408670000000001

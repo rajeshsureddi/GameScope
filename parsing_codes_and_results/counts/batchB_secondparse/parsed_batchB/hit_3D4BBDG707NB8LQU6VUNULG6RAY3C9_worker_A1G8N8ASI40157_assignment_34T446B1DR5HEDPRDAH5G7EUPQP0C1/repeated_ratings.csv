@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_500k_av1,sample,83.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06198999999999977
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_500k_av1,sample,21.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06588999999851097
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_2500k_h264nvenc,sample,92.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0827899999970203
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_720p_2500k_h264nvenc,sample,33.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08388999999850988
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_1500k_av1,sample,11.0,78.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08199000000000112
+amt_gaming_vqa_dataset/ZenlessZoneZero_1080p_1500k_av1,sample,38.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08808999999403966
+amt_gaming_vqa_dataset/GrandtheftautoV_2,sample,58.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",134.5473999999985
+amt_gaming_vqa_dataset/GrandtheftautoV_2,sample,93.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.049100000001491395
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_1300k_av1,sample,15.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07149000000000072
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_1300k_av1,sample,10.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08019000000298071
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_2500k_h264nvenc,sample,18.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07019000000298092
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_2500k_h264nvenc,sample,60.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09509000000149115

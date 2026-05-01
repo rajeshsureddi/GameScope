@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,72.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.24451
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,34.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.86780999999702
+amt_gaming_vqa_dataset/Godofwar_1_2160p_25000k_h264nvenc,sample,50.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.98291000000596
+amt_gaming_vqa_dataset/Godofwar_1_2160p_25000k_h264nvenc,sample,88.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.16990999999106
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2000k_hevcnvenc,sample,95.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.95021000000298
+amt_gaming_vqa_dataset/Godofwar_1_1080p_2000k_hevcnvenc,sample,6.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.40560999999404
+amt_gaming_vqa_dataset/Godofwar_1_1080p_6000k_hevcnvenc,sample,21.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.31011000000894
+amt_gaming_vqa_dataset/Godofwar_1_1080p_6000k_hevcnvenc,sample,33.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.426209999988078
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26,sample,35.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",5.998700000002982
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26,sample,32.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-9.02579999999702
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_2000k_hevc_nvenc,sample,85.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.499300000011921
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_2000k_hevc_nvenc,sample,87.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.809899999991059

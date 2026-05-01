@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/izjN-qGUBTE_CallofDutyMobile_0-00_480p_800k_hevc_nvenc,sample,85.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016866999999255228
+amt_gaming_vqa_dataset/izjN-qGUBTE_CallofDutyMobile_0-00_480p_800k_hevc_nvenc,sample,29.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.003933000001490328
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08,sample,81.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.013500000000000512
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08,sample,74.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.2810000000000006
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_3500k_hevc_nvenc,sample,93.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.00819999999925436
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_3500k_hevc_nvenc,sample,45.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.010999999999999233
+amt_gaming_vqa_dataset/-0YyCVvKilw_IceAgeVillage_4-40,sample,88.0,42.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.013609999999626865
+amt_gaming_vqa_dataset/-0YyCVvKilw_IceAgeVillage_4-40,sample,28.0,44.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.0480900000014906
+amt_gaming_vqa_dataset/MDkWLlirCMI_SuperMarioRun_0-38_480p_1000k_h264_nvenc,sample,95.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.004341000000744444
+amt_gaming_vqa_dataset/MDkWLlirCMI_SuperMarioRun_0-38_480p_1000k_h264_nvenc,sample,61.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01625900000074587
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_4-25_360p_800k_av1,sample,42.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010100000001489917
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_4-25_360p_800k_av1,sample,55.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0009000000003727138

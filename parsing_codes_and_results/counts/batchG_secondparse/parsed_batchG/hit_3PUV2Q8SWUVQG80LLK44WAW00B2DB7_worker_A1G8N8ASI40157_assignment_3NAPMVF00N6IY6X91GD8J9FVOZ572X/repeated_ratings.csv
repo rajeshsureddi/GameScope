@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/FX6xk1GME4M_EuroTruckSimulator2_0-00_720p_2500k_h264_nvenc,sample,74.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02363999999999855
+amt_gaming_vqa_dataset/FX6xk1GME4M_EuroTruckSimulator2_0-00_720p_2500k_h264_nvenc,sample,87.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022440000000743865
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_600k_hevc_nvenc,sample,82.0,36.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0029000000003733817
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_600k_hevc_nvenc,sample,13.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.026599999999627144
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25,sample,60.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",26.811366999999997
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25,sample,83.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.032866999999999535
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03,sample,72.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",23.17880000000075
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03,sample,62.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",37.02310000000149
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_2000k_hevc_nvenc,sample,48.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07820000000111804
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_2000k_hevc_nvenc,sample,79.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0016000000014901872
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30,sample,59.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.04100000000000037
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30,sample,26.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",8.6295

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_500k_av1,sample,33.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005387999904632679
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_500k_av1,sample,32.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005688000095368295
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00,sample,46.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",5.709199999809265
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00,sample,72.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",16.691299999713898
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_2300k_h264_nvenc,sample,89.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0390999999046322
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_2300k_h264_nvenc,sample,26.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.01890000009536763
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_5300k_h264_nvenc,sample,82.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.026700000286101755
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_5300k_h264_nvenc,sample,4.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.012699999809264284
+amt_gaming_vqa_dataset/vNGNQoNZ1vQ_HalfLife2_4-26,sample,52.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.020033000095367015
+amt_gaming_vqa_dataset/vNGNQoNZ1vQ_HalfLife2_4-26,sample,22.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02353300009536774
+amt_gaming_vqa_dataset/vNGNQoNZ1vQ_HalfLife2_4-26_480p_1000k_h264_nvenc,sample,48.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0021670001907345693
+amt_gaming_vqa_dataset/vNGNQoNZ1vQ_HalfLife2_4-26_480p_1000k_h264_nvenc,sample,47.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.017232999904631896

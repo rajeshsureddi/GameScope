@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3000k_av1,sample,79.0,71.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.020500000000000185
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3000k_av1,sample,54.0,55.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.032999999999999474
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_600k_hevc_nvenc,sample,30.0,56.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.007900000005960806
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_600k_hevc_nvenc,sample,52.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.005599999994039706
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_2-14_480p_1000k_h264_nvenc,sample,99.0,68.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.03839999999105892
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_2-14_480p_1000k_h264_nvenc,sample,89.0,54.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.028199999988078872
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_1000k_h264_nvenc,sample,57.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02636300000298064
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_1000k_h264_nvenc,sample,49.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.19106300000596121
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_1500k_hevc_nvenc,sample,13.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.4840370000029797
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_1500k_hevc_nvenc,sample,11.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.19536300000298112
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_600k_hevc_nvenc,sample,69.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03936300000298054
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49_720p_600k_hevc_nvenc,sample,71.0,82.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.20466300000000004

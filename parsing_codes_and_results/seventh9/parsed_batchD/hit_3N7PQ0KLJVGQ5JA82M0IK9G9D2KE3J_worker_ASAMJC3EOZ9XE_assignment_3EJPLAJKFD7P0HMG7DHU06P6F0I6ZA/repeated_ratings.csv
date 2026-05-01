@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_1000k_h264_nvenc,sample,13.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0387120000000003
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_1000k_h264_nvenc,sample,61.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.036911999999254874
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_800k_hevc_nvenc,sample,54.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022300000000745612
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33_1080p_800k_hevc_nvenc,sample,72.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0030000000000001137
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_2300k_h264_nvenc,sample,53.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02746699999701896
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_2300k_h264_nvenc,sample,71.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01566700000000054
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_5300k_h264_nvenc,sample,12.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0077329999985096265
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_5300k_h264_nvenc,sample,4.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018067000002234934
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_5-14_480p_1000k_h264_nvenc,sample,61.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0071000000014898035
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_5-14_480p_1000k_h264_nvenc,sample,51.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01969999999925598
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_800k_hevc_nvenc,sample,99.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.013300000000745271
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_800k_hevc_nvenc,sample,28.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05309999999776416

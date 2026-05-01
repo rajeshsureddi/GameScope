@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_5300k_h264_nvenc,sample,71.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.01073299999403865
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_5300k_h264_nvenc,sample,61.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.021132999999998958
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_2000k_hevc_nvenc,sample,27.0,60.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0211999999880792
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_2000k_hevc_nvenc,sample,55.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.002100000008940839
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_6000k_hevc_nvenc,sample,43.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.01090000000596092
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_6000k_hevc_nvenc,sample,45.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.011700000002980104
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05,sample,84.0,68.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.046200000002979635
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05,sample,42.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09020000000298012
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_6000k_hevc_nvenc,sample,87.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.007700000002980545
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_6000k_hevc_nvenc,sample,58.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.011799999997020194
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39,sample,92.0,44.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022700000002981113
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39,sample,51.0,59.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.023599999994040388

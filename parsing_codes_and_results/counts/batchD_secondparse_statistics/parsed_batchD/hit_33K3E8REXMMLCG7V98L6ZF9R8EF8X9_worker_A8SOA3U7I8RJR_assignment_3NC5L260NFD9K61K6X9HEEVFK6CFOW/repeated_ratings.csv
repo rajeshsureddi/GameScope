@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_800k_hevc_nvenc,sample,31.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.04240000000037192
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_800k_hevc_nvenc,sample,41.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.043900000000371975
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33,sample,89.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",7.312800000000745
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33,sample,62.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05459999999962761
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_2000k_hevc_nvenc,sample,28.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0985669999985106
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_2000k_hevc_nvenc,sample,27.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.033266999999627345
+amt_gaming_vqa_dataset/5162HItNstY_WorldofTanks_1-58_480p_1000k_av1,sample,17.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010500000000000398
+amt_gaming_vqa_dataset/5162HItNstY_WorldofTanks_1-58_480p_1000k_av1,sample,85.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.011400000000373112
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_6000k_hevc_nvenc,sample,55.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12170000000111791
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_6000k_hevc_nvenc,sample,61.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.21010000000149098

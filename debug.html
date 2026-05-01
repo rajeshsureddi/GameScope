@@ -1,0 +1,2145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<style>
+			/* https://stackoverflow.com/questions/31703153/bootstrap-jumbotron-full-width-and-height-of-window-with-background-image */
+.jumbotron{
+    height: 100vh;
+}
+.nextButton {
+  margin: 0 auto; /* horizontal alignment */
+  display: block;
+  font-size:14pt;
+  font-weight:bold
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  /* display: inline-block; */
+  display: none;
+}
+#slider_demo {
+  max-height: 95vh;
+  max-width: 95%;
+}
+#debug-shortcut, #debug-progress {
+  display: none;
+}
+video
+{
+    max-height: 95vh;
+    max-width: 95%;
+}
+/* https://stackoverflow.com/questions/19461521/how-to-center-an-element-horizontally-and-vertically */
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100vw;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+.slider {
+  -webkit-appearance: none;
+  width: 70%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #56a3f1;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #56a3f1;
+  cursor: pointer;
+}
+/* .center {
+    height: 100%;
+    display: -webkit-flexbox;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    justify-content: center;
+} */
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #555;
+  /* width: 1000; */
+}
+			.stop {
+			 animation-name: none !important;
+			 -webkit-animation-name: none !important;
+			}
+			#bottomLeftCorner {
+			  position: absolute;
+			  bottom: 0px;
+			   margin-right: auto;
+			   margin-left: auto;
+			   left: 0px;
+			   font-size:12pt;
+			}
+    </style>
+		
+
+		<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+		<script src="https://s3.amazonaws.com/MTurks/jquery-1.11.2.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		
+
+		<!-- <script src="//uniqueturker.myleott.com/lib.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+//////////// example
+// opt.ut_id = 'unset'; % set this using http://uniqueturker.myleott.com/
+// (function(){
+//     var ut_id = "";
+//     if (UTWorkerLimitReached(ut_id)) {
+//         document.getElementById('mturk_form').style.display = 'none';
+//         document.getElementsByTagName('body')[0].innerHTML = "You have already completed the maximum number of HITs allowed by this requester. Please click 'Return HIT'.";
+//     }
+// })();
+</script> -->
+
+    <script type="text/javascript">
+      // https://stackoverflow.com/questions/24052775/how-to-get-the-console-log-content-as-string-in-javascript
+var logBackup = console.log; // console.log with timestamp
+var logMessages = [];
+
+console.log = function() {
+  var timestamp = new Date().toJSON(); // The easiest way I found to get milliseconds in the timestamp
+  var args = arguments;
+
+  logBackup.apply(console, arguments); // console don't show timestamp
+  args[0] = timestamp + ' > ' + arguments[0];
+  logMessages.push.apply(logMessages, args);
+};
+			$(document).ready(function(){
+  var nVer = navigator.appVersion;
+  var nAgt = navigator.userAgent;
+  var browserName  = navigator.appName;
+  var fullVersion  = ''+parseFloat(navigator.appVersion);
+  var majorVersion = parseInt(navigator.appVersion,10);
+  var nameOffset,verOffset,ix;
+
+  // In Opera, the true version is after "Opera" or after "Version"
+  if ((verOffset=nAgt.indexOf("Opera"))!=-1) {
+   browserName = "Opera";
+   fullVersion = nAgt.substring(verOffset+6);
+   if ((verOffset=nAgt.indexOf("Version"))!=-1)
+     fullVersion = nAgt.substring(verOffset+8);
+  }
+  // In MSIE, the true version is after "MSIE" in userAgent
+  else if ((verOffset=nAgt.indexOf("MSIE"))!=-1) {
+   browserName = "Microsoft Internet Explorer";
+   fullVersion = nAgt.substring(verOffset+5);
+  }
+  // In Chrome, the true version is after "Chrome"
+  else if ((verOffset=nAgt.indexOf("Chrome"))!=-1) {
+   browserName = "Chrome";
+   fullVersion = nAgt.substring(verOffset+7);
+  }
+  // In Safari, the true version is after "Safari" or after "Version"
+  else if ((verOffset=nAgt.indexOf("Safari"))!=-1) {
+   browserName = "Safari";
+   fullVersion = nAgt.substring(verOffset+7);
+   if ((verOffset=nAgt.indexOf("Version"))!=-1)
+     fullVersion = nAgt.substring(verOffset+8);
+  }
+  // In Firefox, the true version is after "Firefox"
+  else if ((verOffset=nAgt.indexOf("Firefox"))!=-1) {
+   browserName = "Firefox";
+   fullVersion = nAgt.substring(verOffset+8);
+  }
+  // In most other browsers, "name/version" is at the end of userAgent
+  else if ( (nameOffset=nAgt.lastIndexOf(' ')+1) <
+            (verOffset=nAgt.lastIndexOf('/')) )
+  {
+   browserName = nAgt.substring(nameOffset,verOffset);
+   fullVersion = nAgt.substring(verOffset+1);
+   if (browserName.toLowerCase()==browserName.toUpperCase()) {
+    browserName = navigator.appName;
+   }
+  }
+  // trim the fullVersion string at semicolon/space if present
+  if ((ix=fullVersion.indexOf(";"))!=-1)
+     fullVersion=fullVersion.substring(0,ix);
+  if ((ix=fullVersion.indexOf(" "))!=-1)
+     fullVersion=fullVersion.substring(0,ix);
+
+  majorVersion = parseInt(''+fullVersion,10);
+  if (isNaN(majorVersion)) {
+   fullVersion  = ''+parseFloat(navigator.appVersion);
+   majorVersion = parseInt(navigator.appVersion,10);
+  }
+
+  var OSName="Unknown OS";
+  if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+  if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+  if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+  if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+
+  $("#systemInfo").val(''
+   +'Browser name  = '+browserName+'/'
+   +'Full version  = '+fullVersion+'/'
+   +'Major version = '+majorVersion+'/'
+   +'navigator.appName = '+navigator.appName+'/'
+   +'navigator.userAgent = '+navigator.userAgent+'/'
+   +'Your OS: '+OSName);
+
+ 	var screenH = window.screen.height;
+ 	var screenW = window.screen.width;
+ 	$("#screenSize").val(screenH+"/"+screenW);
+
+   console.log(''
+    +'Browser name  = '+browserName+'/'
+    +'Full version  = '+fullVersion+'/'
+    +'Major version = '+majorVersion+'/'
+    +'navigator.appName = '+navigator.appName+'/'
+    +'navigator.userAgent = '+navigator.userAgent+'/'
+    +'Your OS: '+OSName);
+});
+			// responsive design for mobile Interface
+
+// from http://stackoverflow.com/questions/15589764/how-to-hide-the-link-to-an-external-web-page-in-a-hit-before-workers-accept-the
+var isMobile = false; //initiate as false
+// device detection
+if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+    || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0,4))) {
+    isMobile = true;
+}
+
+$(document).ready(function(){
+  // bigger font size for laptop users
+  if (!isMobile) {
+    var fontSize = parseInt($("body").css("font-size"));
+    fontSize = fontSize + 8 + "px";
+    $("body").css({'font-size':fontSize});
+    document.getElementById('slider_demo').src = 'https://raw.githubusercontent.com/tmvideostudy/content/main/slider_demo.png';
+    // https://stackoverflow.com/questions/6515475/rotate-a-table-90-degrees
+    // rotate the table
+    // $('#demo-table').each(function() {
+    //   var $this = $(this);
+    //   var newrows = [];
+    //   $this.find("tr").each(function(){
+    //       var i = 0;
+    //       $(this).find("td").each(function(){
+    //           i++;
+    //           if(newrows[i] === undefined) { newrows[i] = $("<tr></tr>"); }
+    //           newrows[i].append($(this));
+    //       });
+    //   });
+    //   $this.find("tr").remove();
+    //   $.each(newrows, function(){
+    //       $this.append(this);
+    //   });
+    // });
+  }
+});
+			/*
+// from http://stackoverflow.com/questions/15589764/how-to-hide-the-link-to-an-external-web-page-in-a-hit-before-workers-accept-the
+Amazon will pass variables in the url query string when opening your external web page. For this use case, you want to look at assignmentId. If assignmentId is ASSIGNMENT_ID_NOT_AVAILABLE the worker is previewing the HIT. (More info in the mturk docs.)
+
+You can grab those variables with the following javascript:
+
+
+var assignmentId = $.getUrlVar('assignmentId');
+var workerId = $.getUrlVar('workerId');
+var hitId = $.getUrlVar('hitId');
+if (assignmentId == "ASSIGNMENT_ID_NOT_AVAILABLE"){
+  // Worker is previewing the HIT
+}
+else {
+  // Worker has accepted the HIT
+}
+*/
+
+$.extend({
+  getUrlVars: function(){
+    // From http://code.google.com/p/js-uri/source/browse/trunk/lib/URI.js
+    var parser = /^(?:([^:\/?\#]+):)?(?:\/\/([^\/?\#]*))?([^?\#]*)(?:\?([^\#]*))?(?:\#(.*))?/;
+    var result = window.location.href.match(parser);
+    var scheme    = result[1] || null;
+    var authority = result[2] || null;
+    var path      = result[3] || null;
+    var query     = result[4] || null;
+    var fragment  = result[5] || null
+    if (query === null || query === undefined) {
+      return {};
+    }
+    var vars = [], hash;
+    var hashes = query.split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+      hash = hashes[i].split('=');
+      vars.push(hash[0]);
+      vars[hash[0]] = hash[1];
+    }
+    return vars;
+  },
+  getUrlVar: function(name){
+    return $.getUrlVars()[name];
+  }
+});
+
+var is_assigned = ($.getUrlVar('assignmentId') != 'ASSIGNMENT_ID_NOT_AVAILABLE');
+			function setBodyHeight() {
+  var wh = $(window).height();
+  $('body').height(wh); // body height = window height
+}
+
+$(document).ready(function(){
+  $(window).bind('resize', function() {
+      setBodyHeight();
+  });
+});
+			// load jinja2 python variables here, avoid loading in the context
+var golden = ['https://livetmvideostudy.s3.amazonaws.com/videos/893e97381a5372f213f99c202c47c62cecd231bb.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/494e638e96d6b3f55ab5acc13c91f3e9add78803.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/268a29a79ec2b557b04cb6ca0febb25741b8c905.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/d7688afeba1ccfc24540206db37ceb1f374c14cc.mp4'];
+var trains = ['https://livetmvideostudy.s3.amazonaws.com/videos/Train1.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/Train2.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/Train3.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/Train4.mp4'];
+var labels = ['https://livetmvideostudy.s3.amazonaws.com/videos/d66eb56725941279aa3a390055421006fabe571b.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/36fccc8ccfbed01e612aef941ccf9c553eb2d619.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/cd3ac73caed5f4a4326683d22a460052a900aa24.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/96b5695a41717ef1e72873e42f642bba6b8d6382.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/a9cc27bcf46bcb0b645f719eea1d2b7ac8e07006.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/c2fb179a38e77ab21ff641b19577aab878933480.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/9ca927ade31a81cfbdf30c05a4831b963a5b319f.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/0b82f78731c1515460b20f7c8b0f99b068eb5454.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/614d77c4af5b863524ddc85a6375b8d5cab4aaef.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/adca67e7569bae3d6bb6d69b15d3171a23a98412.mp4'];
+var backup = ['https://livetmvideostudy.s3.amazonaws.com/videos/https://drive.google.com/uc?export=view&id=1m0CCp5IYWDkG-QsxkSSJt5PM0YSSTvF_.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/https://drive.google.com/uc?export=view&id=1m0CCp5IYWDkG-QsxkSSJt5PM0YSSTvF_.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/https://drive.google.com/uc?export=view&id=1m0CCp5IYWDkG-QsxkSSJt5PM0YSSTvF_.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/https://drive.google.com/uc?export=view&id=1m0CCp5IYWDkG-QsxkSSJt5PM0YSSTvF_.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/https://drive.google.com/uc?export=view&id=1m0CCp5IYWDkG-QsxkSSJt5PM0YSSTvF_.mp4', 'https://livetmvideostudy.s3.amazonaws.com/videos/https://drive.google.com/uc?export=view&id=1m0CCp5IYWDkG-QsxkSSJt5PM0YSSTvF_.mp4']; // don't shuffle backup videos, if there is one borken video, we will always have backup1 rated instead.
+var backupIndex = 0;
+var repeat = [];
+var arr = [];
+while(arr.length < 3){
+  var r = Math.floor(Math.random() * labels.length );
+  if(arr.indexOf(r) === -1){
+    repeat.push(labels[r]);
+    arr.push(r);
+  }
+} // https://stackoverflow.com/a/2380113
+
+var debug_mode = false; // false initally, will be updated later
+var currentVid = null;
+
+var t = {}; // training videos
+var p = {}; // testing videos, including repeated, golden, and label videos
+t.idx = 0;
+p.idx = 0;
+var min_distance = 8;
+
+// function shuffle(array) {
+//   array.sort(() => Math.random() - 0.5);
+// }
+// https://javascript.info/task/shuffle
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+function wait(timeout) {
+    return new Promise(resolve => {
+        setTimeout(resolve, timeout);
+    });
+}
+function prepare_backup_vid(vids, index) {
+  let new_name = backup[backupIndex];
+  console.log('Error when loading video '+ v.src + ' Replaced with ' + new_name);
+  backupIndex++;
+  backupIndex = backupIndex % backup.length; // avoid array overflow
+  vids.items[index] = new_name; // also need to update the name of the repeated video
+  // better to update current video element instead of removing it
+  // vids.items[vids.items.lastIndexOf(name)] = new_name;
+  v.loadFailTimes = 0;
+  prepare_vid(vids, index, update=true);
+}
+
+// if trigger next, it will bring a lot of data transfer
+// no return value, can't know whether is ready or not
+function prepare_vid(vids, index, update=false, trigger_next=false) {
+  name = vids.items[index];
+  if (vids.elements[index] == 'broken'){return false;}
+
+  // already loaded
+  if ((typeof vids.elements[index] !== 'undefined') && (update==false) ){return true;}
+  v = update ?  vids.elements[index] : document.createElement('video');
+
+  if (golden.indexOf(name) != -1) {
+      v.src = name.includes('http') ? name : 'https://livetmvideostudy.s3.amazonaws.com/videos/' + name + '.mp4'; // don't support google drive now
+  }
+  else{
+      v.src = name.includes('http') ? name : 'https://livetmvideostudy.s3.amazonaws.com/videos/' + name + '.mp4'; // don't support google drive now
+  }
+
+  // Add 'raw' tag if using github URLs
+  if (v.src.includes('github') && !name.includes('http'))
+      v.src = v.src + '?raw=true'
+
+  v.preload = 'auto';  // https://www.geeksforgeeks.org/html-video-preload-attribute/
+	// type: 'video/mp4'
+  v.muted = true;
+	v.controls = false; //  true ;
+
+  load_start = performance.now();
+
+  if(trigger_next) {
+    v.addEventListener("canplaythrough", function(){
+      if (index+1 < arr.length) {
+          prepare_vid(arr[index+1], index+1, arr, elements);
+      }
+    } );
+  }
+
+  if (vids == t) {v.addEventListener("canplaythrough", trainLoadTime);}
+
+	
+  // let type = v == t ? 'train':'test';
+	// use addEventListener to append listener otherwise it will get overwritten for repeated videos
+  v.addEventListener("loadstart", function(){$("#status-"+vids.type+(index+1)).css("background-color", "blue"); console.log("loadstart video "+v.src);});
+	v.addEventListener("error", function(){$("#status-"+vids.type+(index+1)).css("background-color", "red"); console.log("loadeddata video "+v.src);});
+	v.addEventListener("canplay", function(){$("#status-"+vids.type+(index+1)).css("background-color", "orange"); console.log("canplay video "+v.src);});
+	v.addEventListener("canplaythrough", function(){$("#status-"+vids.type+(index+1)).css("background-color", "yellow"); console.log("canplaythrough video "+v.src);});
+  v.addEventListener("play", function(){this.timeStart=performance.now();$("#status-"+vids.type+(index+1)).css("background-color", "Violet"); console.log("play video "+v.src);});
+	// v.onprogress = function() {console.log("Downloading video ");};
+
+  let r = backup.indexOf(name); // item didn't change
+  if( r!= -1) {
+    // backup videos
+    $("#status-"+vids.type+(index+1)).append('->b' +(r+1) );
+  }
+  
+
+	// https://www.sitepoint.com/create-one-time-events-javascript/
+
+  if(typeof v.loadFailTimes == 'undefined') { v.loadFailTimes = 0; }
+	v.addEventListener('error', function() {
+      v.loadFailTimes ++;
+      if (v.loadFailTimes == 3) {
+        
+        // debug video will also be reloaded
+        // assume backup vids are always playable
+          prepare_backup_vid(vids, index);
+        
+      } else {
+        wait(500); // 0.5 s
+        this.load(); // simply load it again
+      }
+
+      // play the video
+      if (currentVid == this) {
+        this.play();
+        console.log('Error occured when playing. Loadding: '+ v.src);
+      }
+      // try to load this video again
+      // https://dinbror.dk/blog/how-to-preload-entire-html5-video-before-play-solved/
+      // solution 4 ajax not working CORS problem
+      // prepare_vid(name, index, arr, elements, update=true);
+	});
+	vids.elements[index] = v; // name --> video
+
+  if( repeat.indexOf(name) != -1) {
+      // also set the repeated one but only if it canplay, (it might be broken and replaced)
+      // this could be a borken one, old name?
+      let idx = vids.items.lastIndexOf(name); // name changed?
+      if(index != idx) {
+        v.addEventListener('canplay', function() {
+          // don't clone or use the element, keep it seperate
+          vids.items[idx] = vids.items[index]; // might be changed to backup videos
+          prepare_vid(vids, idx);
+        } );
+      }
+  }
+  return true;
+}
+
+$(document).ready(function(){
+  // wait until document ready, since we need to update elements when loading the videos
+  t.items = [];
+  t.items.push(...trains);
+
+  p.items = [];
+  p.items.push(...labels);
+  p.items.push(...repeat);
+  p.items.push(...golden);
+
+
+  shuffle(t.items);
+
+  shuffle(p.items);
+  shuffle(p.items);
+  shuffle(p.items);
+
+  
+  // it will change the arr dyncamically...
+  repeat.forEach( function(v, idx) {
+    // find occurances:
+    var first = p.items.indexOf(v);
+    var second = p.items.indexOf(v, first+1);
+
+    if (second - first < min_distance) {
+      // console.log('-------Distance change: ' + idx + ':' + first + '-' +  second)
+      var i = second
+      var j = ( first + min_distance ) % p.items.length;
+      [p.items[i], p.items[j]] = [p.items[j], p.items[i]];
+    }
+  } );
+  
+
+  p.elements = []
+  p.type = 'test'
+  t.elements = []
+  t.type = 'train'
+
+  
+  p.items.forEach( function(name, index, vids) {
+    if (labels.indexOf(name) != -1) {
+      // label videos
+      $("#status-test"+(index+1)).html(labels.indexOf(name)+1);
+      $("#status-test"+(index+1)).css("outline", "");
+      if (repeat.indexOf(name) != -1) {
+        // repeat videos
+        $("#status-test"+(index+1)).css("outline-color", "black");
+        $("#status-test"+(index+1)).css("outline-width", repeat.indexOf(name)+1);
+        $("#status-test"+(index+1)).css("outline-style", "solid");
+      }
+    }
+    else if (golden.indexOf(name) != -1) {
+      // gold videos
+      $("#status-test"+(index+1)).html('g'+(golden.indexOf(name)+1) );
+      $("#status-test"+(index+1)).css("outline-color", "orange");
+      $("#status-test"+(index+1)).css("outline-width", golden.indexOf(name)+1);
+      $("#status-test"+(index+1)).css("outline-style", "dotted");
+    }
+    else {}
+  } );
+  t.items.forEach( function(name, index, vids) {
+    $("#status-train"+(index+1)).html(trains.indexOf(name)+1);
+    $("#status-train"+(index+1)).css("outline", "");
+  } );
+  
+
+  // load one by one or in parallel
+
+}); // before main_logic
+			// Rejection during instruction phase
+var score_diff = [];
+var sd1 = 10;
+var scores = [];
+var sd2 = 10;
+var train_delay = 0;
+// Number of Stalls
+var stall_count = 0;
+var score_diff = [];
+var delay = 0;
+var load_start = 0;
+var load_end = 0;
+var loadTime = 0;
+var loadThresh = 20;
+
+var trainc = 0;
+
+var phase = "instruction"
+
+
+function hide_all() {
+	$('#instruction').hide();
+	$('#quiz').hide();
+	$('#survey').hide();
+	$('#done').hide();
+
+	$('#traintest').hide();
+	$('#divRejected').hide();
+
+	$('#divNextButton').hide();
+	$('#imageA').hide();
+	$('#buttonA').hide();
+	$('#btnDidntSeeVideo').hide();
+	// $('#bottomLeftCorner').hide();
+}
+
+function rejected(msg, retry=true) {
+	console.log('user [' + $.getUrlVar('assignmentId') + '] rejected because of ' + msg);
+	 
+		 $("textarea#debugMsg").val(logMessages.join('\n'));
+	 
+	 $('#reasonRejected').html(msg);
+
+	 hide_all();
+ 	$('#submitButton').remove();
+ 	// record information?
+ 	$('#divRejected').show();
+ 	$('#divNextButton').hide();
+	phase = 'reject'
+}
+
+function standardDeviation(values){
+  var avg = average(values);
+
+  var squareDiffs = values.map(function(value){
+    var diff = value - avg;
+    var sqrDiff = diff * diff;
+    return sqrDiff;
+  });
+
+  var avgSquareDiff = average(squareDiffs);
+
+  var stdDev = Math.sqrt(avgSquareDiff);
+  return stdDev;
+}
+
+function average(data){
+  var sum = data.reduce(function(sum, value){
+    return sum + value;
+  }, 0);
+
+  var avg = sum / data.length;
+  return avg;
+}
+
+// var gold_scores = [20,30,40,50];
+// Browser resolution
+function rejectBrowserRes() {
+  var wh = $(window).height();
+  var ww = $(window).width();
+  $("#browserWindowSize").val(wh+' / '+ww);
+  console.log("Browser Height: " + wh + " / " + "Browser Width: " + ww );
+  if(isMobile) {
+    // if(wh < 640 && ww < 360) {
+    //   rejected('The mobile browser resolution is too small for this study. Please return the HIT.');
+    // }
+    rejected('Mobile browser detected - this study is only open to desktop/laptop viewers. Please return the HIT.')
+  }
+  else {
+    if(wh < 720 && ww < 1280) {
+      rejected('The desktop browser resolution is too small for this study. Please return the HIT.');
+    }
+  }
+}
+
+// Browser Version
+function rejectBrowser(){
+  var browsers = navigator.appName;
+  // var broswerVers = navigator.appVersion;
+  var browserVers = parseInt(navigator.appVersion,10);
+  if(browsers != "Netscape" && browsers != "Opera") {
+    rejected('Your browser is not compatible with this study. Please return the HIT and try with another browser.');
+  }
+  if(browserVers < 5){
+    rejected('Please return the HIT. Update your browser and try again.');
+  }
+}
+// Browser zoom
+function rejectBrowserZoom(){
+	pr = window.devicePixelRatio;
+	pr = parseFloat(pr.toFixed(2));
+	pr1 = Math.abs(pr-1);
+	pr2 = Math.abs(pr-2);
+	console.log("Browser zoom: " + pr);
+	if((pr1 > 0) && (pr2 > 0)){
+		$('#alert-msg').attr('class', "alert alert-warning");
+		$('#alert-msg').html('Please check if the browser zoom is set to 100%. If not, you can set it by pressing Ctrl+0 or Cmd+0.')
+	}
+}
+// Loading Time
+function trainLoadTime(){
+	// measure load time for each individual video
+    load_end = performance.now();
+		var loadTimeThis = (load_end - load_start)/1000;
+		loadTime += loadTimeThis;
+		trainc += 1;
+		if(trainc==4){
+	    console.log("Loading time: " + loadTime);
+	    if (loadTime > loadThresh){
+	      rejected('Your internet connection is too slow for this study. You could try again after getting a faster connection.');
+	    }
+		}
+}
+
+// Rejection during training phase
+
+// Stalls and spped up
+function checkStalls(){
+  var singleDelay = 2;
+  var totDelay = 5;
+  if (delay > singleDelay || train_delay > totDelay){
+    rejected('Your internet connection is too slow for this study. You could try again after getting a faster connection.');
+  }
+  if ( train_delay < -0.5) {
+    rejected('speedup', retry=false);
+  }
+}
+
+//Rejection during testing phase (halfway)
+
+// Diff of points
+// var sd1 = 10;
+
+
+function checkDiffSD(){
+  var diffSD = standardDeviation(score_diff);
+  console.log("diffSD: " + diffSD);
+  if(diffSD < 10){
+    rejected('checkDiffSD', retry=false);
+  }
+}
+
+// Score Consistency
+
+
+function checkScoreConsistency(){
+  var conSD = standardDeviation(scores);
+  console.log("conSD: " + conSD);
+  if(conSD < 10){
+    rejected('checkScoreConsistency', retry=false);
+  }
+}
+
+// Check stalls
+function checkStallCount(){
+  console.log("stall count:" + stall_count);
+  if(stall_count > 15){
+    rejected('Your internet connection is too slow for this study. You could try again after getting a faster connection.');
+  }
+}
+
+// //Rejection during survey
+//
+// //Repeated videos
+// fault_repeat = 0;
+// // for repeated idx, push to array
+// if(diff>sd2){
+//   fault_repeat += 1;
+// }
+// function checkRepeatDiffs(){
+//   if(fault_repeat>2){
+//     rejected('You did not satisfy the requirements for this study. Please return the HIT.');
+//   }
+// }
+//
+// // // Golden videos
+// fault_golden = 0;
+// if(diff>20){
+//   fault_golden += 1;
+// }
+// function checkGoldenDiffs(){
+//   if(fault_repeat>2){
+//     rejected('You did not satisfy the requirements for this study. Please return the HIT.');
+//   }
+// }
+
+// Check lens correction
+// Do after the study
+
+$(document).ready(function(){
+		$( window ).load(function() {
+		  // Run code
+		  rejectBrowserRes();
+		  rejectBrowser();
+			rejectBrowserZoom();
+
+		  $( "#sub_butA" ).on({
+		    rejection_check: function() {
+		      if (phase == 'test') {
+		        var final_val = document.getElementById("points").value
+		        var init_val = sessionStorage['initialVal'] || 'defaultValue';
+		  			d = Math.abs(parseInt(final_val,10) - parseInt(init_val,10));
+		  			score_diff.push(d);
+		  			scores.push(parseInt(final_val,10));
+
+		  			if (p.im_num == parseInt(p.items.length/2) ){
+							console.log('halfway rejection check!!!')
+		  				checkDiffSD();
+		  				checkStallCount();
+		          checkScoreConsistency();
+		  			};
+
+		        // check at end of testing phase
+		        // if (p.im_num == 17){
+		        //   for (var i=0, len=p.items.length; i<len; i++) {
+		        //     if (p.items[i].videotype == 'gold') {
+		        //
+		        //     }
+		        //   }
+		        //   p.items.forEach( function(v, index) {
+		        //     switch (v.videotype) {
+		        //       case 'gold':
+		        //         break;
+		        //       case 'repeat':
+		        //         break;
+		        //       default:
+		        //         break;
+		        //     }
+		        //   } );
+		        // };
+		  		// }
+
+		      // checkGoldenDiffs();
+		      // checkRepeatDiffs();
+
+		    }
+		  }
+		  });
+		});
+}); // before main_logic
+      function dbg() {
+		$('#debug-shortcut').toggle();
+		$('span[id^=status]').toggle();
+		debug_mode = !debug_mode
+		// currentVid.controls = !currentVid.controls;
+		return debug_mode
+}
+
+function instruction() {
+	hide_all();
+	$('#basic').show();
+	$('#instruction').show();
+}
+
+function quiz() {
+	hide_all();
+	$('#quiz').show();
+}
+
+function pre_train() {
+	if (p == null) return;
+	hide_all();
+	$('#phase_info').html("You are entering the training session. Click to Continue.");
+	$('#nextButton').html('Continue');
+	$('#divNextButton').show();
+}
+
+function pre_test() {
+	hide_all();
+	$('#phase_info').html("You are entering the testing session. Click to Continue.");
+	$('#divNextButton').show();
+}
+
+function show_slider(vids) {
+	// video done playing
+	var init_val = Math.floor(Math.random() * 100);
+	sessionStorage['initialVal'] = init_val;
+	$('#attributes').find('input[type=checkbox]:checked').removeAttr('checked');
+	document.getElementById('points').value = init_val;
+	document.getElementById("textbox_input").value = "";
+	$('#textbox').hide();
+	$('#short_instructions').show();
+	$('#buttonA').hide();
+	$('#main-slider').show();
+	$('#points').change(function(){$('#buttonA').show();$('#report_video').show(); $('#sub_butA').prop('disabled', false);});
+}
+
+// combine train and test function
+var last_progress = 0;
+var timeout = null;
+
+function show_vid(vids, index=null) {
+
+	if (index == null) {
+		index = vids.idx;
+	}
+	// avoid bad calls
+	if (index >= vids.items.length || index < 0) {return false;}
+	// check if is ready
+	prepare_vid(vids, index);
+	// auto skip: this function is not working. disabled, we don't change vids.idx here
+	// if (prepare_vid(vids, vids.idx) == false) {
+	// 	// wont call if use backup (prepare vid always returns true )
+	//  	vids.idx ++; // load next one
+	// 	console.log('broken p.idx=' + p.idx);
+	// 	return show_vid(vids);
+	// }
+
+	// video is ready
+	hide_all();
+	// show progress every 10% done
+	// showing the number of videos will scare people away
+	// showing the precentage for every video introduce stress
+	if (index == 0) {last_progress = 0;}
+	let progress = (index+1)/(vids.items.length)*100;
+	if (progress - last_progress > 10) {
+		$('#submit_info').html(parseInt(progress) + '% Done :)');
+		last_progress = progress;
+	} else {
+		$('#submit_info').html('');
+	}
+
+	// (index+1) + " out of " + (vids.items.length)
+	// instead of showing the exact number, it's better to show a percentage
+	$('#traintest').show(); // video and slider
+	$('#main-slider').hide();
+	$('#btnDidntSeeVideo').show();
+	// show video
+
+		// // we cannot know if it's borken when preparing it.
+		// // it's not ready yet
+
+		// video.readyState == 4
+		// wait until it's ready or borken
+		currentVid = vids.elements[index];
+		currentVid.controls = debug_mode;
+		document.getElementById("divVideo").appendChild(currentVid);
+		currentVid.play();
+		console.log(currentVid.duration); // sometime it's NaN. if the metadata is not ready, then it's nan
+
+		// if error, load it gain
+		// start counting video start playing
+		var t00 = performance.now();
+		var donewatching = function() {
+			if (currentVid != null) {
+				// is it possible currentVid changed? No
+				show_slider(vids);
+				var t0 = currentVid.timeStart;
+				if (t0 != undefined) {
+					 t00 = t0; // wait until time runs out
+				}
+				var t1 = performance.now();
+				// let duration = isNan(currentVid.duration)?
+				delay =  ((t1 - t00)/1000) - currentVid.duration; // now the duration is ready
+				// the same video? what if it get replaced?
+				train_delay += delay;
+				if (phase == 'train') {
+					checkStalls();
+				}
+				if (phase == 'test') {
+					if(delay > 1){
+						stall_count += 1;
+					}
+				}
+				// sessionStorage['delay'] = isNaN(delay)? 'start=' + t00 + ';end=' + t1 + ';duration=' + currentVid.duration : delay;
+				sessionStorage['delay'] = delay;
+				if (isNaN(delay)) { // only for nan videos
+					let selected = $('#nanDelay');
+					let info = currentVid.src + ' :start=' + t00.toFixed(2) + '&end=' + t1.toFixed(2) + '&duration=' + currentVid.duration;
+					if (selected.val() == "unset") {
+						selected.val(info);
+					} else { // append the value
+						selected.val(selected.val() + ' | ' + info);
+					}
+				}
+				console.log("Time taken: " + (t1 - t0)/1000);
+				console.log("Train Delay: " + train_delay);
+				console.log("Delay: " + delay);
+				currentVid.remove();
+				currentVid = null;
+			}
+		}
+		// Set the timeout in case there are something wrong going on
+		
+		// normal way
+		currentVid.addEventListener('ended', donewatching);
+		return true;
+}
+
+// golden video broken
+
+function survey() {
+	// $('#instruction').hide();
+  // $('#report_video').hide();
+	hide_all();
+	$('#survey').show();
+	$('#short_instructions').detach();
+	// $('#divNextButton').show();
+	// $('#nextButton').addAttr("disabled");
+	// $('#nextButton').prop("disabled", true);
+}
+
+function done() {
+	// configuration and thanks
+	alert('Well done! Click the submit button');
+
+	$('#done').show();
+	// $('#survey_box').animate({right: '-100%'});
+	$('#survey').hide();
+	$('#divNextButton').hide();
+	$("#submitButton").show();
+  $("#submitButton").prop('disabled', false);
+	$("#submitButton").css("visibility", "visible");
+
+	$('#debugInfo').val(p.items.join(';'));
+	$('<input/>').attr({type:'hidden',name:'welldone',value:'yes'}).appendTo('#survey');
+}
+
+
+
+function next(_phase=phase) {
+	phase = _phase
+	console.log('[' + phase + ']');
+	
+
+  // update phase
+  switch (phase) {
+		case 'instruction': instruction();  phase = 'quiz';        break;
+		case 'quiz':			  quiz();
+			prepare_vid(t, 0);
+			prepare_vid(p, 0);
+		  phase = 'pre_train';   break;
+		case 'pre_train':	  pre_train();    phase = 'train';       break;
+		case 'pre_test':    pre_test();     phase = 'test';        break;
+		case 'survey':      survey();       phase = 'done';        break;
+		case 'done':        done();         break;
+		case 'reject':      break;
+
+		case 'train':
+			show_vid(t); t.idx++;
+			if (t.idx == t.items.length) { phase = 'pre_test'; }
+			else {prepare_vid(t, t.idx);}
+			break;
+    case 'test':
+			show_vid(p); p.idx++;
+			// prepare next video
+			if (p.idx == p.items.length) { phase = 'survey'; }
+			else {
+				prepare_vid(p, p.idx);
+				// if (p.elements[p.idx].src.includes('https://drive.google.com/')) {
+				// 	console.log(p.items[p.idx] + p.elements[p.idx].readyState);
+				// 	p.elements[p.idx].load(); //
+				// }
+			}
+			break;
+
+    default:
+      break;
+  }
+}
+
+function submitAnswer() {
+		// update user interface ----------------------------
+		// $('#main-slider').animate({top: '-2000px'});
+		$('#buttonA').hide();
+
+		// recording information -----------------------------
+		var final_val = document.getElementById("points").value
+		var init_val = sessionStorage['initialVal'] || 'defaultValue';
+		var delay = sessionStorage['delay'] || 'defaultValue'; // sessionStorage['delay'] is null
+
+
+		var attributes = [];
+
+		$('#attributes').find('input[type=checkbox]:checked').each( (index, item) => {
+				attributes.push(item.value);
+		});
+		attributes.push(document.getElementById("textbox_input").value)
+		// select the correct index
+		if (p.idx>0) { // set if phase == test -- will lose the last rating!!!
+			var name = p.items[p.idx-1]
+			var r = [...labels, ...backup, ...golden].indexOf(name) // videos1 to vides 82 and then backup videos
+
+			// golden video or broken video (backup loaded, we have 80 backup videos)
+			if (r == -1) {selected = $("input[name='" + name + "']");}
+			else {selected = $("#videos"+(r+1)); } // double-checked, r start with 0 while videos start with 1
+			// selected = $("#selection"+(p.idx)) // be carefull +1 -1
+
+			if (selected.val() == "unset") {
+				selected.val(init_val+"/"+final_val+"/" + attributes + "/" + delay);
+			} else { // append the value
+				selected.val(selected.val() + ' | ' + init_val+"/"+final_val+"/" + attributes + "/" + delay);
+			}
+
+			console.log( selected.attr('name') + ' ' + name + ' ---> ' + selected.val() );
+	    $("#status-test"+p.idx).css("background-color", "green");
+			$('#sub_butA').attr("disabled",true);
+
+			// rejection ----------------------------------
+	    $('#sub_butA').trigger('rejection_check');
+		} else {
+			$("#status-train"+t.idx).css("background-color", "green");
+		}
+
+    next();
+}
+
+$(document).ready(function(){
+	// ui --------------------------
+
+  $("#submitButton").hide(); // not working on AMT anymore, why?
+  $("#submitButton").prop('disabled', true);
+  if (is_assigned) {
+      $('#nextButton').removeAttr('disabled');
+      $('#nextButton').html('Start!');
+  }
+
+	
+	dbg();
+	
+  next(); // phase = 'instruction'
+
+//   $(document).keyup(function(e) {
+//      if (e.key === "Escape") { // escape key maps to keycode `27`
+//         // <DO YOUR WORK HERE>
+//
+//   			alert('Browser is in not in fullscreen');
+// 				openFullscreen();
+//
+//     }
+// };);
+});
+    </script>
+  </head>
+  <body>
+		
+
+<div class="slidecontainer" id='traintest' width="100%" align="center">
+    <!-- style="position:relative; width:100%" align="center" -->
+    <div class="center" width="100%" id='divVideo'>
+    </div>
+    <div class="center">
+        <div id='main-slider' class='box'>
+            <div id="feedback" align=center style="display:none"></div>
+            <div id="trial_num" style="display:none"></div>
+            <div id="short_info" align="center" style="width: 80%; margin: 0 auto; text-align: left; display:none" align=c enter></div>
+            <div id="slider_info" align=center>
+                Please drag the slider to indicate the quality you saw.
+                <br>Focus on the <b>quality</b> instead of the content.
+                <br>(The initial position of the slider is placed at random.)</div>
+            <div id="short_instructions" style="display:none;"></div>
+            <br />
+
+            
+
+            <div class="steps" style="display: flex; justify-content: space-between; width:80%; position:relative; font-size:small;" align="center">
+                <span style="display:inline-block;width:19%;text-align:center;">
+                   BAD
+                </span>
+                <span style="display:inline-block;width:19%;text-align:center;">
+                   POOR
+                </span>
+                <span style="display:inline-block;width:19%;text-align:center;">
+                   FAIR
+                </span>
+                <span style="display:inline-block;width:19%;text-align:center;">
+                   GOOD
+                </span>
+                <span style="display:inline-block;width:19%;text-align:center;">
+                   EXCELLENT
+                </span>
+            </div>
+            <input type="range" class="slider" name="points" id="points" value="50" min="0" max="100" data-show-value="false" style="position:relative; height:10px; width:80%;" align="center">
+            <!-- <div class="steps" style="position:relative; font-size:small;" align="center">
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+              <span style="display:inline-block;width:3.25%;text-align:center;"> | </span>
+            </div> -->
+            <br/>
+            <div class="steps" style="display: flex; justify-content: space-between; position:relative; font-size:small; width:87%" align="center">
+              <span style="display:inline-block;width:8%;text-align:center;"> 0 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 10 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 20 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 30 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 40 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 50 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 60 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 70 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 80 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 90 </span>
+              <span style="display:inline-block;width:8%;text-align:center;"> 100 </span>
+            </div>
+
+
+            <br>
+            <br>
+            <br>
+        </div>
+
+        <div id="buttonA" style="position:relative;" title="You must move the slider before submitting!"
+        data-toggle="popover" data-placement="bottom" data-content="You must move the slider before submitting!"
+        >
+            <div id="submit_info" style="font-size:medium;"></div>
+            <button class="btn btn-primary btn-xl nextButton" id="sub_butA" type="button" onclick="submitAnswer()" style="position:relative;">
+                Submit
+            </button>
+            <br/>
+            <br/>
+            <div id="report_video" style="font-size:small;">
+              <a id="report_but" data-toggle="modal" data-target="#attributes">
+                &nbsp; &#9873; Report &nbsp; &nbsp;
+              </a>
+            </div>
+        </div>
+
+    </div>
+    <br>
+    <br>
+</div>
+
+
+<!-- Button trigger modal -->
+  <!-- <p  style="font-size:12pt"><nobr>Do you want to report the video?</nobr></p> -->
+<!-- <div id="report_video" class="footer navbar-fixed-bottom" style="position:absolute; font-size:small;display:none"  align="left">
+  <a id="report_but" data-toggle="modal" data-target="#attributes">
+    &nbsp;&nbsp;&#9873; Report
+  </a>
+</div> -->
+
+<!-- Modal -->
+<div class="modal fade" id="attributes" tabindex="-1" role="dialog" aria-labelledby="attributes" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">State your reason(s):</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body"  style="font-size:medium;">
+        <ul style="list-style-type:none; position:relative;">
+            <li>
+                <input type="checkbox" id="still" name="still" value="still">
+                <label for="still">Still Scenes</label>
+            </li><li>
+                <input type="checkbox" id="broken" name="broken" value="broken">
+                <label for="broken">Video is broken</label>
+            </li><li>
+                <input type="checkbox" id="misoriented" name="misoriented" value="misoriented">
+                <label for="misoriented">Misoriented</label>
+            </li><li>
+                <input type="checkbox" id="other" name="other" value="other_" onClick="$('#textbox').toggle()">
+                <label for="other">Other</label>
+            </li>
+        </ul>
+        <div id="textbox" style="display: none;">
+            <p>What is(are) your reason(s)?</p>
+            <input id="textbox_input" type="text" name="otherAnswer" value="">
+            <br>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <!-- <button type="button" class="btn btn-secondary btn-xl" data-dismiss="modal">Close</button> -->
+        <button type="button" class="btn btn-primary btn-xl" data-dismiss="modal" onclick="submitAnswer();">Report</button>
+        <!-- thank you for  your report -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- <div id="attributes" style="display: none;">
+      <br>
+      <div id="reasons" style="position:relative; align:left " >
+
+      </div>
+
+    </div>
+</div> -->
+
+
+		
+
+
+<div id="debug-shortcut" class="btn-group-vertical" style="position:absolute;top:20%">
+  <div class="btn-group" role="group">
+    <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Goto
+    </button>
+    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+      <a class="btn" onClick="next('instruction')">instruction</a>
+      <a class="btn" onClick="next('quiz')">quiz</a>
+      <a class="btn" onClick="next('pre_train')">pre_train</a>
+      <a class="btn" onClick="next('train')">train</a>
+      <a class="btn" onClick="next('pre_test')">pre_test</a>
+      <a class="btn" onClick="next('test')">test</a>
+      <a class="btn" onClick="next('survey')">survey</a>
+      <a class="btn" onClick="$('input[id^=videos]').each(function(){console.log(this.id + ':' + this.name + ' = ' + this.value)});">Result</a>
+    </div>
+  </div>
+</div>
+
+
+<!-- for checking video sequences, repeated videos  -->
+
+
+  <span class="dot text-center" id="status-train1"></span>
+
+  <span class="dot text-center" id="status-train2"></span>
+
+  <span class="dot text-center" id="status-train3"></span>
+
+  <span class="dot text-center" id="status-train4"></span>
+
+
+<br/>
+
+
+  <span class="dot text-center" id="status-test1"></span>
+
+  <span class="dot text-center" id="status-test2"></span>
+
+  <span class="dot text-center" id="status-test3"></span>
+
+  <span class="dot text-center" id="status-test4"></span>
+
+  <span class="dot text-center" id="status-test5"></span>
+
+  <span class="dot text-center" id="status-test6"></span>
+
+  <span class="dot text-center" id="status-test7"></span>
+
+  <span class="dot text-center" id="status-test8"></span>
+
+  <span class="dot text-center" id="status-test9"></span>
+
+  <span class="dot text-center" id="status-test10"></span>
+
+  <span class="dot text-center" id="status-test11"></span>
+
+  <span class="dot text-center" id="status-test12"></span>
+
+  <span class="dot text-center" id="status-test13"></span>
+
+  <span class="dot text-center" id="status-test14"></span>
+
+  <span class="dot text-center" id="status-test15"></span>
+
+  <span class="dot text-center" id="status-test16"></span>
+
+  <span class="dot text-center" id="status-test17"></span>
+
+
+<!-- <div class = "progress">
+   <div class = "progress-bar progress-bar-success" role = "progressbar"
+      aria-valuenow = "60" aria-valuemin = "0" aria-valuemax = "100" style = "width: 40%;">
+      <span class = "sr-only">40% Complete (train)</span>
+   </div>
+   <div class = "progress-bar progress-bar-warning" role = "progressbar"
+      aria-valuenow = "60" aria-valuemin = "0" aria-valuemax = "100" style = "width: 30%;">
+      <span class = "sr-only">30% Complete (label)</span>
+   </div>
+   <div class = "progress-bar progress-bar-danger" role = "progressbar"
+      aria-valuenow = "60" aria-valuemin = "0" aria-valuemax = "100" style = "width: 20%;">
+      <span class = "sr-only">20%Complete (gold)</span>
+   </div>
+</div> -->
+
+
+
+		<script type="text/javascript">
+  // function next_instruction(selector) {
+  //   $(this).hide();
+  //   $(selector).show();
+  // }
+  // $('#basicNext').hide();
+  
+  $(document).ready(function(){
+    $('#basicNext').show();
+  });
+  function buttonDelay(x,y){
+    $(y).show();
+  }
+  
+
+
+</script>
+<div id="instruction" style="width:100%" >
+  <section class="py-5 grey lighten-4" id="basic">
+    <div class="container my-auto">
+
+      <!-- <h1><strong>SUBJECTIVE QULAITY ASSESMENT OF VIDEOS</strong></h1> -->
+<!-- <h2>INSTRUCTIONS</h2> -->
+<h2 class="display-4">Subjective Quality Assessment of Videos</h2>
+<!-- <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p> -->
+
+<div id="skip_instruction" class="alert alert-warning" role="alert">
+
+  Please read the instructions carefully.
+  You will be evaluated through a quiz after.
+  <b>THE INSTRUCTIONS HAVE BEEN UPDATED. PHONES AND TABLETS ARE NO LONGER ALLOWED.</b>
+  We will be publishing this study continuously in several batches.
+  If you find this task interesting, please stay tuned for future batches.
+  <b>You can do as many HITs as you are qualified for</b>. So, you can skip the instructions
+  and take the quiz <button type="button" onclick="console.log('instruction skipped!'); next('quiz')">here</button>
+  if you have done this before.
+</div>
+
+
+<div class="alert alert-danger" role="alert">
+  <strong>Check out the bottom left corner!</strong>
+  If you encounter any error, please click "Help" and follow the steps.
+  If you didn't see or forgot to see the video, please click "I didn't see the video" to load another video.
+</div>
+
+
+<!-- don't delete it, it shows the zoom information  -->
+<div id='alert-msg'>
+</div>
+
+<!-- <div class="alert alert-secondary" >
+    <hr class="my-4">
+    <p class="lead">INSTRUCTIONS</p>
+    <hr class="my-4">
+</div> -->
+<!-- <p>It uses utility classes for typography and spacing to space content out within the larger container.</p> -->
+
+<div class="w-responsive mx-auto mb-5">
+<!-- <div class="alert alert-primary" role="alert"> -->
+  <p>
+    In this study, you will rate the quality of a set of videos.
+    <br> Your quality ratings should reflect the quality of the videos, but not what the video is about. In other words, decide how badly the video is distorted compared to its "ideal appearance", if at all.
+    <br> For example, a well-composed but too bright, too dark, blurry, flickering, or a video with unnatural colors, would likely be of low quality.
+    <br> It is not important if the videographer did a poor job positioning people or objects in the video scene, or if you don't think the scene is "interesting". In other words, the aesthetics and contents are not important, but the video quality is.
+    <br> Here are a few example videos along with their quality opinions: <b>Bad</b>, <b>Poor</b>, <b>Fair</b>, <b>Good</b>, and <b>Excellent</b>.
+  </p>
+</div>
+
+<!-- explain bad videos? remove examples? -->
+<font size="4">
+<table border="0" align="center" id='demo-table'>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>BAD</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://livetmvideostudy.s3.amazonaws.com/videos/SampleBad.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>POOR</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://livetmvideostudy.s3.amazonaws.com/videos/SamplePoor.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>FAIR</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://livetmvideostudy.s3.amazonaws.com/videos/SampleFair.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>GOOD</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://livetmvideostudy.s3.amazonaws.com/videos/SampleGood.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+          <span style = "font-size: large;"><em>EXCELLENT</em>
+          </span>
+      </td>
+      <td>
+          <p align="center">
+              <video width="500" muted autoplay loop>
+                  <source src="https://livetmvideostudy.s3.amazonaws.com/videos/SampleExcellent.mp4" type="video/mp4">
+                    Please don't proceed if you can't see this video
+              </video>
+          </p>
+      </td>
+  </tr>
+</table>
+</font>
+
+<div class="alert alert-warning" role="alert">
+  You may proceed to the next page when the "Next" button appears.
+</div>
+      <div align="center" id = "basicNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#basic').hide();$('#howto').show();buttonDelay(30000,'#howtoNext')">Next</button>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="howto" style="display:none">
+    <div class="container my-auto">
+
+      <!-- <div class="alert alert-secondary" id="rating_instructions" align="center">
+  <img src="https://sandboxtestvideos.s3.us-east-2.amazonaws.com/samples/slider_demo.png" alt="Rating Interface"
+  width="45%" height="30%">
+</div> -->
+<div class="alert alert-secondary" >
+<p class="lead">HOW TO RATE A VIDEO:<p>
+<br />
+<ol>
+    <li>After each video has been played, a rating bar will appear, calibrated on a <b>continuous scale (0-100)</b> from BAD to EXCELLENT. Five pointers - "BAD," "POOR," "FAIR," "GOOD," and "EXCELLENT" are placed at equal intervals on top of the scale to guide you. The interface is as shown in the figure below.</li>
+    <li>Each video will play only once, and cannot be paused or replayed. If you did not see a video, you can press the "I didn't see the video" button. However, note that if you miss too many videos, your HIT will be rejected.</li>
+    <li>Rate the video by using the mouse to move your rating to the score (position) you think best represents the quality of the video. NOTE THAT YOU MAY MOVE THE MARKER <b>ANYWHERE ON THE SLIDER</b>, <b>NOT ONLY</b> AT THE 5 POINTERS (BAD-EXCELLENT). </li>
+    <li>Drag the cursor along the scale and its final position will be considered as your response once you click <b>Submit</b>. </li>
+    <li>For every video we display, we have intentionally placed the marker at a random initial position. </li>
+    <li>You will not be able to submit your rating and proceed to the next video unless you have moved the cursor. Please do not give random ratings, because we will detect this and remove you from the study. </li>
+    <li><b>Below the submit button</b>, you will have the option to <b>report</b> the video in case you feel the content is "broken", such as a <em>static video</em> or a <em>still scene</em>, or if a video is <em>misoriented</em> (i.e. the video is captured vertically but oriented horizontally or vice versa). The "report" button will only appear AFTER you move the cursor. You can check the corresponding boxes to do so. This is not mandatory and you can proceed to the next video in case there is nothing to report.
+    </li>
+
+</ol>
+<img id="slider_demo" src="https://raw.githubusercontent.com/tmvideostudy/content/main/slider_demo.png" alt="Rating Interface" width = "1000" max-height = "95vh" max-width = "95%" class="imgcenter">
+
+<br>
+<br>
+<div>
+      <div align="center" id = "howtoNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#howto').hide();$('#phases').show();buttonDelay(10000,'#phasesNext')">Next</button>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="phases" style="display:none">
+    <div class="container my-auto">
+
+      <div class="alert alert-secondary" >
+  <p class="lead">TRAINING AND TESTING PHASES:<p>
+    <hr class="my-4">
+  The study has been divided into two phases - a <b>training phase</b> and a <b>testing phase</b>. The first few videos that you will see should help you acquaint yourself with the rating procedure and the range of qualities of videos. You'll be informed when this training phase is over and then you will move on to the testing phase.
+</div>
+      <div align="center" id = "phasesNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#phases').hide();$('#notes').show();buttonDelay(30000,'#notesNext')">Next</button>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="notes" style="display:none">
+    <div class="container my-auto">
+
+      <div class="alert alert-secondary" >
+  <p class="lead">ADDITIONAL INSTRUCTIONS:<p>
+    <hr class="my-4">
+</div>
+<ul>
+  <li> Please do NOT use Mobile Phones or Tablets to undertake this study! Your HITs will be rejected if you do. This study may only be done on Laptops, Desktops, and TVs.</li>
+  <li> Please close any other tabs or windows that are open in your browser while participating in this study. Also, set your browser window to 100% zoom for the entire duration of the study.</li>
+  <li> Please close all other applications that may be running on your device which may affect the browser performance.</li>
+  <li> Please use the latest versions of any of the following browsers - Chrome, Firefox, Edge, Safari or Opera. Do NOT use Incognito/Private browsing.</li>
+  <li> Please ensure that you have enabled both cookies and popups on the browser, before you begin. Otherwise, you will NOT be able to complete the task!</li>
+  <li> Please move your chair to a comfortable viewing distance from where you can see the displayed videos.</li>
+  <li> If you normally wear <b>corrective lenses</b> to view a monitor at this distance, <b>please use them during the study</b>, as abnormal vision will affect your perception of the video quality.</li>
+  <li> Please switch off your mobile phone or other devices that might disturb or distract you during the experiment. Please ensure consistent network connectivity and an uninterrupted working environment. The session is continuous and cannot be paused.</li>
+  <li> At the end of the study, you will be asked to fill in some pertinent survey questions which are integral to it. </li>
+</ul>
+      <div align="center" id = "notesNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#notes').hide();$('#ethics').show();buttonDelay(30000,'#ethicsNext')">Next</button>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="py-5 grey lighten-4" id="ethics" style="display:none">
+    <div class="container my-auto">
+
+      <h2 class="display-4">Ethics Policy</h2>
+
+<p>
+Thank you again for participating in our Amazon Turk study! One issue we would prefer not to bring up are
+Turk workers who do not take their task seriously, and instead <em>game</em> or <em>cheat</em> by trying to find ways of
+only appearing to do the task, to get paid without really doing the work. While most Amazon Turk
+workers are wonderful participants, the number of Turk workers that try to <em>cheat</em> has increased.
+
+<br>
+<br>
+We therefore must tell you that we have sophisticated ways of finding whether a worker is working
+honestly or not. If a worker does not pass our tests, then their session will end, they will not be paid, and
+they will not be allowed to participate again, or in future studies!
+
+<br>
+<br>
+There are other reasons why we might end your session early, e.g., if we find your set-up cannot
+download or play videos quickly. In those cases, we will not stop you from future studies, but we will ask
+you not to try the current study again.
+
+
+<br>
+<br>
+
+<h4> IMPORTANT NOTE: If for some reason the video does not load, please return the HIT and contact us but DO NOT REFRESH the page</h4>
+</p>
+      <div align="center" id = "ethicsNext" style="display:none">
+        <button type="button" class="btn btn-primary btn-xl nextButton" onclick="$('#ethics').hide();next();">Next</button>
+      </div>
+
+    </div>
+  </section>
+</div>
+	    <!-- Quiz questions to check if subjects have read the instructions-->
+<script type="text/javascript">
+(function($){
+
+$.fn.shuffle = function() {
+
+ var allElems = this.get(),
+     getRandom = function(max) {
+         return Math.floor(Math.random() * max);
+     },
+     shuffled = $.map(allElems, function(){
+         var random = getRandom(allElems.length),
+             randEl = $(allElems[random]).clone(true)[0];
+         allElems.splice(random, 1);
+         return randEl;
+    });
+
+ this.each(function(i){
+     $(this).replaceWith($(shuffled[i]));
+ });
+
+ return $(shuffled);
+
+};
+})(jQuery);
+$(document).ready(function(){
+    $( '.Q1 label' ).shuffle();
+    $( '.Q2 label' ).shuffle();
+    $( '.Q3 label' ).shuffle();
+    $( '.Q4 label' ).shuffle();
+    $( '.Q5 label' ).shuffle();
+    $( '.Q6 label' ).shuffle();
+  });
+  function checkQuiz(){
+    var num_corr = 0;
+    var wr_ans = 0;
+    var ans1 = $("input[name='q1']:checked").val();
+    if(ans1=='b'){
+      num_corr+=1;
+    }else{
+      wr_ans = 1;
+    }
+    var ans2 = $("input[name='q2']:checked").val();
+    if(ans2=='a'){
+      num_corr+=1;
+    }else{
+      wr_ans = 2;
+    }
+    var ans3 = $("input[name='q3']:checked").val();
+    if(ans3=='b'){
+      num_corr+=1;
+    }else{
+      wr_ans = 3;
+    }
+    var ans4 = [];
+    $.each($("input[name='q4']:checked"), function(){
+        ans4.push($(this).val());
+    });
+    // ans4_c = 0;
+    // if(ans4.includes('a')){ans4_c+=1};
+    // if(ans4.includes('b')){ans4_c+=1};
+    // if(ans4.includes('d')){ans4_c+=1};
+    // if(ans4_c==3){
+    //   num_corr+=1;
+    // }
+    if(ans4.includes('a') && ans4.includes('b') && !ans4.includes('c') && ans4.includes('d') && !ans4.includes('e')){
+      num_corr+=1;
+    }else{
+      wr_ans = 4;
+    }
+    // alert("My choices are: " + ans4.length);
+    var ans5 = $("input[name='q5']:checked").val();
+    if(ans5=='c'){
+      num_corr+=1;
+    }else{
+      wr_ans = 5;
+    }
+    var ans6 = $("input[name='q6']:checked").val();
+    if(ans6=='a'){
+      num_corr+=1;
+    }else{
+      wr_ans = 6;
+    }
+
+    if(!ans1 || !ans2 || !ans3 || !ans4.length || !ans5 || !ans6){
+      alert('Please answer all before submitting!');
+    }
+
+    if(ans1 && ans2 && ans3 && ans4.length && ans5 && ans6){
+      if(num_corr == 5){
+        // alert('You have passed!');
+        if(wr_ans==1){
+          $("input[name='q1'][value='b']").closest('label').css("color", 'green');
+          $("input[name='q1']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==2){
+          $("input[name='q2'][value='a']").closest('label').css("color", 'green');
+          $("input[name='q2']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==3){
+          $("input[name='q3'][value='b']").closest('label').css("color", 'green');
+          $("input[name='q3']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==4){
+          $("input[name='q4'][value='a']").closest('label').css("color", 'green');
+          $("input[name='q4'][value='b']").closest('label').css("color", 'green');
+          $("input[name='q4'][value='d']").closest('label').css("color", 'green');
+          if(ans4.includes('c')){
+            $("input[name='q4'][value='c']").closest('label').css("color", 'red');
+          }
+          if(ans4.includes('e')){
+            $("input[name='q4'][value='e']").closest('label').css("color", 'red');
+          }
+        }
+        if(wr_ans==5){
+          $("input[name='q5'][value='c']").closest('label').css("color", 'green');
+          $("input[name='q5']:checked").closest('label').css("color", 'red');
+        }
+        if(wr_ans==6){
+          $("input[name='q6'][value='a']").closest('label').css("color", 'green');
+          $("input[name='q6']:checked").closest('label').css("color", 'red');
+        }
+
+        $('#quizSubmit').hide();
+        $('#quizNext5').show();
+      }else if (num_corr == 6) {
+        $('#quizSubmit').hide();
+        $('#quizNext6').show();
+      }else{
+        $('input[name=q1]').attr('checked',false);
+        $('input[name=q2]').attr('checked',false);
+        $('input[name=q3]').attr('checked',false);
+        $('input[name=q4]').attr('checked',false);
+        $('input[name=q5]').attr('checked',false);
+        $('input[name=q6]').attr('checked',false);
+        $('#quiz').hide();
+
+        console.log('quiz failed!');
+        $('#skip_instruction').html('Oops, you have failed the quiz. You have been redirected to the instructions. Please read through them and you will be able to attempt the quiz again.');
+
+        next('instruction');
+        $('html,body').scrollTop(0); // jump to top
+        console.log('Redirected to instruction!');
+      }
+    }
+  }
+</script>
+
+<div id="quiz" style="width:100%" >
+  <section class="py-5 grey lighten-4">
+    <div class="container my-auto">
+
+<div class="alert alert-secondary" >
+<p class="lead">QUIZ TIME!<p>
+<h2>The following quiz is to test your diligence and sincerity. Please choose the appropriate options: </h2>
+<br>
+<p><b>Q1. Where can you find the rating slider?</b></p>
+<div class="Q1">
+<label><input type="radio" name="q1" value="a"> Below a video while it is playing</label><br>
+<label><input type="radio" name="q1" value="b"> On the next page after the video has stopped playing</label><br>
+<label><input type="radio" name="q1" value="c"> Top of the video while it is playing</label><br>
+</div>
+<br>
+<div class="Q2">
+<p><b>Q2. How do you rate a video using the slider?</b></p>
+<label><input type="radio" name="q2" value="a"> Drag the cursor along the rating scale to the appropriate position</label><br>
+<label><input type="radio" name="q2" value="b"> Click on the five reference positions shown above the scale</label><br>
+<label><input type="radio" name="q2" value="c"> Enter the rating value in the box below the scale</label><br>
+</div>
+<br>
+<div class="Q3">
+<p><b>Q3. You are evaluating each video based on its:</b></p>
+<label><input type="radio" name="q3" value="a"> Content (what is in the video)</label><br>
+<label><input type="radio" name="q3" value="b"> Quality (how good the video looks)</label><br>
+<label><input type="radio" name="q3" value="c"> Aesthetics (how good the video scene is framed)</label><br>
+</div>
+<br>
+<div class="Q4">
+<p><b>Q4. Which of the following conditions are essential for this study? (Select all that apply)</b></p>
+<label><input type="checkbox" name="q4" value="a"> Close all other browser tabs</label><br>
+<label><input type="checkbox" name="q4" value="b"> Set the browser zoom to 100%</label><br>
+<label><input type="checkbox" name="q4" value="c"> Switch off the lights</label><br>
+<label><input type="checkbox" name="q4" value="d"> Close any other applications running on your device</label><br>
+<label><input type="checkbox" name="q4" value="e"> Connect your device to a speaker</label><br>
+</div>
+<br>
+<div class="Q5">
+<p><b>Q5. When will the 'survey' appear in this study?</b></p>
+<label><input type="radio" name="q5" value="a"> Immediately after the quiz</label><br>
+<label><input type="radio" name="q5" value="b"> Halfway through the study</label><br>
+<label><input type="radio" name="q5" value="c"> At the end, after all the videos have been rated</label><br>
+</div>
+<br>
+<div class="Q6">
+<p><b>Q6. What should you do if you normally wear corrective lens?</b></p>
+<label><input type="radio" name="q6" value="a"> Wear it during the study, as not using it might affect your perception of quality</label><br>
+<label><input type="radio" name="q6" value="b"> Not wear it as that will be an interesting experiment</label><br>
+<label><input type="radio" name="q6" value="c"> Not care as it does not matter for this study</label><br>
+</div>
+<br>
+</div>
+<!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
+
+<div align="center" id = "quizSubmit" >
+  <button type="button" class="btn btn-primary btn-xl nextButton" onclick="checkQuiz()">Submit</button>
+</div>
+
+<div align="center" id = "quizNext6" style="display:none">
+  <p>You have passed! Click 'Next' to proceed with the study</p>
+  <button type="button" class="btn btn-primary btn-xl nextButton" onclick="next()">Next</button>
+</div>
+
+<div align="center" id = "quizNext5" style="display:none">
+  <p>You have passed but you made one mistake. Check the correct answer (shown in green) and then click 'Next' to proceed with the study</p>
+  <button type="button" class="btn btn-primary btn-xl nextButton" onclick="next()">Next</button>
+</div>
+
+</div>
+</section>
+</div>
+        <section class="py-5">
+  <div class="container my-auto">
+    <div id='survey' style="display:none" width="100%" class="survey form-group">
+        <!-- <div id='survey_box' class="box" style="width:60%;"> -->
+
+
+
+<!-- Holds the final questions that we wish to ask in the end-->
+<p style="font-size:30px">Almost Done! </p>
+<h2>Please answer the survey questions below:</h2>
+<br>
+<p>Do you like taking/viewing videos?</p>
+<label><input type="radio" name="tp" value="Yes"> Yes</label><br>
+<label><input type="radio" name="tp" value="No"> No</label><br>
+<label><input type="radio" name="tp" value="dontcare"> Sometimes. Not a lot though!</label><br>
+<br>
+<p>Does the quality of videos on the social media ever bother you?</p>
+<label><input type="radio" name="qp" value="Yes"> Yes</label><br>
+<label><input type="radio" name="qp" value="No"> No</label><br>
+<label><input type="radio" name="qp" value="dontcare"> I don't really care!</label><br>
+<label><input type="radio" name="qp" value="dontknow"> Aren't all videos of same quality?</label><br>
+<br>
+<p>Have you watched High Dynamic Range (HDR) videos online, e.g. on YouTube?</p>
+<label><input type="radio" name="hdr" value="Yes"> Yes</label><br>
+<label><input type="radio" name="hdr" value="No"> No</label><br>
+<label><input type="radio" name="hdr" value="notsure"> Not sure</label><br>
+<label><input type="radio" name="hdr" value="what"> What is HDR?</label><br>
+<br>
+<p>What device do you use for capturing videos most often?</p>
+<label><input type="radio" name="dev" value="Mobile devices"> Mobile devices (iphone/Android devices) </label><br>
+<label><input type="radio" name="dev" value="DSLR"> A high-end DSLR camera </label><br>
+<label><input type="radio" name="dev" value="DigiCam"> A decent Digital Camera</label><br>
+<br>
+<p>Which display device (monitor) are you using to view the videos and perform this task?</p>
+<label><input type="radio" name="display" value="Phone"> Phone Screen </label><br>
+<label><input type="radio" name="display" value="Tablet"> Tablet Screen </label><br>
+<label><input type="radio" name="display" value="Desktop"> Desktop Monitor </label><br>
+<label><input type="radio" name="display" value="Laptop"> Laptop Screen </label><br>
+<label><input type="radio" name="display" value="HDTV"> HDTV screen</label><br>
+<br>
+<p>Your Gender</p>
+<label><input type="radio" name="gender" value="Male"> Male</label><br>
+<label><input type="radio" name="gender" value="Female"> Female</label><br>
+<label><input type="radio" name="gender" value="Other"> Other</label><br>
+<label><input type="radio" name="gender" value="NA"> Prefer not to disclose</label><br>
+<br>
+<p>Your Age</p>
+<label><input type="radio" name="age" value="<20"> less than 20</label><br>
+<label><input type="radio" name="age" value="20-30"> 20-30</label><br>
+<label><input type="radio" name="age" value="30-40"> 30-40</label><br>
+<label><input type="radio" name="age" value=">40"> Above 40</label><br>
+<label><input type="radio" name="age" value="NA"> Prefer not to disclose</label><br>
+<br>
+<p>Do you wear corrective lenses?</p>
+<label><input type="radio" name="lens" value="Yes"> Yes</label><br>
+<label><input type="radio" name="lens" value="No"> No</label><br>
+<br>
+<p>If the answer to the above question is yes, are you wearing your corrective lenses now?</p>
+<label><input type="radio" name="wearlens" value="Yes"> Yes</label><br>
+<label><input type="radio" name="wearlens" value="No"> No</label><br>
+<label><input type="radio" name="wearlens" value="NA"> N/A</label><br>
+<br>
+<p>Approximately how far are you sitting away from your screen?</p>
+<label><input type="radio" name="dist" value="<15">  less than 15 inches away</label><br>
+<label><input type="radio" name="dist" value="15-30"> Between 15-30 inches</label><br>
+<label><input type="radio" name="dist" value=">30"> Greater than 30 inches away</label><br>
+<br>
+<p>Do you have any additional comments for us?</p>
+<div align='center'>
+  <textarea name="comments" rows="5" cols="30"></textarea>
+</div>
+<br>
+
+<div id="bottomInfo" align=center>
+  <button class="btn-xl btn btn-primary nextButton"  id="surveyButton" type="button" onclick="checkSurvey()" title="Please fill out the survey. Thank you!">
+  <span style='font-size:16pt'>Done!</span>
+  </button>
+</div>
+
+
+<!-- </div> -->
+</div>
+</div>
+</section>
+
+<script type="text/javascript">
+  function checkSurvey() {
+    if(validSurvey()) {
+      $(this).hide();next();
+    } else {
+      alert('Please answer all before submitting!');
+    }
+  }
+  function validSurvey() {
+  	// https://stackoverflow.com/questions/6920606/jquery-how-to-check-if-all-radio-buttons-in-a-div-are-selected
+  	// $('[name=age]:checked').val() === undefined;
+      return !(
+        $('[name=tp]:checked').val() === undefined ||
+        $('[name=qp]:checked').val() === undefined ||
+        $('[name=hdr]:checked').val() === undefined ||
+        $('[name=dev]:checked').val() === undefined ||
+        $('[name=display]:checked').val() === undefined ||
+        $('[name=gender]:checked').val() === undefined ||
+        $('[name=age]:checked').val() === undefined ||
+        $('[name=lens]:checked').val() === undefined ||
+        $('[name=wearlens]:checked').val() === undefined ||
+        $('[name=dist]:checked').val() === undefined
+      )
+  }
+  //$('#surveyButton').prop("disabled", validSurvey());
+  //var empty = $('#survey:not(:has(:radio:checked))')
+  //$('#surveyButton').prop("disabled", empty.length > 0);
+
+  // $(document).ready(function(){
+  //   //$('input[type="radio"]').click(validSurvey);
+  //   $('input[type="radio"]').click(validSurvey);
+  // });
+</script>
+	    <section class="py-5">
+  <div class="container my-auto">
+    <div id='done' style="display:none" width="100%">
+      Thank you so much for your participation!
+
+      <br>
+
+      You can do as many HITs as you are qualified for.
+
+      <br>
+      We recommend you to continue working on the same batch, before proceeding to other batches.
+      <br>
+      When you do not meet the qualification for a batch, it means you have seen the content before and we have disqualified you for that particular batch in order to avoid repetition.
+      <br>
+      We usually reject those who violated one of our Ethics policies in 7 days, others will be automatically paid by AMT.
+    </div>
+  </div>
+</section>
+		<!-- invisible image div may block the button click!!! -->
+
+		<!-- phase -->
+		<div id = "divNextButton" width="100%" class="slidecontainer" align=center>
+			 <!-- disabled=true -->
+			 	 <div class="center">
+					 <div id="phase_info"></div>
+					 <button type="button" id="nextButton" class="btn btn-primary btn-xl nextButton" onclick="next()">
+						 <span style='font-size:16pt'>Click to Continue</span>
+					 </button>
+					 <div id = "not_assigned" align=left style = "display:none">
+						 <p>Please accept the HIT to begin!</p>
+					 </div>
+				 </div>
+		 </div>
+
+		 <section class="py-5 grey lighten-5">
+			 <div class="container my-auto">
+				 <div id='divRejected' class="survey form-group">
+		 			<div class="box"> <h1> Sorry!</h1>
+You are not able to proceed because:
+<p id='reasonRejected'></p>
+
+<textarea name="name" rows="8" id="debugMsg" cols="80">
+</textarea>
+ </div>
+		 		</div>
+			 </div>
+		 </section>
+
+		<!-- <div class="container" id="wait">
+		  <h2>Spinners</h2>
+		  <p>To create a spinner/loader, use the <code>.spinner-border</code> class:</p>
+			<span class="d-none spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+		</div> -->
+
+		<!-- <div id="bottomDiv" width="100%" class="slidecontainer" align=center onclick="next();$(this).hide();">
+			<div id="bottomInfo"></div>
+			<br>
+			<button id="bottomButton" type="button">
+				<span style='font-size:16pt'>Start</span>
+			</button>
+		</div> -->
+
+
+		<!-- disabled=true  -->
+		<!-- <div id="submitSurveyButton" style="position:relative; top: 10px; width:275px; height:75px" title="Fill survey before submitting!">
+				<button id="sub_butB" type="button" onclick="" style="position:relative; width:100%; height:100%; font-size:16pt; font-weight:bold">
+						SUBMIT
+				</button>
+		</div> -->
+
+    <!-- hidden input to record the results  -->
+		<input type="hidden" name="screenSize" id="screenSize" value="unset">
+		<input type="hidden" name="systemInfo" id="systemInfo" value="unset">
+		<input type="hidden" name="browserWindowSize" id="browserWindowSize" value="unset">
+		<input type="hidden" name="debugInfo" id="debugInfo" value="unset">
+		<input type="hidden" name="nanDelay" id="nanDelay" value="unset">
+
+		
+    <input type="hidden" name="videos1" id="videos1" value="unset">
+		
+    <input type="hidden" name="videos2" id="videos2" value="unset">
+		
+    <input type="hidden" name="videos3" id="videos3" value="unset">
+		
+    <input type="hidden" name="videos4" id="videos4" value="unset">
+		
+    <input type="hidden" name="videos5" id="videos5" value="unset">
+		
+    <input type="hidden" name="videos6" id="videos6" value="unset">
+		
+    <input type="hidden" name="videos7" id="videos7" value="unset">
+		
+    <input type="hidden" name="videos8" id="videos8" value="unset">
+		
+    <input type="hidden" name="videos9" id="videos9" value="unset">
+		
+    <input type="hidden" name="videos10" id="videos10" value="unset">
+		
+    <input type="hidden" name="videos11" id="videos11" value="unset">
+		
+    <input type="hidden" name="videos12" id="videos12" value="unset">
+		
+    <input type="hidden" name="videos13" id="videos13" value="unset">
+		
+    <input type="hidden" name="videos14" id="videos14" value="unset">
+		
+    <input type="hidden" name="videos15" id="videos15" value="unset">
+		
+    <input type="hidden" name="videos16" id="videos16" value="unset">
+		
+
+        
+    <input type="hidden" name="videos17" id="videos17" value="unset">
+		
+    <input type="hidden" name="videos18" id="videos18" value="unset">
+		
+    <input type="hidden" name="videos19" id="videos19" value="unset">
+		
+    <input type="hidden" name="videos20" id="videos20" value="unset">
+		
+
+		<div id='bottomLeftCorner'>
+			<script type="text/javascript">
+  function didntSeeVideo() {
+  	switch (phase) {
+  		case 'train':
+  			rejected("Error in loading videos. Please return the HIT. You could try again with a different browser.")
+  			break;
+  		case 'test':
+  			prepare_backup_vid(p, p.idx-1); // p.idx already +1
+  			show_vid(p, p.idx-1);
+  			// will load the new one
+  			break;
+  		default:
+  			break;
+  	}
+  }
+</script>
+
+<button class="btn btn-primary btn-xl nextButton" id="btnDidntSeeVideo" type="button" onclick="didntSeeVideo()">
+    I didn't see the video
+</button>
+			
+			<script>
+function copyDebugInfo() {
+  var copyText = document.getElementById("helpMsg");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  // alert("Copied the text: " + copyText.value);
+  document.getElementById("helpBtn").textContent  = 'Information Copied!';
+}
+</script>
+
+<a class="btn btn-primary btn-xl" onmouseover="$('textarea#helpMsg').val(logMessages.join('\n'));" data-toggle="modal" data-target="#modalHelp" id="btnHlep">
+    Help
+</a>
+
+<!-- Modal -->
+<div class="modal fade" id="modalHelp" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Need some help?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body"  style="font-size:medium;">
+        We are sorry if you encountered any problem.
+        Please contact us at tmvideostudy@gmail.com and <strong>make sure to describe what you observed and include the following debugging information</strong>:
+
+        <br>
+        <button type="button" id="helpBtn" class="btn btn-primary btn-xl" onclick="copyDebugInfo()">
+            Copy information to clipboard
+        </button>
+        <br>
+        Thank you!
+        <br>
+        <textarea rows="8" id="helpMsg" style="width:80%">
+
+        </textarea>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary btn-xl" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+ <!-- color: rgb(234, 18, 18);background-color: #EEE; -->
+<!--  -->
+			
+		</div>
+  </body>
+</html>

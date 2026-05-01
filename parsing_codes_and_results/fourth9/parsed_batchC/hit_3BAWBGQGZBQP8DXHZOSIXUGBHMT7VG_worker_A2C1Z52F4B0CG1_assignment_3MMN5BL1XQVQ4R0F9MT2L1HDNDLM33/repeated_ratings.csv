@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Crossout,sample,99.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09600000000000009
+amt_gaming_vqa_dataset/Crossout,sample,71.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08580000007152577
+amt_gaming_vqa_dataset/Crossout_720p_500k_av1,sample,84.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09359000002384299
+amt_gaming_vqa_dataset/Crossout_720p_500k_av1,sample,69.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0835900000238432
+amt_gaming_vqa_dataset/Crossout_2160p_25000k_h264nvenc,sample,38.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09819000004768519
+amt_gaming_vqa_dataset/Crossout_2160p_25000k_h264nvenc,sample,82.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1062899999523168
+amt_gaming_vqa_dataset/Destiny2_1_1080p_5300k_h264nvenc,sample,29.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08129000007152598
+amt_gaming_vqa_dataset/Destiny2_1_1080p_5300k_h264nvenc,sample,21.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09169000004768435
+amt_gaming_vqa_dataset/Destiny2_1_720p_2500k_h264nvenc,sample,25.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07478999995231739
+amt_gaming_vqa_dataset/Destiny2_1_720p_2500k_h264nvenc,sample,61.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07669000004768378
+amt_gaming_vqa_dataset/Destiny2_1_720p_5000k_h264nvenc,sample,67.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0783900000953679
+amt_gaming_vqa_dataset/Destiny2_1_720p_5000k_h264nvenc,sample,51.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0725900000238422

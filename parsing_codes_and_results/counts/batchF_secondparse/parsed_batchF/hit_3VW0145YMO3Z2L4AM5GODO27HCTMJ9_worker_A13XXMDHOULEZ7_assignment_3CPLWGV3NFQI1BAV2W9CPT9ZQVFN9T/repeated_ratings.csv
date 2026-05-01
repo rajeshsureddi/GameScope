@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/HiLctOW-3bU_CitiesSkylines_18-02_720p_5000k_h264_nvenc,sample,94.0,55.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02430000001192134
+amt_gaming_vqa_dataset/HiLctOW-3bU_CitiesSkylines_18-02_720p_5000k_h264_nvenc,sample,47.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02070000004768424
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1300k_av1,sample,80.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.0008329999880789529
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_1300k_av1,sample,62.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03653300003576199
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_500k_av1,sample,96.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0014669999642382692
+amt_gaming_vqa_dataset/KrQ4bNQlPk8_GuildWars_1-00_720p_500k_av1,sample,66.0,27.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.041732999964237294
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_1500k_av1,sample,54.0,59.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.018300000011921114
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_1500k_av1,sample,40.0,23.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03250000000000064
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_800k_hevc_nvenc,sample,30.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022699999988079256
+amt_gaming_vqa_dataset/iBHJDw8p0bY_Minecraft_0-13_1080p_800k_hevc_nvenc,sample,53.0,22.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06660000002384159
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00,sample,90.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3991999999880793
+amt_gaming_vqa_dataset/xkUEEUBJVIQ_FIFA_0-00,sample,65.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",9.88489999997616

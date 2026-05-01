@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1300k_av1,sample,81.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07149000000000072
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1300k_av1,sample,79.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07168999999925596
+amt_gaming_vqa_dataset/Daysgone_2_1080p_1500k_av1,sample,98.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09200000000000053
+amt_gaming_vqa_dataset/Daysgone_2_1080p_1500k_av1,sample,75.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09589999999850995
+amt_gaming_vqa_dataset/Daysgone_2_720p_500k_av1,sample,97.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0767999999998139
+amt_gaming_vqa_dataset/Daysgone_2_720p_500k_av1,sample,78.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07840000000037328
+amt_gaming_vqa_dataset/Daysgone_2_720p_600k_hevcnvenc,sample,86.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06360000000055877
+amt_gaming_vqa_dataset/Daysgone_2_720p_600k_hevcnvenc,sample,69.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10790000000037203
+amt_gaming_vqa_dataset/Hogwartslegacy_2,sample,50.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08670000000018696
+amt_gaming_vqa_dataset/Hogwartslegacy_2,sample,93.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.057300000000745754
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_av1,sample,89.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06299000000000099
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_av1,sample,59.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06328999999981377

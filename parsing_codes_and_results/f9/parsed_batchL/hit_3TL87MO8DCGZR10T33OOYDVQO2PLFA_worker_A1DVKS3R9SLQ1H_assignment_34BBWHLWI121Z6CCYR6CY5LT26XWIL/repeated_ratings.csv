@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_5000k_h264_nvenc,sample,87.0,32.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.015199999809265563
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_5000k_h264_nvenc,sample,77.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0029000000953676164
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_3500k_hevc_nvenc,sample,32.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.011899999618529833
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_3500k_hevc_nvenc,sample,37.0,35.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005099999904633279
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2300k_h264_nvenc,sample,35.0,58.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03819999980926525
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2300k_h264_nvenc,sample,31.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07600000000000051
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2000k_hevc_nvenc,sample,30.0,56.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00819999980926589
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_2000k_hevc_nvenc,sample,53.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009000000000000341
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_800k_hevc_nvenc,sample,74.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.036099999904632085
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_800k_hevc_nvenc,sample,44.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.011300000190734849
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03_480p_1000k_h264_nvenc,sample,26.0,33.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.009356999904634122
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03_480p_1000k_h264_nvenc,sample,23.0,17.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.025457000286102982

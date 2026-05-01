@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_500k_av1,sample,31.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07019000000111753
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_500k_av1,sample,77.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07239000000037343
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_5000k_h264nvenc,sample,6.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11099000000000103
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_5000k_h264nvenc,sample,15.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07489000000037294
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_2000k_hevcnvenc,sample,32.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.046189999999254994
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_2000k_hevcnvenc,sample,53.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11599000000000004
+amt_gaming_vqa_dataset/Daysgone_2_2160p_25000k_h264nvenc,sample,12.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1729000000003733
+amt_gaming_vqa_dataset/Daysgone_2_2160p_25000k_h264nvenc,sample,90.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.6860999999996267
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,61.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05440000000037237
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,71.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4900000000000002
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_10000k_hevcnvenc,sample,75.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_10000k_hevcnvenc,sample,17.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.22399000000000058

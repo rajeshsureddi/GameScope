@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Color Accuracy & Visibility Attribute</title>
+    <link rel="stylesheet" href="../bootstrap.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        .video-container {
+            margin: 30px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .video-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        .video-description {
+            margin: 15px 0;
+            color: #666;
+            line-height: 1.5;
+        }
+        video {
+            width: 100%;
+            max-height: 70vh;
+            object-fit: contain;
+            display: block;
+            margin: auto;
+            border-radius: 4px;
+        }
+        p {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Understanding Color Accuracy & Visibility</h2>
+        <p>This attribute measures how natural and accurate the colors appear in the video. Please watch the following examples to understand the different levels:</p>
+
+        <div class="video-container">
+            <div class="video-title">Colors look natural - Example 1</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/Faastpenguin_2_720p_3500k_h265nvenc.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                This example shows a video with natural-looking colors. The colors appear true to life with proper balance and saturation.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Colors look natural - Example 2</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/Faastpenguin_2_720p_3500k_h265nvenc.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                Another example of natural color reproduction, showing well-balanced and accurate colors throughout the scene.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Colors look slightly off - Example 1</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/Faastpenguin_2_720p_3500k_h265nvenc.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                This example shows colors that are slightly unnatural. You may notice some color tinting or slight oversaturation.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Colors look slightly off - Example 2</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/Faastpenguin_2_720p_3500k_h265nvenc.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                Another example of slightly unnatural colors, with noticeable color shifts in certain areas of the scene.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Colors are very unnatural - Example 1</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/Faastpenguin_2_720p_3500k_h265nvenc.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                This example shows severely unnatural colors. The video appears heavily tinted or has extreme color shifts.
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-title">Colors are very unnatural - Example 2</div>
+            <video controls>
+                <source src="https://gaming-vqa.s3.us-east-2.amazonaws.com/example-samples/Faastpenguin_2_720p_3500k_h265nvenc.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="video-description">
+                Another example of severely unnatural colors, with extreme color distortion affecting the entire video.
+            </div>
+        </div>
+    </div>
+</body>
+</html> 

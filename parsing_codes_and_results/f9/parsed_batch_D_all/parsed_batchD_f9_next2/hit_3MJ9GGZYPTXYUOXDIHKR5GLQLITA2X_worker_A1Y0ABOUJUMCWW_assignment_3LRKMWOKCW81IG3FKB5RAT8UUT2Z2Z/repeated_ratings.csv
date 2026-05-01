@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_1500k_av1,sample,34.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04519999998808011
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_1500k_av1,sample,49.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04269999998807883
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_2000k_hevc_nvenc,sample,44.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.024699999988078147
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_2000k_hevc_nvenc,sample,17.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.024499999999999744
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_6000k_hevc_nvenc,sample,64.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', 'still', 'misoriented', '']",28.71289999997616
+amt_gaming_vqa_dataset/u_ctFy_mVr0_GuildWars_16-15_1080p_6000k_hevc_nvenc,sample,59.0,57.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0012000000476835027
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_5300k_h264_nvenc,sample,80.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.005000000000000782
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_5300k_h264_nvenc,sample,74.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.007899999976158867
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_10000k_h264_nvenc,sample,5.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01249999999999929
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_10000k_h264_nvenc,sample,65.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015899999976157986
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_2000k_hevc_nvenc,sample,68.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.011499999999999844
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_2000k_hevc_nvenc,sample,38.0,61.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.01209999996423683

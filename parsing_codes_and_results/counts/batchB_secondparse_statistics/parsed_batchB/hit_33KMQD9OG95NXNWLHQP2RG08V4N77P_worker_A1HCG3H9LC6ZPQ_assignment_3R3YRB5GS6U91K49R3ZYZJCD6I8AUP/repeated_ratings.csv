@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_800k_hevcnvenc,sample,38.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0495900000005598
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_1080p_800k_hevcnvenc,sample,28.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08569000000018612
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_5000k_h264nvenc,sample,38.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04849000000000103
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_5000k_h264nvenc,sample,75.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07338999999944207
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_600k_hevcnvenc,sample,11.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07028999999981345
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_600k_hevcnvenc,sample,8.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06999000000000066
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_10000k_h264nvenc,sample,34.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07188999999944201
+amt_gaming_vqa_dataset/GrandtheftautoV_2_1080p_10000k_h264nvenc,sample,31.0,84.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08488999999944191
+amt_gaming_vqa_dataset/GrandtheftautoV_2_2160p_25000k_h264nvenc,sample,45.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11088999999990712
+amt_gaming_vqa_dataset/GrandtheftautoV_2_2160p_25000k_h264nvenc,sample,4.0,76.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.1285099999999995
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_5000k_h264nvenc,sample,87.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05228999999981454
+amt_gaming_vqa_dataset/GrandtheftautoV_2_720p_5000k_h264nvenc,sample,53.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08389000000037328

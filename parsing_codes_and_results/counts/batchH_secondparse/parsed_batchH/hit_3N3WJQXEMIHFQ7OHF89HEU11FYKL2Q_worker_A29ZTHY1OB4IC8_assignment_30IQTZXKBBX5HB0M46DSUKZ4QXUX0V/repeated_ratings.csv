@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-58,sample,60.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.006899999976157645
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-58,sample,87.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011100000023841261
+amt_gaming_vqa_dataset/L_15gc5EV8I_FIFA_29-34,sample,72.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009899999976157758
+amt_gaming_vqa_dataset/L_15gc5EV8I_FIFA_29-34,sample,32.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010200000047683844
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_0-41,sample,40.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006899999976157645
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_0-41,sample,36.0,39.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.004300000011921767
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14_720p_1000k_h264_nvenc,sample,69.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00910000002384237
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14_720p_1000k_h264_nvenc,sample,29.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.010300000011920218
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_2-13_480p_1000k_h264_nvenc,sample,69.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016700000047682906
+amt_gaming_vqa_dataset/_seGSJWMHSk_EuroTruckSimulator2_2-13_480p_1000k_h264_nvenc,sample,74.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007100000023841702

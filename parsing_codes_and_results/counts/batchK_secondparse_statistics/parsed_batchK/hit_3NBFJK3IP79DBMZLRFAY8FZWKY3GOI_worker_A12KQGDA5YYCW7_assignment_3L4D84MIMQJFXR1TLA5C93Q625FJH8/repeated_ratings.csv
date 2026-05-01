@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_1080p_500k_av1,sample,67.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04808999999962893
+amt_gaming_vqa_dataset/Godofwar_1_1080p_500k_av1,sample,31.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07879000000074576
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,74.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04999000000000109
+amt_gaming_vqa_dataset/Godofwar_1_720p_1300k_av1,sample,24.0,38.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07308999999962751
+amt_gaming_vqa_dataset/MLBtheshow_720p_2500k_h264nvenc,sample,79.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05108999999962727
+amt_gaming_vqa_dataset/MLBtheshow_720p_2500k_h264nvenc,sample,43.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07989000000037372
+amt_gaming_vqa_dataset/MLBtheshow_720p_3500k_hevcnvenc,sample,60.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05209000000149011
+amt_gaming_vqa_dataset/MLBtheshow_720p_3500k_hevcnvenc,sample,33.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08368999999925641
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_2500k_h264_nvenc,sample,42.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013299999998881873
+amt_gaming_vqa_dataset/t18jJAKEmlg_StarCraft_23-26_720p_2500k_h264_nvenc,sample,90.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.180700000001117
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_800k_hevc_nvenc,sample,80.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.009199999999255581
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00_1080p_800k_hevc_nvenc,sample,68.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0019000000003721595

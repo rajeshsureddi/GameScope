@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_1500k_hevc_nvenc,sample,56.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.019000000000000128
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_1500k_hevc_nvenc,sample,30.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.038199999999255496
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_2300k_h264_nvenc,sample,93.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01096700000074513
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_2300k_h264_nvenc,sample,59.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.053533000001118936
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_2000k_hevc_nvenc,sample,81.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.012432999998882366
+amt_gaming_vqa_dataset/CRVZs3A8U3s_FIFA_2-00_1080p_2000k_hevc_nvenc,sample,62.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024366999999999805
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,57.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09430000000074479
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,48.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09750000000000014
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,6.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.859600000001491
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05809999999962834
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,90.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.858099999999627
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,79.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08939999999850912
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,27.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.599900000000373
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,61.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09469999999925527

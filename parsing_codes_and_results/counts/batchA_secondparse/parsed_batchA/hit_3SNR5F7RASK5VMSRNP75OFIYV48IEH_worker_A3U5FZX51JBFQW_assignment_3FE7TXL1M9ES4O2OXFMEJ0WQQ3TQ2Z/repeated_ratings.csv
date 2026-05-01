@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Daysgone_1_720p_500k_av1,sample,96.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07819000000111842
+amt_gaming_vqa_dataset/Daysgone_1_720p_500k_av1,sample,65.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06569000000111735
+amt_gaming_vqa_dataset/Daysgone_1_1080p_6000k_hevcnvenc,sample,62.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.39851
+amt_gaming_vqa_dataset/Daysgone_1_1080p_6000k_hevcnvenc,sample,16.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07278999999888214
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_6000k_hevcnvenc,sample,25.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.051590000001491276
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_6000k_hevcnvenc,sample,5.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0747900000007462
+amt_gaming_vqa_dataset/DeceiveInc_2160p_10000k_hevcnvenc,sample,0.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09389000000037306
+amt_gaming_vqa_dataset/DeceiveInc_2160p_10000k_hevcnvenc,sample,8.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.160409999998509
+amt_gaming_vqa_dataset/DeceiveInc_2160p_6000k_hevcnvenc,sample,80.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06528999999888363
+amt_gaming_vqa_dataset/DeceiveInc_2160p_6000k_hevcnvenc,sample,19.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0793900000003731
+amt_gaming_vqa_dataset/DeceiveInc_720p_3500k_hevcnvenc,sample,99.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05158999999962788
+amt_gaming_vqa_dataset/DeceiveInc_720p_3500k_hevcnvenc,sample,58.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07129000000074548

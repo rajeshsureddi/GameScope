@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_1000k_av1,sample,45.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.011399999999907706
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_1000k_av1,sample,69.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01720000000018551
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-33_480p_1000k_h264_nvenc,sample,72.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00809999999986033
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-33_480p_1000k_h264_nvenc,sample,68.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0011999999999527944
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_1000k_h264_nvenc,sample,82.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.010999999999999233
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_1000k_h264_nvenc,sample,79.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.052799999999812997
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_5000k_h264_nvenc,sample,65.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.032800000000046126
+amt_gaming_vqa_dataset/01hQ7XrHePU_FIFA_0-03_720p_5000k_h264_nvenc,sample,58.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03540000000013954
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_2300k_h264_nvenc,sample,92.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07466700000004778
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_2300k_h264_nvenc,sample,19.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0855670000001858
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30_1080p_2000k_hevc_nvenc,sample,29.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09369999999995393
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30_1080p_2000k_hevc_nvenc,sample,8.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05760000000009313

@@ -1,0 +1,3 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3TR2532VJGLZ02HCPRE8CC1GRJZ6JC,3W0KKJIASH0FSG8OAP6H9L1PCW4K8I,A29ZTHY1OB4IC8,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3OS4RQUCS06P1CCB2S4V8UVGC1PFBB,3DWGDA5PP5VBXRIFA8B9WKPYEO51V1,A28A3HF3LSEIDT,row_0,0,,Too many unset video ratings

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_500k_av1,sample,45.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02163299999999957
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_500k_av1,sample,14.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.007266999976158317
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_500k_av1,sample,0.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03383600001788167
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_500k_av1,sample,84.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024435999982118872
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_3500k_hevc_nvenc,sample,85.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08083600001788227
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_3500k_hevc_nvenc,sample,36.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.021136000000000266
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_500k_av1,sample,49.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-3.2501999999880793
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_500k_av1,sample,96.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03950000000000031
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_2300k_h264_nvenc,sample,99.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0011000000238414742
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_2300k_h264_nvenc,sample,35.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005900000005960138
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_5300k_h264_nvenc,sample,41.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.011800000011920275
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_5300k_h264_nvenc,sample,11.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.004399999976158142

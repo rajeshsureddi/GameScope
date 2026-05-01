@@ -1,0 +1,4 @@
+video_name,most_common_clarity,most_common_artifacts,most_common_immersion,highly_clear_count,moderately_clear_count,minimally_clear_count,no_artifacts_count,minor_artifacts_count,severe_artifacts_count,high_immersion_count,moderate_immersion_count,low_immersion_count
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14,Highly Clear,No visible artifacts,High level of immersion,16,11,2,14,11,4,15,10,4
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-58,Minimally Clear,Severe Artifacts Present,Low level of immersion,1,3,25,2,3,24,0,5,24
+amt_gaming_vqa_dataset/y_ZMN7neUo3Fk_EuroTruckSimulator2_13-50_480p_1000k_h264_nvenc,Minimally Clear,Minor Artifacts Present,Moderate level of immersion,6,10,13,1,17,11,5,13,11

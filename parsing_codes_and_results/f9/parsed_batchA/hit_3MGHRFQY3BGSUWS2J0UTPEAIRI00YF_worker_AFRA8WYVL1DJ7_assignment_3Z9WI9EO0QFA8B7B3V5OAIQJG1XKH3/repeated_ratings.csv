@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_800k_hevcnvenc,sample,80.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06358999999962833
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_800k_hevcnvenc,sample,54.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08558999999962857
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_800k_hevcnvenc,sample,30.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09989000000037329
+amt_gaming_vqa_dataset/Marvelspiderman_2_1080p_800k_hevcnvenc,sample,45.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07948999999999984
+amt_gaming_vqa_dataset/Marvelspiderman_2_480p_800k_hevcnvenc,sample,8.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08168999999925575
+amt_gaming_vqa_dataset/Marvelspiderman_2_480p_800k_hevcnvenc,sample,34.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07849000000000039
+amt_gaming_vqa_dataset/skyrim_1_2160p_8500k_h264nvenc,sample,21.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.12501
+amt_gaming_vqa_dataset/skyrim_1_2160p_8500k_h264nvenc,sample,68.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.7190899999996283
+amt_gaming_vqa_dataset/skyrim_1_720p_2500k_h264nvenc,sample,88.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.019689999999256358
+amt_gaming_vqa_dataset/skyrim_1_720p_2500k_h264nvenc,sample,78.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.025789999998883317
+amt_gaming_vqa_dataset/skyrim_1_720p_1300k_av1,sample,45.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.026109999999626154
+amt_gaming_vqa_dataset/skyrim_1_720p_1300k_av1,sample,76.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.016289999998882365

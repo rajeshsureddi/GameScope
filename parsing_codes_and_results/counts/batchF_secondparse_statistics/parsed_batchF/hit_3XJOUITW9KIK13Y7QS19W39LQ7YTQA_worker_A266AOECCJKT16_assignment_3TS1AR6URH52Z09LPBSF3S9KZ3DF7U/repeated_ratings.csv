@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_5300k_h264_nvenc,sample,14.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.960532999976158
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_5300k_h264_nvenc,sample,19.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.84803300000596
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_2300k_h264_nvenc,sample,67.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.87690000000596
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_2300k_h264_nvenc,sample,85.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.726100000023841
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_6000k_hevc_nvenc,sample,8.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-3.8410999999940394
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_6000k_hevc_nvenc,sample,77.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.3745999999940395
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_800k_hevc_nvenc,sample,7.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.68129999998212
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_800k_hevc_nvenc,sample,39.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.917
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32,sample,67.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.900400000005961
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32,sample,40.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-9.011899999976158
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_2500k_h264_nvenc,sample,58.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.465800000011921
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_2500k_h264_nvenc,sample,47.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.0195

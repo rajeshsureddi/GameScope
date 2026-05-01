@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00,sample,39.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.12730000000074604
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00,sample,76.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11840000000037243
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_2500k_h264_nvenc,sample,59.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009999999999999787
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_2500k_h264_nvenc,sample,92.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.015000000000000568
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_600k_hevc_nvenc,sample,59.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.016199999999255255
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_600k_hevc_nvenc,sample,10.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0076000000014904145
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_500k_av1,sample,47.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07610000000149064
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_500k_av1,sample,50.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08869999999925504
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_5000k_h264_nvenc,sample,34.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.453099999999628
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_5000k_h264_nvenc,sample,17.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015900000000373282
+amt_gaming_vqa_dataset/0JehGz8WBEs_MarioKartTour_0-00_1080p_2000k_hevc_nvenc,sample,98.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.018299999998882654
+amt_gaming_vqa_dataset/0JehGz8WBEs_MarioKartTour_0-00_1080p_2000k_hevc_nvenc,sample,71.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03759999999962815

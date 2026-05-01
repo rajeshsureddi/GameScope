@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_500k_av1,sample,98.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.80840000000596
+amt_gaming_vqa_dataset/NL_LlfIhZnY_StardewValley_9-01_720p_500k_av1,sample,44.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.805700000017881
+amt_gaming_vqa_dataset/iieKUq0J-XM_FIFA_6-19_480p_800k_hevc_nvenc,sample,59.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.669
+amt_gaming_vqa_dataset/iieKUq0J-XM_FIFA_6-19_480p_800k_hevc_nvenc,sample,40.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.18590000000596
+amt_gaming_vqa_dataset/npHnaTnSmwg_CitiesSkylines_8-00,sample,3.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.45779999998211807
+amt_gaming_vqa_dataset/npHnaTnSmwg_CitiesSkylines_8-00,sample,96.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.6235
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_1500k_av1,sample,8.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",14.04469999998808
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_1500k_av1,sample,25.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.000600000023842
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_1500k_hevc_nvenc,sample,81.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.692499999999999
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_1500k_hevc_nvenc,sample,50.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0626999999880784
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_500k_av1,sample,86.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-6.60780000001192
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_500k_av1,sample,32.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.153399999976158

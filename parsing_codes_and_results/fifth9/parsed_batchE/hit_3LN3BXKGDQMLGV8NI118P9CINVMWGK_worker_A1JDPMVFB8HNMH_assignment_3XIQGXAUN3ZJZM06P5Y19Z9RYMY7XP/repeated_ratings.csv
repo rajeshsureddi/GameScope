@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_5000k_h264_nvenc,sample,31.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.011282999999998822
+amt_gaming_vqa_dataset/gvU2wTK3h94_IceAgeVillage_8-41_720p_5000k_h264_nvenc,sample,20.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016282999999999603
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_1500k_av1,sample,3.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.021558000000000632
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_1500k_av1,sample,51.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.025742000000047227
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_800k_hevc_nvenc,sample,91.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0029000000000234394
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_800k_hevc_nvenc,sample,99.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.026100000000093715
+amt_gaming_vqa_dataset/M7Pz595vcs8_MarioKartTour_0-02_720p_500k_av1,sample,56.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.034100000000092834
+amt_gaming_vqa_dataset/M7Pz595vcs8_MarioKartTour_0-02_720p_500k_av1,sample,71.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.021300000000046282
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_6000k_hevc_nvenc,sample,72.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01120000000018706
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_6000k_hevc_nvenc,sample,84.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.014700000000186009

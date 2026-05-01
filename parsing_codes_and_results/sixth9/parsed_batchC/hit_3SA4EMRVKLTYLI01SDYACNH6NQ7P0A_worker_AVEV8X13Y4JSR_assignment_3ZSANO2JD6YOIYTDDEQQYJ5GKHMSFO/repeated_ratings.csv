@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Ghostoftsushima_2_720p_3000k_av1,sample,10.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0692900000000467
+amt_gaming_vqa_dataset/Ghostoftsushima_2_720p_3000k_av1,sample,87.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08259000000009387
+amt_gaming_vqa_dataset/Ghostoftsushima_2_2160p_5000k_h264nvenc,sample,76.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.13718999999995418
+amt_gaming_vqa_dataset/Ghostoftsushima_2_2160p_5000k_h264nvenc,sample,4.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11078999999981498
+amt_gaming_vqa_dataset/Ghostoftsushima_2_1080p_800k_hevcnvenc,sample,39.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07268999999995351
+amt_gaming_vqa_dataset/Ghostoftsushima_2_1080p_800k_hevcnvenc,sample,33.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07099000000000011
+amt_gaming_vqa_dataset/Ghostoftsushima_2_2160p_10000k_hevcnvenc,sample,1.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13509000000009408
+amt_gaming_vqa_dataset/Ghostoftsushima_2_2160p_10000k_hevcnvenc,sample,94.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",9.532490000000001
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_2160p_1500k_hevcnvenc,sample,45.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05458999999962799
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_2160p_1500k_hevcnvenc,sample,91.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09138999999990816
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_1080p_500k_av1,sample,75.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0772900000000476
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_1080p_500k_av1,sample,92.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0772900000002803

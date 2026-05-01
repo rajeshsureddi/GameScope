@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2,sample,80.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09920000000298046
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2,sample,77.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.60170000000298
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2_480p_1000k_h264nvenc,sample,77.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04598999999999975
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2_480p_1000k_h264nvenc,sample,38.0,42.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0809899999999999
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2_2160p_10000k_hevcnvenc,sample,59.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.049890000005961
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2_2160p_10000k_hevcnvenc,sample,78.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0815899999940406
+amt_gaming_vqa_dataset/Astroysplayroom_1_720p_500k_av1,sample,59.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-1.947210000002979
+amt_gaming_vqa_dataset/Astroysplayroom_1_720p_500k_av1,sample,8.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06508999999403997
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_5300k_h264nvenc,sample,58.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06818999998808017
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_5300k_h264nvenc,sample,52.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06908999999403953
+amt_gaming_vqa_dataset/Fallout4_2_1080p_5300k_h264nvenc,sample,86.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04958999999404057
+amt_gaming_vqa_dataset/Fallout4_2_1080p_5300k_h264nvenc,sample,47.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.5244900000000001

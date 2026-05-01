@@ -1,0 +1,20 @@
+<script type="text/javascript">
+  function didntSeeVideo() {
+  	switch (phase) {
+  		case 'train':
+  			rejected("Error in loading videos. Please return the HIT. You could try again with a different browser.")
+  			break;
+  		case 'test':
+  			prepare_backup_vid(p, p.idx-1); // p.idx already +1
+  			show_vid(p, p.idx-1);
+  			// will load the new one
+  			break;
+  		default:
+  			break;
+  	}
+  }
+</script>
+
+<button class="btn btn-primary btn-xl nextButton" id="btnDidntSeeVideo" type="button" onclick="didntSeeVideo()">
+    I didn't see the video
+</button>

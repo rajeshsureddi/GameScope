@@ -1,0 +1,25 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1000k_h264nvenc,sample,98.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08549000000000007
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1000k_h264nvenc,sample,32.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0851899999992547
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_800k_hevcnvenc,sample,40.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09879000000074534
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_800k_hevcnvenc,sample,55.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08158999999962724
+amt_gaming_vqa_dataset/Returnal_1_720p_1000k_h264nvenc,sample,11.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05019000000111795
+amt_gaming_vqa_dataset/Returnal_1_720p_1000k_h264nvenc,sample,6.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08828999999888332
+amt_gaming_vqa_dataset/Returnal_1_720p_3500k_hevcnvenc,sample,65.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08248999999999995
+amt_gaming_vqa_dataset/Returnal_1_720p_3500k_hevcnvenc,sample,99.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08699000000000012
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_480p_1000k_h264nvenc,sample,67.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11358999999962727
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_480p_1000k_h264nvenc,sample,12.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11239000000037258
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,39.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06010000000149063
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,10.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09589999999850995
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,5.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09080000000074584
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,39.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09579999999888322
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,60.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1032000000011184
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,38.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12730000000074426
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,88.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10980000000074419
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,10.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11509999999962695
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,9.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14180000000074422
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11630000000074503
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,72.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12469999999925463
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,16.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10230000000074568
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09209999999962726
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,89.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1395999999996267

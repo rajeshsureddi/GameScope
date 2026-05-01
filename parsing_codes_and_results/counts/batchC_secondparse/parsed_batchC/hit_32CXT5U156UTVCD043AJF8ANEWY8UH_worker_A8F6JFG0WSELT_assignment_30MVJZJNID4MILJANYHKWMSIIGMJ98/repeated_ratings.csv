@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2_720p_1300k_av1,sample,62.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07168999999925596
+amt_gaming_vqa_dataset/Assettocorsecompetizione_2_720p_1300k_av1,sample,60.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07849000000000039
+amt_gaming_vqa_dataset/Astroysplayroom_1_2160p_10000k_av1,sample,42.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2797899999988829
+amt_gaming_vqa_dataset/Astroysplayroom_1_2160p_10000k_av1,sample,20.0,88.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.4571899999992564
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_2000k_hevcnvenc,sample,26.0,86.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07069000000111814
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_2000k_hevcnvenc,sample,26.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07379000000074498
+amt_gaming_vqa_dataset/Fallout4_2_720p_5000k_h264nvenc,sample,89.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06618999999925634
+amt_gaming_vqa_dataset/Fallout4_2_720p_5000k_h264nvenc,sample,81.0,53.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5285899999996282
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,41.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.26909999999962686
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,32.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2520999999996274

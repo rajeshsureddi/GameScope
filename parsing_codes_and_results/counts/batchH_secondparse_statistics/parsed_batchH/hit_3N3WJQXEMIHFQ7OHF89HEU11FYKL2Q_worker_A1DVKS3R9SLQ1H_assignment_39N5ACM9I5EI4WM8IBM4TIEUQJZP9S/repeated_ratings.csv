@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_0-41,sample,79.0,60.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.030299999952315915
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_0-41,sample,4.0,11.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",7.496799999952316
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_18-18_480p_1000k_h264_nvenc,sample,4.0,8.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.09819999980926575
+amt_gaming_vqa_dataset/0ucrLD3HRD4_StarCraft_18-18_480p_1000k_h264_nvenc,sample,24.0,3.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.018800000190735133
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14_720p_1300k_av1,sample,17.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03729999995231559
+amt_gaming_vqa_dataset/5U7bgvmEHBU_CallofDutyMobile_0-14_720p_1300k_av1,sample,76.0,70.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08099999999999952
+amt_gaming_vqa_dataset/wWcI40WkOGk_Palworld_8-20,sample,3.0,57.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",14.792199999809265
+amt_gaming_vqa_dataset/wWcI40WkOGk_Palworld_8-20,sample,16.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",17.84590000009537
+amt_gaming_vqa_dataset/wWcI40WkOGk_Palworld_8-20_1080p_2000k_hevc_nvenc,sample,9.0,57.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03320000004768353
+amt_gaming_vqa_dataset/wWcI40WkOGk_Palworld_8-20_1080p_2000k_hevc_nvenc,sample,70.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004599999904632668
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_6-17_720p_1000k_h264_nvenc,sample,63.0,67.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",-0.036209999809264204
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_6-17_720p_1000k_h264_nvenc,sample,38.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.003210000047683792

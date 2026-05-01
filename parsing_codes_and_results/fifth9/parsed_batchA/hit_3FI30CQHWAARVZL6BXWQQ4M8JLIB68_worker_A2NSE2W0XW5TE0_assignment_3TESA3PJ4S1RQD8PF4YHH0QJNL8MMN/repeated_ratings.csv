@@ -1,0 +1,25 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/GrandtheftautoV_1_1080p_500k_av1,sample,68.0,43.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.051590000023843174
+amt_gaming_vqa_dataset/GrandtheftautoV_1_1080p_500k_av1,sample,32.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08819000004768363
+amt_gaming_vqa_dataset/GrandtheftautoV_1_480p_1000k_av1,sample,5.0,31.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07049000000000127
+amt_gaming_vqa_dataset/GrandtheftautoV_1_480p_1000k_av1,sample,41.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06869000004768466
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_2300k_h264nvenc,sample,4.0,87.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.047290000071525284
+amt_gaming_vqa_dataset/Worldofwarships_1_1080p_2300k_h264nvenc,sample,3.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11178999995231642
+amt_gaming_vqa_dataset/Worldofwarships_1_480p_800k_hevcnvenc,sample,6.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08248999999999995
+amt_gaming_vqa_dataset/Worldofwarships_1_480p_800k_hevcnvenc,sample,5.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08029000007152653
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,36.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09110000002384133
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,81.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10050000000000026
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10200000000000031
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,12.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09970000004768309
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,81.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10920000004768404
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,71.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10789999997615851
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,85.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09340000009536809
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,50.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.24739999997615847
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,24.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09279999995231591
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,88.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1095000000000006
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,51.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0990999999046327
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,93.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09200000000000053
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.098100000023841
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09790000009536826
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,83.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09260000002384139
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,93.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1144999999999996

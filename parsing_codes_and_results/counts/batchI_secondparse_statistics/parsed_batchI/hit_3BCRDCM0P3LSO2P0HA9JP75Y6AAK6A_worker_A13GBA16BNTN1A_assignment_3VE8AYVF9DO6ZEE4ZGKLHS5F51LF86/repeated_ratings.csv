@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_2300k_h264_nvenc,sample,72.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.021533000000372837
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_2300k_h264_nvenc,sample,5.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006232999999626898
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_1500k_hevc_nvenc,sample,40.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016343000001116437
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_1500k_hevc_nvenc,sample,95.0,76.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.009242999999626633
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_1500k_av1,sample,96.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.027099999999627755
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_1500k_av1,sample,46.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02800000000000047
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_5300k_h264_nvenc,sample,40.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007699999999255525
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_5300k_h264_nvenc,sample,4.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.021099999999627528
+amt_gaming_vqa_dataset/llMU1DXmfuU_CallofDutyMobile_17-00,sample,21.0,1.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.002000000000000668
+amt_gaming_vqa_dataset/llMU1DXmfuU_CallofDutyMobile_17-00,sample,39.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.022999999999999687
+amt_gaming_vqa_dataset/HQ09AuCkD40_TheSims3_6-58_720p_2500k_h264_nvenc,sample,11.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0038669999999996207
+amt_gaming_vqa_dataset/HQ09AuCkD40_TheSims3_6-58_720p_2500k_h264_nvenc,sample,84.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-3.300000037143036e-05

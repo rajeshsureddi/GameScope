@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19,sample,7.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.013999999999999346
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19,sample,86.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.012100000001490585
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19_720p_1300k_av1,sample,57.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.014499999999999957
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19_720p_1300k_av1,sample,39.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018600000001489647
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19_720p_5000k_h264_nvenc,sample,77.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03569999999925422
+amt_gaming_vqa_dataset/4t-8YPgbrUc_AngryBirds2_5-19_720p_5000k_h264_nvenc,sample,1.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03969999999925555
+amt_gaming_vqa_dataset/ucNHzV2XrCE_FallGuys_1-55_720p_1000k_h264_nvenc,sample,51.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011600000001489974
+amt_gaming_vqa_dataset/ucNHzV2XrCE_FallGuys_1-55_720p_1000k_h264_nvenc,sample,65.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02149999999999963
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_500k_av1,sample,81.0,33.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07159999999776545
+amt_gaming_vqa_dataset/-7I-tL6gV3M_SubwaySurfers_0-10_1080p_500k_av1,sample,98.0,34.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05840000000223533
+amt_gaming_vqa_dataset/Jrcg67qQO5w_TheWitcher3_27-05_480p_800k_hevc_nvenc,sample,59.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02296700000148988
+amt_gaming_vqa_dataset/Jrcg67qQO5w_TheWitcher3_27-05_480p_800k_hevc_nvenc,sample,54.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.003732999997763997

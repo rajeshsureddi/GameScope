@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_25000k_h264nvenc,sample,8.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.7970100000000002
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_25000k_h264nvenc,sample,24.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.709809999952316
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_6000k_hevcnvenc,sample,13.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.959710000047683
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_6000k_hevcnvenc,sample,74.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.449809999952315
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_600k_hevcnvenc,sample,74.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.98251
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_600k_hevcnvenc,sample,91.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.75461000014305
+amt_gaming_vqa_dataset/Daysgone_2_720p_1000k_h264nvenc,sample,31.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.589799999952316
+amt_gaming_vqa_dataset/Daysgone_2_720p_1000k_h264nvenc,sample,19.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.477900000095367
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_1500k_av1,sample,45.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.0102100000476835
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_1500k_av1,sample,59.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.055710000047683
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_600k_hevcnvenc,sample,84.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.520710000047684
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_600k_hevcnvenc,sample,92.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.867809999952316

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_10000k_av1,sample,94.0,61.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",50.00099
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_10000k_av1,sample,59.0,70.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",49.18499
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_5000k_av1,sample,40.0,60.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",42.41999
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_5000k_av1,sample,88.0,53.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",41.84899
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_10000k_h264nvenc,sample,31.0,59.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5259900000000002
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_10000k_h264nvenc,sample,17.0,53.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.0979900000000011
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_800k_hevcnvenc,sample,27.0,63.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.059990000000000876
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_800k_hevcnvenc,sample,73.0,54.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10099000000000125
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_1500k_hevcnvenc,sample,64.0,67.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08899000000000079
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_1500k_hevcnvenc,sample,10.0,55.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06699000000000055
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_5000k_h264nvenc,sample,16.0,65.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",4.104990000000001
+amt_gaming_vqa_dataset/HarryPotterQuidditchChampions_2160p_5000k_h264nvenc,sample,35.0,66.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.089990000000002

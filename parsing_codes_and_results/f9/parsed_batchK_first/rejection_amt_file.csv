@@ -1,0 +1,3 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3P59JYT77CB5W4UGEJG9O57D9GY2T6,30EV7DWJULMN87EHLPAAYFK94IQY6C,A1Q7VWUBIJOK17,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3WETL7AQXKZSWKF9HNCG4Z6RZV853X,3JGHED38F3I6C7SM4ZF24TK5ZTAY7B,AM0JKZVOEOTMA,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"

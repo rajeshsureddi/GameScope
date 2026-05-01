@@ -1,0 +1,14 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51,sample,99.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02389999997615888
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51,sample,66.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018200000017881024
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_3000k_av1,sample,51.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0017999999821185497
+amt_gaming_vqa_dataset/S9gDkSOCXVw_TheWitcher3_30-51_720p_3000k_av1,sample,88.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0045000000000001705
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49_480p_800k_hevc_nvenc,sample,75.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.002000000000000668
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_5-49_480p_800k_hevc_nvenc,sample,95.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013999999999999346
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,76.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0210570000119219
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,59.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.019556999982119905
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,76.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11679999998211876
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10269999998807933
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,34.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10379999998211886
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,64.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",15.56140000000596
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,2.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09950000000000081

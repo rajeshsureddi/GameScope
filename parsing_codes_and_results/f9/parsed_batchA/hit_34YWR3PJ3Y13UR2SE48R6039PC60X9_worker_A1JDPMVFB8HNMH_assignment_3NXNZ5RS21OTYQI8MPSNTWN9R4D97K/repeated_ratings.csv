@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Farcry6_1_720p_1300k_av1,sample,96.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0508900000003738
+amt_gaming_vqa_dataset/Farcry6_1_720p_1300k_av1,sample,58.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09739000000037379
+amt_gaming_vqa_dataset/Farcry6_1_720p_3000k_av1,sample,61.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0788900000003725
+amt_gaming_vqa_dataset/Farcry6_1_720p_3000k_av1,sample,19.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18389000000037292
+amt_gaming_vqa_dataset/Farcry6_1_720p_1000k_h264nvenc,sample,57.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0676899999992564
+amt_gaming_vqa_dataset/Farcry6_1_720p_1000k_h264nvenc,sample,39.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07668999999925497
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,90.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.052589999999627324
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,7.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07149000000000072
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_6000k_hevcnvenc,sample,41.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.053089999999627935
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_6000k_hevcnvenc,sample,67.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.1952899999988826
+amt_gaming_vqa_dataset/DemonsSouls_480p_1000k_av1,sample,20.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.17969000000111812
+amt_gaming_vqa_dataset/DemonsSouls_480p_1000k_av1,sample,45.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.19999000000000144

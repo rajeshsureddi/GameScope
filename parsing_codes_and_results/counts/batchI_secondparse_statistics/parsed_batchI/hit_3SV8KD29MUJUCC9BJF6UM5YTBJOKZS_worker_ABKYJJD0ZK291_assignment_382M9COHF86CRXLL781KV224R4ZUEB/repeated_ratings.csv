@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_1500k_av1,sample,58.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01486700000000063
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_1500k_av1,sample,72.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012766999998509831
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_600k_hevc_nvenc,sample,96.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.015642999999998963
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_600k_hevc_nvenc,sample,80.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008242999994038769
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_1500k_av1,sample,37.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03269999999552908
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_1500k_av1,sample,57.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.029299999997020265
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_800k_hevc_nvenc,sample,57.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.009799999997019526
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_800k_hevc_nvenc,sample,79.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.007699999995530504
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_18-30,sample,81.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02179999999701998
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_18-30,sample,48.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.029399999998510395
+amt_gaming_vqa_dataset/9sVLdz81Jqk_MarioKartTour_1-25_720p_1300k_av1,sample,21.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.002627999994038177
+amt_gaming_vqa_dataset/9sVLdz81Jqk_MarioKartTour_1-25_720p_1300k_av1,sample,48.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006027999999998812
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,46.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0913000000044697
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,33.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1266000000014902

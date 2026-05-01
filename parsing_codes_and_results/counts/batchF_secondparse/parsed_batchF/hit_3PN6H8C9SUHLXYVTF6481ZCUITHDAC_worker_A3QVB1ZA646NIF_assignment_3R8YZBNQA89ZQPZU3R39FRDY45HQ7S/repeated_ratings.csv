@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39,sample,54.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.014499999999999957
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39,sample,5.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.528500000000001
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52,sample,33.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.012199999999255695
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52,sample,49.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",3.3859000000003725
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_600k_hevc_nvenc,sample,38.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.005799999998881589
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_600k_hevc_nvenc,sample,84.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03419999999925416
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_800k_hevc_nvenc,sample,91.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00889999999851021
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_800k_hevc_nvenc,sample,43.0,49.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05599999999999916
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10440000000037308
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,49.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08999999999999986

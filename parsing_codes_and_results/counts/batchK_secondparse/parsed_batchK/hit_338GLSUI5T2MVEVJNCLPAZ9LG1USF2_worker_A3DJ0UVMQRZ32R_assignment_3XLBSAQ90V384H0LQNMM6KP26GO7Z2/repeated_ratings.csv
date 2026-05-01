@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_2300k_h264_nvenc,sample,47.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.012600000000558609
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_2300k_h264_nvenc,sample,4.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08150000000000013
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_6000k_hevc_nvenc,sample,12.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0024999999999995026
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_6000k_hevc_nvenc,sample,80.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.028499999999999304
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1300k_av1,sample,20.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0009999999999994458
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_1300k_av1,sample,68.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0039000000003728275
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_2500k_h264_nvenc,sample,12.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004399999999440851
+amt_gaming_vqa_dataset/9xYPRt1UsMc_Valheim_25-40_720p_2500k_h264_nvenc,sample,80.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0024999999999995026
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_1500k_hevc_nvenc,sample,46.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009299999999813124
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_1500k_hevc_nvenc,sample,22.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010099999999628295
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_10000k_h264_nvenc,sample,81.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0109000000003725
+amt_gaming_vqa_dataset/BVL2lHeHflA_EuroTruckSimulator2_24-00_1080p_10000k_h264_nvenc,sample,53.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0014000000003733248
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,42.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10100000000000087
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,70.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14060000000055872
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,3.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13020000000018683
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,14.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09509999999962737

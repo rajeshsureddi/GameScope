@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_2500k_h264_nvenc,sample,19.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0016880000003727247
+amt_gaming_vqa_dataset/IpMRK2z9Fm4_MarioKartTour_3-32_720p_2500k_h264_nvenc,sample,74.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.021711999999999065
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_2300k_h264_nvenc,sample,71.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.015867000001117404
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_30-00_1080p_2300k_h264_nvenc,sample,85.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0029670000007442354
+amt_gaming_vqa_dataset/FAh_6RoEdJ4_StarCraft_11-12,sample,6.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.1858000000007447
+amt_gaming_vqa_dataset/FAh_6RoEdJ4_StarCraft_11-12,sample,31.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.8060000000000009
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09180000000074529
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09459999999962676
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,84.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08649999999999913
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,28.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09999999999999964
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,17.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11109999999962739
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,59.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0839000000003729
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,80.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08240000000037284
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,92.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08479999999888221
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,88.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.020199999999254814

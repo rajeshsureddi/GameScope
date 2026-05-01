@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_5000k_av1,sample,36.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0871899999880803
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_1080p_5000k_av1,sample,55.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08479000001192105
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_3000k_av1,sample,80.0,50.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07399000000000022
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_3000k_av1,sample,85.0,62.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.07538999997615825
+amt_gaming_vqa_dataset/Returnal_1_2160p_8500k_h264nvenc,sample,13.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.19079000001192092
+amt_gaming_vqa_dataset/Returnal_1_2160p_8500k_h264nvenc,sample,52.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.14759000002384326
+amt_gaming_vqa_dataset/Returnal_1_1080p_6000k_hevcnvenc,sample,98.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09589000003576409
+amt_gaming_vqa_dataset/Returnal_1_1080p_6000k_hevcnvenc,sample,12.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08529000001192166
+amt_gaming_vqa_dataset/Returnal_1_720p_1500k_hevcnvenc,sample,86.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06178999995231749
+amt_gaming_vqa_dataset/Returnal_1_720p_1500k_hevcnvenc,sample,21.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08059000002384309
+amt_gaming_vqa_dataset/Returnal_1_720p_3500k_hevcnvenc,sample,18.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06868999998807901
+amt_gaming_vqa_dataset/Returnal_1_720p_3500k_hevcnvenc,sample,77.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08428999995231656

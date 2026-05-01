@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Returnal_2_1080p_1500k_av1,sample,77.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04618999999995488
+amt_gaming_vqa_dataset/Returnal_2_1080p_1500k_av1,sample,53.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07679000000004699
+amt_gaming_vqa_dataset/Returnal_2_720p_500k_av1,sample,34.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06348999999999982
+amt_gaming_vqa_dataset/Returnal_2_720p_500k_av1,sample,11.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06179000000027912
+amt_gaming_vqa_dataset/Returnal_2_2160p_10000k_hevcnvenc,sample,76.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07279000000004743
+amt_gaming_vqa_dataset/Returnal_2_2160p_10000k_hevcnvenc,sample,1.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08078999999981384
+amt_gaming_vqa_dataset/Returnal_2_2160p_6000k_hevcnvenc,sample,40.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04868999999972168
+amt_gaming_vqa_dataset/Returnal_2_2160p_6000k_hevcnvenc,sample,35.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-2.429410000000372
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_500k_av1,sample,73.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04918999999972051
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_500k_av1,sample,68.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08759000000009287
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_5300k_h264nvenc,sample,53.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05118999999972118
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_5300k_h264nvenc,sample,98.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07128999999981467

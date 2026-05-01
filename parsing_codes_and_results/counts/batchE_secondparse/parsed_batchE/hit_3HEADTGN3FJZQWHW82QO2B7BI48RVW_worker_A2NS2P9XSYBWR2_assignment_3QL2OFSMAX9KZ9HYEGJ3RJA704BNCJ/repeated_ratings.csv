@@ -1,0 +1,20 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2000k_hevc_nvenc,sample,86.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006641999999720483
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_2000k_hevc_nvenc,sample,67.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5746419999997201
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_6000k_hevc_nvenc,sample,27.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.022542000000093765
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_6000k_hevc_nvenc,sample,67.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.024641999999721165
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_800k_hevc_nvenc,sample,93.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.115057999999999
+amt_gaming_vqa_dataset/0RKUDAMVtlY_WorldofTanks_1-47_1080p_800k_hevc_nvenc,sample,53.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.7380579999999997
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_6000k_hevc_nvenc,sample,14.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006999999999999673
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_6000k_hevc_nvenc,sample,47.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.3863000000002792
+amt_gaming_vqa_dataset/dL5vzPLG18k_HalfLife2_29-00,sample,57.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007500000000000284
+amt_gaming_vqa_dataset/dL5vzPLG18k_HalfLife2_29-00,sample,56.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0007000000001866624
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,31.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1039999999999992
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,57.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02210000000009238
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,54.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.7264999999999997
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08120000000018557
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,68.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10869999999995272
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,16.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.779999999999999
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,77.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.136699999999953
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,27.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08469999999995359
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08799999999999919

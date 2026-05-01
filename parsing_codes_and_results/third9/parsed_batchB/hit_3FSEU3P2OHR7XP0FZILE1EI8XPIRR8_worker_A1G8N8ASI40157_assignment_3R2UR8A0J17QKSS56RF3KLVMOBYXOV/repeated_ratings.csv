@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Deadspace_2160p_25000k_h264nvenc,sample,40.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.052590000000094506
+amt_gaming_vqa_dataset/Deadspace_2160p_25000k_h264nvenc,sample,65.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1778900000003727
+amt_gaming_vqa_dataset/Deadspace_480p_1000k_h264nvenc,sample,60.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06468999999972169
+amt_gaming_vqa_dataset/Deadspace_480p_1000k_h264nvenc,sample,23.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08849000000000018
+amt_gaming_vqa_dataset/Deadspace_720p_5000k_h264nvenc,sample,17.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09518999999972166
+amt_gaming_vqa_dataset/Deadspace_720p_5000k_h264nvenc,sample,58.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08978999999981419
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_600k_hevcnvenc,sample,21.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07359000000009353
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_600k_hevcnvenc,sample,3.0,22.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09988999999990789
+amt_gaming_vqa_dataset/Farcry6_2_720p_5000k_h264nvenc,sample,21.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08659000000009343
+amt_gaming_vqa_dataset/Farcry6_2_720p_5000k_h264nvenc,sample,20.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08728999999981468
+amt_gaming_vqa_dataset/Farcry6_2_1080p_6000k_hevcnvenc,sample,64.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07828999999981434
+amt_gaming_vqa_dataset/Farcry6_2_1080p_6000k_hevcnvenc,sample,61.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08338999999990726

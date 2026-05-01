@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/2YwKJ3x3Nq8_IceAgeVillage_1-24_720p_1300k_av1,sample,75.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.029732999999627197
+amt_gaming_vqa_dataset/2YwKJ3x3Nq8_IceAgeVillage_1-24_720p_1300k_av1,sample,48.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01086700000000107
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30,sample,75.0,79.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",6.232567000001119
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30,sample,7.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",12.326367000000001
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_2500k_h264_nvenc,sample,8.0,33.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009966999999628356
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_2500k_h264_nvenc,sample,24.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03216700000074546
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_1000k_h264_nvenc,sample,67.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.021033000000372226
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_1000k_h264_nvenc,sample,23.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.9340669999992546
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_1500k_hevc_nvenc,sample,54.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0007329999996272818
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_1500k_hevc_nvenc,sample,63.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0028329999992546817
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_6000k_hevc_nvenc,sample,24.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1140999999996275
+amt_gaming_vqa_dataset/MLi-ujBlSMI_GarrysMod_0-45_1080p_6000k_hevc_nvenc,sample,99.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12630000000074482

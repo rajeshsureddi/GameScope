@@ -1,0 +1,19 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_11-55_480p_1000k_av1,sample,86.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.010816000000000159
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_11-55_480p_1000k_av1,sample,67.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.000884000017881803
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00_720p_1500k_hevc_nvenc,sample,22.0,79.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.03540000000596066
+amt_gaming_vqa_dataset/ZnuX_kQ3PzI_Palworld_0-00_720p_1500k_hevc_nvenc,sample,58.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.020700000017880527
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1300k_av1,sample,87.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0011999999880796253
+amt_gaming_vqa_dataset/kEErvVGP99g_GarrysMod_13-35_720p_1300k_av1,sample,38.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018599999994039607
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_1300k_av1,sample,62.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.020500000000000185
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_1300k_av1,sample,37.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03220000001788215
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_600k_hevc_nvenc,sample,75.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005300000011921213
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_600k_hevc_nvenc,sample,94.0,83.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.018700000017881635
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,50.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13349999999999973
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,93.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1620000000000008
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,37.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12149999999999928
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,26.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.140300000011921
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,55.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12409999999403887
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,34.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3208000000119213
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,98.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15279999998211835
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,81.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09549999999999947

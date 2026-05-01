@@ -1,0 +1,18 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Ghostoftsushima_2_480p_1000k_h264nvenc,sample,42.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07859000000149052
+amt_gaming_vqa_dataset/Ghostoftsushima_2_480p_1000k_h264nvenc,sample,2.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07958999999403993
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_720p_500k_av1,sample,19.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06578999999702084
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_720p_500k_av1,sample,24.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06549000000000049
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_720p_1000k_h264nvenc,sample,95.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08038999999851093
+amt_gaming_vqa_dataset/Strangerofparadisefinalfantasy_720p_1000k_h264nvenc,sample,97.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11428999999701972
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_720p_3000k_av1,sample,53.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08328999999702091
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_720p_3000k_av1,sample,65.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09778999999702087
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_1080p_10000k_h264nvenc,sample,64.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04988999999851096
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_1080p_10000k_h264nvenc,sample,90.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.44159000000149007
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_1080p_5300k_h264nvenc,sample,19.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08248999999999995
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_1_1080p_5300k_h264nvenc,sample,27.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08569000000298033
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,56.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08590000000596021
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,96.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13949999999999996
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09219999999552897
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,35.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08760000000149049
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08409999999403972

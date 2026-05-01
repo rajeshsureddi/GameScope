@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/terraria,sample,96.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.048299999999812826
+amt_gaming_vqa_dataset/terraria,sample,53.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.046200000000185426
+amt_gaming_vqa_dataset/terraria_480p_1000k_h264nvenc,sample,58.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06919000000018727
+amt_gaming_vqa_dataset/terraria_480p_1000k_h264nvenc,sample,43.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07019000000018671
+amt_gaming_vqa_dataset/Destiny2_1,sample,46.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.046499999999999986
+amt_gaming_vqa_dataset/Destiny2_1,sample,26.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05649999999999977
+amt_gaming_vqa_dataset/Destiny2_1_2160p_8500k_h264nvenc,sample,10.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.13528999999981473
+amt_gaming_vqa_dataset/Destiny2_1_2160p_8500k_h264nvenc,sample,9.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-3.209109999999627
+amt_gaming_vqa_dataset/Destiny2_1_1080p_2000k_hevcnvenc,sample,41.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.050990000000000535
+amt_gaming_vqa_dataset/Destiny2_1_1080p_2000k_hevcnvenc,sample,83.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-5.524409999999441
+amt_gaming_vqa_dataset/Destiny2_1_1080p_6000k_hevcnvenc,sample,30.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07038999999990736
+amt_gaming_vqa_dataset/Destiny2_1_1080p_6000k_hevcnvenc,sample,27.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.0429900000000014

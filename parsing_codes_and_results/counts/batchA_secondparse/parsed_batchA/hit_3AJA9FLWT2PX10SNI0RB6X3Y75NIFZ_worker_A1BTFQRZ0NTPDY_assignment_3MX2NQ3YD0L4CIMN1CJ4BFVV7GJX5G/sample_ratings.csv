@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5,sample,11.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09050000000000047
+amt_gaming_vqa_dataset/callofdutyps5_1080p_1500k_av1,sample,83.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10399000000000136
+amt_gaming_vqa_dataset/callofdutyps5_1080p_5000k_av1,sample,41.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4132899999988826
+amt_gaming_vqa_dataset/callofdutyps5_1080p_500k_av1,sample,60.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06669000000111858
+amt_gaming_vqa_dataset/callofdutyps5_2160p_10000k_av1,sample,17.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.16299000000000063
+amt_gaming_vqa_dataset/callofdutyps5_2160p_1000k_av1,sample,48.0,40.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.3579900000000009
+amt_gaming_vqa_dataset/callofdutyps5_2160p_5000k_av1,sample,38.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15668999999925504
+amt_gaming_vqa_dataset/callofdutyps5_480p_1000k_av1,sample,68.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04989000000037258
+amt_gaming_vqa_dataset/callofdutyps5_720p_1300k_av1,sample,34.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07369000000111825
+amt_gaming_vqa_dataset/callofdutyps5_720p_3000k_av1,sample,84.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0793900000003731
+amt_gaming_vqa_dataset/callofdutyps5_720p_500k_av1,sample,81.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06958999999962856
+amt_gaming_vqa_dataset/callofdutyps5_1080p_10000k_h264nvenc,sample,85.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1216899999992549
+amt_gaming_vqa_dataset/callofdutyps5_1080p_2300k_h264nvenc,sample,3.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0960899999996272
+amt_gaming_vqa_dataset/callofdutyps5_1080p_5300k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/callofdutyps5_2160p_25000k_h264nvenc,sample,65.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.8069900000000008
+amt_gaming_vqa_dataset/callofdutyps5_2160p_5000k_h264nvenc,sample,19.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.46038999999851
+amt_gaming_vqa_dataset/callofdutyps5_2160p_8500k_h264nvenc,sample,43.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.799390000000374
+amt_gaming_vqa_dataset/callofdutyps5_480p_1000k_h264nvenc,sample,6.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08589000000037394
+amt_gaming_vqa_dataset/callofdutyps5_720p_1000k_h264nvenc,sample,22.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11029000000074518
+amt_gaming_vqa_dataset/callofdutyps5_720p_2500k_h264nvenc,sample,66.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.28749
+amt_gaming_vqa_dataset/callofdutyps5_720p_5000k_h264nvenc,sample,89.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11229000000074585
+amt_gaming_vqa_dataset/callofdutyps5_1080p_2000k_hevcnvenc,sample,52.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08239000000037322
+amt_gaming_vqa_dataset/callofdutyps5_1080p_6000k_hevcnvenc,sample,30.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0793900000003731
+amt_gaming_vqa_dataset/callofdutyps5_1080p_800k_hevcnvenc,sample,73.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",4.456689999999256
+amt_gaming_vqa_dataset/callofdutyps5_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/callofdutyps5_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/callofdutyps5_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/callofdutyps5_480p_800k_hevcnvenc,sample,97.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07379000000074498
+amt_gaming_vqa_dataset/callofdutyps5_720p_1500k_hevcnvenc,sample,50.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07149000000000072
+amt_gaming_vqa_dataset/callofdutyps5_720p_3500k_hevcnvenc,sample,34.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3151899999992551
+amt_gaming_vqa_dataset/callofdutyps5_720p_600k_hevcnvenc,sample,48.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08228999999888309
+amt_gaming_vqa_dataset/Faastpenguin_2,sample,21.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",7.303099999999628
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_1500k_av1,sample,70.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08069000000111792
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_5000k_av1,sample,32.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12439000000037304
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_500k_av1,sample,83.0,42.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08549000000000007
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_10000k_av1,sample,70.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.345689999999255
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_1000k_av1,sample,62.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.14549000000000056
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_5000k_av1,sample,67.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.13339000000037338
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_1000k_av1,sample,3.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06549000000000049
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_1300k_av1,sample,87.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06789000000037326
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_3000k_av1,sample,4.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07389000000037349
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_500k_av1,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_10000k_h264nvenc,sample,21.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.971209999999255
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_2300k_h264nvenc,sample,41.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09689000000037318
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_5300k_h264nvenc,sample,66.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09018999999925548
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_25000k_h264nvenc,sample,47.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.8645899999996285
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_5000k_h264nvenc,sample,44.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.2075899999996285
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_8500k_h264nvenc,sample,4.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.181390000000373
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_1000k_h264nvenc,sample,50.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11639000000037392
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_1000k_h264nvenc,sample,12.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08449000000000062
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_2500k_h264nvenc,sample,26.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08468999999925586
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_5000k_h264nvenc,sample,27.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0835899999996279
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_2000k_hevcnvenc,sample,64.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07749000000000095
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_6000k_hevcnvenc,sample,47.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3893899999985102
+amt_gaming_vqa_dataset/Faastpenguin_2_1080p_800k_hevcnvenc,sample,52.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08169000000111737
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Faastpenguin_2_480p_800k_hevcnvenc,sample,38.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06869000000111747
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_1500k_hevcnvenc,sample,24.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07039000000037277
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_3500k_hevcnvenc,sample,93.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05108999999962727
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_600k_hevcnvenc,sample,88.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08529000000074483
+amt_gaming_vqa_dataset/Ghostoftsushima_1,sample,76.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",6.498299999998883
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_1500k_av1,sample,48.0,53.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08028999999888242
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_5000k_av1,sample,44.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08458999999962735
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_500k_av1,sample,47.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07719000000111897
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_10000k_av1,sample,17.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.4644900000000014
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_1000k_av1,sample,90.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.13608999999962812
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_av1,sample,94.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14299000000000106
+amt_gaming_vqa_dataset/Ghostoftsushima_1_480p_1000k_av1,sample,78.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09529000000074639
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_1300k_av1,sample,13.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.13399000000000072
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_3000k_av1,sample,22.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0793900000003731
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_500k_av1,sample,58.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06819000000111863
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_10000k_h264nvenc,sample,25.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11658999999962738
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_2300k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_5300k_h264nvenc,sample,36.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09908999999962731
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_25000k_h264nvenc,sample,71.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.233189999999256
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_5000k_h264nvenc,sample,62.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",4.464290000000746
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_8500k_h264nvenc,sample,43.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.119089999999629
+amt_gaming_vqa_dataset/Ghostoftsushima_1_480p_1000k_h264nvenc,sample,92.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07978999999888359
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_1000k_h264nvenc,sample,88.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08408999999962852
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_2500k_h264nvenc,sample,91.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08628999999888265
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_5000k_h264nvenc,sample,28.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08439000000037389
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_2000k_hevcnvenc,sample,13.0,41.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07439000000037232
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_6000k_hevcnvenc,sample,16.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08049000000000106
+amt_gaming_vqa_dataset/Ghostoftsushima_1_1080p_800k_hevcnvenc,sample,82.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.1112900000007464
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_1500k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Ghostoftsushima_1_2160p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Ghostoftsushima_1_480p_800k_hevcnvenc,sample,8.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06878999999888258
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_1500k_hevcnvenc,sample,65.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0898900000003735
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_3500k_hevcnvenc,sample,37.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07368999999925485
+amt_gaming_vqa_dataset/Ghostoftsushima_1_720p_600k_hevcnvenc,sample,41.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05139000000037264

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_35-30_480p_1000k_h264_nvenc,sample,0.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009484000190735031
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_35-30_480p_1000k_h264_nvenc,sample,7.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.030483999952316765
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_35-30_480p_800k_hevc_nvenc,sample,29.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.008815999999999491
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_35-30_480p_800k_hevc_nvenc,sample,76.0,79.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.005216000095368045
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_6000k_hevc_nvenc,sample,60.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03320000004768353
+amt_gaming_vqa_dataset/Ks0QFfm6pSk_SubwaySurfers_0-00_1080p_6000k_hevc_nvenc,sample,37.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006699999809265833
+amt_gaming_vqa_dataset/Gzm8h8Y48E8_Myst_31-12_1080p_6000k_hevc_nvenc,sample,26.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0013000001907350622
+amt_gaming_vqa_dataset/Gzm8h8Y48E8_Myst_31-12_1080p_6000k_hevc_nvenc,sample,61.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",4.358699999809264
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3500k_hevc_nvenc,sample,3.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0117000000476839
+amt_gaming_vqa_dataset/lo8IEo7TfLs_CitiesSkylines_6-45_720p_3500k_hevc_nvenc,sample,97.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008899999856948781
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02,sample,80.0,62.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",14.326400000095369
+amt_gaming_vqa_dataset/Ez_Oy-yYR4E_Palworld_0-02,sample,7.0,10.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",8.262400000095369

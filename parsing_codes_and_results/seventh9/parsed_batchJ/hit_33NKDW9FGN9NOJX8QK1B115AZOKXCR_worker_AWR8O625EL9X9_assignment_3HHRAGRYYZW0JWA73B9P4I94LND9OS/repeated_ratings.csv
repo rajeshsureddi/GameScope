@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_23-10_480p_1000k_h264_nvenc,sample,64.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.011799999997020194
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_23-10_480p_1000k_h264_nvenc,sample,49.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.52270000000298
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_1000k_h264_nvenc,sample,40.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006333000002980427
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_1000k_h264_nvenc,sample,67.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.012033000005960304
+amt_gaming_vqa_dataset/IhboAPRR9FM_CallofDutyMobile_0-15_720p_3500k_hevc_nvenc,sample,8.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.02590000000595971
+amt_gaming_vqa_dataset/IhboAPRR9FM_CallofDutyMobile_0-15_720p_3500k_hevc_nvenc,sample,75.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0061999999880786305
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_1000k_h264_nvenc,sample,45.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.002833000002979702
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_1000k_h264_nvenc,sample,91.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008332999988079237
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_1000k_h264_nvenc,sample,53.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0062640000059595025
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_1000k_h264_nvenc,sample,21.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.016836000002980356
+amt_gaming_vqa_dataset/ntaUAdkKZbM_RollerCoasterTycoon3_0-44_1080p_2000k_hevc_nvenc,sample,6.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",9.999999404008975e-05
+amt_gaming_vqa_dataset/ntaUAdkKZbM_RollerCoasterTycoon3_0-44_1080p_2000k_hevc_nvenc,sample,92.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.004300000011921767

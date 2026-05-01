@@ -1,0 +1,21 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_5000k_av1,sample,17.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",5.288790000004472
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_5000k_av1,sample,16.0,78.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.4732899999970197
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_1300k_av1,sample,64.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-6.34901
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_1300k_av1,sample,7.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.427110000001489
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_480p_1000k_h264nvenc,sample,34.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.16690999999851
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_480p_1000k_h264nvenc,sample,13.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.67371000000298
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_2500k_h264nvenc,sample,89.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.580509999999999
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_2500k_h264nvenc,sample,18.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.746209999995529
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_5000k_h264nvenc,sample,80.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09869000000298023
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_5000k_h264nvenc,sample,23.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-4.88151
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,47.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-4.26460000000149
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,0.0,77.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-4.0286999999955295
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,71.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-4.51760000000149
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,62.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.33219999999553
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,92.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.45639999999851
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,23.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.3434000000059605
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,27.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-4.05770000000298
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,82.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.5585000000000004
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,60.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-4.6792000000029805
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,86.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-5.58940000000596

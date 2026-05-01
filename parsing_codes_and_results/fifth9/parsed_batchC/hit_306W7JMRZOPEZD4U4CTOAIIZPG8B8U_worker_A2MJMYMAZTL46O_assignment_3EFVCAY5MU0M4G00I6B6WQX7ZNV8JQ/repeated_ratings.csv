@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_1500k_av1,sample,19.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08288999999851043
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_1500k_av1,sample,43.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08578999999702042
+amt_gaming_vqa_dataset/Astroysplayroom_1_720p_1300k_av1,sample,69.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07419000000298048
+amt_gaming_vqa_dataset/Astroysplayroom_1_720p_1300k_av1,sample,33.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4149900000000013
+amt_gaming_vqa_dataset/Astroysplayroom_1_480p_1000k_h264nvenc,sample,23.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09039000000596076
+amt_gaming_vqa_dataset/Astroysplayroom_1_480p_1000k_h264nvenc,sample,72.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0814900000000005
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_6000k_hevcnvenc,sample,20.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0500899999940394
+amt_gaming_vqa_dataset/Astroysplayroom_1_1080p_6000k_hevcnvenc,sample,34.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07579000000447067
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,88.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10999999999999943
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,18.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07600000000000051
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08660000000148926
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,28.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08978999999701998
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,78.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08289999999851005
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,90.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.170800000004471
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2252000000029799
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,61.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07589999999851038

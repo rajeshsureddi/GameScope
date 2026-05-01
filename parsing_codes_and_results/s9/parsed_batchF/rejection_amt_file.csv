@@ -1,0 +1,13 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3I02618YBRXGOOABGMHVPE183I2PU4,3U74KRR68CCZY6LFA09SS9EGK9GNTB,A3DJUABETF36E0,row_0,0,,"Low standard deviation of slider ratings, the slider was not moved much."
+3KV0LJBBITCINTLHKCUY3ZKTREFRMY,3U74KRR68CCZY6LFA09SS9EGK9GNTB,A1WYKGQX8SSNMI,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3WEV0KO0PDJRKEFHM8V0AJ2V419DSR,3U74KRR68CCZY6LFA09SS9EGK9GNTB,AZTAPCOD2Y512,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+3LWJHTCVD3DC5IE0LA1L3JQFYQ8QFU,3511RHPAEL5WUR52UYOIF299RTJLRU,A1WYKGQX8SSNMI,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3TY7ZAOG66BZXB1F5NY34QR2TIO0K5,3511RHPAEL5WUR52UYOIF299RTJLRU,A1GQKCTY2N75DH,row_0,0,,The scores are not consistent across repeated videos.
+33IZTU6J9SS5IKKYD8WC4Q5NKJLXSD,38EHZ67RJCJPBJE9EZVLGBARPPYGMV,A2CGYCMKSR86YA,row_0,0,,"Used phone or tablet | all slider ratings are very similar, the slider moved to same range of scores. | Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3EICBYG65VNOGJQDZIRBYCTQNINJCK,38EHZ67RJCJPBJE9EZVLGBARPPYGMV,A1MZFQNLOZ0LIH,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=Low level of immersion"
+3MHW492WXR4AG02YTWZ84W9WCJ4MVW,38EHZ67RJCJPBJE9EZVLGBARPPYGMV,A261VCVWDKG1Z4,row_0,0,,Used phone or tablet
+3ZY8KE4ITAU11F0QLP6PL5T1MKSQVE,38EHZ67RJCJPBJE9EZVLGBARPPYGMV,A2Q8W9EV4RRC0O,row_0,0,,Too many unset video ratings
+30X31N5D7UHTM7C52Y4YKIUPJYCASM,3DW3BNF1H79T8R209TKOBUC6SZX8VO,A3E3M7E01VRNE,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores. | Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3WI0P0II7SJFJZF47JVVK9XZIZQDR3,3DW3BNF1H79T8R209TKOBUC6SZX8VO,A22PT6K5XNIFLA,row_0,0,,Used phone or tablet
+3Z2R0DQ0K8537LCJOOREPJ7C6K92E6,3DW3BNF1H79T8R209TKOBUC6SZX8VO,A2W91LUNJYMM4N,row_0,0,,"Low standard deviation of slider ratings, the slider was not moved much."

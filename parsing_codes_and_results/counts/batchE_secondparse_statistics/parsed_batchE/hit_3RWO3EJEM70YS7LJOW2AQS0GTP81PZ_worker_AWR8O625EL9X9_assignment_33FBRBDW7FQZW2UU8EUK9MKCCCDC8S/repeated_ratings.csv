@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_2300k_h264_nvenc,sample,54.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08069999999925415
+amt_gaming_vqa_dataset/DlFrlfom9uk_WorldofWarcraft_34-05_1080p_2300k_h264_nvenc,sample,29.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.018200000002980943
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_2000k_hevc_nvenc,sample,41.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02610000000148993
+amt_gaming_vqa_dataset/e1G5tiIl7L8_MarioKartTour_0-08_1080p_2000k_hevc_nvenc,sample,15.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.028399999998509173
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_2000k_hevc_nvenc,sample,67.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05169999999925423
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_2000k_hevc_nvenc,sample,7.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.012700000001117928
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_800k_hevc_nvenc,sample,7.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.016000000000000014
+amt_gaming_vqa_dataset/Chl0eDpDdFk_Gardenscapes_2-18_1080p_800k_hevc_nvenc,sample,88.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.038000000000000256
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_1500k_av1,sample,75.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.016299999997020365
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_1500k_av1,sample,16.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03619999999925483
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_6000k_hevc_nvenc,sample,98.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.019699999999254203
+amt_gaming_vqa_dataset/cEfh_VKhTwY_DiabloIII_49-32_1080p_6000k_hevc_nvenc,sample,16.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03910000000148983

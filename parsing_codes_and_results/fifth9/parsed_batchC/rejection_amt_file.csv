@@ -1,0 +1,10 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3QRYMNZ7GP81LQJ902ETGTABNWONTQ,3D1TUISJX8RMKIPDDPMASX41HXKIUQ,ACBK30I7R42NI,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+3N8OEVH1GIH3QJED50S7184TDKSOO7,3KL228NDNLDULVE6TNI51YIN0TTGKY,A36NPTH2FLH2PA,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+35USIKEBOI7VJS8X4P605JIX2BVN66,3KL228NDNLDULVE6TNI51YIN0TTGKY,AT5SRP5JN4KXN,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+30IQTZXKBBX5HB0M46DSUKZ4RNVX0D,3KL228NDNLDULVE6TNI51YIN0TTGKY,A369AG143K4YH9,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+33TIN5LC1V1CDAE99YIN6976WW69YS,3WKGUBL7TPDPTL34JMS579YZZOQL4K,AT5SRP5JN4KXN,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3ZOTGHDK692IOB66CH9GLDEUA9VOS4,3OLZC0DJ996MXXEDIFWFOJ6KV4TIVF,A36NPTH2FLH2PA,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3SKEMFQB0UWHF06I0RBIX5XKEBU8KM,3OLZC0DJ996MXXEDIFWFOJ6KV4TIVF,ATX76N0GN1SQ8,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+39RP059MF8KV7M4SOF883KFPBMBBMU,38RHULDVAO6ZCMEI8P1BALPY2DVIWP,A3O8EW6AE6KVZ8,row_0,0,,"all slider ratings are very similar, the slider moved to same range of scores."
+30BXRYBRQVO13B1SS9ORYTKE42NWHH,38RHULDVAO6ZCMEI8P1BALPY2DVIWP,A369AG143K4YH9,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"

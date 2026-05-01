@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_2000k_hevc_nvenc,sample,42.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014401000000372477
+amt_gaming_vqa_dataset/cvkM47D9mYc_TheSims3_1-14_1080p_2000k_hevc_nvenc,sample,27.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.015500999999998655
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1300k_av1,sample,60.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.009400000000372444
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1300k_av1,sample,53.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.006999999999999673
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1000k_h264_nvenc,sample,90.0,68.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.013999999999999346
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1000k_h264_nvenc,sample,8.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.013700000001117374
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_800k_hevc_nvenc,sample,75.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02200000000000024
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_800k_hevc_nvenc,sample,14.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.011499999999999844
+amt_gaming_vqa_dataset/gDOqhM2IyMo_DiabloIII_14-14,sample,23.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005499999999999616
+amt_gaming_vqa_dataset/gDOqhM2IyMo_DiabloIII_14-14,sample,50.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0065000000000008384
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_2300k_h264_nvenc,sample,76.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.020100999999627334
+amt_gaming_vqa_dataset/tlbm95TGEYw_CitiesSkylines_9-49_1080p_2300k_h264_nvenc,sample,19.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01680099999888185

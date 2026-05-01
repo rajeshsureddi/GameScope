@@ -1,0 +1,6 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3I2PTA7R4KLNL46EMLSIJWIKAP2KQD,3HEADTGN3FJZQWHW82QO2B7BI48RVW,AZBJ3AH4LMJW9,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3Y5140Z9EO7BFXFBM5SH6BDXDP4IPM,3HEADTGN3FJZQWHW82QO2B7BI48RVW,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+33CID5711VK6Y9IU9ASNLO2OPX63L9,32TMVRKDHDPUEEJLPXJ124CTFSO84Q,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3483FV8BF5AZU6J4I68GDVFZTOH62T,3WGZLY9VD7D7EA2EI8KU586ZS5HD88,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3X65QVEQJREUB9ED233OER6IV9ACL5,3WGZLY9VD7D7EA2EI8KU586ZS5HD88,A1W06GIYOJMSAK,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"

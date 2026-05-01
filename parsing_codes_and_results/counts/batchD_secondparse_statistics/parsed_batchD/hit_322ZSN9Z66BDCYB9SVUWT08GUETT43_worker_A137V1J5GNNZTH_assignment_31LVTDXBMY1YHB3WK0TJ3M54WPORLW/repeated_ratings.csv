@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/ckJ_MgQ9WBQ_RollerCoasterTycoon3_14-00,sample,3.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01270000000297955
+amt_gaming_vqa_dataset/ckJ_MgQ9WBQ_RollerCoasterTycoon3_14-00,sample,32.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03940000000596022
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33,sample,68.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.712
+amt_gaming_vqa_dataset/auvhCmhrkho_WarRobots_7-33,sample,44.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",11.417200000002982
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_2300k_h264_nvenc,sample,37.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005700000002979877
+amt_gaming_vqa_dataset/rBi-SfhUWuI_CitiesSkylines_1-00_1080p_2300k_h264_nvenc,sample,32.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.005000000000000782
+amt_gaming_vqa_dataset/gDUjQdGW1-4_Gardenscapes_1-37_1080p_6000k_hevc_nvenc,sample,15.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0032000000029803743
+amt_gaming_vqa_dataset/gDUjQdGW1-4_Gardenscapes_1-37_1080p_6000k_hevc_nvenc,sample,71.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.25709999999403976
+amt_gaming_vqa_dataset/5162HItNstY_WorldofTanks_1-58_480p_800k_hevc_nvenc,sample,68.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02999999999999936
+amt_gaming_vqa_dataset/5162HItNstY_WorldofTanks_1-58_480p_800k_hevc_nvenc,sample,5.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007599999994040374
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_500k_av1,sample,49.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024400000005959654
+amt_gaming_vqa_dataset/XQSdH1q1o7w_StardewValley_1-04_1080p_500k_av1,sample,92.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02149999999999963

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_hZ9kvYq0ubA_Terraria_18-22_480p_1000k_av1,sample,0.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004898999998509623
+amt_gaming_vqa_dataset/y_hZ9kvYq0ubA_Terraria_18-22_480p_1000k_av1,sample,55.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00639899999850968
+amt_gaming_vqa_dataset/Gp59gQ78XZ4_Terraria_13-55_1080p_1500k_av1,sample,43.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0013000000007448165
+amt_gaming_vqa_dataset/Gp59gQ78XZ4_Terraria_13-55_1080p_1500k_av1,sample,23.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.016299999998881987
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_1500k_av1,sample,88.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0578999999985097
+amt_gaming_vqa_dataset/5Tm5htccdwA_AngryBirds2_0-00_1080p_1500k_av1,sample,40.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.052400000000371705
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_5000k_av1,sample,32.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.041513000001490497
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_5000k_av1,sample,81.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02271299999888221
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_500k_av1,sample,63.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01631299999850988
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_500k_av1,sample,49.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03801299999962815
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_2500k_h264_nvenc,sample,78.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08320000000111705
+amt_gaming_vqa_dataset/Sat7jyNwnx0_WarRobots_0-08_720p_2500k_h264_nvenc,sample,19.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0620999999996279

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_2160p_8500k_h264nvenc,sample,53.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.16628999998211924
+amt_gaming_vqa_dataset/Godofwar_1_2160p_8500k_h264nvenc,sample,54.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.392109999994039
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,41.0,71.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.14928999998211978
+amt_gaming_vqa_dataset/MLBtheshow_1080p_5300k_h264nvenc,sample,17.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.73721000001788
+amt_gaming_vqa_dataset/MLBtheshow_2160p_5000k_h264nvenc,sample,90.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1332900000119217
+amt_gaming_vqa_dataset/MLBtheshow_2160p_5000k_h264nvenc,sample,74.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.16338999997615922
+amt_gaming_vqa_dataset/MLBtheshow_2160p_8500k_h264nvenc,sample,42.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.17118999998807993
+amt_gaming_vqa_dataset/MLBtheshow_2160p_8500k_h264nvenc,sample,7.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.2378900000059616
+amt_gaming_vqa_dataset/MLBtheshow_720p_5000k_h264nvenc,sample,60.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-2.9823099999821183
+amt_gaming_vqa_dataset/MLBtheshow_720p_5000k_h264nvenc,sample,17.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.5573900000059613
+amt_gaming_vqa_dataset/MLBtheshow_1080p_2000k_hevcnvenc,sample,74.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12438999997615952
+amt_gaming_vqa_dataset/MLBtheshow_1080p_2000k_hevcnvenc,sample,16.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15229000001192183

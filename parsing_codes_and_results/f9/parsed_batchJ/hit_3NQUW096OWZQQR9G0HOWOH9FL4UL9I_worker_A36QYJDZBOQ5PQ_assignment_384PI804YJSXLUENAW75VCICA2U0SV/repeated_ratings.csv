@@ -1,0 +1,16 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/iieKUq0J-XM_FIFA_6-19_480p_1000k_av1,sample,54.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0027999999998140623
+amt_gaming_vqa_dataset/iieKUq0J-XM_FIFA_6-19_480p_1000k_av1,sample,23.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.023099999999628196
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_10-10_360p_600k_hevc_nvenc,sample,78.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005000000000000782
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_10-10_360p_600k_hevc_nvenc,sample,70.0,30.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005399999999442073
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_800k_hevc_nvenc,sample,11.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.011512999999627738
+amt_gaming_vqa_dataset/4WeyBONy1mU_AngryBirds2_1-02_1080p_800k_hevc_nvenc,sample,0.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.022212999999814187
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_53-37_360p_800k_av1,sample,97.0,28.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01909999999962686
+amt_gaming_vqa_dataset/y_ITSBju9m_h8_RollerCoasterTycoon3_53-37_360p_800k_av1,sample,23.0,31.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.00010000000055931935
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38,sample,77.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",35.019700000000185
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38,sample,88.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",55.61929999999981
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_2000k_hevc_nvenc,sample,5.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1216000000005586
+amt_gaming_vqa_dataset/AKcTm4L_Des_CallofDutyMobile_1-38_1080p_2000k_hevc_nvenc,sample,23.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.19709999999962768
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,40.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05880000000074581
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,83.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10249999999999915
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,1.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1039999999999992

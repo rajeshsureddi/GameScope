@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Crossout_720p_5000k_h264nvenc,sample,1.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.01051
+amt_gaming_vqa_dataset/Crossout_720p_5000k_h264nvenc,sample,13.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.193009999999999
+amt_gaming_vqa_dataset/Crossout_1080p_2000k_hevcnvenc,sample,66.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-8.859210000047684
+amt_gaming_vqa_dataset/Crossout_1080p_2000k_hevcnvenc,sample,33.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.394109999904632
+amt_gaming_vqa_dataset/Crossout_1080p_6000k_hevcnvenc,sample,46.0,62.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-3.3253099999523155
+amt_gaming_vqa_dataset/Crossout_1080p_6000k_hevcnvenc,sample,98.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.766210000047684
+amt_gaming_vqa_dataset/Destiny2_1,sample,55.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.9052999999523177
+amt_gaming_vqa_dataset/Destiny2_1,sample,59.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-9.177100000023842
+amt_gaming_vqa_dataset/Destiny2_1_2160p_10000k_av1,sample,11.0,60.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-3.816309999952316
+amt_gaming_vqa_dataset/Destiny2_1_2160p_10000k_av1,sample,90.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-6.715309999952316
+amt_gaming_vqa_dataset/Destiny2_1_2160p_1000k_av1,sample,9.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.564409999976157
+amt_gaming_vqa_dataset/Destiny2_1_2160p_1000k_av1,sample,40.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.895409999976158

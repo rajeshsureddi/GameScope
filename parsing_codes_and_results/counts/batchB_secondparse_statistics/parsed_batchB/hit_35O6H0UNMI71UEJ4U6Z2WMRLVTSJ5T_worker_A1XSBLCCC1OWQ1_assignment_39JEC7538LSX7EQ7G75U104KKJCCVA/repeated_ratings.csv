@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Hogwartslegacy_1_2160p_10000k_av1,sample,13.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",2.5235900000238427
+amt_gaming_vqa_dataset/Hogwartslegacy_1_2160p_10000k_av1,sample,93.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.318689999928475
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_5300k_h264nvenc,sample,18.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09428999995231635
+amt_gaming_vqa_dataset/Hogwartslegacy_1_1080p_5300k_h264nvenc,sample,42.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07469000004768489
+amt_gaming_vqa_dataset/Hogwartslegacy_1_2160p_1500k_hevcnvenc,sample,78.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04229000007152628
+amt_gaming_vqa_dataset/Hogwartslegacy_1_2160p_1500k_hevcnvenc,sample,43.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10488999997615878
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_2_480p_1000k_h264nvenc,sample,0.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2097999999523168
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_2_480p_1000k_h264nvenc,sample,60.0,6.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.5726000000238418
+amt_gaming_vqa_dataset/DragonballZkakrot_1080p_2300k_h264nvenc,sample,89.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-7.386709999928474
+amt_gaming_vqa_dataset/DragonballZkakrot_1080p_2300k_h264nvenc,sample,96.0,62.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1375900000238417
+amt_gaming_vqa_dataset/DragonballZkakrot_2160p_1500k_hevcnvenc,sample,53.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04559000002384295
+amt_gaming_vqa_dataset/DragonballZkakrot_2160p_1500k_hevcnvenc,sample,13.0,69.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.043890000095368364

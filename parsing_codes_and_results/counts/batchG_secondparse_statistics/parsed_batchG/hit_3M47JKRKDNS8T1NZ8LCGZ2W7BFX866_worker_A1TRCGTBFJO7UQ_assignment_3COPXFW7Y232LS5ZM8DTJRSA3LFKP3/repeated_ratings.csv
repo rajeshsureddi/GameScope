@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_5300k_h264_nvenc,sample,12.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07389999999850971
+amt_gaming_vqa_dataset/Htvk-lYcfXs_Rust_0-00_1080p_5300k_h264_nvenc,sample,76.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.024800000000745115
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_1000k_h264_nvenc,sample,35.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007500000000000284
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_1000k_h264_nvenc,sample,0.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00439999999851004
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_500k_av1,sample,58.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0066999999992543025
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55_1080p_500k_av1,sample,55.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.018899999998509998
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30_1080p_6000k_hevc_nvenc,sample,89.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.002199999999254132
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30_1080p_6000k_hevc_nvenc,sample,41.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.531199999999255
+amt_gaming_vqa_dataset/K7ypeQ4UA6w_SuperMarioRun_4-49_360p_800k_av1,sample,57.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0013000000007448165
+amt_gaming_vqa_dataset/K7ypeQ4UA6w_SuperMarioRun_4-49_360p_800k_av1,sample,12.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006700000002981099
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_2-55_360p_800k_av1,sample,55.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.013800000000745882
+amt_gaming_vqa_dataset/8Xg2xP7BHnY_SuperMarioRun_2-55_360p_800k_av1,sample,20.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.00430000000074493

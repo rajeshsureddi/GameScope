@@ -1,0 +1,130 @@
+<section class="py-5">
+  <div class="container my-auto">
+    <div id='survey' style="display:none" width="100%" class="survey form-group">
+        <!-- <div id='survey_box' class="box" style="width:60%;"> -->
+
+
+
+<!-- Holds the final questions that we wish to ask in the end-->
+<p style="font-size:30px">Almost Done! </p>
+<h2>Please answer the survey questions below:</h2>
+<br>
+<p>What type of laptop/Computer are you using (eg: Macbook Pro 2022)?</p>
+<div align='center'>
+  <textarea name="laptop" rows="1" cols="30"></textarea>
+</div>
+
+<br>
+<p>Details of your Monitor? (eg: Samsung-28'')</p>
+<div align='center'>
+  <textarea name="profession" rows="1" cols="30"></textarea>
+</div>
+
+<br>
+<p>Do you like taking/viewing videos?</p>
+<label><input type="radio" name="tp" value="Yes"> Yes</label><br>
+<label><input type="radio" name="tp" value="No"> No</label><br>
+<label><input type="radio" name="tp" value="dontcare"> Sometimes. Not a lot though!</label><br>
+<br>
+<p>Does the quality of videos on the social media ever bother you?</p>
+<label><input type="radio" name="qp" value="Yes"> Yes</label><br>
+<label><input type="radio" name="qp" value="No"> No</label><br>
+<label><input type="radio" name="qp" value="dontcare"> I don't really care!</label><br>
+<label><input type="radio" name="qp" value="dontknow"> Aren't all videos of same quality?</label><br>
+<br>
+<p>Have you watched gaming videos online, e.g. on YouTube?</p>
+<label><input type="radio" name="hdr" value="Yes"> Yes</label><br>
+<label><input type="radio" name="hdr" value="No"> No</label><br>
+<label><input type="radio" name="hdr" value="notsure"> Not sure</label><br>
+<label><input type="radio" name="hdr" value="notinterested"> I am not interested in gaming videos</label><br>
+<br>
+<p>What device do you use for capturing videos most often?</p>
+<label><input type="radio" name="dev" value="Mobile devices"> Mobile devices (iphone/Android devices) </label><br>
+<label><input type="radio" name="dev" value="DSLR"> A high-end DSLR camera </label><br>
+<label><input type="radio" name="dev" value="DigiCam"> A decent Digital Camera</label><br>
+<br>
+<p>Which display device (monitor) are you using to view the videos and perform this task?</p>
+<label><input type="radio" name="display" value="Phone"> Phone Screen </label><br>
+<label><input type="radio" name="display" value="Tablet"> Tablet Screen </label><br>
+<label><input type="radio" name="display" value="Desktop"> Desktop Monitor </label><br>
+<label><input type="radio" name="display" value="Laptop"> Laptop Screen </label><br>
+<label><input type="radio" name="display" value="HDTV"> HDTV screen</label><br>
+<br>
+<p>Your Gender</p>
+<label><input type="radio" name="gender" value="Male"> Male</label><br>
+<label><input type="radio" name="gender" value="Female"> Female</label><br>
+<label><input type="radio" name="gender" value="Other"> Other</label><br>
+<label><input type="radio" name="gender" value="NA"> Prefer not to disclose</label><br>
+<br>
+<p>Your Age</p>
+<label><input type="radio" name="age" value="<20"> less than 20</label><br>
+<label><input type="radio" name="age" value="20-30"> 20-30</label><br>
+<label><input type="radio" name="age" value="30-40"> 30-40</label><br>
+<label><input type="radio" name="age" value=">40"> Above 40</label><br>
+<label><input type="radio" name="age" value="NA"> Prefer not to disclose</label><br>
+<br>
+<p>Do you wear corrective lenses?</p>
+<label><input type="radio" name="lens" value="Yes"> Yes</label><br>
+<label><input type="radio" name="lens" value="No"> No</label><br>
+<br>
+<p>If the answer to the above question is yes, are you wearing your corrective lenses now?</p>
+<label><input type="radio" name="wearlens" value="Yes"> Yes</label><br>
+<label><input type="radio" name="wearlens" value="No"> No</label><br>
+<label><input type="radio" name="wearlens" value="NA"> N/A</label><br>
+<br>
+<p>Approximately how far are you sitting away from your screen?</p>
+<label><input type="radio" name="dist" value="<15">  less than 15 inches away</label><br>
+<label><input type="radio" name="dist" value="15-30"> Between 15-30 inches</label><br>
+<label><input type="radio" name="dist" value=">30"> Greater than 30 inches away</label><br>
+<br>
+<p>Do you have any additional comments for us?</p>
+<div align='center'>
+  <textarea name="comments" rows="5" cols="30"></textarea>
+</div>
+<br>
+
+<div id="bottomInfo" align=center>
+  <button class="btn-xl btn btn-primary nextButton"  id="surveyButton" type="button" onclick="checkSurvey()" title="Please fill out the survey. Thank you!">
+  <span style='font-size:16pt'>Done!</span>
+  </button>
+</div>
+
+
+<!-- </div> -->
+</div>
+</div>
+</section>
+
+<script type="text/javascript">
+  function checkSurvey() {
+    if(validSurvey()) {
+      $(this).hide();next();
+    } else {
+      alert('Please answer all before submitting!');
+    }
+  }
+  function validSurvey() {
+  	// https://stackoverflow.com/questions/6920606/jquery-how-to-check-if-all-radio-buttons-in-a-div-are-selected
+  	// $('[name=age]:checked').val() === undefined;
+      return !(
+        $('[name=tp]:checked').val() === undefined ||
+        $('[name=qp]:checked').val() === undefined ||
+        $('[name=hdr]:checked').val() === undefined ||
+        $('[name=dev]:checked').val() === undefined ||
+        $('[name=display]:checked').val() === undefined ||
+        $('[name=gender]:checked').val() === undefined ||
+        $('[name=age]:checked').val() === undefined ||
+        $('[name=lens]:checked').val() === undefined ||
+        $('[name=wearlens]:checked').val() === undefined ||
+        $('[name=dist]:checked').val() === undefined
+      )
+  }
+  //$('#surveyButton').prop("disabled", validSurvey());
+  //var empty = $('#survey:not(:has(:radio:checked))')
+  //$('#surveyButton').prop("disabled", empty.length > 0);
+
+  // $(document).ready(function(){
+  //   //$('input[type="radio"]').click(validSurvey);
+  //   $('input[type="radio"]').click(validSurvey);
+  // });
+</script>

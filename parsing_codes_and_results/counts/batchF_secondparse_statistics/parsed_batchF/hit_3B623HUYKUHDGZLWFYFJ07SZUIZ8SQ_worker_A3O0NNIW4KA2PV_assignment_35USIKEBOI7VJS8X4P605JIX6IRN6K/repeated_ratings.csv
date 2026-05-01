@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_1000k_h264_nvenc,sample,70.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0012669996185312726
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_1000k_h264_nvenc,sample,53.0,71.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.004867000000000843
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_6-36_480p_1000k_h264_nvenc,sample,69.0,19.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014599999904632455
+amt_gaming_vqa_dataset/y_75vBBJ_1n0s_FallGuys_6-36_480p_1000k_h264_nvenc,sample,51.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00330000019073573
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_h264_nvenc,sample,81.0,38.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.010900000095366735
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_h264_nvenc,sample,17.0,31.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.020200000286102693
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00,sample,39.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",8.777600000381469
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00,sample,16.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.02740000009536736
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_1300k_av1,sample,84.0,63.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0035000000000007248
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_1300k_av1,sample,17.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0027000002861026218
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_3500k_hevc_nvenc,sample,23.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.003900000095367062
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_3500k_hevc_nvenc,sample,60.0,73.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.016599999904633123

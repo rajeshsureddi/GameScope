@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Daysgone_1_1080p_5300k_h264nvenc,sample,16.0,50.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08209000002384315
+amt_gaming_vqa_dataset/Daysgone_1_1080p_5300k_h264nvenc,sample,28.0,59.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.07919000004768506
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_5000k_h264nvenc,sample,15.0,58.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.2511900000476839
+amt_gaming_vqa_dataset/Genshinimpact_1_2160p_5000k_h264nvenc,sample,34.0,61.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.2707899999523171
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_6000k_hevcnvenc,sample,44.0,53.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.05538999997615868
+amt_gaming_vqa_dataset/Genshinimpact_1_1080p_6000k_hevcnvenc,sample,42.0,58.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06048999999999971
+amt_gaming_vqa_dataset/DeceiveInc_2160p_1000k_av1,sample,98.0,69.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.19868999992847414
+amt_gaming_vqa_dataset/DeceiveInc_2160p_1000k_av1,sample,97.0,59.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.4320900000238428
+amt_gaming_vqa_dataset/DeceiveInc_480p_1000k_av1,sample,4.0,56.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06999000000000066
+amt_gaming_vqa_dataset/DeceiveInc_480p_1000k_av1,sample,73.0,61.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.15038999997615932
+amt_gaming_vqa_dataset/DeceiveInc_480p_800k_hevcnvenc,sample,47.0,60.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.051490000000001146
+amt_gaming_vqa_dataset/DeceiveInc_480p_800k_hevcnvenc,sample,19.0,59.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.05209000002384201

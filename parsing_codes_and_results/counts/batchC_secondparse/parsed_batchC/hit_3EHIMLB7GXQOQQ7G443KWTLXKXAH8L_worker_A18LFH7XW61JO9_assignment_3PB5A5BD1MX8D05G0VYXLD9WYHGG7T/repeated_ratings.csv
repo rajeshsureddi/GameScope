@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CatQuestII_1080p_10000k_h264nvenc,sample,0.0,75.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07648999999999972
+amt_gaming_vqa_dataset/CatQuestII_1080p_10000k_h264nvenc,sample,95.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.8641900000001872
+amt_gaming_vqa_dataset/CatQuestII_1080p_5300k_h264nvenc,sample,58.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07218999999972198
+amt_gaming_vqa_dataset/CatQuestII_1080p_5300k_h264nvenc,sample,58.0,60.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06769000000018721
+amt_gaming_vqa_dataset/CatQuestII_480p_1000k_h264nvenc,sample,28.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08028999999993047
+amt_gaming_vqa_dataset/CatQuestII_480p_1000k_h264nvenc,sample,68.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07779000000004643
+amt_gaming_vqa_dataset/CatQuestII_720p_1000k_h264nvenc,sample,9.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.08258999999997663
+amt_gaming_vqa_dataset/CatQuestII_720p_1000k_h264nvenc,sample,73.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07569000000018633
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_1000k_h264nvenc,sample,44.0,42.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08739999999990644
+amt_gaming_vqa_dataset/Sessionskatesim_1_720p_1000k_h264nvenc,sample,54.0,41.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07980000000027943
+amt_gaming_vqa_dataset/Fallout4_1_720p_3500k_hevcnvenc,sample,51.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07628999999981367
+amt_gaming_vqa_dataset/Fallout4_1_720p_3500k_hevcnvenc,sample,90.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06008999999986031

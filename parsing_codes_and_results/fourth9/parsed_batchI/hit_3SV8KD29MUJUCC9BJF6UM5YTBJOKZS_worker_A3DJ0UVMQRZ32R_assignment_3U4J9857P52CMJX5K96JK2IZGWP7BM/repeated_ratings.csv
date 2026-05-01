@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_800k_hevc_nvenc,sample,1.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.011632999999999782
+amt_gaming_vqa_dataset/t5lUJh96CmY_Cyberpunk2077_23-06_1080p_800k_hevc_nvenc,sample,66.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.009833000017881233
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_1000k_h264_nvenc,sample,68.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01994300001192073
+amt_gaming_vqa_dataset/3lmeJLsXALE_Minecraft_1-58_720p_1000k_h264_nvenc,sample,50.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0144429999821174
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_13-15,sample,36.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.003732999994038977
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_13-15,sample,47.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.1084669999940395
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_1-04-07_480p_800k_hevc_nvenc,sample,88.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0019000000059605782
+amt_gaming_vqa_dataset/y_5zWGVNQx3gw_Gardenscapes_1-04-07_480p_800k_hevc_nvenc,sample,44.0,50.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.004300000011921767
+amt_gaming_vqa_dataset/VdxZYjnx6Xw_StardewValley_25-58,sample,36.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.010999999999999233
+amt_gaming_vqa_dataset/VdxZYjnx6Xw_StardewValley_25-58,sample,67.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",8.3795
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,11.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11140000000596118
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,79.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09809999999403907

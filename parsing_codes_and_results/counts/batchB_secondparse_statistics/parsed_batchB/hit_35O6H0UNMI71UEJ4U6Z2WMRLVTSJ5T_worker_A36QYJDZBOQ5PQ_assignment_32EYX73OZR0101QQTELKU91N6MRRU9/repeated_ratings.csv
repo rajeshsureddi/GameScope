@@ -1,0 +1,21 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Hogwartslegacy_1_720p_500k_av1,sample,7.0,38.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08089000000037316
+amt_gaming_vqa_dataset/Hogwartslegacy_1_720p_500k_av1,sample,97.0,52.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.1401899999992562
+amt_gaming_vqa_dataset/Hogwartslegacy_1_720p_5000k_h264nvenc,sample,77.0,87.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10439000000037346
+amt_gaming_vqa_dataset/Hogwartslegacy_1_720p_5000k_h264nvenc,sample,91.0,92.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.10479000000074556
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_2_720p_1300k_av1,sample,95.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10189999999851018
+amt_gaming_vqa_dataset/Assassiancreedvalhalla_2_720p_1300k_av1,sample,48.0,50.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10509999999962716
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_2500k_h264nvenc,sample,16.0,88.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.09458999999962892
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_2500k_h264nvenc,sample,56.0,60.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.08299000000000056
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_1500k_hevcnvenc,sample,61.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08428999999888376
+amt_gaming_vqa_dataset/DragonballZkakrot_720p_1500k_hevcnvenc,sample,13.0,64.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.11608999999962855
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,21.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0973000000007449
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,96.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08929999999888238
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,72.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10160000000148983
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10340000000037186
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,27.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10310000000148989
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,93.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09809999999962749
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,28.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10120000000111773
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,20.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10050000000000026
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,98.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.10650000000000048
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,69.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10169999999925494

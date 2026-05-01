@@ -1,0 +1,14 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Deadspace_2160p_8500k_h264nvenc,sample,30.0,53.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10729000000074507
+amt_gaming_vqa_dataset/Deadspace_2160p_8500k_h264nvenc,sample,0.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.19858999999962812
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_500k_av1,sample,67.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07239000000037343
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_720p_500k_av1,sample,71.0,58.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07329000000074615
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_1500k_hevcnvenc,sample,69.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0721899999992548
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_1_2160p_1500k_hevcnvenc,sample,77.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07999000000000045
+amt_gaming_vqa_dataset/Farcry6_2_1080p_10000k_h264nvenc,sample,0.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06648999999999994
+amt_gaming_vqa_dataset/Farcry6_2_1080p_10000k_h264nvenc,sample,34.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07189000000037282
+amt_gaming_vqa_dataset/Farcry6_2_720p_1000k_h264nvenc,sample,46.0,8.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07758999999962768
+amt_gaming_vqa_dataset/Farcry6_2_720p_1000k_h264nvenc,sample,29.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07658999999962823
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,88.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10500000000000043
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,28.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08999999999999986
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,14.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09029999999888183

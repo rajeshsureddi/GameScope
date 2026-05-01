@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_9-18_480p_1000k_h264_nvenc,sample,5.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07580100001191958
+amt_gaming_vqa_dataset/y_QgRoVX1cYvk_Myst_9-18_480p_1000k_h264_nvenc,sample,50.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.022600999994038418
+amt_gaming_vqa_dataset/cn1gXylV3CY_CallofDutyMobile_0-01_480p_1000k_h264_nvenc,sample,46.0,25.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014299999997019697
+amt_gaming_vqa_dataset/cn1gXylV3CY_CallofDutyMobile_0-01_480p_1000k_h264_nvenc,sample,77.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.024399999991059573
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_h264_nvenc,sample,52.0,43.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04809999999404013
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_h264_nvenc,sample,62.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.016399999991058678
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_600k_hevc_nvenc,sample,35.0,50.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.023599999994040388
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_600k_hevc_nvenc,sample,20.0,36.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07850000000000001
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12,sample,34.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2637329999910598
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12,sample,20.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.296632999997021
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_1000k_h264_nvenc,sample,36.0,31.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.009567000002981274
+amt_gaming_vqa_dataset/h2iS-DyFDH0_TheSims3_3-37_720p_1000k_h264_nvenc,sample,26.0,31.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01506700000298089

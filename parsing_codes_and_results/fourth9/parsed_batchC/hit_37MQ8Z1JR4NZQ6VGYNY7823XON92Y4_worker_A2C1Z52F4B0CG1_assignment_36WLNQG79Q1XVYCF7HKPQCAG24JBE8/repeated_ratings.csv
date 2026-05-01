@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Sessionskatesim_2_1080p_1500k_av1,sample,32.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08799000000000134
+amt_gaming_vqa_dataset/Sessionskatesim_2_1080p_1500k_av1,sample,2.0,95.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11238999997615906
+amt_gaming_vqa_dataset/Worldofwarships_2_1080p_5300k_h264nvenc,sample,49.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08238999997615792
+amt_gaming_vqa_dataset/Worldofwarships_2_1080p_5300k_h264nvenc,sample,9.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11148999999999987
+amt_gaming_vqa_dataset/Worldofwarships_2_2160p_8500k_h264nvenc,sample,22.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09479000007152649
+amt_gaming_vqa_dataset/Worldofwarships_2_2160p_8500k_h264nvenc,sample,78.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11479000007152607
+amt_gaming_vqa_dataset/Worldofwarships_2_480p_1000k_h264nvenc,sample,12.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08858999990463268
+amt_gaming_vqa_dataset/Worldofwarships_2_480p_1000k_h264nvenc,sample,18.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09628999995231702
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2,sample,37.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08730000007152583
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2,sample,16.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07049999999999912
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_720p_1300k_av1,sample,54.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10249999999999915
+amt_gaming_vqa_dataset/Policesimulatorpatrolofficers_2_720p_1300k_av1,sample,83.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09370000004768286

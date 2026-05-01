@@ -1,0 +1,94 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_1500k_av1,sample,11.0,34.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.0852899999988832
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_5000k_av1,sample,22.0,55.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",20.01758999999963
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_500k_av1,sample,66.0,62.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08228999999888309
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_10000k_av1,sample,3.0,41.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.7213900000003726
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_1000k_av1,sample,26.0,33.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.4576899999992552
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_5000k_av1,sample,41.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9380899999996277
+amt_gaming_vqa_dataset/Genshinimpact_2_480p_1000k_av1,sample,87.0,77.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.06839000000037387
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1300k_av1,sample,98.0,31.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07099000000000011
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_3000k_av1,sample,2.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06269000000111902
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_500k_av1,sample,11.0,42.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0659900000000011
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_10000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_2300k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_5300k_h264nvenc,sample,43.0,38.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06269000000111902
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_5000k_h264nvenc,sample,63.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07739000000037244
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_8500k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_2_480p_1000k_h264nvenc,sample,88.0,56.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06329000000074636
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1000k_h264nvenc,sample,46.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0663900000003732
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_2500k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_5000k_h264nvenc,sample,54.0,49.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0680899999996285
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_2000k_hevcnvenc,sample,68.0,74.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06239000000037365
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_6000k_hevcnvenc,sample,35.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",12.603489999999999
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_800k_hevcnvenc,sample,93.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-5.102809999998882
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_10000k_hevcnvenc,sample,28.0,43.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07089000000037338
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_1500k_hevcnvenc,sample,68.0,52.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07049000000000127
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_6000k_hevcnvenc,sample,90.0,42.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06679000000074531
+amt_gaming_vqa_dataset/Genshinimpact_2_480p_800k_hevcnvenc,sample,90.0,39.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0697899999988838
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_1500k_hevcnvenc,sample,50.0,54.0,"['Highly Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06839000000037387
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_3500k_hevcnvenc,sample,71.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06729000000074592
+amt_gaming_vqa_dataset/Genshinimpact_2_720p_600k_hevcnvenc,sample,62.0,52.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06658999999962845
+amt_gaming_vqa_dataset/Daysgone_2,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Daysgone_2_1080p_1500k_av1,sample,33.0,37.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-3.681299999998882
+amt_gaming_vqa_dataset/Daysgone_2_1080p_5000k_av1,sample,59.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08919999999925565
+amt_gaming_vqa_dataset/Daysgone_2_1080p_500k_av1,sample,89.0,44.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08569999999925493
+amt_gaming_vqa_dataset/Daysgone_2_2160p_10000k_av1,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Daysgone_2_2160p_1000k_av1,sample,57.0,47.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.8254000000003732
+amt_gaming_vqa_dataset/Daysgone_2_2160p_5000k_av1,sample,33.0,36.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",17.623199999999255
+amt_gaming_vqa_dataset/Daysgone_2_480p_1000k_av1,sample,31.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07249999999999979
+amt_gaming_vqa_dataset/Daysgone_2_720p_1300k_av1,sample,98.0,41.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07499999999999929
+amt_gaming_vqa_dataset/Daysgone_2_720p_3000k_av1,sample,78.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0738000000007446
+amt_gaming_vqa_dataset/Daysgone_2_720p_500k_av1,sample,40.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07570000000111676
+amt_gaming_vqa_dataset/Daysgone_2_1080p_10000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Daysgone_2_1080p_2300k_h264nvenc,sample,56.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07729999999888193
+amt_gaming_vqa_dataset/Daysgone_2_1080p_5300k_h264nvenc,sample,57.0,46.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07809999999962791
+amt_gaming_vqa_dataset/Daysgone_2_2160p_25000k_h264nvenc,sample,52.0,47.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.0801000000014902
+amt_gaming_vqa_dataset/Daysgone_2_2160p_5000k_h264nvenc,sample,32.0,36.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.084300000000745
+amt_gaming_vqa_dataset/Daysgone_2_2160p_8500k_h264nvenc,sample,85.0,46.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.6085999999996279
+amt_gaming_vqa_dataset/Daysgone_2_480p_1000k_h264nvenc,sample,27.0,43.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07569999999925514
+amt_gaming_vqa_dataset/Daysgone_2_720p_1000k_h264nvenc,sample,95.0,40.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07540000000037317
+amt_gaming_vqa_dataset/Daysgone_2_720p_2500k_h264nvenc,sample,49.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-2.281300000000745
+amt_gaming_vqa_dataset/Daysgone_2_720p_5000k_h264nvenc,sample,45.0,43.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0733999999985091
+amt_gaming_vqa_dataset/Daysgone_2_1080p_2000k_hevcnvenc,sample,0.0,39.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07879999999888199
+amt_gaming_vqa_dataset/Daysgone_2_1080p_6000k_hevcnvenc,sample,82.0,44.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08150000000000013
+amt_gaming_vqa_dataset/Daysgone_2_1080p_800k_hevcnvenc,sample,11.0,35.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.061500000000000554
+amt_gaming_vqa_dataset/Daysgone_2_2160p_10000k_hevcnvenc,sample,53.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",8.799299999998883
+amt_gaming_vqa_dataset/Daysgone_2_2160p_1500k_hevcnvenc,sample,74.0,42.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07750000000000057
+amt_gaming_vqa_dataset/Daysgone_2_2160p_6000k_hevcnvenc,sample,63.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",44.16309999999963
+amt_gaming_vqa_dataset/Daysgone_2_480p_800k_hevcnvenc,sample,10.0,38.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07609999999962724
+amt_gaming_vqa_dataset/Daysgone_2_720p_1500k_hevcnvenc,sample,50.0,39.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07900000000000063
+amt_gaming_vqa_dataset/Daysgone_2_720p_3500k_hevcnvenc,sample,2.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",27.29659999999963
+amt_gaming_vqa_dataset/Daysgone_2_720p_600k_hevcnvenc,sample,52.0,45.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.07769999999925581
+amt_gaming_vqa_dataset/Hogwartslegacy_2,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_1500k_av1,sample,30.0,34.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08708999999962863
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_5000k_av1,sample,41.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",9.557689999999257
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_500k_av1,sample,0.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08199000000000112
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_10000k_av1,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_1000k_av1,sample,78.0,51.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.40549000000000035
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_5000k_av1,sample,33.0,36.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.6575899999996278
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_av1,sample,50.0,45.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06868999999925585
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_1300k_av1,sample,52.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07158999999962745
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_3000k_av1,sample,9.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.05219000000111862
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_500k_av1,sample,87.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0508900000003738
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_10000k_h264nvenc,sample,41.0,43.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06699000000000055
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_2300k_h264nvenc,sample,73.0,52.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06679000000074531
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_5300k_h264nvenc,sample,86.0,33.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07839000000037366
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_25000k_h264nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_5000k_h264nvenc,sample,4.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.07199000000000133
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_8500k_h264nvenc,sample,63.0,51.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06708999999962728
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,96.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06868999999925585
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_1000k_h264nvenc,sample,17.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.06779000000074653
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_2500k_h264nvenc,sample,65.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06238999999851025
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_5000k_h264nvenc,sample,66.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05228999999888373
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_2000k_hevcnvenc,sample,77.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06249000000000038
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_6000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Hogwartslegacy_2_1080p_800k_hevcnvenc,sample,75.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06858999999962734
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_10000k_hevcnvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_1500k_hevcnvenc,sample,93.0,36.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06839000000037387
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_6000k_hevcnvenc,sample,57.0,51.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.0705900000014914
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_800k_hevcnvenc,sample,10.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06618999999925634
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_1500k_hevcnvenc,sample,49.0,46.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06789000000037326
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_3500k_hevcnvenc,sample,44.0,49.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.8208900000003734
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_600k_hevcnvenc,sample,84.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06769000000111802

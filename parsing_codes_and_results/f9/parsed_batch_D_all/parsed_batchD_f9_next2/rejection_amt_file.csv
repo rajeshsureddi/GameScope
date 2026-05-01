@@ -1,0 +1,5 @@
+AssignmentId,HITId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+37Z929RLH0ZY13BE8YVFFNKH7UJSTP,38G0E1M86CWR6O9DCWLT7MUVPJDUV0,row_0,0,,"Too many unset video ratings | all slider ratings are very similar, the slider moved to same range of scores."
+3QJOXOW4YAITEPGCY6AY4SLACQ9ME2,3MJ9GGZYPTXYUOXDIHKR5GLQLITA2X,row_0,0,,Too many unset video ratings
+3AQF3RZ56Z9JV0VG61NNXE9OYUG6F7,3ZUE82NE10S4CUGA9EFKT89K4YYF8I,row_0,0,,"Too many unset video ratings | all slider ratings are very similar, the slider moved to same range of scores."
+3Z2R0DQ0K8537LCJOOREPJ7C6LP2EO,3ZUE82NE10S4CUGA9EFKT89K4YYF8I,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"

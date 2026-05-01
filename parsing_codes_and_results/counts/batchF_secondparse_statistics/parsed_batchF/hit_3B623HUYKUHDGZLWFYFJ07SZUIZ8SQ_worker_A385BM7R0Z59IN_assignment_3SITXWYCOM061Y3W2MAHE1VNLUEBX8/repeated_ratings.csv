@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14,sample,39.0,68.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.011533000005959693
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14,sample,60.0,43.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.005933000011919987
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_1500k_hevc_nvenc,sample,51.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03463299999999947
+amt_gaming_vqa_dataset/l89zFimeNk4_SubwaySurfers_4-14_720p_1500k_hevc_nvenc,sample,50.0,70.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.03233299998807837
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1000k_h264_nvenc,sample,85.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.020600000023842213
+amt_gaming_vqa_dataset/8cN8L9nNCYI_FallGuys_1-06_720p_1000k_h264_nvenc,sample,31.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01879999998211801
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_4-16_480p_1000k_h264_nvenc,sample,47.0,14.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.002000000000000668
+amt_gaming_vqa_dataset/9oiLnlNxG-A_GarrysMod_4-16_480p_1000k_h264_nvenc,sample,66.0,11.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.014600000023841986
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_1000k_h264_nvenc,sample,63.0,78.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.017832999988078413
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_1000k_h264_nvenc,sample,86.0,69.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",-0.02203300000596009
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_h264_nvenc,sample,74.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01980000001192117
+amt_gaming_vqa_dataset/y_rXC_XFEm1gg_Palworld_32-22_480p_1000k_h264_nvenc,sample,63.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.008600000023841758

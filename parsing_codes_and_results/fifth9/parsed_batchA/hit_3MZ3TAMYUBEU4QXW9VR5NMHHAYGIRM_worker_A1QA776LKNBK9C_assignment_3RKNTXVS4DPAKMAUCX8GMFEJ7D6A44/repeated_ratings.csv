@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_5000k_av1,sample,16.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",2.917889999618531
+amt_gaming_vqa_dataset/Genshinimpact_2_2160p_5000k_av1,sample,61.0,79.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",2.6644900000000007
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_5300k_h264nvenc,sample,4.0,70.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08269000028610307
+amt_gaming_vqa_dataset/Genshinimpact_2_1080p_5300k_h264nvenc,sample,30.0,60.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.10008999990463252
+amt_gaming_vqa_dataset/Daysgone_2_1080p_6000k_hevcnvenc,sample,95.0,81.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06140000009536806
+amt_gaming_vqa_dataset/Daysgone_2_1080p_6000k_hevcnvenc,sample,19.0,69.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.061800000190734394
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_5000k_h264nvenc,sample,43.0,73.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.282490000000001
+amt_gaming_vqa_dataset/Hogwartslegacy_2_2160p_5000k_h264nvenc,sample,57.0,53.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.31658999990463244
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,35.0,71.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06019000028610222
+amt_gaming_vqa_dataset/Hogwartslegacy_2_480p_1000k_h264nvenc,sample,46.0,80.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.06048999999999971
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_600k_hevcnvenc,sample,81.0,79.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.051490000000001146
+amt_gaming_vqa_dataset/Hogwartslegacy_2_720p_600k_hevcnvenc,sample,84.0,79.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.046690000286103484

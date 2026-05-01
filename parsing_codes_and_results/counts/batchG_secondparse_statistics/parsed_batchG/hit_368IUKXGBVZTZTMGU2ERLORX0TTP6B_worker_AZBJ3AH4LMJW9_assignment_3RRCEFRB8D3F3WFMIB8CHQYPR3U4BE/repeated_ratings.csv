@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_6000k_hevc_nvenc,sample,10.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.025000000000000355
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_6000k_hevc_nvenc,sample,3.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.8429000000001405
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_5000k_h264_nvenc,sample,27.0,40.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.013500000000000512
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_5000k_h264_nvenc,sample,76.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-1.7503000000000473
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_5000k_h264_nvenc,sample,72.0,44.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.015199999999953917
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_5000k_h264_nvenc,sample,72.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.624199999999954
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55,sample,68.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0990000000000002
+amt_gaming_vqa_dataset/Rg-0RGDeYT0_Terraria_1-30-55,sample,44.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",10.244499999999999
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35_720p_2500k_h264_nvenc,sample,4.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0020999999998601027
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35_720p_2500k_h264_nvenc,sample,33.0,61.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006599999999860273
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30_1080p_6000k_hevc_nvenc,sample,3.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.009100000000092479
+amt_gaming_vqa_dataset/YrK8rt2vwug_GuildWars_18-30_1080p_6000k_hevc_nvenc,sample,27.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.7151999999999532

@@ -1,0 +1,25 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28_1080p_5000k_av1,sample,63.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",10.771899999999441
+amt_gaming_vqa_dataset/AA34ltB6fC0_StarCraft_2-28_1080p_5000k_av1,sample,86.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.016599999999627357
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_5300k_h264_nvenc,sample,67.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0007000000001866624
+amt_gaming_vqa_dataset/n-haYz430-A_Valheim_9-00_1080p_5300k_h264_nvenc,sample,83.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-1.4665
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_800k_hevc_nvenc,sample,68.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.016000000000000014
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_55-02_480p_800k_hevc_nvenc,sample,33.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0431999999992545
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_18-30_480p_800k_hevc_nvenc,sample,47.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05220000000018565
+amt_gaming_vqa_dataset/oiFIE3f5_vM_Minecraft_18-30_480p_800k_hevc_nvenc,sample,63.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.026500000000000412
+amt_gaming_vqa_dataset/9sVLdz81Jqk_MarioKartTour_1-25_720p_2500k_h264_nvenc,sample,91.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06462799999962598
+amt_gaming_vqa_dataset/9sVLdz81Jqk_MarioKartTour_1-25_720p_2500k_h264_nvenc,sample,32.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.040727999999253583
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,13.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1502000000001864
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,19.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0649999999999995
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,54.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.057000000000000384
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,82.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05889999999944173
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,52.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06420000000018611
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,35.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05659999999962828
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,36.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1841000000005586
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,75.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1757999999998141
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,71.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08380000000074439
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,65.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06199999999999939
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,21.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.15029999999888233
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,80.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.061500000000000554
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,77.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18149999999999977
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,59.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.14869999999925554

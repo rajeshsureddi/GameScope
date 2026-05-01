@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/callofdutyps5_1080p_5300k_h264nvenc,sample,70.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04949000000000048
+amt_gaming_vqa_dataset/callofdutyps5_1080p_5300k_h264nvenc,sample,14.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07728999999888231
+amt_gaming_vqa_dataset/callofdutyps5_1080p_800k_hevcnvenc,sample,50.0,45.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04958999999962721
+amt_gaming_vqa_dataset/callofdutyps5_1080p_800k_hevcnvenc,sample,21.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07719000000111897
+amt_gaming_vqa_dataset/callofdutyps5_2160p_10000k_hevcnvenc,sample,76.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07328999999888275
+amt_gaming_vqa_dataset/callofdutyps5_2160p_10000k_hevcnvenc,sample,93.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.1622900000007448
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_5000k_h264nvenc,sample,79.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.048690000001117895
+amt_gaming_vqa_dataset/Faastpenguin_2_720p_5000k_h264nvenc,sample,39.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08369000000111804
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_1500k_hevcnvenc,sample,39.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04979000000074585
+amt_gaming_vqa_dataset/Faastpenguin_2_2160p_1500k_hevcnvenc,sample,20.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07668999999925497
+amt_gaming_vqa_dataset/Ghostoftsushima_1,sample,55.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0994000000003723
+amt_gaming_vqa_dataset/Ghostoftsushima_1,sample,4.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.061100000001490073

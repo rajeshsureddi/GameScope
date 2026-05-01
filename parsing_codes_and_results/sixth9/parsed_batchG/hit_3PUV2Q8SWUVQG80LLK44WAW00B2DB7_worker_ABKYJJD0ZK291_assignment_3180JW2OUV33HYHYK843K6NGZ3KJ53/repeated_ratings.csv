@@ -1,0 +1,19 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_800k_hevc_nvenc,sample,0.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0038330000000108555
+amt_gaming_vqa_dataset/UQYLG-zcxV0_Rust_0-25_1080p_800k_hevc_nvenc,sample,46.0,10.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0713670000000004
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_5300k_h264_nvenc,sample,33.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06760000000009292
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_5300k_h264_nvenc,sample,50.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.012899999999905987
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_800k_hevc_nvenc,sample,42.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006400000000024164
+amt_gaming_vqa_dataset/2xcHsYJSAbw_SubwaySurfers_0-03_1080p_800k_hevc_nvenc,sample,13.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.027900000000023795
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32,sample,99.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",13.265799999999931
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32,sample,55.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07920000000006944
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32_1080p_800k_hevc_nvenc,sample,70.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.010999999999999233
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32_1080p_800k_hevc_nvenc,sample,36.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01709999999986067
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_1500k_av1,sample,98.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08090000000008146
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_1500k_av1,sample,40.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",63.55969999999972
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,85.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.3825000000000003
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,58.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.16709999999986103
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,25.0,36.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09519999999995399
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,31.0,54.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09249999999999936
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,64.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09350000000000058
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,55.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0986000000000935

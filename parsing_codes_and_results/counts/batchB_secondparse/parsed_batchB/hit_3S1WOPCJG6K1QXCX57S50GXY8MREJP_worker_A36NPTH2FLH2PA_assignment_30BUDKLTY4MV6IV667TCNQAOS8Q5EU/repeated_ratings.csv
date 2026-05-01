@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Undefeated_720p_500k_av1,sample,3.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.316009999999999
+amt_gaming_vqa_dataset/Undefeated_720p_500k_av1,sample,87.0,5.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-6.542609999964236
+amt_gaming_vqa_dataset/thelogomovie2_1080p_10000k_h264nvenc,sample,66.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-2.4985099999999996
+amt_gaming_vqa_dataset/thelogomovie2_1080p_10000k_h264nvenc,sample,26.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-8.384910000035763
+amt_gaming_vqa_dataset/thelogomovie2_720p_1000k_h264nvenc,sample,61.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-5.74181000001192
+amt_gaming_vqa_dataset/thelogomovie2_720p_1000k_h264nvenc,sample,19.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.732809999952316
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_1080p_1500k_av1,sample,24.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-5.156109999964237
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_1080p_1500k_av1,sample,0.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-4.872909999976158
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_1080p_5300k_h264nvenc,sample,67.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-7.327209999988078
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_1080p_5300k_h264nvenc,sample,25.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-4.6852099999880785
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_2160p_10000k_hevcnvenc,sample,66.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.0444900000000015
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_1_2160p_10000k_hevcnvenc,sample,14.0,65.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-7.101309999952315

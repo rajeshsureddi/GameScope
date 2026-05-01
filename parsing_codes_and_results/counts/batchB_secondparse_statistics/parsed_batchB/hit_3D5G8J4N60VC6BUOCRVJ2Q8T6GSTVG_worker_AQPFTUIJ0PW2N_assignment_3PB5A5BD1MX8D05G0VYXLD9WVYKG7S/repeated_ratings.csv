@@ -1,0 +1,18 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1300k_av1,sample,19.0,35.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08908999999404088
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_1300k_av1,sample,88.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-2.0465099999999996
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_2500k_h264nvenc,sample,16.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07528999999702002
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_720p_2500k_h264nvenc,sample,52.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09878999999702032
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_6000k_hevcnvenc,sample,51.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05829000001192064
+amt_gaming_vqa_dataset/Monsterhunterworldiceborne_2_2160p_6000k_hevcnvenc,sample,49.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.9468100000119204
+amt_gaming_vqa_dataset/Returnal_1_1080p_1500k_av1,sample,10.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09349000000000096
+amt_gaming_vqa_dataset/Returnal_1_1080p_1500k_av1,sample,27.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09979000001192162
+amt_gaming_vqa_dataset/Returnal_1_1080p_500k_av1,sample,35.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0840899999940401
+amt_gaming_vqa_dataset/Returnal_1_1080p_500k_av1,sample,1.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07999000000000045
+amt_gaming_vqa_dataset/Returnal_1_2160p_6000k_hevcnvenc,sample,57.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07378999999701996
+amt_gaming_vqa_dataset/Returnal_1_2160p_6000k_hevcnvenc,sample,43.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.17169000000298063
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,19.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.46629999999701965
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,13.0,64.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09149999999999991
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,0.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09050000000000047
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,98.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09350000000000058
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,14.0,69.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09800000000000075

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_23-10_480p_800k_hevc_nvenc,sample,30.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03190000009536753
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_23-10_480p_800k_hevc_nvenc,sample,43.0,61.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.0009000000953669485
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_5000k_h264_nvenc,sample,31.0,22.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",-0.036232999904632024
+amt_gaming_vqa_dataset/_88aJYTz4gI_HalfLife2_10-30_720p_5000k_h264_nvenc,sample,65.0,30.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2289670003814699
+amt_gaming_vqa_dataset/vDfiI5gXNSY_Rust_1-35-47_720p_500k_av1,sample,89.0,74.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",-0.04260000038146927
+amt_gaming_vqa_dataset/vDfiI5gXNSY_Rust_1-35-47_720p_500k_av1,sample,80.0,5.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.00620000028610157
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_3000k_av1,sample,21.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01486700000000063
+amt_gaming_vqa_dataset/-j1SG4iuCCU_GuildWars_1-30_720p_3000k_av1,sample,65.0,43.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.007766999618530335
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_3000k_av1,sample,42.0,86.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.05263599999999968
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_3000k_av1,sample,46.0,53.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.061335999809266184
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_3500k_hevc_nvenc,sample,79.0,86.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",-0.02356400028610217
+amt_gaming_vqa_dataset/1HHTJI-GSiI_CallofDutyMobile_0-05_720p_3500k_hevc_nvenc,sample,32.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.019735999904632706

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1,sample,21.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04749999999999943
+amt_gaming_vqa_dataset/Marvelspiderman_1,sample,94.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.2873999999985095
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_5000k_av1,sample,16.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18719000000298003
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_5000k_av1,sample,6.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11178999999702022
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,93.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08169000000298077
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,24.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08238999999850982
+amt_gaming_vqa_dataset/skyrim_1_2160p_6000k_hevcnvenc,sample,43.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.035009999999999764
+amt_gaming_vqa_dataset/skyrim_1_2160p_6000k_hevcnvenc,sample,20.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9054900000000004
+amt_gaming_vqa_dataset/skyrim_1_720p_600k_hevcnvenc,sample,92.0,1.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02120999999552886
+amt_gaming_vqa_dataset/skyrim_1_720p_600k_hevcnvenc,sample,10.0,4.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0029900000000004923
+amt_gaming_vqa_dataset/skyrim_1_2160p_1000k_av1,sample,28.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",1.7829899999999999
+amt_gaming_vqa_dataset/skyrim_1_2160p_1000k_av1,sample,54.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.5671900000029808

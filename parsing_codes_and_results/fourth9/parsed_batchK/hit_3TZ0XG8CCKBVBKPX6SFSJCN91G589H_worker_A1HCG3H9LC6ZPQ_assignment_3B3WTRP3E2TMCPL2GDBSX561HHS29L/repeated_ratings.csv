@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_500k_av1,sample,70.0,76.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0028999999985099834
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_500k_av1,sample,82.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.9079999999999995
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_10000k_h264_nvenc,sample,29.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.0028000000007448733
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_10000k_h264_nvenc,sample,29.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7138000000007452
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01_480p_800k_hevc_nvenc,sample,0.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.013400000002235402
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01_480p_800k_hevc_nvenc,sample,58.0,2.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.005100000001490912
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1300k_av1,sample,75.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004032999999255438
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_1300k_av1,sample,19.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.023232999998510806
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_5000k_h264_nvenc,sample,50.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010866999999255
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_5000k_h264_nvenc,sample,15.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.4966330000007453
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_11-30_480p_1000k_h264_nvenc,sample,95.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01803300000223551
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_11-30_480p_1000k_h264_nvenc,sample,50.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01036700000000046

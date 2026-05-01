@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/cn1gXylV3CY_CallofDutyMobile_0-01_480p_800k_hevc_nvenc,sample,13.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0033999999761586963
+amt_gaming_vqa_dataset/cn1gXylV3CY_CallofDutyMobile_0-01_480p_800k_hevc_nvenc,sample,20.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.010999999999999233
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_h264_nvenc,sample,85.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02739999997615783
+amt_gaming_vqa_dataset/GPCdNgg57wU_SubwaySurfers_0-08_480p_1000k_h264_nvenc,sample,74.0,68.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.029800000071524835
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_1000k_h264_nvenc,sample,84.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005100000023841034
+amt_gaming_vqa_dataset/4fLYHpxkqSc_MarioKartTour_0-08_720p_1000k_h264_nvenc,sample,96.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0776000000238426
+amt_gaming_vqa_dataset/1D9805Q-9dw_SonicDash_0-00_480p_1000k_h264_nvenc,sample,97.0,18.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.01750000000000007
+amt_gaming_vqa_dataset/1D9805Q-9dw_SonicDash_0-00_480p_1000k_h264_nvenc,sample,12.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03470000004768359
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_10000k_h264_nvenc,sample,99.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.006566999976158172
+amt_gaming_vqa_dataset/vgasCfia1LA_RollerCoasterTycoon3_1-12-12_1080p_10000k_h264_nvenc,sample,75.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.01403299992847451
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_13-35_480p_800k_hevc_nvenc,sample,13.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.010800000071524707
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_13-35_480p_800k_hevc_nvenc,sample,88.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.004100000023841588

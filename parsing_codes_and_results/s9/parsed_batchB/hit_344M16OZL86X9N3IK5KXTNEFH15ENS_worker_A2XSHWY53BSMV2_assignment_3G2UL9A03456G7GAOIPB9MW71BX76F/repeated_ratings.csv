@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/JakandDaxter,sample,60.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07989999999944075
+amt_gaming_vqa_dataset/JakandDaxter,sample,73.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.1181000000005596
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_1080p_5300k_h264nvenc,sample,36.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08218999999925636
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_1080p_5300k_h264nvenc,sample,21.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06899000000000122
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_8500k_h264nvenc,sample,69.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0902899999998148
+amt_gaming_vqa_dataset/Deathstrandingdirectorscut_2160p_8500k_h264nvenc,sample,27.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0566900000001862
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_2160p_8500k_h264nvenc,sample,95.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11059000000055974
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_2160p_8500k_h264nvenc,sample,13.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.23308999999962765
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_1000k_h264nvenc,sample,75.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06909000000055876
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_1000k_h264nvenc,sample,99.0,25.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-8.661210000000185
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_2500k_h264nvenc,sample,33.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.12328999999981427
+amt_gaming_vqa_dataset/Assettocorsecompetizione_1_720p_2500k_h264nvenc,sample,8.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10979000000074635

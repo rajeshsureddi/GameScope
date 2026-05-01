@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Returnal_2_720p_5000k_h264nvenc,sample,71.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06659000000009385
+amt_gaming_vqa_dataset/Returnal_2_720p_5000k_h264nvenc,sample,56.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09818999999972178
+amt_gaming_vqa_dataset/Doom,sample,49.0,33.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",8.959899999999907
+amt_gaming_vqa_dataset/Doom,sample,65.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06900000000000084
+amt_gaming_vqa_dataset/Doom_1080p_500k_av1,sample,41.0,87.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.08128999999981446
+amt_gaming_vqa_dataset/Doom_1080p_500k_av1,sample,43.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0805900000000932
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_1500k_av1,sample,8.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09169000000018634
+amt_gaming_vqa_dataset/Astroysplayroom_2_1080p_1500k_av1,sample,71.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09559000000009377
+amt_gaming_vqa_dataset/Astroysplayroom_2_720p_1500k_hevcnvenc,sample,63.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06519000000018771
+amt_gaming_vqa_dataset/Astroysplayroom_2_720p_1500k_hevcnvenc,sample,51.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06278999999981494
+amt_gaming_vqa_dataset/Astroysplayroom_2_720p_3500k_hevcnvenc,sample,64.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08449000000000062
+amt_gaming_vqa_dataset/Astroysplayroom_2_720p_3500k_hevcnvenc,sample,10.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07169000000018677

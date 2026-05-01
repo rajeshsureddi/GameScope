@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_720p_1300k_av1,sample,96.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7682899999523176
+amt_gaming_vqa_dataset/eFootball_2_720p_1300k_av1,sample,43.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.9267899999523177
+amt_gaming_vqa_dataset/eFootball_2_480p_1000k_h264nvenc,sample,55.0,73.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06069000004768377
+amt_gaming_vqa_dataset/eFootball_2_480p_1000k_h264nvenc,sample,15.0,61.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.707690000047684
+amt_gaming_vqa_dataset/WWE2K24_720p_1300k_av1,sample,1.0,52.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.18418999980926642
+amt_gaming_vqa_dataset/WWE2K24_720p_1300k_av1,sample,36.0,67.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.92849
+amt_gaming_vqa_dataset/WWE2K24_1080p_2300k_h264nvenc,sample,83.0,71.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.4385899999046323
+amt_gaming_vqa_dataset/WWE2K24_1080p_2300k_h264nvenc,sample,83.0,90.0,"['Minimally Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.9338899998569499
+amt_gaming_vqa_dataset/WWE2K24_2160p_8500k_h264nvenc,sample,85.0,51.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",13.093090000143052
+amt_gaming_vqa_dataset/WWE2K24_2160p_8500k_h264nvenc,sample,12.0,70.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.6197900001907346
+amt_gaming_vqa_dataset/WWE2K24_480p_800k_hevcnvenc,sample,3.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05658999990463265
+amt_gaming_vqa_dataset/WWE2K24_480p_800k_hevcnvenc,sample,15.0,56.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06189000009536727

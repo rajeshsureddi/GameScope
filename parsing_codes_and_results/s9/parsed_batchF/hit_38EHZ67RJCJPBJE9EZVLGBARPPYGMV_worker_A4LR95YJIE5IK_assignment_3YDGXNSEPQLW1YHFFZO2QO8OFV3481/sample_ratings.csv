@@ -1,0 +1,92 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37,sample,43.0,31.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",9.905367000000002
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_1500k_av1,sample,33.0,29.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.6913669999999996
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_5000k_av1,sample,79.0,40.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.8753670000000007
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_500k_av1,sample,54.0,29.0,"['Moderately Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-5.391633
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_10000k_h264_nvenc,sample,55.0,21.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.4333670000000005
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_2300k_h264_nvenc,sample,99.0,40.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.9723670000000002
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_5300k_h264_nvenc,sample,8.0,28.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.7343670000000007
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_2-37_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39,sample,34.0,71.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",10.469000000000001
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_1500k_av1,sample,62.0,71.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",2.192
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_5000k_av1,sample,57.0,71.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",6.885000000000002
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_500k_av1,sample,61.0,72.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",3.6519999999999992
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_10000k_h264_nvenc,sample,48.0,71.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",3.5790000000000006
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_2300k_h264_nvenc,sample,25.0,72.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",1.4280000000000008
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_5300k_h264_nvenc,sample,77.0,70.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",2.84
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/vFgHHcjlsa4_HalfLife2_22-39_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39,sample,87.0,58.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",2.8049999999999997
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_1500k_av1,sample,92.0,31.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",1.0069999999999997
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_5000k_av1,sample,20.0,48.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.2029999999999994
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_500k_av1,sample,78.0,40.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.8559999999999999
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_10000k_h264_nvenc,sample,78.0,28.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",1.056000000000001
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_2300k_h264_nvenc,sample,13.0,29.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.6210000000000004
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_5300k_h264_nvenc,sample,38.0,7.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.907
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/g9Gd3VnIDeY_Terraria_5-39_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/Q92r7R5VPGw_GuildWars_1-37,sample,80.0,29.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.39400000000000013
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52,sample,93.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",10.562000000000001
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_1500k_av1,sample,40.0,72.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",1.2729999999999997
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_5000k_av1,sample,76.0,50.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-9.016
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_500k_av1,sample,59.0,28.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",1.7539999999999996
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_10000k_h264_nvenc,sample,90.0,59.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",1.4079999999999995
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_2300k_h264_nvenc,sample,48.0,70.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.3989999999999991
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_5300k_h264_nvenc,sample,34.0,70.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.9830000000000005
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/4-bEP5UaZug_TheWitcher3_14-52_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12,sample,17.0,71.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",11.618367
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_1500k_av1,sample,21.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.0803670000000007
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_5000k_av1,sample,42.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.826367000000001
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_500k_av1,sample,23.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4463670000000004
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_10000k_h264_nvenc,sample,96.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.1763670000000008
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_2300k_h264_nvenc,sample,4.0,95.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",1.2823670000000007
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_5300k_h264_nvenc,sample,32.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7733670000000004
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/wvKrS1h7Z6U_FallGuys_4-12_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32,sample,80.0,100.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",1.4909999999999997
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1300k_av1,sample,24.0,81.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.6470000000000002
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_3000k_av1,sample,45.0,92.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",0.40199999999999925
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_500k_av1,sample,19.0,96.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.6430000000000007
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1000k_h264_nvenc,sample,71.0,94.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.5139999999999993
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_2500k_h264_nvenc,sample,26.0,98.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4090000000000007
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_5000k_h264_nvenc,sample,88.0,96.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.34299999999999997
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/NvgnOQbJZC8_StarCraft_1-32_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05,sample,79.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.3000000000000007
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_1500k_av1,sample,34.0,99.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",3.5869999999999997
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_5000k_av1,sample,77.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.792999999999999
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_500k_av1,sample,52.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.6959999999999997
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_10000k_h264_nvenc,sample,54.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.6880000000000006
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_2300k_h264_nvenc,sample,26.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.49099999999999966
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_5300k_h264_nvenc,sample,39.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.40700000000000003
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_2000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_6000k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/9pZUBpZomdk_AngryBirds2_0-05_1080p_800k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39,sample,41.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.6329999999999991
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_1300k_av1,sample,79.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.6940000000000008
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_3000k_av1,sample,83.0,60.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",1.1579999999999995
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_500k_av1,sample,95.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",1.0909999999999993
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_1000k_h264_nvenc,sample,8.0,84.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.47799999999999976
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_2500k_h264_nvenc,sample,72.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.7170000000000005
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_5000k_h264_nvenc,sample,37.0,28.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.42600000000000016
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/HpcO0MPaK-8_FIFA_7-39_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26,sample,41.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7669999999999995
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_1300k_av1,sample,90.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.9450000000000003
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_3000k_av1,sample,64.0,99.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.0559999999999992
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_500k_av1,sample,12.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.7569999999999997
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_1000k_h264_nvenc,sample,47.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2469999999999999
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_2500k_h264_nvenc,sample,97.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.4629999999999992
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_5000k_h264_nvenc,sample,13.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.0890000000000004
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_1500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_3500k_hevc_nvenc,sample,unset,unset,['unset'],unset
+amt_gaming_vqa_dataset/7-hLU5CPD88_AngryBirds2_4-26_720p_600k_hevc_nvenc,sample,unset,unset,['unset'],unset

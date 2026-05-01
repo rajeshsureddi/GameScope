@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/eFootball_2_1080p_5000k_av1,sample,62.0,79.0,"['Moderately Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.1284900000000011
+amt_gaming_vqa_dataset/eFootball_2_1080p_5000k_av1,sample,26.0,84.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.11249000000000109
+amt_gaming_vqa_dataset/eFootball_2_1080p_2000k_hevcnvenc,sample,31.0,78.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.046389999856948805
+amt_gaming_vqa_dataset/eFootball_2_1080p_2000k_hevcnvenc,sample,59.0,77.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.05028999995231764
+amt_gaming_vqa_dataset/WWE2K24_1080p_1500k_av1,sample,48.0,83.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08738999985694917
+amt_gaming_vqa_dataset/WWE2K24_1080p_1500k_av1,sample,72.0,79.0,"['Moderately Clear', 'No visible artifacts', 'Low level of immersion', '']",0.0920899999046334
+amt_gaming_vqa_dataset/WWE2K24_1080p_2300k_h264nvenc,sample,67.0,74.0,"['Highly Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.07519000004768372
+amt_gaming_vqa_dataset/WWE2K24_1080p_2300k_h264nvenc,sample,78.0,92.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.07609000014305245
+amt_gaming_vqa_dataset/Godofwar_2_2160p_5000k_av1,sample,72.0,86.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.7689900000000005
+amt_gaming_vqa_dataset/Godofwar_2_2160p_5000k_av1,sample,39.0,86.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",1.8050899999046326
+amt_gaming_vqa_dataset/Godofwar_2_2160p_8500k_h264nvenc,sample,17.0,90.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.29399000000000086
+amt_gaming_vqa_dataset/Godofwar_2_2160p_8500k_h264nvenc,sample,31.0,81.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.3599899999999998

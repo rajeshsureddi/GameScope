@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_10000k_h264_nvenc,sample,14.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.00640000000037233
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_9-43_1080p_10000k_h264_nvenc,sample,52.0,97.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.041699999999254445
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01,sample,94.0,20.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.002199999999254132
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01,sample,4.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.008599999999628238
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51_1080p_500k_av1,sample,46.0,37.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.006800000000744433
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51_1080p_500k_av1,sample,39.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0024000000003727706
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_1-16_360p_600k_hevc_nvenc,sample,69.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03670000000111706
+amt_gaming_vqa_dataset/Fy7JTlGlcS0_SonicDash_1-16_360p_600k_hevc_nvenc,sample,56.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018599999999628025
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_1300k_av1,sample,8.0,38.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.018900000000373396
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_1300k_av1,sample,84.0,58.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005400000000372884
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,63.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.11290000000037281
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,65.0,100.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09600000000000009

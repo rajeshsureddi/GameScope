@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_1500k_av1,sample,39.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1279900000000005
+amt_gaming_vqa_dataset/Marvelspiderman_1_1080p_1500k_av1,sample,85.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18698999999999977
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,26.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08839000000223507
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,83.0,48.0,"['Minimally Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.10289000000223503
+amt_gaming_vqa_dataset/skyrim_1_1080p_10000k_h264nvenc,sample,32.0,89.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016209999999254876
+amt_gaming_vqa_dataset/skyrim_1_1080p_10000k_h264nvenc,sample,91.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.03729000000074478
+amt_gaming_vqa_dataset/skyrim_1_720p_600k_hevcnvenc,sample,6.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.00820999999925398
+amt_gaming_vqa_dataset/skyrim_1_720p_600k_hevcnvenc,sample,33.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.01210999999776341
+amt_gaming_vqa_dataset/skyrim_1_1080p_1500k_av1,sample,5.0,68.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.05279000000074596
+amt_gaming_vqa_dataset/skyrim_1_1080p_1500k_av1,sample,12.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.1674900000000008
+amt_gaming_vqa_dataset/skyrim_1_1080p_5000k_av1,sample,7.0,63.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",1.1902899999970202
+amt_gaming_vqa_dataset/skyrim_1_1080p_5000k_av1,sample,6.0,61.0,"['Highly Clear', 'No visible artifacts', 'Low level of immersion', '']",2.16828999999702

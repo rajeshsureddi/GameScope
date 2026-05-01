@@ -1,0 +1,2 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+3HMVI3QIDAJUO5BE5L3UR3PNY33Y1V,3YZ7A3YHSVKUTH2UH08GONI8RC35ST,AXZJKFM3BSX5Y,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."

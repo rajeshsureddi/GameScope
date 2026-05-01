@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/skyrim_2_720p_5000k_h264nvenc,sample,67.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.01521000000298045
+amt_gaming_vqa_dataset/skyrim_2_720p_5000k_h264nvenc,sample,47.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.010990000000001388
+amt_gaming_vqa_dataset/skyrim_2_720p_600k_hevcnvenc,sample,25.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.03240999999851013
+amt_gaming_vqa_dataset/skyrim_2_720p_600k_hevcnvenc,sample,0.0,32.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.02111000000148877
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2,sample,91.0,41.0,"['Highly Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-6.8288999999985105
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2,sample,91.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",27.247
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_500k_av1,sample,43.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0733900000059613
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_500k_av1,sample,66.0,57.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07749000000000095
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_1000k_h264nvenc,sample,7.0,31.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.06619000000298136
+amt_gaming_vqa_dataset/Amerfightingopenbeta_720p_1000k_h264nvenc,sample,73.0,29.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.09028999999702059
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_6000k_hevcnvenc,sample,84.0,65.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.2843899999985098
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_6000k_hevcnvenc,sample,72.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09548999999999985

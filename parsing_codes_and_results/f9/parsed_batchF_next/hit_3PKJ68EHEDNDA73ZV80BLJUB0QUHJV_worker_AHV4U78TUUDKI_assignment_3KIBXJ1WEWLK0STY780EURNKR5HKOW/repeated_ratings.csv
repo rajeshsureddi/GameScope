@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_5300k_h264_nvenc,sample,70.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.003099999904632611
+amt_gaming_vqa_dataset/QXPT_kEoVT4_HalfLife2_9-35_1080p_5300k_h264_nvenc,sample,6.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005200000047683062
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_800k_hevc_nvenc,sample,6.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.04233299980926475
+amt_gaming_vqa_dataset/y_6Cpi_nAfJV4_TheSims3_13-10_480p_800k_hevc_nvenc,sample,45.0,52.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.014033000095366788
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_5000k_h264_nvenc,sample,45.0,49.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.03210000014305159
+amt_gaming_vqa_dataset/0jJNLlJU-84_SubwaySurfers_0-00_720p_5000k_h264_nvenc,sample,2.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00040000009536811376
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_800k_hevc_nvenc,sample,75.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.025800000190734806
+amt_gaming_vqa_dataset/y_Q63Qb_5PzLI_GuildWars_14-07_480p_800k_hevc_nvenc,sample,84.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.011199999809266004
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_1000k_av1,sample,89.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0247999999523163
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_1000k_av1,sample,57.0,53.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.0002999999523165542
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_800k_hevc_nvenc,sample,62.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.02529999995231691
+amt_gaming_vqa_dataset/y_upjjObZ950Y_DiabloIII_41-28_480p_800k_hevc_nvenc,sample,24.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",-0.007100000143051233

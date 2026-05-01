@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_6-27,sample,3.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.001399999999906143
+amt_gaming_vqa_dataset/2UAQjGphSYg_RollerCoasterTycoon3_6-27,sample,36.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.007300000000279638
+amt_gaming_vqa_dataset/9Rc3Zpn491M_Terraria_3-49_720p_1500k_hevc_nvenc,sample,25.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.016342999999952923
+amt_gaming_vqa_dataset/9Rc3Zpn491M_Terraria_3-49_720p_1500k_hevc_nvenc,sample,55.0,66.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.011942999999812187
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-36_480p_800k_hevc_nvenc,sample,78.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0075999999999769585
+amt_gaming_vqa_dataset/p0Q4nILzoTM_WarRobots_0-36_480p_800k_hevc_nvenc,sample,67.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.015800000000046666
+amt_gaming_vqa_dataset/cvGOodnd-S8_StarCraft_13-46_1080p_6000k_hevc_nvenc,sample,52.0,82.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.01120000000006982
+amt_gaming_vqa_dataset/cvGOodnd-S8_StarCraft_13-46_1080p_6000k_hevc_nvenc,sample,52.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.00740000000002361
+amt_gaming_vqa_dataset/S-r23tTygqY_EuroTruckSimulator2_14-36_720p_2500k_h264_nvenc,sample,87.0,68.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.016199999999953363
+amt_gaming_vqa_dataset/S-r23tTygqY_EuroTruckSimulator2_14-36_720p_2500k_h264_nvenc,sample,44.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.006000000000000227
+amt_gaming_vqa_dataset/src4ZsbyOF8_CitiesSkylines_17-51,sample,73.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.014532999999953944
+amt_gaming_vqa_dataset/src4ZsbyOF8_CitiesSkylines_17-51,sample,23.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00043300000009338646

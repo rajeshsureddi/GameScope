@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-46_480p_800k_hevc_nvenc,sample,56.0,79.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04639999999990607
+amt_gaming_vqa_dataset/aOSaIseir1o_SuperMarioRun_0-46_480p_800k_hevc_nvenc,sample,99.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.020600000000559504
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1000k_h264_nvenc,sample,83.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.005200000000186833
+amt_gaming_vqa_dataset/XCOoVAHBlrs_AngryBirds2_5-12_720p_1000k_h264_nvenc,sample,50.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.018799999999814077
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_1000k_h264_nvenc,sample,63.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0015000000000000568
+amt_gaming_vqa_dataset/y_7W7VViKGxfY_Palworld_1-13-56_480p_1000k_h264_nvenc,sample,11.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.03229999999981459
+amt_gaming_vqa_dataset/CVYN93MJDCE_Valheim_1-20-19,sample,45.0,8.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.02260000000009299
+amt_gaming_vqa_dataset/CVYN93MJDCE_Valheim_1-20-19,sample,64.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.022400000000372344
+amt_gaming_vqa_dataset/7-ZWlKZwV88_MarioKartTour_0-03,sample,53.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0039999999999995595
+amt_gaming_vqa_dataset/7-ZWlKZwV88_MarioKartTour_0-03,sample,21.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.6796999999992543

@@ -1,0 +1,28 @@
+Video Quality Assessment Processing Report
+==================================================
+
+Input folder: ./parsing_codes_and_results/counts/batchK_secondparse/approve_reject
+Folder prefix: approve_reject
+Reports folder: ./parsing_codes_and_results/counts/batchK_secondparse/approve_reject_reports
+Files processed: 8
+Processed files: Batch_5334070_batch_results_with_approval.csv, Batch_5332427_batch_results_with_approval.csv, Batch_5331873_batch_results_with_approval.csv, Batch_5330086_batch_results_with_approval.csv, Batch_5334544_batch_results_with_approval.csv, Batch_5335327_batch_results_with_approval.csv, Batch_5337230_batch_results_with_approval.csv, Batch_5337821_batch_results_with_approval.csv
+
+Total unique videos: 344
+Total ratings collected: 16512
+
+Video Rating Statistics:
+-------------------------
+Average total ratings per video: 48.00
+Average valid ratings per video: 47.02
+Max total ratings for a video: 61
+Min total ratings for a video: 37
+Max valid ratings for a video: 61
+Min valid ratings for a video: 32
+Videos with 30+ valid ratings: 344
+Videos with <30 valid ratings: 0
+
+Output Files Generated (all in reports folder):
+------------------------------
+1. approve_reject_video_final_ratings.csv - Contains 344 videos with 30+ valid ratings
+2. approve_reject_video_attribute_counts.csv - Contains attribute data for videos with 30+ valid ratings
+3. approve_reject_global_average_ratings_histogram.png - Global histogram of average ratings per video

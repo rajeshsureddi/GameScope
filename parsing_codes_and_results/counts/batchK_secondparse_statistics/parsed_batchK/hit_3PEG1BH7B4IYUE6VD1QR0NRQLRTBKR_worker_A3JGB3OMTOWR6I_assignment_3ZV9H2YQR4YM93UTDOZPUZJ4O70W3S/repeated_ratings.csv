@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_5300k_h264_nvenc,sample,6.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.04269999999925567
+amt_gaming_vqa_dataset/BntIMsTMvrI_WarRobots_0-05_1080p_5300k_h264_nvenc,sample,85.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0633000000007442
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_1-11,sample,70.0,45.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.061700000002980815
+amt_gaming_vqa_dataset/sfRXREOaNBE_WorldofTanks_1-11,sample,92.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",2.0112000000029795
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_1000k_h264_nvenc,sample,39.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.00019999999925524037
+amt_gaming_vqa_dataset/0O6Ic4Q-VS8_WarRobots_1-18_720p_1000k_h264_nvenc,sample,55.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.009699999999254416
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_500k_av1,sample,97.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.012300000000745825
+amt_gaming_vqa_dataset/9SC_rTNEqJE_AngryBirds2_9-11_720p_500k_av1,sample,69.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.006900000002234563
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_3500k_hevc_nvenc,sample,6.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.007500000000000284
+amt_gaming_vqa_dataset/J7NB8OG-b6Q_Palworld_0-05_720p_3500k_hevc_nvenc,sample,89.0,41.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.019100000001490258
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_9-00_480p_1000k_h264_nvenc,sample,70.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.033199999999254715
+amt_gaming_vqa_dataset/kpox-roUn2w_HalfLife2_9-00_480p_1000k_h264_nvenc,sample,82.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.004999999999999005

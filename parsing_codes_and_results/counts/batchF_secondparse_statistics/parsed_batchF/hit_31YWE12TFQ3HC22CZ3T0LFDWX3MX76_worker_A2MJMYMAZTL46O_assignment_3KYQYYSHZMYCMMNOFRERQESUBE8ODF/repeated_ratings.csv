@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3500k_hevc_nvenc,sample,19.0,64.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004400000000371662
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_3500k_hevc_nvenc,sample,59.0,72.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0017999999988820292
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_600k_hevc_nvenc,sample,52.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.037499999999999645
+amt_gaming_vqa_dataset/Nq13U3DXt2U_Myst_28-36_720p_600k_hevc_nvenc,sample,20.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0129999999999999
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07,sample,86.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.004799999998882143
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07,sample,42.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.07979999999888321
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_600k_hevc_nvenc,sample,74.0,65.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03500000000000014
+amt_gaming_vqa_dataset/TQCbclN8d0k_StardewValley_3-07_720p_600k_hevc_nvenc,sample,85.0,94.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.00640000000037233
+amt_gaming_vqa_dataset/0oosqCBVaxY_StarCraft_28-28_1080p_6000k_hevc_nvenc,sample,17.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05380000000074503
+amt_gaming_vqa_dataset/0oosqCBVaxY_StarCraft_28-28_1080p_6000k_hevc_nvenc,sample,1.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2554999999999996
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49,sample,1.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06316299999999941
+amt_gaming_vqa_dataset/gLWwqxJP-d0_IceAgeVillage_5-49,sample,68.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.05806299999851028

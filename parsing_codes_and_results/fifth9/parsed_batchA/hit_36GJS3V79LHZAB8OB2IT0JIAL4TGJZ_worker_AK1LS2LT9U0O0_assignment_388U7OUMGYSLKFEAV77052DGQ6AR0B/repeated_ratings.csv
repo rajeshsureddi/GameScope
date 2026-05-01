@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,1.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05039000000037319
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_500k_av1,sample,49.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06918999999925468
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_1000k_h264nvenc,sample,75.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04968999999925572
+amt_gaming_vqa_dataset/Marvelspiderman_1_480p_1000k_h264nvenc,sample,96.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08049000000000106
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_3500k_hevcnvenc,sample,96.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06339000000037309
+amt_gaming_vqa_dataset/Marvelspiderman_1_720p_3500k_hevcnvenc,sample,10.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07678999999888347
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_8500k_h264nvenc,sample,64.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05749000000000137
+amt_gaming_vqa_dataset/Marvelspiderman_2_2160p_8500k_h264nvenc,sample,24.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.4552900000007458
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_2500k_h264nvenc,sample,63.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04758999999962832
+amt_gaming_vqa_dataset/Marvelspiderman_2_720p_2500k_h264nvenc,sample,28.0,33.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07158999999962745
+amt_gaming_vqa_dataset/skyrim_1_1080p_2300k_h264nvenc,sample,0.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.024409999998509235
+amt_gaming_vqa_dataset/skyrim_1_1080p_2300k_h264nvenc,sample,74.0,15.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.040390000000373405

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_1500k_av1,sample,86.0,66.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.016099999999626746
+amt_gaming_vqa_dataset/lxGvk91jPbc_IceAgeVillage_8-00_1080p_1500k_av1,sample,82.0,76.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.013099999999628409
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_1500k_hevc_nvenc,sample,5.0,24.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.0045999999996269025
+amt_gaming_vqa_dataset/0zLzWFrh3SI_WarRobots_2-22_720p_1500k_hevc_nvenc,sample,69.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0006000000014907414
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_1000k_h264_nvenc,sample,6.0,39.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.009400000000372444
+amt_gaming_vqa_dataset/2KQB-ua7ONs_WorldofWarcraft_0-04_720p_1000k_h264_nvenc,sample,97.0,42.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.006099999999626959
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35,sample,84.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.02609999999962831
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35,sample,17.0,78.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.9609000000003718
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35_720p_3000k_av1,sample,19.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0015000000000000568
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35_720p_3000k_av1,sample,91.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",2.804099999999627
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35_720p_1000k_h264_nvenc,sample,85.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.010500000000000398
+amt_gaming_vqa_dataset/2DZwUV7iySI_HalfLife2_7-35_720p_1000k_h264_nvenc,sample,6.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.017799999998882043

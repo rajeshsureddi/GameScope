@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01_480p_1000k_h264_nvenc,sample,80.0,38.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.04119999998807877
+amt_gaming_vqa_dataset/CMSt7Ye7BfA_StarCraft_0-01_480p_1000k_h264_nvenc,sample,70.0,60.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013700000017880853
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_2500k_h264_nvenc,sample,37.0,42.0,"['Moderately Clear', 'Severe Artifacts Present', 'Moderate level of immersion', '']",0.02353299998807934
+amt_gaming_vqa_dataset/CpCJB7t7n8c_Cyberpunk2077_46-16_720p_2500k_h264_nvenc,sample,61.0,55.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.036032999988080405
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51,sample,78.0,66.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",152.55060000002385
+amt_gaming_vqa_dataset/Fa9SqeDqwAI_FallGuys_4-51,sample,96.0,47.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",93.44640000000597
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_500k_av1,sample,56.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.01970000001788108
+amt_gaming_vqa_dataset/hsUX-McaNWg_WorldofTanks_0-19_1080p_500k_av1,sample,54.0,38.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.109699999988079
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_3500k_hevc_nvenc,sample,85.0,70.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.009099999994038654
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_3500k_hevc_nvenc,sample,24.0,63.0,"['Moderately Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.002399999976157474
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_600k_hevc_nvenc,sample,31.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.03059999999404006
+amt_gaming_vqa_dataset/MNZ_6Uih-2A_SubwaySurfers_0-01_720p_600k_hevc_nvenc,sample,40.0,72.0,"['Highly Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.004700000017880512

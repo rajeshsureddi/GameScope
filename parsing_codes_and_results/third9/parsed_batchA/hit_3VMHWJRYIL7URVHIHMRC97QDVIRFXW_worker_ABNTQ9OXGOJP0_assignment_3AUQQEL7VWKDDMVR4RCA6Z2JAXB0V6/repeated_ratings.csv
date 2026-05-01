@@ -1,0 +1,11 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,45.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.050889999856948975
+amt_gaming_vqa_dataset/Farcry6_1_720p_1500k_hevcnvenc,sample,59.0,72.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.049089999904632364
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_500k_av1,sample,58.0,74.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08888999985694923
+amt_gaming_vqa_dataset/Faastpenguin_1_1080p_500k_av1,sample,38.0,62.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.08749000000000073
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_2500k_h264nvenc,sample,67.0,87.0,"['Moderately Clear', 'No visible artifacts', 'High level of immersion', '']",0.06378999995231638
+amt_gaming_vqa_dataset/Faastpenguin_1_720p_2500k_h264nvenc,sample,83.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.066690000047684
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_10000k_hevcnvenc,sample,29.0,67.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.055990000000001316
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_10000k_hevcnvenc,sample,47.0,67.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.5461900000476838
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_6000k_hevcnvenc,sample,61.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.05908999990463393
+amt_gaming_vqa_dataset/Faastpenguin_1_2160p_6000k_hevcnvenc,sample,1.0,58.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.06239000009536788

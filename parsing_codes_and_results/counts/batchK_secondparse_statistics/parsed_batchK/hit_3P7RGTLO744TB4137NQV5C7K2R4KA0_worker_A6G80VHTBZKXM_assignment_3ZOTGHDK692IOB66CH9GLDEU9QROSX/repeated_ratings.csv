@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Godofwar_1_2160p_5000k_h264nvenc,sample,43.0,50.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09479000000074578
+amt_gaming_vqa_dataset/Godofwar_1_2160p_5000k_h264nvenc,sample,94.0,29.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.32539000000223517
+amt_gaming_vqa_dataset/Godofwar_1_720p_1000k_h264nvenc,sample,28.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08379000000074477
+amt_gaming_vqa_dataset/Godofwar_1_720p_1000k_h264nvenc,sample,97.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09289000000223524
+amt_gaming_vqa_dataset/MLBtheshow_2160p_5000k_h264nvenc,sample,38.0,51.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.5690900000014913
+amt_gaming_vqa_dataset/MLBtheshow_2160p_5000k_h264nvenc,sample,83.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.1024900000000013
+amt_gaming_vqa_dataset/MLBtheshow_480p_1000k_h264nvenc,sample,62.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07458999999776594
+amt_gaming_vqa_dataset/MLBtheshow_480p_1000k_h264nvenc,sample,9.0,28.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08508999999776456
+amt_gaming_vqa_dataset/MLBtheshow_1080p_800k_hevcnvenc,sample,56.0,7.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0788900000022359
+amt_gaming_vqa_dataset/MLBtheshow_1080p_800k_hevcnvenc,sample,2.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.2198900000022359
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00,sample,98.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.03589999999850946
+amt_gaming_vqa_dataset/AGXB0DUZ9rw_CallofDutyMobile_0-00,sample,64.0,60.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",3.5361000000014897

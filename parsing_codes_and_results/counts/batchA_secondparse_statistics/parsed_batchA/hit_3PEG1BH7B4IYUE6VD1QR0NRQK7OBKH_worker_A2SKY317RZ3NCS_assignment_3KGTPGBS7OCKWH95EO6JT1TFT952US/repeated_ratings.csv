@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Destiny2_2_1080p_1500k_av1,sample,13.0,23.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.07278999999702052
+amt_gaming_vqa_dataset/Destiny2_2_1080p_1500k_av1,sample,26.0,84.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08049000000000106
+amt_gaming_vqa_dataset/Destiny2_2_2160p_5000k_h264nvenc,sample,22.0,9.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.060089999994040966
+amt_gaming_vqa_dataset/Destiny2_2_2160p_5000k_h264nvenc,sample,40.0,0.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.05859000000894099
+amt_gaming_vqa_dataset/eFootball_1_2160p_6000k_hevcnvenc,sample,3.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10418999998807976
+amt_gaming_vqa_dataset/eFootball_1_2160p_6000k_hevcnvenc,sample,57.0,36.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.06828999999702035
+amt_gaming_vqa_dataset/CatQuest_720p_1300k_av1,sample,57.0,63.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06769000000298142
+amt_gaming_vqa_dataset/CatQuest_720p_1300k_av1,sample,39.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08589000000596059
+amt_gaming_vqa_dataset/CatQuest_480p_1000k_h264nvenc,sample,98.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.0809899999999999
+amt_gaming_vqa_dataset/CatQuest_480p_1000k_h264nvenc,sample,58.0,85.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.06668999998808012
+amt_gaming_vqa_dataset/CatQuest_480p_800k_hevcnvenc,sample,46.0,75.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05349000000000004
+amt_gaming_vqa_dataset/CatQuest_480p_800k_hevcnvenc,sample,58.0,74.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.07528999999702002

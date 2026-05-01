@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/skyrim_2,sample,21.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.144501
+amt_gaming_vqa_dataset/skyrim_2,sample,37.0,80.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",3.6133009999998134
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_1080p_500k_av1,sample,21.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10258999999962803
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_1080p_500k_av1,sample,82.0,39.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.08128999999981446
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_1080p_10000k_h264nvenc,sample,71.0,81.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05188999999990784
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_1080p_10000k_h264nvenc,sample,43.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.0401900000001874
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_1500k_hevcnvenc,sample,28.0,32.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.050389999999907786
+amt_gaming_vqa_dataset/Kenabridgeofspirits_2_2160p_1500k_hevcnvenc,sample,27.0,34.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0688899999999073
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_1500k_av1,sample,27.0,75.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.04999000000000109
+amt_gaming_vqa_dataset/Amerfightingopenbeta_1080p_1500k_av1,sample,67.0,77.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10908999999962887
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_8500k_h264nvenc,sample,68.0,44.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.04999000000000109
+amt_gaming_vqa_dataset/Amerfightingopenbeta_2160p_8500k_h264nvenc,sample,52.0,46.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.36219000000018653

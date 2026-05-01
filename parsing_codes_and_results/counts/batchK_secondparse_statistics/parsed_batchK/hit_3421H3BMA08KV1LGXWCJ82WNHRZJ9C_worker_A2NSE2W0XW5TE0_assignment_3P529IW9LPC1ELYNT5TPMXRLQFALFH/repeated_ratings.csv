@@ -1,0 +1,17 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21,sample,11.0,31.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",13.762699999999953
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21,sample,52.0,68.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07009999999985972
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21_1080p_500k_av1,sample,82.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.031000000000000583
+amt_gaming_vqa_dataset/d_cWoK8x_hs_DiabloIII_3-21_1080p_500k_av1,sample,86.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.034800000000046794
+amt_gaming_vqa_dataset/E585R3AqEp8_CallofDutyMobile_0-07_1080p_2300k_h264_nvenc,sample,7.0,63.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.8309999999999995
+amt_gaming_vqa_dataset/E585R3AqEp8_CallofDutyMobile_0-07_1080p_2300k_h264_nvenc,sample,36.0,73.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.2713000000000463
+amt_gaming_vqa_dataset/sq0GCRT4zLQ_TheWitcher3_3-06_720p_1000k_h264_nvenc,sample,70.0,19.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.02543300000004578
+amt_gaming_vqa_dataset/sq0GCRT4zLQ_TheWitcher3_3-06_720p_1000k_h264_nvenc,sample,56.0,21.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.004867000000000843
+amt_gaming_vqa_dataset/AfRkzHvr2c4_CitiesSkylines_16-00,sample,33.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.06199999999999939
+amt_gaming_vqa_dataset/AfRkzHvr2c4_CitiesSkylines_16-00,sample,95.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0026999999999528512
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_1000k_h264_nvenc,sample,67.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.013500000000000512
+amt_gaming_vqa_dataset/rGGoOgwzFKk_Cyberpunk2077_1-21_720p_1000k_h264_nvenc,sample,74.0,30.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.009999999999999787
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,99.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05909999999997595
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,69.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.09200000000000053
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,87.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10280000000004641
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,20.0,93.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.10070000000018631

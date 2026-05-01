@@ -1,0 +1,15 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13,sample,82.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.007799999952316838
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13,sample,12.0,47.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0457000000476846
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_800k_hevc_nvenc,sample,25.0,76.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.014199999809264341
+amt_gaming_vqa_dataset/1S94Knu48cs_TheSims3_0-13_480p_800k_hevc_nvenc,sample,82.0,66.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.003600000143050508
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30_1080p_5300k_h264_nvenc,sample,26.0,65.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",-0.014200000047683403
+amt_gaming_vqa_dataset/BEUBudlOBxk_WarRobots_0-30_1080p_5300k_h264_nvenc,sample,97.0,21.0,"['Minimally Clear', 'No visible artifacts', 'Low level of immersion', '']",0.01660000014305041
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32_1080p_800k_hevc_nvenc,sample,50.0,62.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.021799999952316185
+amt_gaming_vqa_dataset/AHfpD-ivnOU_GarrysMod_8-32_1080p_800k_hevc_nvenc,sample,17.0,78.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",-0.00020000004768405688
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_5300k_h264_nvenc,sample,37.0,64.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.021800000190735247
+amt_gaming_vqa_dataset/o4LiptZoaNQ_WorldofTanks_0-06_1080p_5300k_h264_nvenc,sample,57.0,72.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.04279999995231698
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,93.0,86.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.22309999990463325
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,91.0,79.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.2332000000476846
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,89.0,83.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.08170000004768418
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,97.0,83.0,"['Highly Clear', 'Severe Artifacts Present', 'High level of immersion', '']",0.13220000004768373

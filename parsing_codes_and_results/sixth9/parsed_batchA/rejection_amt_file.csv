@@ -1,0 +1,11 @@
+AssignmentId,HITId,WorkerId,Sample_Row_Name,Sample_Row_Index,Approve,Reject
+32N49TQG4799EZT9WT93V5EWM4HVAV,3WGCNLZJL5ZP3AITJNBFQYJREZBD1O,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+3YWRV122DJQVIWBUU5FK3S6II918U8,3WGCNLZJL5ZP3AITJNBFQYJREZBD1O,ACBK30I7R42NI,row_0,0,,"Used phone or tablet | Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3X1FV8S5KOIAOQ6CIT1DRRPZKZ1VGE,311HQEI8SI76HX2R0LHLI0T753L7ZE,A2NS2P9XSYBWR2,row_0,0,,"Too many unset video ratings, this could be due to not using latest version of the browser or not using the correct browser. Please use latest version of Chrome browser."
+3BWI6RSP870ATM9PU089LAOKL1KE7T,3I01FDIL7CZWSV0P2RBTVHTW65PD25,A2IN5WQVM31V4D,row_0,0,,The scores for golden videos are not consistent with the true scores.
+30IQTZXKBBX5HB0M46DSUKZ4TT0X0W,32PT7WK7EC6LDDW86RPYERYOCJPD3G,ACBK30I7R42NI,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3C2NJ6JBL1871RPWHNUXF61LODF2N6,32PT7WK7EC6LDDW86RPYERYOCJPD3G,A24MYCKZ4F1RHO,row_0,0,,"The scores for golden videos are not consistent with the true scores. | Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"
+36PW28KO5QNSCO7N13KTV1QAMBBAE5,32PT7WK7EC6LDDW86RPYERYOCJPD3G,A385BM7R0Z59IN,row_0,0,,"Too many videos rated with same pattern: Clarity=Minimally Clear, Artifacts=Severe Artifacts Present, Immersion=Low level of immersion"
+3URFVVM17W9A2SCH3VFXGC3MHI0UZR,3RHLQY6EEJV6V9FC65UHOWQUQJLD41,A2MJMYMAZTL46O,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+3ZAK8W07JV5D076RZ125AD00ZBWU0E,3RHLQY6EEJV6V9FC65UHOWQUQJLD41,A8FDO3RM1NQLE,row_0,0,,"Too many videos rated with same pattern: Clarity=Moderately Clear, Artifacts=Minor Artifacts Present, Immersion=Moderate level of immersion"
+37WLF8U1XGHUBMNU7CEKDR1TANWK6K,3RHLQY6EEJV6V9FC65UHOWQUQJLD41,AFT6VDMD6VGDG,row_0,0,,"Too many videos rated with same pattern: Clarity=Highly Clear, Artifacts=No visible artifacts, Immersion=High level of immersion"

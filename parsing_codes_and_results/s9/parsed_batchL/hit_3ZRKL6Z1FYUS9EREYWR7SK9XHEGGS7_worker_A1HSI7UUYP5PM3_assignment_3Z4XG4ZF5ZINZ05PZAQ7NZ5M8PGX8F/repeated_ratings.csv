@@ -1,0 +1,20 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43,sample,35.0,59.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.08760000002384238
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43,sample,32.0,59.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.09440000000595994
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_1500k_av1,sample,65.0,77.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.014199999988079526
+amt_gaming_vqa_dataset/3HD4w_NvDJo_WorldofTanks_0-43_1080p_1500k_av1,sample,56.0,77.0,"['Highly Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.0003000000119204316
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,65.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.003057000011921218
+amt_gaming_vqa_dataset/5Yw6OFzGVnY_TheWitcher3_19-03,sample,24.0,41.0,"['Minimally Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-0.022942999988078583
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,46.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.005099999994039095
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,71.0,73.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.00169999998807846
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,5.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-0.010999999999999233
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,8.0,13.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0024999999999995026
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,25.0,27.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",0.0030999999940402034
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,64.0,56.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.1459000000059607
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,14.0,17.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0012999999821179387
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,84.0,86.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.002000000000000668
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,47.0,48.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.0006999999880790142
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,43.0,50.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",-0.0004000000059605213
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,74.0,69.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.0023000000119210995
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,20.0,30.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",-0.016300000011920446
+Amer_fighting_open_beta_1920p_30fps_3000k_Q3,backup,30.0,22.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.0019000000059605782

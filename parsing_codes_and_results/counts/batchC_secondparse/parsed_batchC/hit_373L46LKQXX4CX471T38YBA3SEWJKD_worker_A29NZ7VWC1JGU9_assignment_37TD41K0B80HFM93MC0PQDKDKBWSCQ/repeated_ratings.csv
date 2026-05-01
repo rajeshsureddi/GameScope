@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/CatQuestII_1080p_1500k_av1,sample,55.0,70.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-1.6940099999999987
+amt_gaming_vqa_dataset/CatQuestII_1080p_1500k_av1,sample,94.0,91.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",4.408590000143052
+amt_gaming_vqa_dataset/CatQuestII_2160p_1000k_av1,sample,23.0,64.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",8.876390000095368
+amt_gaming_vqa_dataset/CatQuestII_2160p_1000k_av1,sample,2.0,29.0,"['Minimally Clear', 'Minor Artifacts Present', 'Low level of immersion', '']",10.35139000009537
+amt_gaming_vqa_dataset/CatQuestII_1080p_5300k_h264nvenc,sample,13.0,61.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",1.173490000000001
+amt_gaming_vqa_dataset/CatQuestII_1080p_5300k_h264nvenc,sample,65.0,72.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.22719000004768475
+amt_gaming_vqa_dataset/CatQuestII_720p_2500k_h264nvenc,sample,32.0,67.0,"['Highly Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.31588999985694954
+amt_gaming_vqa_dataset/CatQuestII_720p_2500k_h264nvenc,sample,68.0,77.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",2.115089999904633
+amt_gaming_vqa_dataset/Fallout4_1_720p_5000k_h264nvenc,sample,97.0,83.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.18028999995231665
+amt_gaming_vqa_dataset/Fallout4_1_720p_5000k_h264nvenc,sample,72.0,82.0,"['Moderately Clear', 'No visible artifacts', 'Moderate level of immersion', '']",0.1206899998092652
+amt_gaming_vqa_dataset/Fallout4_1_1080p_800k_hevcnvenc,sample,29.0,69.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.044289999952317416
+amt_gaming_vqa_dataset/Fallout4_1_1080p_800k_hevcnvenc,sample,94.0,80.0,"['Highly Clear', 'Minor Artifacts Present', 'High level of immersion', '']",0.050489999999999924

@@ -1,0 +1,13 @@
+video_name,category,init_val,final_val,attributes,delay
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_1500k_hevcnvenc,sample,29.0,37.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.048890000005961554
+amt_gaming_vqa_dataset/Kenabridgeofspirits_1_2160p_1500k_hevcnvenc,sample,4.0,26.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.13318999998807968
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_8500k_h264nvenc,sample,38.0,12.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.10278999999701988
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_8500k_h264nvenc,sample,40.0,27.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.11569000000298146
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_5000k_h264nvenc,sample,88.0,71.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.050690000002980184
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_5000k_h264nvenc,sample,87.0,71.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",0.07778999999701952
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_10000k_hevcnvenc,sample,68.0,88.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.05228999999702033
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_10000k_hevcnvenc,sample,94.0,92.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",-0.65730999999702
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_1500k_hevcnvenc,sample,21.0,16.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",-2.1955099999999996
+amt_gaming_vqa_dataset/ZenlessZoneZero_2160p_1500k_hevcnvenc,sample,62.0,3.0,"['Minimally Clear', 'Severe Artifacts Present', 'Low level of immersion', '']",0.09799000000000113
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_3500k_hevcnvenc,sample,29.0,55.0,"['Moderately Clear', 'Minor Artifacts Present', 'Moderate level of immersion', '']",-6.864309999997019
+amt_gaming_vqa_dataset/ZenlessZoneZero_720p_3500k_hevcnvenc,sample,76.0,90.0,"['Highly Clear', 'No visible artifacts', 'High level of immersion', '']",0.08159000000894068

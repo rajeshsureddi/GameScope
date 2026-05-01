@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return `
             <div class="video-card">
                 <div class="video-player-wrapper">
-                    <video controls preload="metadata">
+                    <video controls preload="metadata" muted>
                         <source src="${v.relative_path}" type="video/mp4">
                     </video>
                 </div>

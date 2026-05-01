@@ -12,46 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
     let filters = { platform: 'all', clarity: 'all', artifacts: 'all' };
 
     const metadataImagePaths = [
-        'images/good_results_visualizations/clips_count/gamingVQA_combined_ugc_ps5_game_clip_counts_by_resolution.png',
-        'images/good_results_visualizations/clips_count/gamingVQA_game_clip_counts_by_resolution.png',
-        'images/good_results_visualizations/clips_count/gamingVQA_PS5_game_clip_counts_by_resolution.png',
-        'images/good_results_visualizations/clips_count/GamingVQA_orientation_distribution.png',
-        'images/good_results_visualizations/clips_count/GamingVQA_PS5_orientation_distribution.png',
-        'images/good_results_visualizations/clips_count/GamingVQA_PS5_resolution_distribution.png',
-        'images/good_results_visualizations/clips_count/GamingVQA_resolution_distribution.png',
-        'images/good_results_visualizations/clips_count/overall_orientation_distribution_bar.png',
-        'images/good_results_visualizations/clips_count/overall_resolution_distribution_bar.png',
-        'images/good_results_visualizations/clips_count/ps5_orientation_distribution_bar.png',
-        'images/good_results_visualizations/clips_count/ps5_resolution_distribution_bar.png',
-        'images/good_results_visualizations/score_distribution_overall.png',
-        'images/good_results_visualizations/score_distribution_PS5_train_vs_test.png',
-        'images/good_results_visualizations/score_distribution_test_only.png',
-        'images/good_results_visualizations/score_distribution_test_UGC_vs_PS5.png',
-        'images/good_results_visualizations/score_distribution_train_only.png',
-        'images/good_results_visualizations/score_distribution_train_test_combined_vertical.png',
-        'images/good_results_visualizations/score_distribution_train_UGC_vs_PS5.png',
-        'images/good_results_visualizations/score_distribution_train_vs_test.png',
-        'images/good_results_visualizations/score_distribution_UGC_train_vs_test.png'
+        'images/good_results_visualizations/score_distribution_train_vs_test.png'
     ];
 
-    const metadataOtherFiles = [
-        'images/good_results_visualizations/gaming_vqa_train_conversations.json',
-        'images/good_results_visualizations/gaming_vqa_test_conversations.json',
-        'images/good_results_visualizations/train_GamingVQA.csv',
-        'images/good_results_visualizations/test_GamingVQA.csv',
-        'images/good_results_visualizations/score_distribution_overall.pdf',
-        'images/good_results_visualizations/score_distribution_PS5_train_vs_test.pdf',
-        'images/good_results_visualizations/score_distribution_test_only.pdf',
-        'images/good_results_visualizations/score_distribution_test_UGC_vs_PS5.pdf',
-        'images/good_results_visualizations/score_distribution_train_only.pdf',
-        'images/good_results_visualizations/score_distribution_train_test_combined_vertical.pdf',
-        'images/good_results_visualizations/score_distribution_train_UGC_vs_PS5.pdf',
-        'images/good_results_visualizations/score_distribution_train_vs_test.pdf',
-        'images/good_results_visualizations/score_distribution_UGC_train_vs_test.pdf',
-        'images/good_results_visualizations/clips_count/gamingVQA_combined_ugc_ps5_game_clip_counts_by_resolution.pdf',
-        'images/good_results_visualizations/clips_count/gamingVQA_game_clip_counts_by_resolution.pdf',
-        'images/good_results_visualizations/clips_count/gamingVQA_PS5_game_clip_counts_by_resolution.pdf'
-    ];
+    const metadataOtherFiles = [];
 
     // Fetch Data
     fetch('data.json')

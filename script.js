@@ -13,8 +13,14 @@ document.addEventListener('DOMContentLoaded', () => {
     let filters = { platform: 'all', clarity: 'all', artifacts: 'all', immersion: 'all' };
 
     const metadataImagePaths = [
-        'images/good_results_visualizations/score_distribution_overall.png',
-        'images/good_results_visualizations/score_distribution_train_vs_test.png'
+        {
+            path: 'images/good_results_visualizations/score_distribution_overall.png',
+            caption: 'Figure 1: Overall MOS score distribution across all 4,048 GamingVQA clips, showing the frequency of perceptual quality ratings from crowdsourced subjective evaluations.'
+        },
+        {
+            path: 'images/good_results_visualizations/score_distribution_train_vs_test.png',
+            caption: 'Figure 2: MOS score distributions for the GamingVQA training and test splits, demonstrating balanced quality coverage across both subsets.'
+        }
     ];
 
     const metadataOtherFiles = [];
@@ -145,18 +151,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderMetadataVisualizations() {
         if (metadataVisualizationGrid) {
-            metadataVisualizationGrid.innerHTML = metadataImagePaths.map(path => {
-                const fileName = path.split('/').pop();
-                const folder = path.includes('/clips_count/') ? 'clips_count' : 'score_distributions';
+            metadataVisualizationGrid.innerHTML = metadataImagePaths.map(({ path, caption }) => {
+                const figLabel = caption.match(/^(Figure \d+)/)[1];
                 return `
                     <article class="viz-card">
                         <a href="${path}" target="_blank" rel="noopener">
-                            <img src="${path}" alt="${fileName}" loading="lazy">
-                            <div class="viz-card-body">
-                                <h3 class="viz-card-title">${fileName}</h3>
-                                <p class="viz-card-meta">${folder}</p>
-                            </div>
+                            <img src="${path}" alt="${figLabel}" loading="lazy">
                         </a>
+                        <div class="viz-card-body">
+                            <p class="viz-card-caption">${caption}</p>
+                        </div>
                     </article>
                 `;
             }).join('');

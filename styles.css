@@ -272,27 +272,25 @@ body {
 
 .viz-card img {
     width: 100%;
-    height: 220px;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
     display: block;
-    background: #000;
+    background: #fff;
 }
 
 .viz-card-body {
-    padding: 0.9rem 1rem 1rem;
+    padding: 0.75rem 1rem 1rem;
 }
 
-.viz-card-title {
-    font-size: 0.9rem;
+.viz-card-caption {
+    font-size: 0.85rem;
     color: var(--color-text-primary);
-    word-break: break-word;
+    line-height: 1.5;
 }
 
-.viz-card-meta {
-    margin-top: 0.35rem;
-    font-family: var(--font-mono);
-    font-size: 0.75rem;
-    color: var(--color-text-dim);
+.viz-card-caption strong,
+.viz-card-caption::first-line {
+    font-weight: 600;
 }
 
 .metadata-file-links {

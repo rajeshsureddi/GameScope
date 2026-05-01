@@ -46,9 +46,31 @@ By default this writes `sandbox_rendered.htm` in the repo root (override with `-
 
 ## 3) Validate
 
-- Use `debug.html` and the rendered `*_rendered.htm` in a browser before publishing.
-- Prefer MTurk **Sandbox** for end-to-end checks.
+- Use `debug.html` and the rendered `*_rendered.htm` in a browser before launching.
+- Prefer MTurk **Sandbox** for end-to-end checks before going to production.
 
-## Naming note
+## 4) Upload videos to S3 (Sandbox)
 
-Directories and scripts no longer include the `rajesh_` prefix; paths inside this branch are rooted at `./` wherever the legacy tree pointed at this template folder.
+All video URLs referenced in the HIT must be publicly accessible before MTurk workers can view them. Upload them to an S3 bucket with public-read ACL:
+
+```bash
+aws s3 cp videos/ s3://your-bucket/gamingvqa/ --recursive --acl public-read
+```
+
+Verify each URL is reachable in a browser (`https://your-bucket.s3.amazonaws.com/gamingvqa/filename.mp4`) before proceeding.
+
+## 5) Publish on MTurk Requester
+
+1. Go to [MTurk Requester Sandbox](https://requestersandbox.mturk.com) (or [production](https://requester.mturk.com) when ready).
+2. Click **Create > New Project > Survey Link** (or use the rendered `.htm` directly via **New Project > Other**).
+3. Paste the contents of `sandbox_rendered.htm` into the **Design Layout** editor, or upload it.
+4. Under **Publish Batch**, upload one of the `batch_*.csv` files generated in step 1.  
+   Each row in the CSV becomes one HIT assignment.
+5. Set reward, max assignments per HIT, and time limit, then click **Publish**.
+
+## 6) Preview as a Worker
+
+1. Go to [MTurk Worker Sandbox](https://workersandbox.mturk.com) and sign in with a **separate** worker account (not the requester account).
+2. Search for your HIT by title or requester name.
+3. Accept and complete one HIT end-to-end to confirm video playback, slider interaction, and submission work correctly.
+4. Check the Requester dashboard to verify the submitted answers appear under **Manage > Results**.
